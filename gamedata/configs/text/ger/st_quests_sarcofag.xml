@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="sar_monolith">
+		<text>Ruf aus dem Norden</text>
+	</string>
+	<string id="sar_monolith_0">
+		<text>Sprich mit dem Wunschgonner.</text>
+	</string>
+	<string id="sar_monolith_1">
+		<text>Eine Stimme aus dem Norden hat mich gerufen. Ich sollte dorthin gehen und die Quelle finden.</text>
+	</string>
+	<string id="sar_monolith_2">
+		<text>Die Stimme, die mich rief muss der Wunschgonner gewesen sein. Ich sollte in der Lage sein es irgendwo im Sacrophagus zu finden.</text>
+	</string>
+	<string id="sar_monolith_destroy">
+		<text>Ein Betongrab</text>
+	</string>
+	<string id="sar_monolith_destroy_0">
+		<text>Finde die versteckte Manuskriptbasis, die im Manuskript erwahnt wird und sieh was sie verbirgt.</text>
+	</string>
+	<string id="sar_monolith_destroy_1">
+		<text>Zerstore den Wunschgonner: Besiege alle 10 Wellen von Projektionen, die vom Wunschgonner beschworen wurden.</text>
+	</string>
+    <string id="sar_monolith_destroy_2">
+        <text>Deaktiviere die C-Consciousness Netzteilgeneratoren der Pods.</text>
+    </string>
+	    <string id="sar_monolith_destroy_3">
+        <text>Schalte die Generatoren aus.</text>
+    </string>
+</string_table>

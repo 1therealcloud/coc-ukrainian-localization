@@ -1,0 +1,1292 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+<!-- GENERAL -->
+	<string id="dm_universal_actor_start">
+		<text>Ich will dich etwas fragen.</text>
+	</string>
+	<string id="dm_universal_actor_exit">
+		<text>Vergiss es.</text>
+	</string>
+	<string id="dm_universal_actor_agree">
+		<text>Okay.</text>
+	</string>
+	<string id="dm_universal_actor_exit_thanks">
+		<text>Danke.</text>
+	</string>
+	<string id="dm_universal_npc_start_1">
+		<text>Ja?</text>
+	</string>
+	<string id="dm_universal_npc_start_2">
+		<text>Sicher.</text>
+	</string>
+	<string id="dm_universal_npc_start_3">
+		<text>Los.</text>
+	</string>
+	<string id="dm_universal_npc_start_4">
+		<text>Ja?</text>
+	</string>
+	<string id="dm_no_more_1">
+		<text>Ich sagte es dir schon.</text>
+	</string>
+	<string id="dm_no_more_2">
+		<text>I weiss nichts mehr.</text>
+	</string>
+	<string id="dm_no_more_3">
+		<text>Das ist alles was ich weiss. Frag jemanden anders.</text>
+	</string>
+	<string id="dm_no_more_4">
+		<text>Gott verdammt, Mann. Hast du ein Stander wegen mir? Frag jemand anderen.</text>
+	</string>
+	<string id="dm_no_more_5">
+		<text>Es gibt nichts mehr, was ich dir sagen konnte Kumpel.</text>
+	</string>
+	<string id="dm_no_more_6">
+		<text>Du kannst mich ruhig immer und immer wieder den selben Scheiss fragen, aber mehr habe ich nicht zu sagen.</text>
+	</string>
+	<string id="dm_no_more_7">
+		<text>Lass das Thema fallen, Alter.</text>
+	</string>
+	<string id="dm_no_more_8">
+		<text>Ein andermal, Mann.</text>
+	</string>
+	<string id="dm_no_more_9">
+		<text>Komm spater vorbei und vielleicht kann ich dir mehr erzahlen.</text>
+	</string>
+	<string id="dm_no_more_10">
+		<text>Ah, ich komme nicht viel tiefer, hast du noch andere Fragen?</text>
+	</string>
+	<string id="dm_do_not_know_1">
+		<text>Bro, wenn ich alle Antworten hatte, ware ich nicht in diesem Scheissdump.</text>
+	</string>
+	<string id="dm_do_not_know_2">
+		<text>Gute Frage. Wenn du es herausfindest, dann teile diese Informationen mit mir.</text>
+	</string>
+	<string id="dm_do_not_know_3">
+		<text>Du bringst mich auf die Stelle, Mann. Ich wei? es nicht.</text>
+	</string>
+	<string id="dm_do_not_know_4">
+		<text>Hol mich die Zone wenn ich mehr weiss, Mann.</text>
+	</string>
+	<string id="dm_do_not_know_5">
+		<text>In der Zone ist immer etwas los, aber ich mochte nichts mit dir teilen.</text>
+	</string>
+	<string id="dm_do_not_know_6">
+		<text>Ich habe dir nichts zu sagen, Mann. Keiner erzahlt mir irgendwas.</text>
+	</string>
+	<string id="dm_do_not_know_7">
+		<text>Du fragst den falschen, Kumpel.</text>
+	</string>
+	<string id="dm_do_not_know_8">
+		<text>Hm... Das wusste ich auch gerne.</text>
+	</string>
+	<string id="dm_do_not_know_9">
+		<text>Tut mir leid, ich kann dir nicht helfen.</text>
+	</string>
+	<string id="dm_do_not_know_10">
+		<text>Verzieh dich einfach.</text>
+	</string>
+<!-- HELLO -->
+	<string id="dm_hello_general_1">
+		<text>Wie gehts?</text>
+	</string>
+	<string id="dm_hello_general_2">
+		<text>Hey, Mann. Was geht?</text>
+	</string>
+	<string id="dm_hello_general_3">
+		<text>Hey Bruder, wie geht es dir?</text>
+	</string>
+	<string id="dm_hello_1">
+		<text>Hallo, Bruder.</text>
+	</string>
+	<string id="dm_hello_2">
+		<text>Grusse, Stalker.</text>
+	</string>
+	<string id="dm_hello_3">
+		<text>Mir geht es gut, und du?</text>
+	</string>
+	<string id="dm_hello_4">
+		<text>Hallo.</text>
+	</string>
+	<string id="dm_hello_5">
+		<text>Was geht?</text>
+	</string>
+	<string id="dm_hello_6">
+		<text>Was willst du?</text>
+	</string>
+	<string id="dm_hello_7">
+		<text>Soweit sogut. Du?</text>
+	</string>
+	<string id="dm_hello_8">
+		<text>Schon bessere Tage, was brauchst du??</text>
+	</string>
+	<string id="dm_hello_9">
+		<text>Guten Tag!</text>
+	</string>
+	<string id="dm_hello_10">
+		<text>Ja, was ist denn?</text>
+	</string>
+	<string id="dm_hello_11">
+		<text>Verpiss dich, Stalker.</text>
+	</string>
+	<string id="dm_hello_12">
+		<text>Was willst du?</text>
+	</string>
+	<string id="dm_hello_13">
+		<text>Okay, nur eine verdammte Frage, aber alles, was ich besser sehen kann, sind Esel und Ellenbogen.</text>
+	</string>
+	<string id="dm_hello_14">
+		<text>Was brauchst du Stalker?</text>
+	</string>
+<!-- HELP -->
+	<string id="dm_help_1">
+		<text>Hilfe! Bitte... Ich... Ich sterbe...</text>
+	</string>
+	<string id="dm_help_2">
+		<text>Hilf mir Bruder... Oh... Gott, es tut sau weh!</text>
+	</string>
+	<string id="dm_help_3">
+		<text>Freund, Medikit... Gib mir ein Medkit...</text>
+	</string>
+	<string id="dm_help_4">
+		<text>Bro... Bro, rette mich!</text>
+	</string>
+	<string id="dm_help_5">
+		<text>Freund, der Erste Hilfe Kasten... Der Kasten verdammt!</text>
+	</string>
+	<string id="dm_help_6">
+		<text>Stalker, hilf mir... Gib mir ein Medikit...</text>
+	</string>
+	<string id="dm_help_7">
+		<text>Ich bin verletzt... Hilfe!</text>
+	</string>
+	<string id="dm_help_8">
+		<text>Scheiss auf diesen Ort!</text>
+	</string>
+	<string id="dm_help_9">
+		<text>Medkit! Ich brauche... Ein Medikit!</text>
+	</string>
+	<string id="dm_help_10">
+		<text>Hilfe, Mann!</text>
+	</string>
+	<string id="dm_help_11">
+		<text>Medkit! Schnell!</text>
+	</string>
+	<string id="dm_help_12">
+		<text>Hilfe! Ich... Ich sterbe!</text>
+	</string>
+	<string id="dm_help_13">
+		<text>Ich brauche Erste Hilfe... Leute! Beeilt euch!</text>
+	</string>
+	<string id="dm_help_14">
+		<text>Ich brauche ein Medikit! Hilf mir, Bruder!</text>
+	</string>
+	<string id="dm_help_15">
+		<text>Hilf mir, Bruder! Ich bin am verrecken!</text>
+	</string>
+	<string id="dm_help_16">
+		<text>Hey, Bruder! Teilst du dein Medikit mit mir?</text>
+	</string>
+	<string id="dm_help_17">
+		<text>Verdammt! Lass mich hier bitte nicht alleine zuruck, Mann!</text>
+	</string>
+<!-- ANOMALIES -->
+	<string id="dm_anomalies_general_1">
+		<text>Was weisst du uber Artefakten und Anomalien?</text>
+	</string>
+	<string id="dm_anomalies_general_2">
+		<text>Weisst du irgendetwas uber Anomalien und Artefakte?</text>
+	</string>
+	<string id="dm_anomalies_general_3">
+		<text>Was kannst du mir uber Artefakte und Anomalien erzahlen?</text>
+	</string>
+	<string id="dm_anomalies_0">
+		<text>Ich fuhle mich nicht wohl, dir etwas zu sagen.</text>
+	</string>
+	<string id="dm_anomalies_1">
+		<text>Nun, die Burneranomalie kann etwas schwierig zu erkennen sein, selbst bei Tageslicht kann man nur einen schwachen Schleier sehen. Wenn du einer deiner Bolzen drauf wirfst, wird es eine gro?e Flammensaule in der Luft schiessen, also stehe der Anomalie nicht zu nahe.</text>
+	</string>
+	<string id="dm_anomalies_2">
+		<text>Kometenanomalien sind sehr ahnlich wie der Brenner. beide Feuer-y, nur das er ein grosser schwebender Flammenball ist, der uberall herumfliegt, wo du ihn nur finden kannst. Es ist am besten, wenn du dich in der Nahe dieser Dinge duckst und herumspringst, sonst wirst du deinen Arsch abbrennen lassen.</text>
+	</string>
+	<string id="dm_anomalies_3">
+		<text>Vortex's ist ein schwebendes Ding, dass alles in seiner Nahe ziehen und anfangen wird es herum zu drehen. Wenn du dich darin verfingst, wirst du uberall verspritzt.</text>
+	</string>
+	<string id="dm_anomalies_4">
+		<text>Springboards sind diese schwebenden Schwerkraftkugeln, aber solltest du in Beruhrung mit diesen Dingern kommen, wird es dir direkt in die Augen fliegen. Du wirst sie uberall finden und du wirst sie wahrscheinlich vor dir summen horen, bevor du sie siehst.</text>
+	</string>
+	<string id="dm_anomalies_5">
+		<text>Halte nach Whirligs, Dreck und Blattern Ausschau, weil dann ist es ein ziemlich gutes Zeichen, dass es einen in der Nahe gibt. Ich habe gesehen, wie ein Flesh in das Kordon gezogen wurde, als ich dort war, und ich fing an, mich herumzudrehen, bis es sich von der Kraft trennte.</text>
+	</string>
+	<string id="dm_anomalies_6">
+		<text>Der Fruit Punch ist eine leuchtende Pfutze aus gruner Scheisse auf dem Boden, die dich anspucken und anspucken wird. Du konntest in der Lage sein, ein gutes Artefakt daraus zu bekommen, wenn du mutig genug bist, daneben zu stehen. Aber es wird dein Gesicht schmelzen, wenn du ein wenig zu bequem bist.</text>
+	</string>
+	<string id="dm_anomalies_7">
+		<text>Verbrannte Fuzz Anomalien sind in der Regel im Freien zu finden. Sie sehen aus wie Moos oder Ranken und hangen wie Vorhange. Das Ding Schiesst diese Sporen in dein Gesicht wenn du hochlaufst und es beruhrst. Es ist eine Art Abwehrmechanismus.</text>
+	</string>
+	<string id="dm_anomalies_8">
+		<text>Achte auf grune Gasanomalien, die auf dem Boden schweben und wandern. Es ist sauer und wenn du am Ende in den Kram schlupfst, wird es versuchen, deine Beine weg zu essen.</text>
+	</string>
+	<string id="dm_anomalies_9">
+		<text>Halte deine Augen nach Gas Wolk-Anomalien offen. Wenn du einen fliegenden Saureball siehst der herumfliegt, dann geh rundherum oder unten durch das Ding, sonst endest du als dieser Flesh Mutant.</text>
+	</string>
+	<string id="dm_anomalies_10">
+		<text>Hast du jemals diese riesigen elektrischen Pfutzen auf dem Boden gesehen? Electros nennen die Wissenschaftler sie. Die meisten von ihnen werden sich bewegen, wenn etwas vorbeikommt und sich vorstellt aber die Halfte der Zeit schwore ich, dass sie nur am explodieren sind, selbst wenn nichts da ist. Einige von ihnen scheinen auch fur ein paar Sekunden zu verschwinden. Wenn du es richtig dosieren kannst, dann wirst du ohne Probleme an ihnen vorbei gehen konnen.</text>
+	</string>
+	<string id="dm_anomalies_11">
+		<text>Vor ein paar Tagen bin ich auf diesen schwebenden Stromball gestossen. Ich glaube, die Eierkopfe haben sie nach dem Elektrizitats-Typ benannt. Tesla oder wie er auch hiess. Jedenfalls war ich in diesem Flur und es ging auf und ab - nein - es flog auf und ab. Musste es mal richtig machen und Stuck fur Stuck durch den Raum gehen, sich hinter alter Dschunke verstecken und so die ganze Zeit weitermachen.</text>
+	</string>
+	<string id="dm_anomalies_12">
+		<text>Wusstest du, dass der Forester im Roten Wald sagt, dass er in einer dieser Raumanomalien stecken geblieben ist? Er sagte, es sei wie ein offenes Grasfeld. Endlos, und ohne Ausweg. Das war, bis er ein Kompass-Artefakt fand, das ihm den Ausgang zeigte, genau wie es in den Geruchten hies. Er sagt, dass er kurz darauf von einer Bande von Banditen uberfallen und verloren wurde, aber personlich denke ich, dass das alte Biest gerade senil wird.</text>
+	</string>
+	<string id="dm_anomalies_13">
+		<text>Vor ein paar Jahren ging Clear Sky nach einem Stalker, der auf das Kraftwerk zusteuerte. Wir wissen doch alle, wie das endete. Aber da war dieser eine Soldner mit ihnen. Sein Name war Narbe. Die wenigen Leute, die das Durcheinander uberlebt haben, sagen, dass diese Anomalien uberall auftauchten. Dass er sich naher an den Kerl teleportieren konnte und wie die Zone ihm half. Eigenartiger Scheiss, wenn du mich fragst. Fast schon gruselig...</text>
+	</string>
+	<string id="dm_anomalies_14">
+		<text>Hast du jemals gezackte Felsen gesehen, die in der Nahe mit einem Haufen verzogener Baume aus dem Boden ragten? Ich auch nicht. Aber ich habe gehort, dass es so etwas im Roten Wald gibt. Anscheinend sind diese Symbiont-Anomalien ziemlich gut fur Artefakte. Man kann alle moglichen Dinge aus ihnen herausholen.</text>
+	</string>
+	<string id="dm_anomalies_15">
+		<text>Okologen kratzen sich uber diese Fehleranomalien. Sie sind diese Risse und riesige Bruche im Boden. Normalerweise haben sie eine ganze Reihe von Kometen und anderen Anomalien darunter. Sie haben keine Ahnung, ob sie nur Anomaliefelder sind oder ob da mehr dahinter steckt. Wann hast du das letzte Mal von einem Erdbeben in diesem Teil der Welt gehort?</text>
+	</string>
+	<string id="dm_anomalies_16">
+		<text>Du musst nicht immer durch Anomalien kriechen, um Artefakte zu finden. Jemand erzahlte mir eine Geschichte, wie er ein Artefakt auf freiem Feld gefunden hat. Der Detektor eines Stalker fangt an, verruckt zu werden, also stellt er fest, dass er einen kaputten Kondensator hat. Er ersetzt es und es fangt wieder an zu arbeiten. Und sieh mal einer an, ein Artefakt fallt ihm praktisch in die Hande.</text>
+	</string>
+	<string id="dm_anomalies_17">
+		<text>Achte auf Whirligig- und Vortex-Anomalien, Mann. Absolut gefahrlich. Selbst fur einen erfahrenen Stalker. Es wird dich schnappen und dich heftig wie eine Stoffpuppe schutteln. Einmal sah ich einen Kerl in dem gefangen. Ich dachte, ich wurde mir ein neues Paar Stiefel besorgen, aber dieser Trottel rannte so schnell er konnte. Ich konnte diesen Scheiss einfach nicht glauben. Er tauchte genau dort raus, bevor er zerfetzt wurde.</text>
+	</string>
+	<string id="dm_anomalies_18">
+		<text>Schon mal von einem Gravi gehort? Sieht nach etwas aus, was ein Pseudodog rausgeschissen hatte, aber es ist metallisch. Wissenschaftler sind bereit, gut fur diese Dinge zu bezahlen. Ich wurde aber nicht einmal einen halben Fuss da rein setzen. Jeder, der einen beruhrt, wird einen Monat lang leuchten. Es gibt ahnliche Artefakte, die Goldfische genannt werden. Ich bin mir sicher du weisst wie es aussieht. Es ist sogar noch seltener. Behalte es fur dich, wenn du eines findest.</text>
+	</string>
+	<string id="dm_anomalies_19">
+		<text>Das erste, dass du versuchen solltest, ist eine Medusa. Je mehr Strahlung ein Artefakt absorbiert, dass du bekommen kannst, wie zum Beispiel ein Wrenched oder eine Bubble, desto sicherer wirst du sein. Ich habe schon zu viele Stalker gesehen, die langsam an der Strahlung starben, ohne einen Sanitater zu erreichen oder sogar zu arm waren, um ein Anti-Rad zu kaufen.</text>
+	</string>
+	<string id="dm_anomalies_20">
+		<text>Ich kann nicht herausfinden, was die Wissenschaftler aus den Artefakten machen, die sie aus der Zone kaufen. Alles, was ich weiss, ist Geld, denn das scheint grenzenlos zu sein. Und egal, ob die Sache positiv ist oder nicht, je starker ein Artefakt ist, desto mehr zahlen sie.</text>
+	</string>
+	<string id="dm_anomalies_21">
+		<text>Hast du jemals von dem Glass gehort? Es sieht aus wie eine schmutzige und doch glanzende Glaskugel. Mann, dieses Ding kann deine schlimmsten und gefahrlichsten Wunden aufhoren lassen zu bluten, wenn du etwas hast um die Strahlung zu lindern. Verkaufe es nicht, wenn du eines findest.</text>
+	</string>
+	<string id="dm_anomalies_22">
+		<text>Ich habe mehrmals von etwas gehort, das man den Kompass nennt. Es scheint, dass dieses Artefakt fast perfekt ware, abgesehen von der Strahlung die es aussendet. Es wurde gemunkelt, dass es vor vielen der Risiken der Zone schutzt. Noch mehr aber; es scheint, dass der Trager naturliche Wege durch die schlimmsten Anomaliefelder findet.</text>
+	</string>
+	<string id="dm_anomalies_23">
+		<text>Was kann ich dir mehr erzahlen als die Geschichten, die jeder hier am Lagerfeuer hort? Wenn du Ratschlage brauchst, dann hore dich um und sei aufmerksam.</text>
+	</string>
+	<string id="dm_anomalies_24">
+		<text>Ich horte oft Geschichten uber unberuhrte, wundervolle Artefaktfelder, die einen armen, unerfahrenen Stalker zu einem reichen Mann machen konnten. Meiner Meinung nach sind das alles Fallen. Wie kann irgendjemand, der logisch denkt in solch ein Anomalie-Labyrinth geraten, und dass nur aus Gier? Vor allem, wenn man weiss, dass sich die Anomalien bewegen konnen, und einen Ausgang schliessen... Wenn du mal daruber nachdenkst, sind die kleinen glanzenden Dinge, die dich anziehen, perfekt in ihren Rollen.</text>
+	</string>
+	<string id="dm_anomalies_25">
+		<text>Alles, was ich sagen kann, ist, sehr vorsichtig mit der Ausrustung zu sein die du wahlst. Erwarte nicht, dass du dich fur eine Artefaktjagd mit einem schweren abgeschirmten Exoskelett entscheiden solltest. Es kann wie ein Stift mit elektrischen Feldern werden und auf dir wie heisse Schokolade in chemischen schmelzen.</text>
+	</string>
+	<string id="dm_anomalies_26">
+		<text>Das Schwierigste an der Artefaktjagd, ist der Start. Wenn du ein schutzendes Artefakt ergreifen kannst, kannst du auch andere Anomalien des gleichen Typs leicht erforschen. Dann verkaufe deine Erkenntnisse, besorge dir bessere Ausrustung und so weiter. Je mehr du sie uberquerst, desto mehr wirst du wissen, wie es geht. Sei wirklich vorsichtig in deinen Anfanger-Zeiten bis zu den Erfahrenen Stalker, falls du jemals einer wirst. Die Zone hat immer neue Fallen...</text>
+	</string>
+	<string id="dm_anomalies_27">
+		<text>Sei in guter Korper-Kondition. Das ist der kluge Rat, den ich dir geben kann. Die Zone kann manchmal sehr hart und erschopfend sein. Du hast viel bessere Chancen, lange Reisen und ihre unvermeidlichen Gefahren zu uberleben, wenn dein Korper dafur bereit ist. Es stimmt auch mit den Anomalien. Glaubst du, du kannst nach einer Nacht mit Wodka-Missbrauch ein chemisches Feld mit einer Packung Mutanten hinter dir durchqueren?</text>
+	</string>
+	<string id="dm_anomalies_28">
+		<text>Viele Stalker und noch mehr, die regelmassig Wodka benutzen, achten nicht auf die psychischen Gefahren der Zone. Und so sterben sie, wenn sie aus einem Psi-Feld herauskommen mussen. Es ist eine gute Sache, einen Psi-Schutz zu finden. Das Mondlicht-Artefakt kann in entscheidenden Momenten sehr entscheidend sein. Heh, macht wohl Sinn... Ausserdem kann es zum Beispiel gegen einen Controller nutzlich sein.</text>
+	</string>
+	<string id="dm_anomalies_29">
+		<text>Denk dran, dass einige Leute hier nicht die Artefakte verfolgen. Sie ziehen es vor, Menschen zu jagen... Mit anderen Worten, achte auf die Banditen. Es ist bekannt, dass sie Auftrage fur die Artefakte annehmen, die die Stalker haben. Sie erledigen dies fur ihren Schwarzmarkt. Lass deshalb nicht zu viele Leute wissen, welche Artefakte du auch hast.</text>
+	</string>
+	<string id="dm_anomalies_30">
+		<text>Wusstest du, dass Artefakte fast unzerstorbar sind? Manchmal ist es besser, auf das Artefakt zu schiessen, um es aus der Anomalie herausspringen zu lassen, anstatt einfach direkt hineingesaugt zu werden.</text>
+	</string>
+	<string id="dm_anomalies_31">
+		<text>Ich wunschte, ich hatte die Zone gekannt, von der ich gehort habe, die, die wie ein Niemandsland war. Wie konnen wir jetzt reich sein? Jetzt, nach jeder Emission, sturmt ein Haufen Stalker auf jedes Anomaliefeld, um ihre Blumen aufzuheben.</text>
+	</string>
+	<string id="dm_anomalies_32">
+		<text>Warum sollte ich dir einen Rat geben? Mehr noch, wenn es um das Geschaft geht, das viele von uns nutzen, um Geld zu verdienen? Nun, nimm einen guten Detektor und hilf dir selbst. Die Wissenschaftler werden dich wahrscheinlich informieren, wonach du suchst.</text>
+	</string>
+	<string id="dm_anomalies_33">
+		<text>Viele neue Stalker phantasieren uber das sogenannte "Artefakt" dass dich reich machen kann. Bitte, tu mir einen gefallen und glaub das nicht. Auch wenn die Zone fruchtbar sein kann, braucht es oft eine lange Zeit und eine betrachtliche Menge an Geld, um die Ausrustung zu bekommen, die dich in die gefahrlichsten und dann produktivsten Bereiche bringt. Naturlich kannst du Gluck haben, aber wenn du diesen Ort kennst, wurde ich nicht so viel darauf zahlen.</text>
+	</string>
+	<string id="dm_anomalies_34">
+		<text>Du weisst, wo die Baggerstation ist? Es wurde von Gravitationsanomalien angegriffen, aber nicht so schlecht fur einen erfahrenen Stalker. Wirf einfach wie immer Bolzen. Es gibt auch Strahlung, die innen und aussen ist. Es ist, als ware man neben einem massiven Stuck angereicherten Urans.</text>
+	</string>
+	<string id="dm_anomalies_35">
+		<text>Manchmal muss man nicht in Anomalien springen, um ein Artefakt zu erschrecken. Ich habe von einem Artefakt erfahren, das auf freiem Feld gefunden wurde. Dieser eine Stalker hatte einen Detektor, der anfing zu agieren, also beschloss er, die Batterien zu wechseln. Nachdem er dies tat, zeigt der Detektor wieder eine Lesung und dann kam die Bomben Sache. Ein Artefakt fiel ihm praktisch in die Hande! Glucklicher Bastard, was? Das ist die Zone fur dich: Manchmal bestraft es dich und manchmal belohnt es dich.</text>
+	</string>
+	<string id="dm_anomalies_36">
+		<text>Der sicherste Ort ist der saure Sumpf. Es ist voller gravitativer Anomalien, aber diese sind leicht zu erkennen. Behalte einfach die Wasseroberflache im Auge und du wirst nichts falsch machen konnen. Gasanomalien sind eher ein Schmerz, weil es im Grunde keine Luft zum Atmen gibt. Sich von einem spritzen zu lassen macht keinen Spass, glaub mir. Das Ding isst schneller durch eine Weste als Schwefelsaure.</text>
+	</string>
+	<string id="dm_anomalies_37">
+		<text>Es gibt hier eine alte Umspannstation, auch Eisenwald genannt. Du wirst verstehen, warum, wenn du es siehst. Manche Leute behaupten, in diesem Gebiet nach einem Emissionshit Cluster von Artefakten gefunden zu haben. Es ist nicht so gefahrlich. Hauptsachlich elektrische Anomalien und ein bisschen Strahlung... Es gibt auch ein paar Poltergeister, die dich in allerlei Mist vergraben, wenn du dich nicht rechtzeitig versteckst.</text>
+	</string>
+	<string id="dm_anomalies_38">
+		<text>Es gibt viele Hitzeanomalien auf dem verbrannten Hof auf dem Hugel. Leute finden dort Feuerartefakte. Schau in die Hauser: Was immer die Anomalien nach einer Emission haben, dort sind die Artefakte.</text>
+	</string>
+	<string id="dm_anomalies_39">
+		<text>Es gibt wahrscheinlich viele von ihnen in den Hohlen unter dem verbrannten Hof. Wenn du mit einem Detektor auf dem Hugel gehst, hort nicht auf zu piepsen. Zu ihnen zu kommen ist einfach genug - springe einfach durch die Lucke von oben. Herauskommen ist der schwierige Teil, mit all den Anomalien dort unten. Meistens Wirbel und Saure. Manche behaupten auch, in dieser Lucke etwas gesehen zu haben, das einem Kometen ahnelt. Sicherlich eine ganze Mischung von Gefahren, aber das bedeutet, dass die Artefakte wahrscheinlich auch gemischt sind.</text>
+	</string>
+	<string id="dm_anomalies_40">
+		<text>Hast du eine Circus-Anomalie gesehen? Es ist eine riesige Sprungbrett-Anomalie mit zwei Kometen, die sich drehen - ein wahrer Augenschmaus. Sieh es aus der Ferne an, denn der Circus ist heiss und hat viele Hitzeanomalien. Es hat auch viele Artefakte, aber sie werden von einem scheusslichen Feuerpoltergeist bewacht, der versucht, dich zu rosten, wenn du in die Nahe kommst.</text>
+	</string>
+	<string id="dm_anomalies_41">
+		<text>Es gibt diesen Ort, den sie Narbe nennen, wo der Boden aussieht, als ware er mit einer Axt gehackt worden. Die Leute haben Artefakte dort gefunden, aber sobald du da reingehst, passiert etwas seltsames. Dieses Ding trifft dein Gehirn so hart, dass du fast vergisst, wie man atmet, geschweige denn, dass du versuchst, deinen Arsch da raus zu bekommen.</text>
+	</string>
+	<string id="dm_anomalies_42">
+		<text>Wenn du an Gravitationsartefakten interessiert bist, suche in der Fang-Anomalie nach ihnen. Der Ort ist leicht zu erkennen - Anomalien haben auf dem Gelande eine gute Arbeit geleistet, den halben Hugel sauber gemacht. Ein paar Hohlen offneten sich auf dem Hugel und wurden sofort von Snorks besiedelt. Zum Gluck gehen sie selten nach drau?en.</text>
+	</string>
+	<string id="dm_anomalies_43">
+		<text>Es gibt einen Ort in Zaton, wo Hitzeanomalien unter Wasser entstanden sind. Sie nennen es "Boiler", weil Dampf und Zeug aus dem Boden kommen. Wenn du denkst, dass Dampf nichts ist, denk noch einmal daruber nach. Erfahrene Stalker sagen, dass diese Art von Dampfanomalie dich mindestens so hart wie eine normale Hitzeanomalie trifft, wenn nicht sogar harter. Die Temperatur kann etwas niedriger sein, aber es grillt dich etwas langer. Was die Artefakte betrifft, so fanden sie normale. Die Art von Feuer.</text>
+	</string>
+	<string id="dm_anomalies_44">
+		<text>Sie sagen, es gibt einen schonen Platz im Steinbruch, mit vielen Artefakten, aber auch wenig Anomalien. Unten am Boden sind so viele Blasen von Gasanomalien, es tut den Augen weh, selbst mit einer Gasmaske.</text>
+	</string>
+	<string id="dm_anomalies_45">
+		<text>Ash Heap ist auf dem alten Friedhof in der Nahe von Kopachy. Von Zeit zu Zeit gibt es viele Hitzeanomalien und einige Zombies. Die Leute versuchen, den Ort zu meiden, aber dort finden sie Artefakte.</text>
+	</string>
+	<string id="dm_anomalies_46">
+		<text>Sie sagen, dass Artefakte auf dem Parkplatz gefunden wurden. Immer noch Fahrzeuge aus der ersten Tschernobyl-Katastrophe - diese Babys geben dem Rad-Counter Sodbrennen. Ausserdem ist das Los voller elektrischer Anomalien.</text>
+	</string>
+	<string id="dm_anomalies_47">
+		<text>Im Putrid Grove, wo Baume alle von Saure verzogen sind. Leute, die dort waren, sagen, dass es voller Gasanomalien ist. Es gibt so viel Gas in der Luft, dass du nicht mehr genau sehen kannst, aber mit genug Erfahrung kannst du die Artefakte finden, die du suchst.</text>
+	</string>
+	<string id="dm_anomalies_48">
+		<text>Wenn du nach Artefakten jagst, gehe lieber fur die Saure Art. Der beste Ort, um diese zu bekommen, ist das Betonbad. Du wirst nicht viel Gesellschaft haben, da niemand diesen Ort wegen seiner Nahe zum Jupiter-Gebaude mag.</text>
+	</string>
+	<string id="dm_anomalies_49">
+		<text>Nicht weit von der Jupiter-Fabrik fiel ein Teil der Strasse durch. Sie nannten diesen Ort Bitumen, weil dort der Asphalt geschmolzen war. Es gibt viele Anomalien in der Lucke - Warmeanomalien gemischt mit gravitativen Anomalien. Und da es zwei Arten von Anomalien sind, mussen die Artefakte auch anders sein.</text>
+	</string>
+	<string id="dm_anomalies_50">
+		<text>Es gibt einen kleinen Hafen hinter dem Zementwerk namens Fen. Der ganze Hafen hat sich in einen furchtbar stinkenden Sumpf verwandelt und das Wasser ist voller Gasanomalien. Es ist nicht einmal mehr wirklich Wasser, mehr wie Saure. Die Leute haben dort schon Artefakte gefunden, aber der Ort wimmelt auch von Monstern.</text>
+	</string>
+	<string id="dm_anomalies_51">
+		<text>Schau in das alte Zementwerk. Ziemlich viele Anomalien, aber es ist es wert. Sicher, es gibt Orte, wo Artefakte leichter zu finden sind, aber auch die Konkurrenz. Hier besteht dein einziger Wettbewerb aus Hamstern, und das auch nur, wenn du in den Keller gehst.</text>
+	</string>
+	<string id="dm_anomalies_52">
+		<text>Du solltest in der Nahe von Oakpine suchen. Das ist das Ding, das zwischen den Hugeln uber den Gasanomalien wachst. Jeder hat es so genannt, seit ein Geek die Rinde von diesem Baum als Kiefer und Eiche identifiziert hat. Wenn du dort nach Artefakten suchen willst, brauchst du einen guten Chemikalienschutz. Nimm dir auch viel Munition mit, denn auf diesen Hugeln befinden sich Rudel und noch mehr Rudel von Hunden.</text>
+	</string>
+	<string id="dm_anomalies_53">
+		<text>Ich habe von erfahrenen Stalkern gehort, dass sich Artefakte manchmal ausserhalb von Anomalien bewegen. Dein Detektor fangt an "piep" zu machen. Du nimmst es heraus, aber dann der Schock: Da ist garnichts! Das bedeutet soviel, dass ein "nomadisches" Artefakt an dir vorbeigelaufen ist, aber es hat keinen Zweck, es zu verfolgen, weil nur die Zone entscheidet, mit wem es belohnt wird.</text>
+	</string>
+	<string id="dm_anomalies_54">
+		<text>Niemand hat bisher in Pripyat nach Artefakten gesucht. Alle, die ich kenne, waren nur kurze Zeit hier, deshalb bleiben die auch sehr vorsichtig.</text>
+	</string>
+	<string id="dm_anomalies_55">
+		<text>Ich weiss nicht, ob jemand gute Stellen kennt. Pripyat ist bisher wenig erforscht.</text>
+	</string>
+	<string id="dm_anomalies_56">
+		<text>Ich wurde in die unterirdischen Tunnel schauen. Sie sagen, dass es Tonnen von ihnen unter der Stadt gibt.</text>
+	</string>
+	<string id="dm_anomalies_57">
+		<text>Uber diese Teile ist nicht viel bekannt. Sind halt nur Garrys Geschichten, meistens. Er sagt, hier ist ein Platz, wo eine riesige Weinrebe aus einer Saureanomalie wachst. So gross wie ein zehnstockiges Gebaude. Vielleicht zieht er uns am Bein, aber ich wurde diese Rebe wegen Artefakten aufsuchen. Nur fur den Fall, wenn sich versteht...</text>
+	</string>
+
+<!-- INFORMATION -->
+	<string id="dm_information_general_1">
+		<text>Was gibt es neues in der Zone?</text>
+	</string>
+	<string id="dm_information_general_2">
+		<text>Weisst du vielleicht, was hier so momentan abgeht?</text>
+	</string>
+	<string id="dm_information_general_3">
+		<text>Ich bin auf der Suche nach Informationen.</text>
+	</string>
+	<string id="dm_information_0">
+		<text>Ich habe keine Informationen, Mann.</text>
+	</string>
+	<string id="dm_information_1">
+		<text>Die Armee richtete mitten in Agroprom eine Basis ein. Der Platz ist voll mit Hunden und anderen Mutanten, die nur herumlaufen. An sich ist es nicht so besonders, aber da ist dieser riesige unterirdische Untergrund voller Anomalien, der direkt darunter sitzt. Wenn da nicht die Soldaten waren, wurde ich jetzt unten eine ganze Reihe von Artefakten mitnehmen.</text>
+	</string>
+	<string id="dm_information_2">
+		<text>Der Agroprom Untergrund befindet sich unter den Gebauden des Forschungsinstituts. Ich hore die ganze Zeit verschiedene Dinge daruber. Eines Tages horte ich, dass es voller Anomalien ist. Perfekt fur die Artefaktjagd. Danach horte ich, dass da nichts als Mutanten waren. Als nachstes horte ich, dass der Ort voller Controller und Poltergeister war. Ich? Ich weiss nicht mehr, was ich glauben soll. Um ehrlich zu sein, will ich es auch nicht einmal wissen.</text>
+	</string>
+	<string id="dm_information_3">
+		<text>Warst du schon mal in Rostok? Du hast die 100 Rad und die Arena auf beide Seiten der anderen Strassenseite, um dich beschaftigt zu halten. Ein echter leuchtender Stern in der Mitte des Arschloches der Erde denkst du nicht? Der ganze Ort war fruher ein riesiger Fabrikkomplex, und die Wachter fanden es perfekt, dort ihre Operationsbasis einzurichten. Ich beschwere mich jedoch nicht. Sie machen einen guten Job all den Schmutz draussen zu halten. Du wirst keine Banditen oder Mutanten uber den Ort sehen.</text>
+	</string>
+	<string id="dm_information_4">
+		<text>Der Kordon ist leiser als die meisten anderen Bereiche. Die meisten bleiben im Anfanger Dorf, nordlich der eigentlichen Militarkette, bis sie genug Ausrustung und Erfahrung haben, um tiefer in die Zone vorzudringen. Du wirst dort auch Nimble und Sidorowitsch finden. Nimble wird dir helfen, wirklich hochwertige Ausrustung zu ergattern. Die Besten der Besten. Wahrend Sidorowitsch sich in seinem Bunker versteckt, wo er dir geschmuggelte Waren verkaufen wird. Er hat verdammt viel Zeug, wie: Essen, Medizinische Versorgung, Alles mogliche.</text>
+	</string>
+	<string id="dm_information_5">
+		<text>Darkscape verbindet den sudlichen Rand des Dunklen Tals mit dem Tunnel im Osten des Kordon. Voller Wald, Mutanten, Banditen und Anomalien, aber irgendwie findet man aus irgendeinem Grund immer eine Gruppe von Einzelgangern dort unten. Ich wurde auch nicht zu nah an der Strasse bleiben, du wirst von der Strahlung gluhen oder du wirst von einem Rudel Hunde zerrissen werden.</text>
+	</string>
+	<string id="dm_information_6">
+		<text>Das Dunkle Tal ist ein abschreckender Ort voller verrosteter Wracks und brockelnder Gebaude. Es gibt ein paar Anomalien in der Nahe, wo du dein Gluck bei der Artefaktjagd versuchen kannst, aber die Banditen besetzen die Fabrik im Norden, so viel Gluck hinterher nicht uberfallen werden.</text>
+	</string>
+	<string id="dm_information_7">
+		<text>Die Tote Stadt liegt genau zwischen Yantar und Limansk mit einer ganzen Versammlung von Soldnern genau in der Mitte. Dort muss irgendwo ein riesiger Vorrat an Waffen und Medikamenten sein. Wo sollten sie sonst noch ihren ganzen Kram aufbewahren? Wenn du durch den Ort kommen willst, ohne deinen Arsch zu verlieren, kannst du dich durch die Kanalisation schleichen. Viel mehr kann ich dir nicht sagen, Bruder.</text>
+	</string>
+	<string id="dm_information_8">
+		<text>Du weisst, dass sie all ihre zerstorten Maschinen und Fahrzeuge nach der Katastrophe in der Mullhalde abgesetzt haben, oder? Einzelganger und Banditen versuchen immer, die beste Beute zu bekommen, schiessen standig aufeinander und versuchen nicht, von den Mutanten gefressen zu werden. Es gibt auch eine ganze Reihe von Anomalien auf dem kleinen Truck Friedhof. Du kriegst fast garantiert ein Artefakt, wenn du direkt nach dem Eintreffen einer Emission dorthin kommst.</text>
+	</string>
+	<string id="dm_information_9">
+		<text>Warst du jemals bei den Generatoren? Sie befinden sich nordlich des Kraftwerks. Sechs davon in einer Ringformation mit dem alten Kriegslabor nicht weit sudlich. Nicht viel zu sehen ausser ein paar alte Laboren und jede Menge Mutanten, um deine Waffe zu beschaftigen, wahrend du da bist.</text>
+	</string>
+	<string id="dm_information_10">
+		<text>Wir besetzen fast das gesamte Verlassene Krankenhaus. Die meisten Wege, die weiter in Richtung des Tschernobyl-Kernkraftwerkes fuhren, sind von Maschinengewehren oder anderen Schussen eingezaunt. Kein Stalker wird es da durch schaffen.</text>
+	</string>
+	<string id="dm_information_11">
+		<text>Jupiter ist immer noch unruhig - ganz ahnlich wie Zaton. Seit sie den Brain Scorcher eingeschaltet haben, ist es fast unmoglich, dorthin zu gelangen, ohne das eigene Leben aufs Spiel zu setzen. Wenn du dein Gehirn nicht durcheinander bringen willst, dann ist dein einziger Weg durch den Roten Wald. Nicht dass du lebend durchkommen wirst mit Mutanten und Anomalien, die sich hinter all den Baumen verstecken. Ich wurde dir trotzdem viel Gluck wunschen wenn du dahin gehst. Du wirst es brauchen...</text>
+	</string>
+	<string id="dm_information_12">
+		<text>Schon mal daruber nachgedacht durch den Jupiter Untergrund zu reisen? Du brauchst einen Anzug mit einem geschlossenen Atemschutz-Modul, da die inneren Bedingungen sehr streng ist. Aber du wirst unter Pripyat direkt zum Stadtrand kommen, so dass du alle Kultisten meiden kannst. Nur von Vorteil, wenn du mich fragst.</text>
+	</string>
+	<string id="dm_information_13">
+		<text>Limansk ist ein leerer Ort voller verfallener Gebaude und Fahrzeuge. Ich habe gehort, dass die Soldner vor kurzem versucht haben, aus der toten Stadt herauszukommen, aber es nicht so weit gebracht haben, da sie zu viele Manner an den Anomalien und Mutanten verloren haben.</text>
+	</string>
+	<string id="dm_information_14">
+		<text>Die Sumpfe sind meist ein nasses und bestrahltes Loch im Boden, aber hier und da gibt es ein paar verlassene Gebaude und Siedlungen, die es wert sind geplundert zu werden. Es gibt auch die Clear Sky Basis. Irgendwo im Suden jedenfalls. Ziemlich abgelegen.</text>
+	</string>
+	<string id="dm_information_15">
+		<text>Schon mal von den Armeelagern gehort? Die Freiheit hat ihr Hauptquartier dort eingerichtet, nachdem vor ein paar Jahren in deren Arsche von den Banditen getreten wurde. Sie behaupten, sie wurden die Zone schutzen, indem sie die Barriere verteidigen, die zu Radar fuhrt. Kompletter Bloodsinn, wenn du mich fragst. Ob die Banditen ihnen einen neuen Besuch abstatten konnten? Du kannst sicher sein, dass der Monolith es schon getan hatte.</text>
+	</string>
+	<string id="dm_information_16">
+		<text>Der Monolith ist in Pripyat verschanzt von dem, was ich gehort habe. Keine Chance durch die Anomalien und Mutanten zu kommen, wahrend sie auf dich schiessen.</text>
+	</string>
+	<string id="dm_information_17">
+		<text>Du solltest mal den Stadtrand von Pripyat besuchen. Es gibt viele Anomalien, die dich reich machen konnen, und du musst nicht einmal durch den Platz gehen, um dorthin zu gelangen. Nimm einfach den unterirdischen Gang durch Jupiter, keine Sorge um den Monolith dort unten.</text>
+	</string>
+	<string id="dm_information_18">
+		<text>Diese Bastarde haben den Brain Scorcher wieder angeschaltet, als sie Radar ubernommen haben. Jetzt gibt es keinen Weg mehr auf die andere Seite der Zone, ausser du fuhlst dich zu den Zombies hingezogen, die du in Yantar siehst. Wenn du weisst was ich mit "Hingezogen" meine. Heh.</text>
+	</string>
+	<string id="dm_information_19">
+		<text>Seit der Ubernahme von Radar sind immer mehr Stalker getotet worden, die versucht haben, durch den Roten Wald zu kommen. Der Forester kann nur so viel mit seiner Ausrustung tun, um zu helfen. Und uberhaupt habe ich nicht das Bedurfnis, meine Eier in die Bratpfanne fur ein paar Artefakte zu stecken.</text>
+	</string>
+	<string id="dm_information_20">
+		<text>Das Wildes Territorium war fruher der Standort einer ziemlich grossen Fabrik, aber jetzt wimmelt es nur so von Monstern und ist voller Anomalien. Es gibt nur zwei Grunde, dorthin zu gehen: Wenn man nach Rostok kommen mochte oder wenn man verzweifelt nach Beute sucht. Das ware es mir nicht wert. Es gibt viele andere sichere Routen.</text>
+	</string>
+	<string id="dm_information_21">
+		<text>Was wunscht du dir? Was ist die eine Sache, die du wirklich willst? Wenn du mir hilfst, den Wunschgonner zu finden, dann wird es vielleicht wahr werden. Ich habe gehort, dass er irgendwo unter dem Kraftwerk vergraben ist. Denkst du, dass das vielleicht der Monolith ist, den es zu schutzen gilt?</text>
+	</string>
+	<string id="dm_information_22">
+		<text>Yantar ist morbide und vom Tod durchtrankt. Wer es zu weit treibt, ist wahnsinnig. Zombies und Snorks sind uberall und warten nur darauf, sich dir vorzustellen. Sie spucken immer wieder aus der Fabrik. Die Halfte der Zeit, wenn die Okologen sie niederschiessen, erkennen sie, dass es einer ihrer eigenen Manner ist, die auf sie schiessen. Es ist echt... beschissen.</text>
+	</string>
+	<string id="dm_information_23">
+		<text>Hey Stalker, wenn du jemals in Zaton bist, solltest du die Skadovsk besuchen. Es ist dieses alte verrostete Schiff, das von diesem einen Stalker betrieben wird, der sich Beard nennt. Oder zumindest denkt er das so. Du kannst dort auch einen Schlafort finden, deine Ausrustung reparieren und all deine Beute verkaufen. Owl ist immer daran interessiert, diese zusatzlichen PDAs von deinen Handen zu kaufen, falls sie irgendwelche netten Informationen haben.</text>
+	</string>
+	<string id="dm_information_24">
+		<text>Hey, hor zu. Hast du von einem Typen namens Black Digger gehort? Ich habe gehort, dass er ein richtiger Gluckspilz war und sich eine ordentliche Menge Rubel und eine Menge schoner Gegenstande besorgt hat. Einige sagen, dass er einen geheimen Vorrat hat. Versteckt in Haufen von Mull und anderen Mist. Ich wurde ihn gerne eines Tages finden und die Informationen aus ihm herausschlagen, aber es scheint, als ware sein Geheimnis mit ihm zusammen ins Grab gegangen.</text>
+	</string>
+	<string id="dm_information_25">
+		<text>Es wird wahrscheinlich nicht lange dauern, bis du oder ich mit der Informationserhebung tief in irgendeinem verfallenen Labor beauftragt werden. X-18 ist uberschaubar. X-16 ist harter fur deine Psyche und hat mehr Humanoide, die dich mit einem oder zwei zusatzlichen Lochern fullen kann.</text>
+	</string>
+	<string id="dm_information_26">
+		<text>Wenn du einen Job hast, der dich entweder zum Jupiter oder zum ostlichen Teil von Pripyat und seinen Aussenbezirken bringt, benutze die Unterfuhrung, um es unbemerkt am Pripyat vorbei zu schaffen. Du musst dich nicht mit den Fanatikern oberirdisch befassen. Du wirst wahrscheinlich nur mit Mutanten und Zombies zu tun haben.</text>
+	</string>
+	<string id="dm_information_27">
+		<text>Seie vorsichtig bei Maschinengewehrnestern, die in bestimmten Hochburgen und strategischen Orten verstreut sind. Der Schutze kann dich naturlich nicht treffen, wenn du ihm in den Rucken schiebst, also ist es eine gute Strategie, sich an ihn heranzuschleichen, solange du nichts vermasselst. Normalerweise wird jeder in Panik geraten, um die Position des gefallenen Schutzen nicht zu ubernehmen. Vergiss auch die Granaten nicht. Ein gut platzierter Wurf kann genug sein, um einen herauszunehmen, wenn du in Not bist und dich nicht aus der Deckung bewegen kannst.</text>
+	</string>
+	<string id="dm_information_28">
+		<text>Wenn du Lust hast, einen langen Spaziergang zu machen oder einen Aussenposten auf dem Weg zur Banditenbasis im Dunklen Tal zu nehmen, dann schlage ich vor, im Kordon nach Osten abzubiegen und diesen Weg zu gehen, bis du Darkscape erreichst. Manchmal kann auch ein Trupp oder zwei dort patrouillieren, aber pass auf jeden Fall auf die Mutanten auf. Es ist ein relativ ruhiger Ort, aber diese mutierten Scheisskerle interessieren sich nicht, wo man zuchtet. Was den Aussenposten angeht, befindet er sich ungefahr in der Mitte. Genau dort, wo die Strasse kurvt.</text>
+	</string>
+	<string id="dm_information_29">
+		<text>Auf der Suche nach Informationen, was? Ich kann dir sagen... Solange du unter unserem Schutz bleibst, werden die Soldner keinen Finger auf dich legen. Wir sind es nicht wert genug, das Ziel ihrer Vertragspartner zu sein, weil die fruheren Fuhrer weggebracht wurden, umgekommen sind, verschwunden sind, ihr Leben beendet haben, wie auch immer du es nennen magst. Niemand mochte wieder aufstehen, um die Fuhrung wieder zu ubernehmen. Ausserdem wurden wir zu viel daruber streiten und das ware falsch. Die einzige Person, die bisher ein kleines Gebiet bewacht, ist Sultan. Aber seine Hand reicht offensichtlich nicht weit genug, um jeden Banditen in der gesamten Zone zu erreichen.</text>
+	</string>
+	<string id="dm_information_30">
+		<text>Hast du Lust, das reife Leben von jemandem zu nehmen? Die Einzelganger waren immer eine erstklassige Wahl dafur. Wir haben sie seit Anbeginn der Zeit verargert und diese Jacksassen haben es immer verdient, herumgeschmissen zu werden. Die meisten sind nicht mit grossartigen Waffen bewaffnet, aber sie hassen uns genug, um einen schonen Kampf zu fuhren, so dass du sowohl anstandige Ausrustung als auch Kampfubungen von ihnen bekommen kannst.</text>
+	</string>
+	<string id="dm_information_31">
+		<text>Hey, hast du jemals einen orangefarbenen Zwerg gesehen, der seinen Weg durch dichtes Schilf gemacht hat? Da bin ich mir sicher. Und diese Mulltuten fallen so gut auf, dass man einen Kilometer entfernten Umweltschutzer sehen kann, ohne auch nur das Fernglas benutzen zu mussen. Kurzlich habe ich bemerkt, dass sie Farbvariationen benutzt haben, die weniger wie das Erbrechen aussehen, das Wissenschaftler normalerweise bekommen.</text>
+	</string>
+	<string id="dm_information_32">
+		<text>Das einzige, was weniger Verstand im Kopf hat als diese verdammten Einzelganger, sind die Mitglieder der Monolith-Fraktion. Es ist amusant, Geschichten uber sie und ihre Taten zu horen. Sie scheinen wie die Version der Zone der Verruckten zu sein, die nur an eine Sache und nichts anderes denken konnen. Schade, dass ihre Dummheit ihnen Angst vor dem Tod macht.</text>
+	</string>
+	<string id="dm_information_33">
+		<text>Mann, ich erinnere mich an Geschichten daruber, wie vor langer Zeit ein paar Jungs, die einen Skorpion auf ihre Patches trugen, einigen Jungen im blauen Pyjama die Scheisse rausgeworfen haben. Jeder hier scherzt immer uber sie und ihre Kleidung, weil sie schwacher waren als ein blinder Babyblutsauger, der in seinem Nest kriecht. Oh, warte. Jetzt kann ich mich an etwas erinneren! Es waren alle Eierkopfe und schlecht darin, eine Waffe in ihren Handen zu halten. Sie wissen einfach nicht, wie sie von dem leben sollen, was die Zone ihnen gibt.</text>
+	</string>
+	<string id="dm_information_34">
+		<text>Wenn du nur wusstest, was ich fur eine Mutantenwelle geben wurde. Gross genug, um Rostok zu uberrennen. Jedes Mal, wenn wir versuchen, uns ihr zu nahern, werden wir von diesen schwarzen und roten Narren hinausgeworfen. Sie haben sich dort wirklich gut eingelebt. Sogar ein Paar PKMs aufgebaut, um Eindringlinge wie uns abzuwehren. Sie sind ziemlich gut bewaffnet, aber ihre Kommandostruktur... Hehe, sie sind nicht die reinsten von allen in der Zone. Viele geheime Absprachen zwischen uns und den Wachtern. Aber jetzt wollen sie, dass alle ihren Mund halten und sie wollen nicht einmal unsere Becher in ihrer Nahe sehen. Gott weiss, wann sie aufhoren werden, einen Wutanfall uber ihren vernarbten Stolz zu bekommen.</text>
+	</string>
+	<string id="dm_information_35">
+		<text>Die Freiheit prahlte mit ihrer Starke und "Freiheit in der Zone". Wir haben ihnen gezeigt, was die Freiheit hier leisten kann und sie mussten ihre traurigen Esel weit weg von uns bewegen. Heutzutage wollen sie, dass du anders denkst. Sie wechseln standig die Basis, weil es "sicherer vor den Mutanten" ist. Oder dass "wir unsere Pflicht erfullen konnen, die Eindringlinge leichter in Schach zu halten". Denke daran, Kumpel. Es ist alles Blodsinn. Sie wollen einfach nicht zugeben, dass sie angst bekommen haben, uns tiefer in deren Reihen zu sehen.</text>
+	</string>
+	<string id="dm_information_36">
+		<text>Die Soldatenjungs tauchen nicht mehr so oft auf wie fruher. Es hat sich herumgesprochen, dass ihre Operationen den Bach runter gegangen ist. Ich wurde mich definitiv nicht erfreut fuhlen, von einem Arschloch kontrolliert zu werden, der nur will, dass ich eine Mutanten-Gruppe oder eine Stalker-Gruppe nur fur seinen eigenen Vorteil eliminiere. Sie haben es schwer, das ist klar, aber es sieht so aus als hatten ihre Misserfolge tatsachlich etwas Sinn in ihre Schadel gebracht.</text>
+	</string>
+	<string id="dm_information_37">
+		<text>Das Aufkommen von Artefakten und ihr grundliches Studium lassen mich manchmal daruber nachdenken, wie viel schlimmer es werden kann. Diese Dinge besitzen ungeahnte Eigenschaften. Manche sind so verheerend, dass ihre Eingliederung in Waffen alles Bisherige ubertreffen konnte. Stell dir vor, was eine Bombe, die auf der Energie verschiedener Arten von Artefakten gebaut wurde, tun konnte!</text>
+	</string>
+	<string id="dm_information_38">
+		<text>Ich finde es ironisch, wie die Freiheit die Fraktion ist, die uber die Notwendigkeit spricht, dass jeder die Zone nutzen darf, aber die Wachter diejenigen sind, die nach Yantar kommen, um uns zu schutzen und Artefakte an unsere fuhrenden Wissenschaftler zu geben, um ihnen beim Finden zu helfen und neue Wege zu finden, das Leben der Zone auszuloschen.</text>
+	</string>
+	<string id="dm_information_39">
+		<text>Die Banditen nehmen weiterhin Geiseln, um Geld und andere verschiedene Wertsachen zu erpressen. Sie kummern sich nicht um Ehrlichkeit und halten ihr Wort, um nicht zu vergessen, dass sie sich wie Idioten und die niedrigsten Lebensformen verhalten. Sie haben es besser, wenn jemand, der schlauer ist, mitkommt, obwohl sie schon seit einer Weile nicht mehr aktiv sind und noch kein engagierter Anfuhrer die Kontrolle uber jedes Banditen-Establishment in der ganzen Zone ubernommen hat. Im Moment halten sie sich meistens an kleine und organisierte Gruppen, die verstreut sind. Das macht es schwerer, Verwirrung und Panik unter ihnen zu verbreiten, wenn jemand Wichtiges den Eimer tritt.</text>
+	</string>
+	<string id="dm_information_40">
+		<text>Manche Orte konnen bedrohlicher aussehen, als sie wirklich sind. Der Agroprom Untergrund dient als ein Beispiel dafur, weil im Moment verschiedene Teile davon verschlossen sind und die Mutanten nicht viele Orte zu befallen haben. Ich schlage nicht vor, dorthin zu gehen, ausser du willst entweder: Deine Ausrustung abwerfen, oder versuchen, etwas aus all dem Mull, der herumliegt, zu saubern. Deine Beute in einem Rucksack an einem schwer zuganglichen Ort oberirdisch zu verstauen ware sowieso eine bessere Idee.</text>
+	</string>
+	<string id="dm_information_41">
+		<text>Die Zone kann manchmal faszinierend sein. Beobachte einfach die Welt unter dir, wenn du auf einem Wachturm oder einer anderen hohen Struktur sitzt. Das ganze Leben rennt rum, die wundervollen Formationen, die die Anomalien erzeugen, der beruhigenden Musik zuhorend, die bei den 100 Rads spielt, wahrend die Nacht den Tag ubersteht... Das ist es, was ich an der Zone mag. Es ist fatal, aber gleichzeitig schon.</text>
+	</string>
+	<string id="dm_information_42">
+		<text>Wenn ich immer noch hier sitzen und nichts tun muss, als ein paar mickrige Mutanten mit meiner Waffe zu pelletieren, dann muss ich meine Entscheidung den Wachtern beizutreten, nochmal uberdenken. Jeden Tag werde ich dazu gedrangt, dies und das zu tun. Und was bekomme ich? Nichts. Ich bin lange genug hier, um in viel gefahrlichere Gebiete geschickt zu werden, aber es sieht so aus, als ob ein Haufen anderer Leute in dasselbe Loch gefallen waren wie ich. Es ist fast so, als ob die Top-Blaser nicht wirklich ernsthafte Dinge tun wollen und einfach in ihren Basen sitzen wollen, bis eine Gelegenheit kommt, die sie aus ihren Stuhlen sturzen kann.</text>
+	</string>
+	<string id="dm_information_43">
+		<text>Die Freiheit mag wie eine Gruppe von Wahnsinnigen und Menschen erscheinen, die trage auf ihren Arschen sitzen, aber sie konnen ziemlich glatt sein, wenn das Bedurfnis, so etwas zu sein, zu ihnen kommt. Sie haben es geschafft, Falschinformationen uber uns zu verbreiten, um den Glauben anderer Stalker in die Wachter zu reduzieren. Ausserdem sagen sie immer wieder, wie schutzend die Barriere doch ist, und wie viel besser sie es als wir machen. Denk nicht einmal daran, ihren Schwachsinn zu glauben! Sie haben die Barriere nicht lange genug geschutzt und sie haben nie eine ausreichend grosse Rolle darin gespielt. Bis sie zu den Lagerhausern gesturzt sind. Wir werden uns wieder an sie wenden, um zu versuchen, spater eine grossere Autoritat uber diese "Verteidigung" zu schaffen.</text>
+	</string>
+	<string id="dm_information_44">
+		<text>Ich habe viele Dinge in der Zone wahrend meiner Reisen hier gesehen, das meiste davon stammt aus Zeiten, in denen ich nicht zu den Wachtern gehorte. Verdammt, die Militarstalker sind wahrscheinlich die hartesten, die du jemals treffen wirst. Und dass verraten dir sogar die Verruckten, die immer wieder aus dem Norden zuruckkommen. Im Gegensatz zu den Streitkraften, die nicht so tief in die Zone gehen oder nicht lange genug hier waren, haben sie eine spezielle Ausbildung erhalten oder haben genug selbst erfahren. Sie besitzen eine Ausrustung, die die der meisten leicht ubertrifft. Sie sind zwar heftige Gegner im Kampf, aber wenn du genug Eier wie ein Superheld hast, kannst du versuchen, sie selbst zu erledigen, obwohl ich dies nicht vorschlagen wurde.</text>
+	</string>
+	<string id="dm_information_45">
+		<text>Ich habe es satt, dass wir alle wahrnehmen, dass wir nur ein Kollektiv von Kopfen sind, die sich versammelt haben, um nichts anderes zu tun, als die Zone und ihre Schopfungen zu loben. Wir versuchen wirklich, nutzliche Informationen, die wir erworben haben, an diejenigen weiterzugeben, die es brauchen. Wir nehmen feindselige Massnahmen an, wenn es notig ist und wenn es genug Gefahren gibt. Ausgeschlossen den Wachtern, die es gerne anderen erzahlt hatten, wahrend sie sich wie ein Haufen Kinder verhalten, die nichts anderes tun als pathetische Banditen und schwache Mutanten zusammenzuschlagen.</text>
+	</string>
+	<string id="dm_information_46">
+		<text>Eine der Zahlen, die wir fur ziemlich wichtig halten, ist Forester. Er hat ein scharfes Auge darauf, verschiedene Wege durch den dichten Wald zu finden, aber leider hat sein Alter das Beste von ihm bekommen und er kann sich nicht mehr so sehr ausserhalb seines sicheren Hafens helfen. Er hat Narbe wertvolle Hilfe geleistet und damit Lebedew geholfen. Forster kann immer noch im Roten Wald gefunden werden. Ich glaube, dass er dort fur den Rest seines Lebens bleiben wird, bis er am sterben ist, um nur eine Erinnerung in unseren Kopfen bleibt.</text>
+	</string>
+	<string id="dm_information_47">
+		<text>Vor ein paar Jahren wurden wir von Lebedew gefuhrt. Das waren Hundstage, bis ein Soldner kam und uns half, in den Sumpfen einen Fuss hinzulegen. Aber dann ist das ganze Strelok-Ding ausser Kontrolle geraten. Die meisten von Clear Sky folgten Lebedew und dem Soldner nach North, um alles zu sortieren. Nun, du weisst wie das ausging. Wie auch immer, wir horten immer wieder von den Todeswagen im Kordon und brachten alte Freunde zuruck. In seltenen Fallen gibt es einige Anzeichen von Leben, aber es ist, als hatten sie einen massiven Schlag gehabt.</text>
+	</string>
+	<string id="dm_information_48">
+		<text>Neu in der Zone? Hor dich mal an, Alter. Du horst dich fast wie einer dieser Bastarde an. Information, heh. Jemals von Major Kuznetsov gehort? Er war ein echtes Stuck, nachdem er Major Khaletskiy fur die Probleme, die er verursachte, ersetzte. Dannach ging Kuznetsov und tat das selbe! Es sind immer die hochrangigen Offiziere, die verdorben werden. Sie bekommen einen kleinen Vorgeschmack auf Macht und Kontrolle und versuchen dann, auf der Seite durch die Verbrecher hier in der Zone extra zu verdienen! Ich habe gehort, dass ihn ein schreckliches Schicksal ereilt hat, als er sich mit dem einem Kerl getroffen hat... Ich kann mich nicht an seinen Namen erinnern, aber sie haben ihn in Pripyat abgeholt. Das habe ich gehort, weil er wirklich wichtige Informationen hatte.</text>
+	</string>
+	<string id="dm_information_49">
+		<text>Wir haben mehr Leute, die spater im Monat kommen. Ich warte nur darauf, dass die Zone uns etwas Ruhe gibt, damit die Piloten es rein und raus schaffen konnen. Geruchten zufolge sollen in dieser Zeit einige franzosische, finnische und britische Aktivisten interessant sein.</text>
+	</string>
+	<string id="dm_information_50">
+		<text>Die Dinge mogen hier schwierig sein, aber das bedeutet nicht, dass die Forschung aufgehort hat. Wir schaffen es mit handgefertigten Geraten, und hin und wieder schaffen wir es, Ausrustung von den Okologen zu holen. Du wurdest uberrascht sein, was wir uber Antikoagulation durch Blutsauger und Linsenreparatur aus Fleischaugen wissen.</text>
+	</string>
+	<string id="dm_information_51">
+		<text>Wir verlieren immer noch Freunde durch diesen Brain Scorcher... Du horst von Veteranen, die Drogen genommen haben, oder sich einen Eimer auf ihren Kopf gelegt haben damit sie die Kopfschmerzen und Halluzinationen ertragen und schaften es tatsachlich, Beute und Artefakte zu erbeuten und zuruck ins Lager zu kommen. Und das an einem Stuck! Naturlich konnen sie manchmal kaum sprechen oder sie verlieren ihr Gedachnis, aber die Leute sehen, dass sie feiern oder in den Ruhestand gehen, und sie entscheiden sich dann schliesslich dasselbe zu tun.</text>
+	</string>
+	<string id="dm_information_52">
+		<text>Sie sagen, es gibt Arbeit in Yantar in der Nahe des Psi-Feldes. Wenn du dumm genug bist, musst du Drogen und Anzuge testen, um vorwarts zu kommen und Platz fur den Norden zu machen. Argerlich ist, es gibt keine Garantie, dass du zuruckkommst. Sie sagen, dein Kopf kocht, und dein Korper funktioniert nicht richtig. Du beginnst zu halluzinieren oder deine Erinnerungen zu verlieren. Dein bester Freund konnte plotzlich dein schlimmster Feind sein. Es ist wahrscheinlich der gefahrlichste Job da draussen.</text>
+	</string>
+	<string id="dm_information_53">
+		<text>Der Brain Scorcher, Mann. Es gibt ein grosses Wettrennen, um einen Weg zu finden. Sei es durch den Einsatz eines Anzuges oder durch das Auffinden eines Tunnels. Naturlich wollen alle von den Wissenschaftlern bis zum Militar, einen Weg dahinter finden, und wer als Erster dort ankommt, bekommt eine Fundgrube an Artefakten, Beute und Informationen.</text>
+	</string>
+	<string id="dm_information_54">
+		<text>Mann, ich vermisse die alte Basis im Dunklen Tal. Die Gegend war manchmal scheusslich, aber wir hatten damals ein ziemlich gutes Lager. Aber sobald die Banditen vom Mull wegbrachten, wurde es immer schwieriger, dort Halt zu finden. Die Wachter wurden steigen, und die Banditen wurden sinken, und am Ende wurden wir Leute und Aussenposten wie Wasser durch ein Sieb verlieren. Immerhin sind wir wenigstens hier aufgestellt. Wir konnen nachts schlafen gehen und mussen uns nur mit den seltsamen Traumen und moglicherweise einem Kater am Morgen beschaftigen.</text>
+	</string>
+	<string id="dm_information_55">
+		<text>Hast du schon eine lokale Kuche probiert? Es gibt ein paar ziemlich durcheinandergebrachte Wildtiere, aber du kannst aus Flesh und Wildfleisch ein gutes Essen machen. Ich habe sogar von einigen dieser Typen gehort, das sie Snork Hande essen. Ich meine, ist das nicht Kannibalismus? Dann gibt es Blutsauger Tentakeln oder Fleischaugen. Es ist, als ob einige der Veteranen nichts uber Konserven wissen.</text>
+	</string>
+	<string id="dm_information_56">
+		<text>Also, ich habe neulich einen Job bei einem der alteren Leute erledigt. Sie sind seit Jahren hier und du wirst es wahrscheinlich auch merken. Er erzahlte mir, wie seine Truppe in einer Space-Anomalie stecken geblieben war. Ja, es war nicht todlich wie die Whirligigs oder Brenner Anomalie, aber es hat sie tagelang gefangen genommen. Ich steckte einfach in demselben Stuck Gras ohne Vorrate oder Kommunikation.</text>
+	</string>
+	<string id="dm_information_57">
+		<text>Da draussen gibt es einige ziemlich rauhe Patrouillen und dann einige gemutliche. Wenn du in den Sumpfen gehst, dann hast du normalerweise Luftunterstutzung von einem Hubschrauber. Die Aussenposten, die wir haben, neigen dazu es sich ziemlich bequem zu machen fur so ein Odland. Aber die Stalker und Banditen, die dort wohnen, versuchen etwas Land zu ergattern. Solange du deinen Kopf unten haltest, zerstreut der Hubschrauber sie normalerweise. Das Darkscape ist die Strasse, die in Nordostlicher Richtung von hier zum Dunklen Tal fuhrt. Dort druben ist es ziemlich grimmig. Die Banditen versuchen standig jemanden zu uberfallen, der die Strasse benutzt, und die Mutanten regen sich nachts wirklich auf. Dann gibt es das Agroprom. Das Agroprom ist eine gemischte Tasche. Du musst unsere militarische Einrichtung am Abend besetzen, aber wenn du auf Patrouille gehen musst, wirst du mit Stalker auf deiner Seite kollidieren und dann von Mutanten auf deiner rechten Seite angegriffen werden. Moral der Geschichte? Bleib beim Kordon.</text>
+	</string>
+	<string id="dm_information_58">
+		<text>Also als die Zone zuerst... Ahm... Eruptiert? Wie auch immer, wir babysitten standig die Wissenschaftler, die eingeflogen sind. Sie hatten diese winzigen Bunker voller wissenschaftliches Zeug und dann wurden sie in diesen dummen Gummianzugen nach draussen geschickt. Inzwischen sind wir alle in Not. In Schlamm gehullt und keinen Ort zum pennen, oder Schutz zu suchen. Jede Nacht konnte der Himmel leuchtend rot werden, und jede in der Wildnis gefangene Patrouille wurde als Zombie zuruckkommen. Wir wurden von Blutsaugern abgeholt werden und durch Anomalien auseinandergerissen werden, und wahrend dieser ganzen Zeit waren diese Eierkopfe mehr um ihre Forschung und Artefakte besorgt. Am Ende sind wir dann doch noch die Retter. Wir sind zu Agroprom gezogen und haben von Zeit zu Zeit minimale Unterstutzung geschickt. Nun wissen die Okologen, dass sie sich nicht darauf verlassen konnen, dass andere Menschen ihre Munition nehmen. Sie sind bewaffnet und ihre Anzuge haben einen dickeren Kevlar. Und jede Nacht habe ich eine Koje und eine Flasche Wodka, die auf mich warten. Das nenne ich Gerechtigkeit.</text>
+	</string>
+	<string id="dm_information_59">
+		<text>Ich bin neu hier, aber ich habe ein paar Dinge von den anderen Jungs gelernt. Behalte immer einige Schrauben mit und eine vorzugsweise mit Schnur. Wir haben es ursprunglich von einigen Stalkern abgeholt. Du wirfst einen Bolzen vor dir, um nach Anomalien zu checken, und du bist komplett sicher. Klingt lacherlich, aber in der Zone ist der Bolzen manchmal ein Lebensretter.</text>
+	</string>
+	<string id="dm_information_60">
+		<text>Achte darauf, dass du von den Stalker oder Banditen, die du bekampfst, Medizinische Ausrustung mitnimmst. Sie sind vielleicht nicht steril oder ideal fur ein Trauma im Vergleich zu der Armee oder wissenschaftlichen Medkits, aber sie konnten dich, oder deinen Kumpel retten, wenn er schwer verletzt ist. Die Freunde, die du dir in der Zone machst, sind die besten Freunde, die du jemals haben wirst. Meistens, jedenfalls... Also merke dir: Immer genug Medikits mitnehmen!.</text>
+	</string>
+	<string id="dm_information_61">
+		<text>Wir hatten ein grosses Problem mit den Abtrunnigen, die damals in den Sumpfen patrouillieren. Wir sammelten uns zusammen und mit der Hilfe von Narbe gelang es uns, in ihre Arsche zu treten. Diese Leute haben sich dann vom Acker gemacht und jetzt ist das Militar eingezogen, und sie haben sogar einen Hubschrauber. Ehrlich gesagt, schienen die Dinge damals hart, aber ich vermisse es wirklich. Das Militar hat sich wirklich tief eingegraben.</text>
+	</string>
+	<string id="dm_information_62">
+		<text>Es gibt eine echte Nachfrage nach Werkzeugen in der Zone. Kompliziertere Ausrustung fur Anpassungen an Waffen und Anzugen. Ich fand ein Set auf nem Typen, den ich vor ein paar Monaten erschossen habe, aber wir mussten sie in aller Eile verstauen. Ich bin mir nicht sicher, wo wir sie versteckt haben, aber ich bin mir sicher, dass ein Handler die Koordinaten haben konnte, wenn du ein paar Jobs fur sie erledigen wurdest.</text>
+	</string>
+<!-- JOB -->
+	<string id="dm_job_general_1">
+		<text>Hat irgendjemand hier einen Job zur Verfugung?</text>
+	</string>
+	<string id="dm_job_general_2">
+		<text>Ich suche nach Arbeit.</text>
+	</string>
+	<string id="dm_job_general_3">
+		<text>Weisst du, wo ich Arbeit finden kann?</text>
+	</string>
+	<string id="dm_job_0">
+		<text>Tut mir Leid, ich habe keine Ahnung..</text>
+	</string>
+	<string id="dm_job_1">
+		<text>Spore sucht immer wieder jemanden, der Gelegenheitsjobs macht. Er ist ein Informationsvermittler. Hast du die Chance auf etwas Grosses in der Zone? Spore wird dich ganz sicher gut bezahlen.</text>
+	</string>
+	<string id="dm_job_2">
+		<text>Ich habe gehort, dass Bibliothekar erfahrene Jager gesucht hat, um einige Mutanten an verschiedenen Stellen in den Sumpfen auszurauchern. Es scheinen wenige Freiwillige zu sein, die nachts jagen, also hast du eine bessere Chance, den Job zu bekommen.</text>
+	</string>
+	<string id="dm_job_3">
+		<text>Sidorowitsch hat immer irgendeine Arbeit die getan werden muss. Er zahlt normalerweise gut, aber ich wurde keinem Anfanger empfehlen, die Jobs anzunehmen, die er anbietet.</text>
+	</string>
+	<string id="dm_job_4">
+		<text>Wolf hat nach Hilfe gesucht. Er bezahlt Stalker, um Mutanten in der Gegend zu jagen, um die Sicherheit des Dorfes zu gewahrleisten.</text>
+	</string>
+	<string id="dm_job_5">
+		<text>Owl, der in der Skadovsk lebt, sucht immer Informationen. Er kauft und verkauft diese dann weiter. Ich wurde ihn fragen.</text>
+	</string>
+	<string id="dm_job_6">
+		<text>Sultan sucht Leute mit Eier aus Stahl fur harte Scheisse. Er halt sich im Thronsaal zuruck.</text>
+	</string>
+	<string id="dm_job_7">
+		<text>Gehe zum Bunker der Wissenschaftler. Ich bin sicher, dass sie einen Job haben. Sie suchen immer nach Soldnern oder Stalkern die fur sie die Drecksarbeit machen.</text>
+	</string>	
+	<string id="dm_job_8">
+		<text>Olivius ist der Mann. Er braucht Leute die ein paar Gelegenheitsjobs machen konnen. Er ist ein Handler, der im Lager im Dunklen Tal ist.</text>
+	</string>
+	<string id="dm_job_9">
+		<text>Ja, ich habe einen Job! Von hier aus gehe nach Westen. Dann geh weiter nach Westen. Und wenn du das getan hast, komm nie mehr wieder zu mir zuruck.</text>
+	</string>
+	<string id="dm_job_10">
+		<text>Tut mir Leid, ich habe keine Ahnung. Frage vielleicht andere Stalker nach einem Auftrag. Mehr kann ich dazu nicht sagen.</text>
+	</string>	
+<!-- TIPS -->
+	<string id="dm_tips_general_1">
+		<text>Weisst du irgendetwas nutzliches?</text>
+	</string>
+	<string id="dm_tips_general_2">
+		<text>Wie hast du es geschafft hier so lange in der Zone am Leben zu bleiben?</text>
+	</string>
+	<string id="dm_tips_general_3">
+		<text>Was fur eine Art Tipp kannst du mir fur die Zone hier geben?</text>
+	</string>
+	<string id="dm_tips_0">
+		<text>Ich habe echt keine Tipps, die ich dir geben konnte.</text>
+	</string>	
+	<string id="dm_tips_1">
+		<text>Du schiesst einem Typen ein paar mal in sein Gesicht und er ist erledigt. Es ist egal was er tragt, solange es kein Exoskelett ist naturlich.</text>
+	</string>	
+	<string id="dm_tips_2">
+		<text>Benutze eine oder zwei Granaten, um einen Kerl dazu zu bringen, seinen Arsch wegzuschaffen. Er wird sich nicht mehr lange verstecken konnen wenn er eine Ananas neben sich rollen sieht. Heh.</text>
+	</string>
+	<string id="dm_tips_3">
+		<text>Wenn du einen schnell genug auslosenden Finger hast, kannst du beide Rohre einer Schrotflinte gleichzeitig abfeuern. Denk an meine Worte, wenn du einem Blutsauger begegnest.</text>
+	</string>	
+	<string id="dm_tips_4">
+		<text>Unterschatze die Pistolen nicht, Stalker. Sie sind ziemlich praktisch. Wenn du nicht viel Munition fur dein Gewehr ubrig hast, dann kannst du immernoch deine Knarre verwenden. Das hat mir mal den Arsch gerettet...</text>
+	</string>	
+	<string id="dm_tips_5">
+		<text>Wenn du einen Kopfgeld kassierst, kannst du den armen Bastard so ausschalten, ohne das es jemand bemerken wird. Benutze dafur einfach ein Scharfschutzengewehr. Von einer langen Distanz wirst du dem Typen ganz sicher noch einen Kopfschuss verpassen konnen.</text>
+	</string>	
+	<string id="dm_tips_6">
+		<text>Du wirst nicht in der Lage sein irgendeinen Mist zu treffen, wenn du wahrend des Schiessens rennst. Finde als erstes Deckung, und verstecke dich dahinter. Dann lehne dich aus, um zu schiessen. Ich kann dir versprechen, das du so mehr genauer treffen wirst.</text>
+	</string>	
+	<string id="dm_tips_7">
+		<text>Halte deine Ausrustung in gutem Zustand. Deine Waffe wird klemmen und dein Anzug wird voller Locher sein, wenn du nicht manchmal zum Mechaniker gehst.</text>
+	</string>	
+	<string id="dm_tips_8">
+		<text>Das letzte Mal, als ich zu einem Mechaniker ging, konnte er nicht einmal die Halfte von dem Mist aufwerten und bat mich hinauszugehen und Werkzeuge fur ihn zu holen. Was, bin ich jetzt sein Laufbursche?</text>
+	</string>	
+	<string id="dm_tips_9">
+		<text>Hast du jemals einen Typen getroffen, der wahrend einer Emission draussen gestanden ist? Naturlich hast du das nicht! Hoffe ich jedenfalls... Sollte eine Emission auftreten, dann lauf sofort zu einem Gebaude mit einem stabilen Dach. Zu spat ist es erst, wenn du das Gefuhl hast, dass dein Gehirn am Kochen ist.</text>
+	</string>	
+	<string id="dm_tips_10">
+		<text>Ich habe einmal fast meine Beine verloren. Ich habe eine ganze Reihe Schmetterlingsminen gelegt um meinen Arsch zu schutzen, wahrend ich Leichen geplundert habe. Auf dem Ruckweg, vergass ich sie. Diese Dinger gehen immer hoch, egal wer sie gelegt hat.</text>
+	</string>	
+	<string id="dm_tips_11">
+		<text>Nur weil die meisten Handler keinen Job fur dich haben, heisst es nicht, dass wir Stalker es auch nicht tun. Du kannst gutes Geld verdienen, wenn du Drecksarbeit fur andere machst. Vielleicht findest du in der Zwischenzeit sogar mehr Beute.</text>
+	</string>
+	<string id="dm_tips_12">
+		<text>Behalte alle Medikamente, die du finden kannst. Du kannst niemals wissen, wann sie nutzlich sein konnten. Hercules ist auch ziemlich gut, wenn du mal etwas schwerere Sachen transportierst. Und der Psi-Block wird dir gegen einen Controller helfen.</text>
+	</string>
+	<string id="dm_tips_13">
+		<text>Nimm immer etwas mehr Munition mit, als du denkst das du brauchst. Es gibt wohl nichts schlimmeres, als eine ganze Horde von Mutanten mit einer Klinge bekampfen zu mussen...</text>
+	</string>	
+	<string id="dm_tips_14">
+		<text>Hast du je versucht, Artefakte zu jagen? Hole dir einen Detektor und gehe dann in die Nahe eines anomalen Bereichs. Wenn das Ding erstmal anfangt zu piepen, dann gibt es ein Artefakt in der Nahe. Du wirst aber mehr Geld fur die besseren Detektoren ausgeben mussen, um bessere Artefakte zu finden.</text>
+	</string>
+	<string id="dm_tips_15">
+		<text>Laufe nicht direkt mit dem Gesicht in die Anomalie. Wenn du denkst, dass es einen in der Nahe gibt, wirf ein paar Schrauben darauf. Eher die Schrauben, als du, oder?</text>
+	</string>
+	<string id="dm_tips_16">
+		<text>Wenn du dich nicht gut fuhlst, versuche mal etwas zu essen. Es hat zwar nicht den selben Effekt wie ein Medikit, aber es wird dich genug aufmuntern, um in Gang zu bleiben.</text>
+	</string>
+	<string id="dm_tips_17">
+		<text>Ignoriere deinen PDA nicht. Es behalt deine Aufgaben und Ziele im Auge und hilft dir mit der Karte, sich in der Zone zurechtzufinden falls du dich verlaufen hast, oder planst wo hinzugehen.</text>
+	</string>
+	<string id="dm_tips_18">
+		<text>Steck immer deine Waffe ein, wenn du mit jemandem reden willst. Niemand mag es, wenn ein Waffenrohr direkt vor seiner Fresse ist.</text>
+	</string>
+	<string id="dm_tips_19">
+		<text>Stelle sicher, Energy Drinks mit dir mitzunehmen. Sie werden nutzlich sein, wenn du beim laufen mude wirst und du deine Beute zu deinem Lager zurucktragen willst.</text>
+	</string>
+	<string id="dm_tips_20">
+		<text>Wenn dein Helm ein Nachtsichtsgerat hat, dann solltest du es aufrusten. Du wirst in der Lage sein, weiter und klarer zu sehen, wenn du einen Mechaniker fur etwas Geld damit herumschrauben lasst.</text>
+	</string>	
+	<string id="dm_tips_21">
+		<text>Du bist nicht wehrlos, wenn du eine Artefaktjagd betreibst. Aber jetzt kommmt die Frage; Was ist wenn ich schon den Detektor trage? Dann kannst du immernoch eine Pistole in der anderen Hand halten.</text>
+	</string>	
+	<string id="dm_tips_22">
+		<text>Es gibt einige Platze zum schlafen, wenn du dir die Zeit vertreiben willst. In den meisten Lagern, gibt es immer ein freies Bett. Aber du kannst naturlich auch einen Schlafsack mitnehmen.</text>
+	</string>	
+	<string id="dm_tips_23">
+		<text>Artefakte sind nicht immer gute Nachrichten. Sie werden dich langsam mit ihrer Strahlung toten, wenn du nicht geschutzt bist. Bedenke, dass es Artefakte gibt, die Strahlung absorbieren konnen.</text>
+	</string>	
+	<string id="dm_tips_24">
+		<text>Dein Messer ist nicht nur eine Waffe, mit der man sich an Menschen heranschleichen, und toten kann, sondern kann sich auch fur Schlosser und Boxen nutzlich erweisen. Du sparst damit Munition und dich wird kein Schwein beim plundern horen.</text>
+	</string>	
+	<string id="dm_tips_25">
+		<text>Wenn du immer wieder ausser Atem bist, hor auf so viel Mist zu tragen. Du kannst es immer irgendwo in einem Rucksack verstauen oder an einen Handler verkaufen.</text>
+	</string>	
+	<string id="dm_tips_26">
+		<text>Wenn du Medikamente willst, dann gehe zu einem Arzt und wenn du Alkohol willst, dann gehe zum Wirt. Viele Handler hier draussen spezialisieren sich auf bestimmte Arten von Waren.</text>
+	</string>	
+	<string id="dm_tips_27">
+		<text>Du wirst nicht standig Artefakte am selben Ort finden. Sie andern sich alle nach einer Emission. Denk daran, wenn du dass nachste Mal in der Nahe einer Anomalie bist.</text>
+	</string>	
+	<string id="dm_tips_28">
+		<text>Die Zone hat ein Eigenleben, Stalker. Nur weil es keine Freaks uber das letzte Mal gab, als du an einem Ort warst, bedeutet das nicht, dass sie seither nicht dort eingezogen sind.</text>
+	</string>	
+	<string id="dm_tips_29">
+		<text>Wenn du nichts gegen Strahlenvergiftung hast, dann versuche irgendwie am Leben zu bleiben, bis du einen Arzt erreichen kannst. Aber dann frage dich selbst: Warum tragst du keinen Wodka?</text>
+	</string>
+	<string id="dm_tips_30">
+		<text>Laufe und spring. Wenn etwas zu weit weg ist, wird dein Schwung dich weiter tragen. Eine einfache Moglichkeit, sich von einigen Mutanten zu befreien, da sie nicht daran denken, uber irgendeine Scheisse zu springen.</text>
+	</string>	
+	<string id="dm_tips_31">
+		<text>Der Verkauf von Artefakten ist nicht der einzige Weg, um Geld zu verdienen. Das Ausladen von nicht benotigter Ausrustung kann ebenfalls ein profitables Geschaft sein. Denke aber daran, dass Handler in der Regel nicht an Produkten interessiert sind, die beschadigt sind.</text>
+	</string>	
+	<string id="dm_tips_32">
+		<text>Ducke dich und schleiche herum, wenn du nicht gesehen oder gehort werden willst. Ein Kampf ist es nicht immer Wert zu kampfen. Oder willst du dich einfach an jemanden herranschleichen und ihn erledigen?</text>
+	</string>	
+	<string id="dm_tips_33">
+		<text>Du kannst Zielfernrohre und Werfer an deinem Gewehr anschliessen, wusstest du das? Es gibt nur ein paar Dinge, die ein Mechaniker einfach nicht tun kann. Aber du musst die Teile selbst finden...</text>
+	</string>	
+	<string id="dm_tips_34">
+		<text>Es gibt verschiedene Moglichkeiten, verschiedene Arten von Mutanten zu erledigen. Alle haben ihre eigenen Schwachstellen. Du kannst Tushkanos und Ratten treten, wusstest du das?</text>
+	</string>
+	<string id="dm_tips_35">
+		<text>Versteck dich nicht hinter einer Tur, wenn ein Typ auf dich schiesst. Den Kugeln ist es egal, ob eine Wand, oder sonst was zwischen euch beiden ist. Ist das Versteck schwach, geht die Kugel durch. So lauft das.</text>
+	</string>	
+	<string id="dm_tips_36">
+		<text>Verbinde dich mit Bandagen wenn du verwundet bist oder du von einem Mutanten verstrahlt oder angegriffen wurdest. Die Blutung kostet dich mehr, wenn du einen Sanikasten, statt einem Verband benutzt um dich zu verarzten bevor es ernst wird.</text>
+	</string>	
+	<string id="dm_tips_37">
+		<text>Wenn du nach Werkzeuge fur Waffenmodifikationen oder Anzug-Upgrades suchst, solltest du zu Sidorowitsch gehen. Er hat Verstecks Koordinaten zusammen mit Bargeld verteilt, um seine Arbeit zu erledigen. Du hast eine bessere Chance, Ausrustung in Verstecken zu finden, als Ausrustung in einer Leiche von nem Banditen zu finden.</text>
+	</string>	
+	<string id="dm_tips_38">
+		<text>Achte auf die Radio Geschwatze, die dir dein PDA sendet. Es ist ein verdammt guter Weg, um herauszufinden, was in der Gegend los ist. Du wirst in der Lage sein, jemanden in einer Schiesserei zu unterstutzen oder von Mutanten zu befreien.</text>
+	</string>	
+<!-- Wounded -->
+	<string id="dm_wounded_general">
+		<text>Hilfe!</text>
+	</string>
+	<string id="dm_wounded_medkit">
+		<text>Nimm den Erste-Hilfe Kasten.</text>
+	</string>
+	<string id="dm_wounded_sorry">
+		<text>Tut mir Leid, ich habe keinen Sanikasten.</text>
+	</string>
+
+	<string id="dm_traveler_bye">
+		<text>Okay.</text>
+	</string>
+	<string id="dm_traveler_what_are_you_doing">
+		<text>Was machst du gerade?</text>
+	</string>
+	<string id="dm_traveler_can_i_go_with_you">
+		<text>Kann ich mitkommen</text>
+	</string>
+	<string id="dm_traveler_stalker_actor_companion_yes">
+		<text>Naturlich. Gesellschaft schadet doch nie.</text>
+	</string>
+	<string id="dm_traveler_stalker_actor_companion_no">
+		<text>Nein, Tut mir Leid. Ich arbeite lieber alleine.</text>
+	</string>
+	<string id="dm_traveler_actor_go_with_squad">
+		<text>Lass uns gehen.</text>
+	</string>
+	<string id="dm_traveler_take_me_to">
+		<text>Kannst du mich wo hinbringen? Ich zahle.</text>
+	</string>
+	<string id="dm_traveler_stalker_where_do_you_want">
+		<text>Klar. Wo willst du hin?</text>
+	</string>
+	<string id="dm_traveler_actor_agree">
+		<text>Okay. Los.</text>
+	</string>
+	<string id="dm_traveler_actor_refuse">
+		<text>Ich habe meine Meinung geandert.</text>
+	</string>
+	<string id="dm_traveler_stalker_i_cant_travel">
+		<text>Gerade nicht.</text>
+	</string>
+	<string id="dm_stalker_doing_nothing_1">
+		<text>Oh, nichts.</text>
+	</string>
+	<string id="dm_stalker_doing_nothing_2">
+		<text>Nichts. Ich entspanne mich nur.</text>
+	</string>
+	<string id="dm_stalker_doing_nothing_3">
+		<text>Wie sieht es aus? Ich bin faul...</text>
+	</string>
+	<string id="dm_stalker_chasing_squad_monster">
+		<text>Ich jage einen Mutanten.</text>
+	</string>
+	<string id="dm_stalker_chasing_squad_bandit">
+		<text>Ich bin auf der Spur von einem Banditenabschaum.</text>
+	</string>
+	<string id="dm_stalker_chasing_squad_killer">
+		<text>Verfolge einige Soldner... Diese Leute sind die Bastarde.</text>
+	</string>
+	<string id="dm_stalker_chasing_squad_monolith">
+		<text>Ich bin auf der Spur von einem Trupp von Glaubigen. Sie nennen sich "Monolith"...</text>
+	</string>
+	<string id="dm_stalker_chasing_squad_zombied">
+		<text>Wir jagen einen Zombie. Leere Muscheln von einst grossen Stalker. Arme Elenden...</text>
+	</string>
+	<string id="dm_traveler_travel_cost">
+		<text>Gut, aber es wird dich was kosten.</text>
+	</string>
+	<string id="dm_traveler_actor_dont_go_with_squad">
+		<text>Ich habe es mir anders uberlegt.</text>
+	</string>
+	<string id="dm_traveler_actor_has_no_money">
+		<text>Ich habe kein Geld.</text>
+	</string>
+	<string id="dm_freedom_doing_nothing_1">
+		<text>Ich tue garnichts.</text>
+	</string>
+	<string id="dm_freedom_chasing_squad_monster">
+		<text>Ich bin auf der Spur von einigen Mutanten.</text>
+	</string>
+	<string id="dm_freedom_chasing_squad_bandit">
+		<text>Ich nehme an der ortlichen Banditenjagd teil.</text>
+	</string>
+	<string id="dm_freedom_chasing_squad_killer">
+		<text>Ich verfolge einige Soldner. Sie mussen gut bezahlt sein, um uns zu attackieren.</text>
+	</string>
+	<string id="dm_freedom_chasing_squad_monolith">
+		<text>Wir sind hinter ein paar Spinner von den "Monolithen" her.</text>
+	</string>
+	<string id="dm_freedom_chasing_squad_duty">
+		<text>Die Wachter sind hier irgendwo. Diese Bastarde konnen nicht weit sein.</text>
+	</string>
+	<string id="dm_duty_doing_nothing_1">
+		<text>Wir tun garnichts.</text>
+	</string>
+	<string id="dm_duty_chasing_squad_monster">
+		<text>Wir saubern das Gebiet von Mutanten</text>
+	</string>
+	<string id="dm_duty_chasing_squad_bandit">
+		<text>Ich mache einen Job - Banditen verfolgen.</text>
+	</string>
+	<string id="dm_duty_chasing_squad_killer">
+		<text>Wir wurden von einigen Soldnern attackiert. Ich werde nicht ruhen, bis keiner von denen mehr atmet.</text>
+	</string>
+	<string id="dm_duty_chasing_squad_monolith">
+		<text>Wir jagen eine Truppe von diesen "Monolithen" Freaks.</text>
+	</string>
+	<string id="dm_duty_chasing_squad_freedom">
+		<text>Wir tragen den Mull raus die sich "Freiheit" nennt.</text>
+	</string>
+	<string id="dm_stalker_searching_artefacts_1">
+		<text>Ich suche Artefakte.</text>
+	</string>
+	<string id="dm_stalker_searching_artefacts_2">
+		<text>Wir sammeln Pilze... Wonach sieht es denn aus was wir tun, du Dummkopf? Wir suchen Artefakte...</text>
+	</string>
+	<string id="dm_stalker_searching_artefacts_3">
+		<text>Ich jage Artefakte.</text>
+	</string>
+
+
+<!-------- Mechanic --->
+	<string id="st_mechanic_query_items">
+		<text>Is any of my equipment ready for pick-up?</text>
+	</string>
+	<string id="st_mechanic_repair_done">
+		<text>Ja, hier.</text>
+	</string>
+		<string id="st_mechanic_repair_not_done">
+		<text>Noch nicht. Komm spater wieder.</text>
+	</string>
+<!-------- Surrender --->
+	<string id="st_surrender_victim">
+		<text>...Ich gebe auf.</text>
+	</string>
+	<string id="st_surrender_query_victim_1">
+		<text>Gib mir deine Waffen und ein Stuck Lebenswichtige Informationen. Einen Standort eines Verstecks, einen Versorgungsaustauschpunkt, einen Hinterhalt, den du planst, was auch immer! Und ich werde dich am Leben lassen...</text>
+	</string>
+	<string id="st_surrender_query_victim_2">
+		<text>Wo hast du deine verdammten Sachen hingelegt? Sag es mir, verdammt! Und ich werde daruber nachdenken, deinen traurigen Arsch am Leben zu lassen!</text>
+	</string>
+	<string id="st_surrender_query_victim_3">
+		<text>Hier ist ein Medikit. Deine Waffen aber, nehme ich mit.</text>
+	</string>
+	<string id="st_surrender_query_victim_4">
+		<text>Noch irgendwelche letzten Worte? Ich bin hergekommen, um dein Kopfgeld zu kassieren!</text>
+	</string>
+
+	<string id="st_surrender_actor_1">
+		<text>Ich verschone dich.</text>
+	</string>
+	<string id="st_surrender_actor_2">
+		<text>Viel Gluck...</text>
+	</string>
+	<string id="st_surrender_actor_3">
+		<text>Es wird Zeit dich zu toten!</text>
+	</string>
+	<string id="st_surrender_victim_answer_1">
+		<text>Okay, Okay! Aber bitte tote mich nicht!</text>
+	</string>
+	<string id="st_surrender_victim_answer_2">
+		<text>Fuck! Okay!</text>
+	</string>
+	<string id="st_surrender_victim_answer_3">
+		<text>Bitte, Mann! Ich sage dir alles was du wissen willst! Aber bitte verschone mein armes Leben...</text>
+	</string>
+	<string id="st_surrender_victim_answer_4">
+		<text>Bitte tote mich nicht! Nimm meinen PDA! Es hat alles drauf, was du wissen musst!</text>
+	</string>
+	<string id="st_surrender_victim_answer_5">
+		<text>Leck mich!</text>
+	</string>
+	<string id="st_surrender_victim_answer_6">
+		<text>Danke!</text>
+	</string>
+	
+	<string id="st_surrender_victim_answer_default_bounty_1">
+		<text>Okay, Okay! Aber bitte tote mich nicht!</text>
+	</string>
+	<string id="st_surrender_victim_answer_default_bounty_2">
+		<text>Fuck! Okay!</text>
+	</string>
+	<string id="st_surrender_victim_answer_default_bounty_3">
+		<text>Bitte, Mann! Ich sage dir alles was du wissen willst! Aber bitte verschone mein armes Leben...</text>
+	</string>
+	<string id="st_surrender_victim_answer_default_bounty_4">
+		<text>Bitte tote mich nicht! Nimm meinen PDA! Es hat alles drauf, was du wissen musst!</text>
+	</string>
+	<string id="st_surrender_victim_answer_default_bounty_5">
+		<text>Fick dich!</text>
+	</string>
+	
+	<string id="st_surrender_victim_answer_esc_m_trader_bounty_1">
+		<text>Dieser Wichser Sidorowitsch hat dich geschickt, oder? Was willst du!? Geld? Hier, mein PDA. Und mein Geld. Bitte, lass mich nur am Leben!</text>
+	</string>
+	<string id="st_surrender_victim_answer_esc_m_trader_bounty_2">
+		<text>Weisst du uberhaupt warum du geschickt wurdest um mich zu toten? Kummert es dich uberhaupt einen Dreck? Sid wird in der Holle brennen...</text>
+	</string>
+	<string id="st_surrender_victim_answer_esc_m_trader_bounty_3">
+		<text>Fick dich!</text>
+	</string>
+	<string id="st_surrender_victim_answer_esc_m_trader_bounty_4">
+		<text>Beende einfach meine Qualen! Tu es endlich!</text>
+	</string>
+	<string id="st_surrender_victim_answer_esc_m_trader_bounty_5">
+		<text>...</text>
+	</string>
+	<string id="st_surrender_victim_answer_zat_b7_bandit_boss_sultan_bounty_1">
+		<text>Dieser Bastard Sultan hat dich geschickt, oder? Was willst du!? Geld? Hier, mein PDA. Und mein Geld. Bitte, lass mich nur am Leben!</text>
+	</string>
+	<string id="st_surrender_victim_answer_zat_b7_bandit_boss_sultan_bounty_2">
+		<text>Du Herzloser Wichser! Weisst du uberhaupt warum du geschickt wurdest um mich zu toten? Gibst du uberhaupt einen Fick? Sultan wird in der Holle brennen!</text>
+	</string>
+	<string id="st_surrender_victim_answer_zat_b7_bandit_boss_sultan_bounty_3">
+		<text>Fick dich!</text>
+	</string>
+	<string id="st_surrender_victim_answer_zat_b7_bandit_boss_sultan_bounty_4">
+		<text>Beende einfach meine Qualen! Tu es endlich!</text>
+	</string>
+	<string id="st_surrender_victim_answer_zat_b7_bandit_boss_sultan_bounty_5">
+		<text>...</text>
+	</string>
+<!-------- Broker --->
+	<string id="st_broker_query">
+		<text>Ich konnte etwas haben, das dich vielleicht interessiert.</text>
+	</string>
+	<string id="st_broker_query_more">
+		<text>Ich habe etwas anderes, dass du vielleicht haben willst.</text>
+	</string>
+	<string id="st_broker_query_pda">
+		<text>Ich habe einen PDA gefunden. Es konnte was nutzliches drauf sein.</text>
+	</string>
+	<string id="st_broker_query_pdas">
+		<text>Ich habe %s PDAs gefunden. Vielleicht hat einer von denen nutzliche Informationen drauf.</text>
+	</string>
+	<string id="st_broker_query_valuable">
+		<text>Ich habe etwas gefunden, das nutzliche Informationen enthalten konnte.</text>
+	</string>
+	<string id="st_broker_trade_valuable">
+		<text>%s; Sehr wertvoll. Ich bin ganz sicher interessiert.</text>
+	</string>	
+	<string id="st_broker_give_pda">
+		<text>Hier.</text>
+	</string>
+	<string id="st_broker_npc_start_1">
+		<text>Das entscheide immernoch ich. Was hast du?</text>
+	</string>
+	<string id="st_broker_npc_start_2">
+		<text>Das sollte es lieber sein, denn du verschwendest gerade meine verdammte Zeit!</text>
+	</string>
+	<string id="st_broker_npc_start_3">
+		<text>Das sollte es meiner Zeit lieber Wert sein. Was hast du?</text>
+	</string>
+	<string id="st_broker_npc_answer_pda_query">
+		<text>Alles klar, lass mich mal sehen.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_common_1">
+		<text>Nichts nutzliches.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_common_2">
+		<text>Ein paar Verstecke.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_common_3">
+		<text>Kontakte zu lokalen Drogenhandlern.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_common_4">
+		<text>Ein Tagebuch.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_common_5">
+		<text>Koordinaten eines Verstecks.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_common_6">
+		<text>Noch mehr Blodsinn.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_common_7">
+		<text>Nichts nutzliches auf dem.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_common_8">
+		<text>Einige nutzliche Kontaktinformationen.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_common_9">
+		<text>Nutzlos. Aber jemand konnte es vielleicht kaufen.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_common_10">
+		<text>Nur Mull. ich konnte einen Kaufer finden.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_common_11">
+		<text>Ein paar nutzliche Informationen.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_common_12">
+		<text>Eine Liste von Passwortern.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_common_13">
+		<text>Da sind einige Bankdaten.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_common_14">
+		<text>Ist nicht viel bei dem.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_common_15">
+		<text>Dieser erwahnt ein ortliches Treffen, das untergeht.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_common_16">
+		<text>Detaillierte Beobachtungen zu Mutationen der lokalen Flora.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_common_17">
+		<text>Sieht nach einem tollen Spiel aus.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_common_18">
+		<text>Detaillierte Beobachtungen bezuglich Fleshes.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_common_19">
+		<text>Detaillierte Beobachtungen bezuglich Ebern.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_common_20">
+		<text>Detaillierte Beobachtungen zu Whirligig Anomalien.</text>
+	</string>
+
+	<string id="st_broker_npc_about_pda_uncommon_1">
+		<text>Ich kenne einige Leute, die das wollen.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_uncommon_2">
+		<text>Fotos eines Freiheitler, der versucht, einen Blutsauger zu knacken.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_uncommon_3">
+		<text>Ein Kontakt eines einem Drogendealer.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_uncommon_4">
+		<text>Verschlusselt. Konnte wertvoll sein.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_uncommon_5">
+		<text>Dieser erwahnt einen Standort eines Verstecks.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_uncommon_6">
+		<text>Dieser ist Verschlusselt.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_uncommon_7">
+		<text>Verruckte Tagebucheintrage zu diesem Thema.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_uncommon_8">
+		<text>Einige nutzliche Kontaktinformationen.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_uncommon_9">
+		<text>Schmuggelrouteninformationen.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_uncommon_10">
+		<text>Ich konnte hier einen Kaufer finden.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_uncommon_11">
+		<text>Einige nutzliche Informationen zu diesem Thema.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_uncommon_12">
+		<text>Bankkonten Information.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_uncommon_13">
+		<text>Dies erwahnt ein Treffen zwischen den Wachter und einer lokalen Schlagertruppe.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_uncommon_14">
+		<text>Hier gibt es Koordinaten fur einen Austauschpunkt.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_uncommon_15">
+		<text>Dieser erwahnt ein ortliches Treffen, das untergeht.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_uncommon_16">
+		<text>Detaillierte Informationen uber Ratten und Hamster.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_uncommon_17">
+		<text>Informationen uber eine Abkurzung durch den Roten Wald.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_uncommon_18">
+		<text>Porno... Dieses hier ist voll von Pornos.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_uncommon_19">
+		<text>Detaillierte Beobachtungen zu verschiedenen Anomalien.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_uncommon_20">
+		<text>Viele Chat-Protokolle. Haben vielleicht etwas nutzliches.</text>
+	</string>
+
+	<string id="st_broker_npc_about_pda_rare_1">
+		<text>Fantastisch. Etwas Dreck am Bart.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_rare_2">
+		<text>Erwahnungen eines grossen Verstecks. Das nehme ich sicher.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_rare_3">
+		<text>Grossartig! Darin wird ein Drogenschmuggler erwahnt, der sich mit dem Militar beschaftigt.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_rare_4">
+		<text>Verschlusselt. Konnte aber trotzdem wertvoll sein. Ich werde das behalten.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_rare_5">
+		<text>Dieser enthalt einen Standort eines Verstecks.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_rare_6">
+		<text>Verschlusselt. Wenn es etwas zu verbergen hat, dann muss es etwas sein, das ich mochte.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_rare_7">
+		<text>Dieser hat detaillierte Informationen uber Wachter... Freiheit konnte dies auch sicherlich wollen.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_rare_8">
+		<text>Konto und Kreditkarteninformationen</text>
+	</string>
+	<string id="st_broker_npc_about_pda_rare_9">
+		<text>Angeblicher Standort der Oase.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_rare_10">
+		<text>Ich konnte einen Kaufer fur den hier finden.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_rare_11">
+		<text>Einige nutzliche Informationen zu diesem Thema.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_rare_12">
+		<text>Unverschlusselte Passworter und Bankkontodaten.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_rare_13">
+		<text>Auf dem steht ein Treffen zwischen einigen Soldnern und lokalen Schlagern fest.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_rare_14">
+		<text>Auf dem hier gibt es Koordinaten fur einen Austauschpunkt.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_rare_15">
+		<text>Dieser erwahnt ein lokales Treffen, das in ein paar Tagen untergeht.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_rare_16">
+		<text>Karten! Ein regelmassiger Kartograph! Dieser ist sehr nutzlich.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_rare_17">
+		<text>Abkurzungsinformationen durch ein Anomaliefeld.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_rare_18">
+		<text>Hier ein kommender Versorgungsaustauschpunkt.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_rare_19">
+		<text>Wissenschaftler konnten dies gebrauchen.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_rare_20">
+		<text>Was zum? Auf dem hier steht nur "Tote Strelok".</text>
+	</string>
+
+	<string id="st_broker_npc_about_pda_bonus_coords">
+		<text>Als Bonus sind hier ein paar Koordinaten zu Verstecken, die ich dir geben werde. Sie sind mir nicht wirklich wichtig, deswegen kannst du sie behalten.</text>
+	</string>
+<!-- TASK -->
+	<string id="st_ordered_task_query">
+		<text>Gibt es irgendeine Arbeit, die ich fur dich erledigen kann?</text>
+	</string>
+	<string id="st_ordered_task_query_finished">
+		<text>Die Arbeit ist erledigt.</text>
+	</string>
+	<string id="st_ordered_task_not_given_task">
+		<text>Was? Ich glaube nicht, dass du damit fertig bist, wonach ich gefragt habe.</text>
+	</string>
+	<string id="st_ordered_task_accept">
+		<text>Ich werde es tun.</text>
+	</string>
+	<string id="st_ordered_task_next">
+		<text>Hast du was anderes?</text>
+	</string>
+	<string id="st_accepted_task_1">
+		<text>Seht gut! Komm wieder, wenn die Arbeit erledigt ist.</text>
+	</string>
+	<string id="st_accepted_task_2">
+		<text>Komme mir entgegen und ich komme dir entgegen. Komm zuruck wenn es erledigt ist.</text>
+	</string>
+	<string id="st_accepted_task_3">
+		<text>Ich freue mich, dass du hilfst.</text>
+	</string>	
+	<string id="st_default_task_finished_1">
+		<text>Danke, Stalker. Hier ist deine Belohnung.</text>
+	</string>
+	<string id="st_default_task_finished_2">
+		<text>Ich bin froh, dass du durchgekommen bist. Hier ist, was ich versprochen habe:</text>
+	</string>
+	<string id="st_default_task_finished_3">
+		<text>Okay, jetzt deine Bezahlung.</text>
+	</string>
+	<string id="st_no_available_task">
+		<text>Tut mir leid, ich habe nichts.</text>
+	</string>
+	<string id="st_about_fetch_task_default">
+		<text>Ich kann mich nicht erinnern, was ich sagen wollte... Geh es einfach holen. Du weisst, was ich will!</text>
+	</string>
+	<string id="st_return_for_reward">
+		<text>Kehre fur deine Belohnung zuruck.</text>
+	</string>
+	<string id="st_nevermind">
+		<text>Auf den zweiten Gedanken. Egal, komm spater wieder.</text>
+	</string>
+	
+	<!-- Task Cancelling -->
+    <string id="dm_universal_actor_exit_sorry">
+        <text>Tut mir leid, ich konnte nicht helfen.</text>
+    </string>
+    <string id="st_ordered_task_query_cancel">
+        <text>Ich konnte den Auftrag nicht erledigen</text>
+    </string>
+    <string id="st_task_none_active">
+        <text>Was fur ein Auftrag?</text>
+    </string>
+    <string id="st_ordered_task_query_cancel_next_job">
+        <text>Nein, ich arbeite an dem.</text>
+    </string>
+    <string id="st_task_default_excuse_cancel_job">
+        <text>Ja, ich bin mit anderen Sachen beschaftigt.</text>
+    </string>
+    <string id="st_default_task_cancel_1">
+        <text>Du hast mich enttauscht Stalker.</text>
+    </string>
+    <string id="st_default_task_cancel_2">
+        <text>Was!? Ich habe mir was besseres erwartet! Zieh leine, Stalker...</text>
+    </string>
+    <string id="st_default_task_cancel_3">
+        <text>Ich denke von einem Anfanger wie dir, hatte sich sowas jeder erwarten konnen.</text>
+    </string>
+	
+		<!-- Repair -->
+	<string id="st_inventory_upgrade_reply_1">
+		<text>Dein %s wird in %s Minuten bereit sein. Komme dann wieder.</text>
+	</string>
+	<string id="st_inventory_upgrade_reply_2">
+		<text>Bald wird dein %s bereit sein. Komm in %s Minuten zuruck.</text>
+	</string>
+	<string id="st_inventory_upgrade_reply_3">
+		<text>Urgh, verpiss dich, Mann. Ich bin noch nicht betrunken.</text>
+	</string>
+	<string id="st_inventory_upgrade_reply_4">
+		<text>Dein verdammtes %s wird in einer Stunde und %s Minuten bereit sein. Bis dahin werde ich betrunken sein.</text>
+	</string>
+	<string id="st_inventory_upgrade_reply_5">
+		<text>Es ist nicht leicht, etwas zu reparieren, wenn man Erschutterungen hat... Komm in ungefahr einer Stunde fur dein %s zuruck.</text>
+	</string>
+	<string id="st_inventory_upgrade_reply_6">
+		<text>Hey Stal-- Oh Hey! Ich habe vergessen, dass ich deine Ausrustung repariere. Komme fur dein %s in einer Stunde und %s Minuten zuruck.</text>
+	</string>
+	<string id="st_inventory_upgrade_reply_7">
+		<text>Dein %s wird in einer Stunde und %s Minuten bereit sein. Also, komm dann wieder, wenn es fertig ist, okay?</text>
+	</string>
+	<string id="st_inventory_upgrade_reply_8">
+		<text>Dein %s wird in ungefahr %s Stunden und %s Minuten bereit sein. Komme dann wieder.</text>
+	</string>
+	<string id="st_inventory_upgrade_reply_9">
+		<text>Es ist fast fertig.</text>
+	</string>
+</string_table>

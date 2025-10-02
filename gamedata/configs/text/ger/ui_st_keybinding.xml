@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+	<string id="kb_active_jobs">
+		<text>PDA</text>
+	</string>
+	<string id="kb_alife_command">
+		<text>Befehl zum Angriff</text>
+	</string>
+	<string id="kb_always_run">
+		<text>Gehen/Langsam kriechen</text>
+	</string>
+	<string id="kb_artefact">
+		<text>Artefakt</text>
+	</string>
+	<string id="kb_backward">
+		<text>Ruckwarts gehen</text>
+	</string>
+	<string id="kb_binoculars">
+		<text>Fernglass</text>
+	</string>
+	<string id="kb_buy_menu">
+		<text>Kaufliste</text>
+	</string>
+	<string id="kb_chat">
+		<text>Chat</text>
+	</string>
+	<string id="kb_chat_team">
+		<text>Team Chat</text>
+	</string>
+	<string id="kb_console">
+		<text>Konsole</text>
+	</string>
+	<string id="kb_contacts">
+		<text>Kontakte auf dem PDA</text>
+	</string>
+	<string id="kb_crouch">
+		<text>Kriechen</text>
+	</string>
+	<string id="kb_crouch_toggle">
+		<text>Auf schleichen umschalten</text>
+	</string>
+	<string id="kb_detector">
+		<text>Detektor</text>
+	</string>
+	<string id="kb_down">
+		<text>Runter</text>
+	</string>
+	<string id="kb_drop">
+		<text>Fallen lassen</text>
+	</string>
+	<string id="kb_fire">
+		<text>Feuer</text>
+	</string>
+	<string id="kb_firemode_next">
+		<text>Nachster Feuer Modus</text>
+	</string>
+	<string id="kb_firemode_prev">
+		<text>Letzter Feuer Modus</text>
+	</string>
+	<string id="kb_forward">
+		<text>Vorwarts gehen</text>
+	</string>
+	<string id="kb_func">
+		<text>Unter-Fass Granatwerfer</text>
+	</string>
+	<string id="kb_grp_common">
+		<text>Allgemein</text>
+	</string>
+	<string id="kb_grp_direction">
+		<text>Richtung</text>
+	</string>
+	<string id="kb_grp_inventory">
+		<text>Inventar</text>
+	</string>
+	<string id="kb_grp_movement">
+		<text>Bewegung</text>
+	</string>
+	<string id="kb_grp_multiplayer">
+		<text>Mehrspieler</text>
+	</string>
+	<string id="kb_grp_weapons">
+		<text>Waffen</text>
+	</string>
+	<string id="kb_inventory">
+		<text>Inventar</text>
+	</string>
+	<string id="kb_jump">
+		<text>Springen</text>
+	</string>
+	<string id="kb_left">
+		<text>Links</text>
+	</string>
+	<string id="kb_left_lookout">
+		<text>Links anlehnen</text>
+	</string>
+	<string id="kb_left_strafe">
+		<text>Links gehen</text>
+	</string>
+	<string id="kb_map">
+		<text>Karte</text>
+	</string>
+	<string id="kb_next_slot">
+		<text>Nachste Waffe</text>
+	</string>
+	<string id="kb_night_vision">
+		<text>Nachtsichtsgerat</text>
+	</string>
+	<string id="kb_pause">
+		<text>Pause</text>
+	</string>
+	<string id="kb_pda">
+		<text>PDA</text>
+	</string>
+	<string id="kb_prev_slot">
+		<text>Letzte Waffe</text>
+	</string>
+	<string id="kb_quit">
+		<text>Verlassen</text>
+	</string>
+	<string id="kb_reload">
+		<text>Nachladen</text>
+	</string>
+	<string id="kb_repair">
+		<text>Reparieren</text>
+	</string>
+	<string id="kb_right">
+		<text>Rechts</text>
+	</string>
+	<string id="kb_right_lookout">
+		<text>Rechts anlehnen</text>
+	</string>
+	<string id="kb_right_strafe">
+		<text>Rechts gehen</text>
+	</string>
+	<string id="kb_scores">
+		<text>Punkte</text>
+	</string>
+	<string id="kb_screenshot">
+		<text>Screenshot</text>
+	</string>
+	<string id="kb_skin_menu">
+		<text>Model Auswahl menu</text>
+	</string>
+	<string id="kb_sprint">
+		<text>Sprint</text>
+	</string>
+	<string id="kb_team_menu">
+		<text>Team Auswahl menu</text>
+	</string>
+	<string id="kb_torch">
+		<text>Taschenlampe</text>
+	</string>
+	<string id="kb_turn_engine">
+		<text>Aktivieren</text>
+	</string>
+	<string id="kb_up">
+		<text>Oben</text>
+	</string>
+	<string id="kb_use">
+		<text>Benutzen</text>
+	</string>
+	<string id="kb_use_bandage">
+		<text>Schnelle Bandage</text>
+	</string>
+	<string id="kb_use_medkit">
+		<text>Schnelles Medikit</text>
+	</string>
+	<string id="kb_vote_begin">
+		<text>Starte Abstimmung</text>
+	</string>
+	<string id="kb_vote_menu">
+		<text>Abstimmung</text>
+	</string>
+	<string id="kb_vote_no">
+		<text>Abstimmung "Nein"</text>
+	</string>
+	<string id="kb_vote_yes">
+		<text>Abstimmung "Ja"</text>
+	</string>
+	<string id="kb_weapon1">
+		<text>Waffe 1</text>
+	</string>
+	<string id="kb_weapon2">
+		<text>Waffe 2</text>
+	</string>
+	<string id="kb_weapon3">
+		<text>Waffe 3</text>
+	</string>
+	<string id="kb_weapon4">
+		<text>Waffe 4</text>
+	</string>
+	<string id="kb_weapon5">
+		<text>Waffe 5</text>
+	</string>
+	<string id="kb_weapon6">
+		<text>Waffe 6</text>
+	</string>
+	<string id="kb_wpn_next">
+		<text>Munitions Art andern</text>
+	</string>
+	<string id="kb_wpn_prev">
+		<text>Letzte Waffe dieser Art</text>
+	</string>
+	<string id="kb_zoom">
+		<text>Zoom</text>
+	</string>
+	<string id="speech_menu_group">
+		<text>Sprach Nachricht (1)</text>
+	</string>
+	<string id="speech_menu_personal">
+		<text>Sprach Nachricht (2)</text>
+	</string>
+	<string id="kb_quick_use_1">
+		<text>Schnellauswahl Slot (1)</text>
+	</string>
+	<string id="kb_quick_use_2">
+		<text>Schnellauswahl Slot (2)</text>
+	</string>
+	<string id="kb_quick_use_3">
+		<text>Schnellauswahl Slot (3)</text>
+	</string>
+	<string id="kb_quick_use_4">
+		<text>Schnellauswahl Slot (4)</text>
+	</string>
+	<string id="kb_cam_1">
+		<text>1st Person Aussicht</text>
+	</string>
+	<string id="kb_cam_2">
+		<text>3rd Person Aussicht (1)</text>
+	</string>
+	<string id="kb_cam_3">
+		<text>3rd Person Aussicht (2)</text>
+	</string>
+	<string id="kb_cam_autoaim">
+		<text>3rd Person Auto-Zielen</text>
+	</string>
+	<string id="kb_cam_zoom_in">
+		<text>Kamera reinzoomen</text>
+	</string>
+	<string id="kb_cam_zoom_out">
+		<text>Kamera rauszoomen</text>
+	</string>
+	<string id="kb_custom1">
+		<text>Begleiter Umschalten Kampf</text>
+	</string>
+	<string id="kb_custom2">
+		<text>Begleiter Umschalten Bewegung</text>
+	</string>
+	<string id="kb_custom3">
+		<text>Begleiter Zum-Punkt-Bewegung</text>
+	</string>
+	<string id="kb_custom4">
+		<text>Begleiter Umschalten In Deckung</text>
+	</string>
+	<string id="kb_custom5">
+		<text>Begleiter Umschalten Plundern</text>
+	</string>
+	<string id="kb_custom6">
+		<text>PDA Karte</text>
+	</string>
+	<string id="kb_custom7">
+		<text>PDA Beziehungen</text>
+	</string>
+	<string id="kb_custom8">
+		<text>PDA Kontakte</text>
+	</string>
+	<string id="kb_custom9">
+		<text>PDA Statistiken</text>
+	</string>
+	<string id="kb_custom10">
+	<text>Nachrichtenverlauf</text>
+	</string>
+</string_table>

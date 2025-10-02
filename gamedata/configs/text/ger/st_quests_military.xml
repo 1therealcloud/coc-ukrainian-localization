@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+
+<!--===========================================================
+<
+< TEXT  STRINGS FOR TASKS ON MILITARY WAREHOUSES MAP
+<	CoC 1.3.11
+<
+<	Modified by: DoctorX
+<	March 18, 2016
+<
+<===========================================================-->
+
+<string_table>
+
+
+	<!-- FIND MUTANT MEAT FOR FREEDOM TASK -->
+	<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_1_name">
+		<text>Wildfleisch</text>
+	</string>
+	<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_1_text">
+		<text>Haute frisch tote Mutanten, um Wildfleisch zu sammeln. Bringe %s dann zu Geizhals im Basislager des Militarlagers.</text>
+	</string>
+	<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_1_about">
+		<text>Ich habe einen Job fur dich, Mann. Naturlich nur wenn du keine Angst vor ein paar Mutanten hast. Bist du interessiert?</text>
+	</string>
+	<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_1_fetch_about">
+		<text>Einige der Jungs bringen mir hin und wieder ein paar Kilo zuruck. Aber es war in letzter Zeit sehr langsam. Also wenn du nicht zu beschaftigt und unterwegs bist, brauche ich %s. Unser Koch totet und verarbeitet das Fleisch hier in der Kuche.</text>
+	</string>
+	<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_1_fetch_finish">
+		<text>Grossartig. Du bist ein geborener Jager! Ich habe die Bezahlung gleich hier.</text>
+	</string>
+
+
+	<!-- STOP ENEMY ASSAULT FOR FREEDOM TASK -->
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_1_name">
+		<text>Angriff abwehren</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_1_text">
+		<text>Fange den Sturmtrupp, der einem Freiheits Lager folgt, ab. Melde dich bei Lukash, sobald das Gebiet geraumt ist.</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_1_about">
+		<text>Krafte, die der Freiheit feindlich gegenuberstehen, ziehen in eines unserer Lager. Ich brauche jemanden, der in der Lage ist, den Angriff abzuwehren. Also, bist du der Mann fur den Job?</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_1_finish">
+		<text>Der Auftrag ist erledigt? Gut.</text>
+	</string>
+
+
+	<!-- RECAPTURE TERRITORY FOR FREEDOM TASK -->
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_2_name">
+		<text>Territorium der Freiheit zuruckerobern</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_2_text">
+		<text>Du wurdest beauftragt, ein Fraktionsgebiet zu verteidigen. Melde dich bei Lukash, nachdem die Arbeit erledigt ist.</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_2_about">
+		<text>Ich habe eine wichtige Mission fur dich. Die Wachter haben eines unserer Lager ubernommen und ich brauche einen Infiltrator, um es zurck zu erobern.</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_2_finish">
+		<text>Ausgezeichnet. Gut gemacht.</text>
+	</string>
+
+
+	<!-- ASSASSINATE MONOLITH FOR FREEDOM TASK -->
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_3_name">
+		<text>Eliminiere Monolithen Mitglied</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_3_text">
+		<text>Lukash hat dich beauftragt, ein Mitglied der Monolithen zu finden und zu eliminieren.</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_3_about">
+		<text>Ich habe eine sehr gefahrliche Mission. Ich habe nach Freiwilligen gefragt, aber bis jetzt ist noch niemand vorgetreten. Monolithische Krafte brechen immer wieder durch unsere Blockade. Ich mochte den Kampf ein fur alle mal beenden. Ich brauche jemanden, der ihr Territorium betritt und ein bestimmtes Mitglied ihrer Fraktion beseitigt, um ihnen eine Nachricht zu schicken. Also, wie ware es mit dir? Bist du der grosste Draufganger in diesem Lager?</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_3_finish">
+		<text>Ah, du hast uberlebt! Du scheinst wohl echte Eier aus Stahl zu haben, Alter! Einen wie dich konnte ich hier bei der Freiheit gut gebrauchen!</text>
+	</string>
+
+
+	<!-- ASSASSINATE DUTY FOR FREEDOM TASK -->
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_4_name">
+		<text>Eliminiere Ziel</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_4_text">
+		<text>Lukash hat dich beauftragt, ein Ziel zu finden und es zu eliminieren.</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_4_about">
+		<text>Es gibt eine bestimmte Person, das in der Gegenwart der Freiheit verdammt laut war und beseitigt werden muss. Bist du gut darin, Leute zu beseitigen?</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_4_finish">
+		<text>Grossartig! Du machst uns so Stolz, Mann! Hier ist deine Belohnung:</text>
+	</string>
+
+
+	<!-- FIND WEAPON FOR FREEDOM TASK -->
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_5_name">
+		<text>Finde %s</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_5_text">
+		<text>Lukash hat dich gebeten, eine bestimmte Waffe in neuwertigem Zustand zu finden. Kehre zu ihm zuruck, wenn du findest, wonach er sucht.</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_5_about">
+		<text>Mit den Wachtern im Suden vor uns und Monolith im Norden sind wir abgeschnitten. Unsere Waffen sind fast schon schrott und wir brauchen Ersatz. Hast du jemals ein Gunrunning gemacht?</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_5_fetch_about">
+		<text>Wir konnten wirklich ein neues %s gebrauchen. Wenn du uns eines in einem guten Zustand findest, ware ich bereit, einen guten Preis dafur zu bezahlen.</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_5_fetch_finish">
+		<text>Gut gemacht. Dies wird uns bei der Verteidigung in Zone sehr helfen. Hier ist die Zahlung, die ich versprochen habe.</text>
+	</string>
+
+
+	<!-- FIND LEVEL 1 TOOLS FOR SCREW TASK -->
+	<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_1_name">
+		<text>Finde %s</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_1_text">
+		<text>%s werden von Screw benotigt, um grundlegende Ausrustungs-Upgrades zu installieren. Du solltest sie ihm bringen, wenn du welche findest.</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_1_about">
+		<text>Yo, Mann. Interessierst du dich fur einen Auftrag? Ich brauche spezielle Werkzeuge, um Waffen zu verbessern.</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_1_fetch_about">
+		<text>Gut, ich brauche %s. Ich bezahle dich, wenn du mir einen Set bringen kannst.</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_1_fetch_finish">
+		<text>Danke, Mann! Ich wusste, dass es einen Grund gab, warum ich dich gefragt habe. Du siehst aus wie ein Mann, der Scheisse machen kann.</text>
+	</string>
+
+
+	<!-- FIND LEVEL 2 TOOLS FOR SCREW TASK -->
+	<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_2_name">
+		<text>Finde %s</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_2_text">
+		<text>%s werden von Screw benotigt, um fortgeschrittene Ausrustungs-Upgrades zu installieren. Du solltest sie ihm bringen, wenn du welche findest.</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_2_about">
+		<text>Haha, ich hasse es zu fragen. Aber ich konnte wirklich mehr Werkzeuge gebrauchen. Du hast mir das gebracht, was ich das letzte Mal gefragt habe, aber ich brauche eine hohere Qualitat. Kannst du wieder aushelfen?</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_2_fetch_about">
+		<text>Ich brauche eine Reihe von Fortgeschrittenen Werkzeugen. Es sollte enthalten was ich brauche. Wenn du etwas fur mich hast, ware ich dir sehr dankbar! Ich werde dir von hier aus sogar einen Rabatt anbieten.</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_2_fetch_finish">
+		<text>Wenn du so weiter machst, wird dich hier jeder lieben. Danke, Bro!</text>
+	</string>
+
+
+	<!-- FIND LEVEL 3 TOOLS FOR SCREW TASK -->
+	<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_3_name">
+		<text>Finde %s</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_3_text">
+		<text>%s werden von Screw benotigt, um sachverstandige Ausrustungsverbesserungen zu installieren. Du solltest sie ihm bringen, wenn du welche findest.</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_3_about">
+		<text>Haha, ich hasse es zu fragen. Aber ich konnte wirklich mehr Werkzeuge gebrauchen. Du hast mir das gebracht, was ich das letzte Mal gefragt habe, aber ich brauche eine hohere Qualitat. Kannst du wieder aushelfen?</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_3_fetch_about">
+		<text>Ich brauche eine Reihe von Experten-Tools. Es sollte enthalten was ich brauche. Wenn du etwas fur mich hast, ware ich dir sehr dankbar! Ich werde dir von hier aus sogar einen Rabatt anbieten.</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_3_fetch_finish">
+		<text>Wenn du so weiter machst, wird dich hier jeder lieben. Danke, Bro!</text>
+	</string>
+
+
+</string_table>

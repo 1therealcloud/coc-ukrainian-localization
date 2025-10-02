@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+
+	<string id="zat_a2_stalker_barmen_actor_info_0">
+		<text>Розкажи про тутешнє життя.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_actor_info_1">
+		<text>Ну-у, це велика тема!.. Я краще на твої запитання відповім. Запитуй.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_actor_info_1111">
+		<text>Чим тут займаються сталкери?</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_actor_info_11111">
+		<text>Друже, а ти хто - не сталкер хіба?! Охо-хо... гаразд, всяке в цьому житті буває, і провали в пам'яті також. Загалом, за бортом «Скадовська» діти досліджують місцевість, шукають артефакти. Відстрілюються від тих людей та тварин, що намагаються напасти. А на самому «Скадовську» - переважно п'ють, базікають... відпочивають, загалом, перед наступною вилазкою. Щоправда, іноді починаються веселощі. Це коли викид шибає. В цьому випадку ми всі сидимо тут тихіше за воду, нижче трави, і згадуємо тих, хто в різні часи до укриття не встиг добігти.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_actor_info_1112">
+		<text>Що привело сталкерів до центру Зони?</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_actor_info_11121">
+		<text>Ось це дуже кумедне питання! Ну, як же. Одні бажають знайти Клондайк артефактів. Інші ловлять кожну нову чутку про Оазис. Треті шукають Виконавець Бажань. Ну і не забувай ще про банальні жадібність та цікавість... У кожного є своя причина. Адже в тебе знайшлася якась?</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_actor_info_1113">
+		<text>Як ти тут опинився?</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_actor_info_11131">
+		<text>Прийшов із Глухарем, коли Випалювач відключився... але ж тебе не це цікавить, так?.. Гаразд... Основний мій бізнес - артефакти. Будь-якої дрібниці за межами Зони вже вище за дах: серйозних замовників цікавить штучний товар. Ось я і вирішив організувати табір для сталкерів там, де ще можна знайти щось цінне. А що хоче сталкер, коли повернеться із хабарем? Розслабитися та поспілкуватися! Все це він тут, на Скадовську, і знайде.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_actor_info_1114">
+		<text>Що ти думаєш про бандитів?</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_actor_info_11141">
+		<text>Та як тобі сказати... Я, в принципі, нічого не маю проти будь-кого, хто забреде на «Скадовськ», - поки що гість поводиться по-людськи. Зрештою, повних виродків не так уже й багато... А деякі бандюки - так вони ж самі колишні сталкери! Хто знає, раптом такий одного дня вирішить кинути темні справи? Усі ми люди, а у житті всяке буває.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_actor_info_1115">
+		<text>А, гаразд. Забудь.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_actor_info_11151">
+		<text>Як скажеш.</text>
+	</string>
+
+	<string id="zat_b7_stalkers_victims_dialog_11">
+		<text>Здоровий, сталкер. Я зайнятий поки що, вибач. Давай потім побалакаємо, лади?</text>
+	</string>
+
+	<string id="zat_b22_stalker_medic_start_1">
+		<text>Здорово! Чим можу допомогти?</text>
+	</string>
+	<string id="zat_b22_stalker_medic_need_health_care_0">
+		<text>Мені потрібна медична допомога.</text>
+	</string>
+	<string id="zat_b22_stalker_medic_need_health_care_1">
+		<text>Зараз подивлюся...</text>
+	</string>
+	<string id="zat_b22_stalker_medic_need_health_care_2">
+		<text>Дай гляну... Хмм... Здається, здоровий. Ні поранень, ні опромінення. Можеш йти.</text>
+	</string>
+	<string id="zat_b22_stalker_medic_need_health_care_11">
+		<text>[далі...]</text>
+	</string>
+	<string id="zat_b22_stalker_medic_need_health_care_111">
+		<text>Ну як, краще тепер?</text>
+	</string>
+	<string id="zat_b18_noah_start_11">
+		<text>Ти хто такий?</text>
+	</string>
+	<string id="zat_b18_noah_start_111">
+		<text>Сталкер. Вже бачились.</text>
+	</string>
+	<string id="zat_b18_noah_start_1111">
+		<text>Щось не пригадую... Гаразд, чого тобі?</text>
+	</string>
+	<string id="zat_b18_noah_start_112">
+		<text>Сталкер. Просто сталкер.</text>
+	</string>
+	<string id="zat_b18_noah_start_1121">
+		<text>Ти все-таки зрозумів і прийшов у Ковчег!..</text>
+	</string>
+	<string id="zat_b18_noah_start_113">
+		<text>Не твоя справа.</text>
+	</string>
+	<string id="zat_b18_noah_start_21">
+		<text>А це ти... Що треба?</text>
+	</string>
+
+
+	<string id="zat_b3_stalker_tech_start_15">
+		<text>Це ти правильно зайшов... Підлатати гармату – справа потрібна. А якщо захопив із собою пляшечку-другу, то я тобі будь-яку модифікацію влаштую. Хоч парашут на дробовик пришию...</text>
+	</string>
+	<string id="zat_b3_stalker_tech_drink_1_0">
+		<text>Є горілка. Будеш?</text>
+	</string>
+	<string id="zat_b3_stalker_tech_drink_1_2">
+		<text>Зав'язав, більше не п'ю. Коли «виріб №62» побачив, думав - все, білка вхопила... Так-то... Забагато проблем через бухло. Та й здоров'я...</text>
+	</string>
+	<string id="zat_b3_stalker_tech_drink_2_0">
+		<text>Тримай ще пляшку.</text>
+	</string>
+	<string id="zat_b3_stalker_tech_drink_3_0">
+		<text>Є третя пляшка... Якщо ще треба.</text>
+	</string>
+
+</string_table>

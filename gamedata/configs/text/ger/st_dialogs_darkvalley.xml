@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+<!--------------------------- val_smart_terrain_7_4_bandit_trader_stalker -->
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_start_dialog_1">
+		<text>Hey Mann! Ich habe ein paar Sachen zu verkaufen und vielleicht ein paar Jobs, wenn du interessiert bist. Ich bin der Typ, um den die Jungs herumkommen, wenn sie fur einen Auftrag ihre Tasche auslegen!</text>
+	</string>
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_start_dialog_2">
+		<text>Hey, Mann. Was brauchst du? Willst du Arbeit?</text>
+	</string>
+<!---------------------------- val_smart_terrain_7_3_bandit_mechanic_stalker --->
+	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_start_dialog_1">
+		<text>Was brauchst du Heute, Mann? Ich repariere deine Sachen richtig. Wenn du verschlusselte PDAs findest, kaufe ich diese bei dir.</text>
+	</string>
+	
+	<!-- Sultan, moved from Zaton to Dark Valley -->
+	
+	<string id="zat_b7_bandit_boss_sultan_intro_0">
+		<text>Merk dir, ich bin Sultan. Alles, was hier untergeht, ist entweder unter meiner Kontrolle oder wird es bald sein. Wenn du das gute Leben leben willst, musst du fur mich arbeiten. Wenn du das nicht tust, wirst du das beschissene Leben leben. So lauft das hier, Bruder.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_about_0">
+		<text>Erzahle mir uber euer Leben hier.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_about_1">
+		<text>Ein Spaziergang durch den Park ist es sicherlich nicht. Was willst du wissen?</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_about_1111">
+		<text>Was machst du hier?</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_about_11111">
+		<text>Wir passen auf Stalker auf. Du musst zugeben, dass gut die Halfte von euch mehr wie kleine Kinder sind, als Manner. Du kommst mit ein paar albernen Traumen in die Zone oder spielst den Helden, oder nur weil das Leben dich schlecht behandelt. Du merkst nicht alles, was hier auf dich wartet. Meistens der Sensenmann, heh. Das ist die Art, um die wir uns kummern. Wir finden einen in der Mullhalde,  nehmen seine Ausrustung und schicken ihn zuruck zum Kordon. Einige machen einfach die klugste Entscheidung und gehen aus der Zone. Diejenigen mit den Steinen, die hierher zuruckkommen, werden unter unseren Schutz gestellt und wir besteuern sie. Ich sage dir, niemand wagt es, auf unser Territorium zu gehen. Nicht die Armee, nicht die Soldner, nicht einmal die Mutanten.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_about_1112">
+		<text>Was hat dich zum Zentrum der Zone gefuhrt?</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_about_11121">
+		<text>Unsere Beine. Wir sind wegen Stalker hierher gekommen, was sonst? Ohne uns herum, um Ordnung zu halten, ist es ein Gottverdammtes Chaos! Du plunderst es, du behaltest es, sicher, aber wer wird deine Steuern bezahlen? Du kennst sicherlich die Friedens und Sicherheitssteuer. Als wenn einer von uns eine Anomalie melkt, wahrend wir auf der Suche sind und Mutanten in Schach halten. Wenn es ihm gut geht, nehmen wir einen Schnitt... um die Ordnung aufrecht zu erhalten, wenn du verstehst.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_about_1113">
+		<text>Wie bist du zum Boss geworden?</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_about_11131">
+		<text>Nun, wo soll ich anfangen? Es fing in der Hochschule an. Ich hatte einen guten Kumpel. Er war mein bester Freund. Wir haben zusammen rumgehangen, geraucht, getrunken, was auch immer. Nur er wollte mehr und mehr Nervenkitzel. Er nahm Drogen. Zuerst etwas Gras und dann Koks. Ich sagte ihm immer: "Du musst mit diesem Mist aufhoren Tolyan, bevor es zu spat ist." Aber er wollte nicht zuhoren. Eines Tages nahm er etwas falsches und das wars. Ich fand seine Handler und wurde Quit mit meinen Kumpel... Mein Bild wurde aufgenommen und ich wurde verhaftet. Die Holle brach los... Der Slammer, die Bandenkampfe, die Scheisse im Bauch... Als ich entlassen wurde, grundete ich ein eigenes Geschaft, wurde aber wieder eingebuchtet... Als ich wieder rauskam, liess ich den ganzen Scheiss hinter mich und konzentrierte mich auf die Zone. Habe ein paar Monate bei den Banditen verbracht und dann wurde ich befordert. Jetzt bin ich hier verantwortlich und halte das Lokale Gesetz aufrecht.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_about_1114">
+		<text>Was haltest du von Stalkern?</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_about_11141">
+		<text>Sie sind alle verschieden. Manche sind Punks, die nicht eine Woche hier bleiben, andere sind Verdiener... und andere sind immer noch ganz in Ordnung obwohl das Leben sie durch alle zwei Seiten des Kordons geschleudert hat. Wir toten die erste Art, Steuern die zweite Art. Was die letzte Art betrifft, so versuchen wir nur, uns nicht in die Quere zu kommen. Schade, dass man sie nicht immer sofort unterscheiden kann...</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_about_1115">
+		<text>Warum... sitzt du dort?</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_about_11151">
+		<text>Deine Huren-Mutters Gesicht hat eine Monatelange Warteliste. Noch irgendwelche dummen Fragen?</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_about_1116">
+		<text>Oh, egal. Vergiss es.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_about_11161">
+		<text>Wie du willst.</text>
+	</string>
+	
+</string_table>

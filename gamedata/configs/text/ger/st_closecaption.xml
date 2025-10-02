@@ -1,0 +1,2585 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+
+	<!-- UI STRINGS FOR CLOSED CAPTION MODS -->
+
+	<string id="ui_mm_cc_icc">
+		<text>Untertitel</text>
+	</string>
+	<string id="ui_mm_cc_icc_chktext">
+		<text>Auf Soundeffekten</text>
+	</string>
+	<string id="ui_mm_cc_captioning">
+		<text>Untertitel im Spiel</text>
+	</string>
+	<string id="ui_mm_cc_none">
+		<text>Keine Untertitel</text>
+	</string>
+	<string id="ui_mm_cc_storyonly">
+		<text>Nur wichtige Untertitel</text>
+	</string>
+	<string id="ui_mm_cc_all">
+		<text>Alle Untertitel</text>
+	</string>
+
+
+	<!-- STRING TABLE ADDITIONS FOR GAME -->
+
+	<string id="st_sending_msg">
+		<text>Sende Nachricht</text>
+	</string>
+	<string id="st_memo">
+		<text>Memo</text>
+	</string>
+	<string id="st_msgfrom_err1">
+		<text>[Absender unbekannt]</text>
+	</string>
+	<string id="st_msgfrom_err2">
+		<text>&lt;!DATEN_FEHLER!&gt;</text>
+	</string>
+	<string id="st_msgfrom_err3">
+		<text>=?Verbindung fehlgeschlagen</text>
+	</string>
+	<string id="st_joker_name">
+		<text>Joker</text>
+	</string>
+	<string id="st_soldier_name">
+		<text>Soldat</text>
+	</string>
+	<string id="st_hq_general_name">
+		<text>General</text>
+	</string>
+	<string id="st_ssu_commander_name">
+		<text>USS Kommandeur</text>
+	</string>
+
+
+	<!-- CLOSED CAPTIONS FOR GAME -->
+
+	<string id="cc_effect-ambient-blowout_begin">
+		<text>[emission beginnt]</text>
+	</string>
+	<string id="cc_effect-ambient-zaton-zat_b38_bloodsucker_roar">
+		<text>[blutsauger brullt]</text>
+	</string>
+	<string id="cc_effect-ambient-zaton-zat_b38_electro_box_door">
+		<text>[elektrische box offnet sich]</text>
+	</string>
+	<string id="cc_effect-ambient-zaton-zat_b38_electro_box_switch">
+		<text>[power schalter klickt]</text>
+	</string>
+	<string id="cc_effect-ambient-zaton-zat_b38_elevator_door">
+		<text>[aufzugstur offnet sich]</text>
+	</string>
+	<string id="cc_effect-ambient-zaton-zat_b38_cop_elevator_landing">
+		<text>[grouse fallt in den aufzug]</text>
+	</string>
+	<string id="cc_effect-ambient-zaton-zat_b38_lock_sound">
+		<text>[tur entriegelt sich]</text>
+	</string>
+	<string id="cc_effect-ambient-zaton-zat_b57_bloodsucker_roar">
+		<text>[blutsauger brullt]</text>
+	</string>
+	<string id="cc_effect-ambient-jupiter-jup_b16_oasis_noise">
+		<text>[seltsames knisterndes gerausch von irgendwo in der nahe]</text>
+	</string>
+	<string id="cc_effect-ambient-jupiter-jup_b41_steam">
+		<text>[luftschleuse system aktiv]</text>
+	</string>
+	<string id="cc_effect-ambient-jupiter-jup_b46_spatial_bubble_idle">
+		<text>[raumliche blase rumpelt]</text>
+	</string>
+	<string id="cc_effect-ambient-jupiter-jup_b46_spatial_bubble_rupture">
+		<text>[raumblase platzt auf]</text>
+	</string>
+	<string id="cc_effect-ambient-jupiter-jup_b219_generator_start">
+		<text>[stromgenerator startet]</text>
+	</string>
+	<string id="cc_effect-ambient-jupiter-jup_b219_underpass_opening">
+		<text>[unterfuhrungstor offnet sich]</text>
+	</string>
+	<string id="cc_effect-ambient-underpass-pas_b400_elevator_off">
+		<text>[unterfuhrungsaufzug schaltet sich ab]</text>
+	</string>
+	<string id="cc_effect-ambient-pripyat-pri_a25_blow_up_door_peep">
+		<text>[bomben countdown piepst]</text>
+	</string>
+	<string id="cc_effect-ambient-pripyat-pri_a25_freezer_knock">
+		<text>[klopfen auf metall]</text>
+	</string>
+	<string id="cc_effect-device-door_start">
+		<text>[tur geht auf]</text>
+	</string>
+	<string id="cc_effect-device-door_closing">
+		<text>[tur schliesst sich]</text>
+	</string>
+	<string id="cc_effect-device-door_stop">
+		<text>[tur schlagt zu]</text>
+	</string>
+	<string id="cc_effect-device-metal_small_open">
+		<text>[metalltur offnet sich]</text>
+	</string>
+	<string id="cc_effect-device-power_switch">
+		<text>[klicks wechseln]</text>
+	</string>
+	<string id="cc_effect-device-radio_call">
+		<text>[funkruf]</text>
+	</string>
+	<string id="cc_effect-device-wood_large_open">
+		<text>[holztur offnet sich]</text>
+	</string>
+	<string id="cc_effect-device-wood_large_close_start">
+		<text>[holztur schlie?t sich]</text>
+	</string>
+
+	<string id="cc_effect-anomaly-steam_blowout">
+		<text>[dampfzischen]</text>
+	</string>
+	<string id="cc_effect-weapons-n_desert_eagle_shot">
+		<text>[pistolenschuss]</text>
+	</string>
+
+	<string id="cc_effect-music-guitar_">
+		<text>[gitarren musik]</text>
+	</string>
+	<string id="cc_effect-music-harmonica_">
+		<text>[mundharmonika musik]</text>
+	</string>
+	<string id="cc_effect-laughter_">
+		<text>[lachen]</text>
+	</string>
+
+	<string id="cc_wounded-bandit-help">
+		<text>[verletzter bandit bittet um hilfe]</text>
+	</string>
+	<string id="cc_wounded-dolg-help">
+		<text>[verletzter wachter bittet um hilfe]</text>
+	</string>
+	<string id="cc_wounded-freedom-help">
+		<text>[verletzter freiheiter bittet um hilfe]</text>
+	</string>
+	<string id="cc_wounded-killer-help">
+		<text>[verletzter soldner bittet um hilfe]</text>
+	</string>
+	<string id="cc_wounded-military-help">
+		<text>[verletzter soldat bittet um hilfe]</text>
+	</string>
+	<string id="cc_wounded-monolith-help">
+		<text>[verletzter monolith bittet um hilfe]</text>
+	</string>
+	<string id="cc_wounded-stalker-help">
+		<text>[verletzter stalker bittet um hilfe]</text>
+	</string>
+
+	<string id="cc_fight-bandit-attack">
+		<text>[banditen angriff]</text>
+	</string>
+	<string id="cc_fight-dolg-attack">
+		<text>[wachter angriff]</text>
+	</string>
+	<string id="cc_fight-freedom-attack">
+		<text>[freiheit angriff]</text>
+	</string>
+	<string id="cc_fight-killer-attack">
+		<text>[soldner angriff]</text>
+	</string>
+	<string id="cc_fight-military-attack">
+		<text>[militar angriff]</text>
+	</string>
+	<string id="cc_fight-monolith-attack">
+		<text>[monolithen angriff]</text>
+	</string>
+	<string id="cc_fight-stalker-attack">
+		<text>[stalker angriff]</text>
+	</string>
+
+	<!-- CLOSED CAPTIONS FOR 'CALL OF PRIPYAT' -->
+
+	<!-- Zaton -->
+
+	<string id="zat_a2_base_alarm">
+		<text>Achtung Stalker, Skadowsk wird angegriffen! Wir waren gezwungen, die Luken zu verbarrikadieren, bis alles still war.</text>
+	</string>
+	<string id="zat_a2_base_guard_1">
+		<text>Komm schon, Mann, leg die Waffe weg. Das ist unser Lager, du brauchst es hier nicht.</text>
+	</string>
+	<string id="zat_a2_base_guard_2">
+		<text>Hey, Mann, dieser Ort hier ist so friedlich wie es nur geht. Also steck die Waffe weg und lass es auch so.</text>
+	</string>
+	<string id="zat_a2_base_guard_3">
+		<text>Sieh mal, Waffen sind zum Toten von Mutanten und du wirst hier keine finden. Also, leg es jetzt weg, oder?</text>
+	</string>
+	<string id="zat_a2_base_relax">
+		<text>Achtung Stalker, die Turen von Skadovsk stehen euch wieder offen.</text>
+	</string>
+	<string id="zat_a2_linker_b29_take_order">
+		<text>Grossartig! Hier ist das Geld.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_after_surge">
+		<text>Stalker, die Emission ist endlich vorbei. Ich hoffe, ihr habt dies gut uberstanden.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_farewell_1">
+		<text>Schau vorbei, wenn etwas Interessantes auftaucht. Skadovsk wird nirgendwohin gehen, das ist sicher...</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_farewell_2">
+		<text>Schau vorbei, wenn du irgendwelche Artefakte findest, und wir werden sehen, was wir tun konnen.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_farewell_angry_1">
+		<text>Sind wir hier fertig?... Ja? Gut... Der Ausgang ist dort druben?</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_farewell_angry_2">
+		<text>Ja, ja ... Du gehst jetzt weiter. Der Umgang mit Blutegeln steht nicht auf meiner Prioritatenliste.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_greeting_1">
+		<text>Hallo! Was bringt dich zu unserem bescheidenen Schiff?</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_greeting_2">
+		<text>Willkommen an Bord unseres Sumpfeisbrechers!</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_greeting_angry_1">
+		<text>Das Schiff war schon lange an Land, aber es ist immer noch voller Ratten. Was verdanken wir diesem zweifelhaften Vergnugen?</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_greeting_angry_2">
+		<text>Was willst du?</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_surge_phase_1">
+		<text>Achtung Stalker! Eine Emission nahert sich! Ich wiederhole, eine Emission nahert sich! Sucht sofort Deckung!</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_surge_phase_2">
+		<text>Achtung Stalker! Eine Emission wird jede Minute beginnen! Findet Deckung, wenn ihr leben wollt!</text>
+	</string>
+	<string id="zat_a23_about_x8">
+		<text>Die Dokumente beziehen sich auf ein Zentrallabor mit der Bezeichnung X8, das Informationen uber geheime Experimente in der Zone enthalt. Unsere Analysten interessieren sich seit einiger Zeit fur dieses Thema.</text>
+	</string>
+	<string id="zat_b100_heli_2_maps">
+		<text>Es sieht so aus, als ware die Crew mitten in der Luft gestorben, und der Helikopter ist einfach abgesturzt, weil niemand da war, um ihn zu fliegen. Der Bordcomputer hatte wohl sehr viel Gluck. Ich frage mich, ob es hier etwas Nutzliches gibt... Ah, da ist etwas...! Eine Karte des Gebiets mit bestimmten markierten Orten. Das sollte nutzlich sein.</text>
+	</string>
+	<string id="zat_b101_both_heli_info">
+		<text>Die Elektronik ist hier gleich, aber das Emissionsschutzsystem ist intakt. Was konnte das verursacht haben?</text>
+	</string>
+	<string id="zat_b101_one_heli_info">
+		<text>Die gesamte Elektronik ist ausgebrannt. Sogar die Stromkabelhulle ist geschmolzen.</text>
+	</string>
+	<string id="zat_b103_merc_come_here_now">
+		<text>Da! Das ist besser! Jetzt kannst du vorbeikommen, und wir reden.</text>
+	</string>
+	<string id="zat_b103_merc_count_1">
+		<text>Eins!</text>
+	</string>
+	<string id="zat_b103_merc_count_2">
+		<text>Zwei!</text>
+	</string>
+	<string id="zat_b103_merc_count_3">
+		<text>Drei!</text>
+	</string>
+	<string id="zat_b103_merc_hide_weapon_1">
+		<text>Pack deine Knarre weg!</text>
+	</string>
+	<string id="zat_b103_merc_hide_weapon_2">
+		<text>Ich sagte Waffe weg! Ich werde bis drei zahlen, und wenn du die Waffe bis dahin nicht weggepackt hast puste ich dir deinen scheiss Kopf weg!</text>
+	</string>
+	<string id="zat_b103_merc_talk_to_commander_1">
+		<text>Ich habe keine Lust Zahne zu zerschlagen. Sprich mit dem Kommandeur!</text>
+	</string>
+	<string id="zat_b103_merc_talk_to_commander_2">
+		<text>Der Kommandeur ist fur Gesprache verantwortlich, wenn etwas ist.</text>
+	</string>
+	<string id="zat_b103_merc_warning">
+		<text>Bist du Blod? Geh zuruck, bevor ich dein Gehirn zerschisse!</text>
+	</string>
+	<string id="zat_b106_dont_receipt_reward">
+		<text>Alles klar Leute, es wird Zeit zuruckzukehren. Du bist nutzlos, also erwarte keine Belohnung.</text>
+	</string>
+	<string id="zat_b106_garmata_refuse_talk">
+		<text>Sprich mit dem Boss. Ich schiesse lieber als dir die Zahne zu zerschlagen!</text>
+	</string>
+	<string id="zat_b106_garmata_story_reply">
+		<text>Ich habe uberall gefragen, aber es ist zwecklos. Niemand weiss nichts. Es ist als ob er ein Poltergeist oder so ware.</text>
+	</string>
+	<string id="zat_b106_gonta_hunt_complete">
+		<text>Es ist vorbei. Unsere Arbeit ist erledigt. Lass uns zuruckkehren. Denk daran bei Trapper in Yanov vorbeizuschauen, und sag ihm das der verletzte Chimera erledigt ist, um deine Belohnung zu kriegen</text>
+	</string>
+	<string id="zat_b106_gonta_hunt_great">
+		<text>Gut gemacht! Du solltest das Chimera-Jagen als Profession nehmen!</text>
+	</string>
+	<string id="zat_b106_gonta_hunt_kill">
+		<text>Wir waren da. Es ist nahe, ich kann es spuren. Wenn du es siehst, ziele auf den Kopf. Komm nicht zu nahe, Chimeren konnen dich eine Meile weit riechen, sogar wenn sie schlafen.</text>
+	</string>
+	<string id="zat_b106_gonta_hunt_plan">
+		<text>Hor zu! Die Chimere jagt in der Nacht und kehrt am Morgen in ihre Hohle zuruck, um sich dort zu erholen. Wir konnen es am Morgengrauen, wenn es ruhig ist, uberraschen. Alles, was wir tun mussen, ist, sich ihm nahern und es toten, wahrend es noch schlaft. Einfach genug. Wir mussen jedoch fruh aufstehen. Treffen wir uns in der Bar um 3 Uhr morgens.</text>
+	</string>
+	<string id="zat_b106_gonta_hunt_sneak">
+		<text>Vorsichtig! Wir mussen wirklich still sein. Wir konnen nicht riskieren, dass es uns hort.</text>
+	</string>
+	<string id="zat_b106_gonta_see_chimera">
+		<text>Der Bastard schlaft... Krabbe sagt Hallo! Feuer!</text>
+	</string>
+	<string id="zat_b106_gonta_story_angry">
+		<text>Dieser Hurensohn wird es noch bereuen, weggelaufen zu sein.</text>
+	</string>
+	<string id="zat_b106_gonta_story_ask">
+		<text>Hast du etwas uber Magpie herausgefunden?</text>
+	</string>
+	<string id="zat_b106_gonta_story_calm">
+		<text>Bleib dran, Kumpel, der Arzt hat gesagt, dass du in ein paar Tagen aufstehen wirst. Du kannst diese Zeit auch nutzen, um dich auszuruhen.</text>
+	</string>
+	<string id="zat_b106_gonta_to_actor">
+		<text>Hey Stalker! Komm her! Ich hatte da eine Frage.</text>
+	</string>
+	<string id="zat_b14_robbery_after_pay_snd_1">
+		<text>Gut! Jetzt dreh dich langsam um und verpiss dich wieder dahin, wo du herkommst!</text>
+	</string>
+	<string id="zat_b14_robbery_after_pay_snd_2">
+		<text>Bist du blod oder so? Verschwinde von hier!</text>
+	</string>
+	<string id="zat_b14_robbery_after_pay_snd_3">
+		<text>Hey Blodmann, ist uberhaupt jemand hier? Hau ab, oder ich lege dich um!</text>
+	</string>
+	<string id="zat_b14_robbery_kill_actor_snd_1">
+		<text>Ich werde aus dir ein trockenes Blutbad machen, du Arschloch!</text>
+	</string>
+	<string id="zat_b14_robbery_kill_actor_snd_2">
+		<text>Du wirst untergehen, du Schwanzlutscher!</text>
+	</string>
+	<string id="zat_b14_robbery_kill_actor_snd_3">
+		<text>Gib mir das Artefakt, du zuruckgebliebenes Stuck scheisse!</text>
+	</string>
+	<string id="zat_b14_robbery_punch">
+		<text>Was ein Arschloch!</text>
+	</string>
+	<string id="zat_b14_robbery_stand_still_snd">
+		<text>Bleib stehen und denk nicht einmal daran dich zu bewegen, Arschloch! Eine falsche Bewegung, und du bist Toast!</text>
+	</string>
+	<string id="zat_b14_robbery_stop_snd">
+		<text>Bleib genau da stehen! Pack deine Waffe weg und beweg dich bloss nicht!</text>
+	</string>
+	<string id="zat_b14_scene_1_give_item">
+		<text>Hey Beard, sieh mal was ich bei der alten Wanne gefunden hab! Wird das gehen?</text>
+	</string>
+	<string id="zat_b14_scene_1_linker_reply">
+		<text>Wow, das ist ja mal was neues...! Ich habe noch nie etwas derart gesehen. Hier, nimm das.</text>
+	</string>
+	<string id="zat_b14_scene_1_stalker_bye">
+		<text>Danke, wenn du mehr Arbeit brauchst, weisst du wo du mich finden kannst.</text>
+	</string>
+	<string id="zat_b14_scene_1_stalker_offended">
+		<text>Geh nur weiter. Du wirst diesen Moment nicht vergessen, das ist sicher.</text>
+	</string>
+	<string id="zat_b14_scene_1_stalker_teach_actor">
+		<text>Oh du bist es... Nun, Ich brauche genausoviel Geld wie du.</text>
+	</string>
+	<string id="zat_b18_noah_breakdown">
+		<text>Ah... Das ist es! Das ist das Ende_! Es ist hier... Mutanten... Uberall Mutanten!</text>
+	</string>
+	<string id="zat_b18_noah_gave_first_artefact">
+		<text>Dieser Mist rettet dich nicht, wenn die Mutanten aus der Holzarbeit rauskriechen. Hier, nimm das und hau ab!</text>
+	</string>
+	<string id="zat_b18_noah_gave_second_artefact">
+		<text>Ha! Du denkst, dass schutzt dich vor einer Emission? Hier, nimm das und renn. Rette dein Haut!</text>
+	</string>
+	<string id="zat_b18_noah_go_away">
+		<text>Dann schlag es, Spinner!</text>
+	</string>
+	<string id="zat_b18_noah_greetings_1">
+		<text>Fahrt zur Holle, verdammte Mutanten!</text>
+	</string>
+	<string id="zat_b18_noah_greetings_2">
+		<text>Verschwinded ihr Bastarde! Oder ich schalte euch alle aus!</text>
+	</string>
+	<string id="zat_b18_noah_greetings_3">
+		<text>Mutanten Arschlocher... Verpisst euch!</text>
+	</string>
+	<string id="zat_b18_noah_no_talk_1">
+		<text>Lass mich in ruhe.</text>
+	</string>
+	<string id="zat_b18_noah_no_talk_2">
+		<text>Bleib in Bewegung.</text>
+	</string>
+	<string id="zat_b18_noah_no_talk_3">
+		<text>Hau ab.</text>
+	</string>
+	<string id="zat_b20_noah_instructions">
+		<text>Pass gut auf und folge mir.</text>
+	</string>
+	<string id="zat_b20_noah_jumped">
+		<text>Gute Arbeit! Lass dich hier bald wieder blicken.</text>
+	</string>
+	<string id="zat_b20_noah_pda">
+		<text>Das sind also diese verdammten Mutanten. Sie kletterten auf das Plateau und glaubten, dass Noah nicht zu ihnen kommen wurde. Ich nehme an, sie wissen nicht, dass ich oben am nordlichen Bauernhof einen personlichen Weg habe. Ihr seid auf einer lustigen Fahrt, Arschlocher!</text>
+	</string>
+	<string id="zat_b215_stalker_guide_farewell_1">
+		<text>Nun, viel Gluck jedenfalls!</text>
+	</string>
+	<string id="zat_b215_stalker_guide_farewell_2">
+		<text>Gute Jagd!</text>
+	</string>
+	<string id="zat_b215_stalker_guide_greeting_1">
+		<text>Hallo.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_greeting_2">
+		<text>Hey, Stalker. Wie geht es dir?</text>
+	</string>
+	<string id="zat_b22_stalker_medic_diary">
+		<text>Aufnahme 12. Meine Forschung ist bald beendet... Die Leute im Lager fangen an, etwas zu bemerken. Grouse und Danila planen, Blutsauger zu jagen... Ich frage mich, wann sie es herausfinden werden. Ich muss die Kruge Blut sortieren, um herauszufinden, welche kontaminiert sind und den Rest verstecken... Jemand kommt. ... Aufnahme 13. Vielleicht meine letzte. Zuerst dieser neugierige Jager, und jetzt Grouse. Ich werde nicht damit davonkommen konnen. Sie werden mich holen... Ich weiss es... Aber es ist nicht wirklich wichtig... Diese Hamoglobinabhangigkeit wird mich sowieso bald toten. Trotzdem wurde ich lieber an einer Kugel als an einer Krankheit sterben...</text>
+	</string>
+	<string id="zat_b22_stalker_medic_farewell_1">
+		<text>Ja, naturlich. Auf wiedersehen.</text>
+	</string>
+	<string id="zat_b22_stalker_medic_farewell_2">
+		<text>Auf wiedersehen.</text>
+	</string>
+	<string id="zat_b22_stalker_medic_greeting_1">
+		<text>Was geht? Bist du verletzt oder leidest du an einer Strahlungs Krankheit?</text>
+	</string>
+	<string id="zat_b22_stalker_medic_greeting_2">
+		<text>Nein, nicht jetzt... Ja?</text>
+	</string>
+	<string id="zat_b22_stalker_medic_hello">
+		<text>Ich wusste, dass ich irgendwann ausgesetzt werden wurde... Ich bin sicher, du hast viele Fragen.</text>
+	</string>
+	<string id="zat_b28_heli_3_evacuation_points">
+		<text>Informationen zum Bordcomputer... Okay, Stingray-3 hatte in beiden Motoren einen Motorschaden. Hmm... Was gibt es sonst noch?... Eine Karte mit moglichen Evakuierungsorten. Positionen B2, B28 und B205. Interessant.</text>
+	</string>
+	<string id="zat_b29_stalker_rival_1_order_ready">
+		<text>Der Job ist erledigt. Hier ist das Artefakt.</text>
+	</string>
+	<string id="zat_b29_stalker_rival_2_order_ready">
+		<text>Der Job ist erledigt. Hier, nimm das Artefakt.</text>
+	</string>
+	<string id="zat_b3_tech_drink_no_more">
+		<text>Wie stehts, Stalker?</text>
+	</string>
+	<string id="zat_b3_tech_drunk">
+		<text>Ah... Was willst du...?</text>
+	</string>
+	<string id="zat_b3_tech_drunk_discount">
+		<text>Ehm... Hast du irgendwas vergessen?</text>
+	</string>
+	<string id="zat_b3_tech_no_sleep_1">
+		<text>Mm? Was...? Lass mich schlafen...</text>
+	</string>
+	<string id="zat_b3_tech_no_sleep_2">
+		<text>Komm schon, lass mich in ruhe...!</text>
+	</string>
+	<string id="zat_b3_tech_no_sleep_3">
+		<text>Es ist hier druben... Hilf dir selbst zu einem Drink!</text>
+	</string>
+	<string id="zat_b3_tech_realy_drunk">
+		<text>Was... Was kann ich fur dich tun?</text>
+	</string>
+	<string id="zat_b3_tech_realy_drunk_discount">
+		<text>Ah... Ehm, du bist es! Komm rein!</text>
+	</string>
+	<string id="zat_b3_tech_see_produce_62">
+		<text>Was? Zwei... Zweiundsechzig...? Das ist unmoglich.</text>
+	</string>
+	<string id="zat_b3_tech_sleep_1">
+		<text>[eingeschlafen]</text>
+	</string>
+	<string id="zat_b3_tech_sleep_2">
+		<text>...Ich sags dir, da ist nicht genug Saft...</text>
+	</string>
+	<string id="zat_b3_tech_sleep_3">
+		<text>[eingeschlafen]</text>
+	</string>
+	<string id="zat_b3_tech_sleep_4">
+		<text>Hey, Leute, wo geht ihr hin...? Ne, Ich... Ich bleibe hier...</text>
+	</string>
+	<string id="zat_b3_tech_sober">
+		<text>Hallo...</text>
+	</string>
+	<string id="zat_b3_tech_take_first_dose">
+		<text>Auf einer ruhigen Hand!</text>
+	</string>
+	<string id="zat_b3_tech_take_second_dose">
+		<text>Auf einen guten Arbeitstag!</text>
+	</string>
+	<string id="zat_b3_tech_take_third_dose">
+		<text>Auf unser gemeinsames Ziel!</text>
+	</string>
+	<string id="zat_b30_owl_about_trouble">
+		<text>Das ist Eule. Komm mich sehen! Wir mussen uber unser Geschaft sprechen.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_farewell_1">
+		<text>Ganz genau, verschwinde von hier!</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_farewell_2">
+		<text>Lass die Tur dich nicht erwischen...</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_greeting_1">
+		<text>Also, irgendwas neues?</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_greeting_2">
+		<text>Was bist du, eine Statue? Wenn du etwas zu sagen hast, dann spucks aus!</text>
+	</string>
+	<string id="zat_b33_stalker_snag_greeting_gun">
+		<text>Wow, das ist eine nette Knarre! Lass mich einen Blick darauf werfen.</text>
+	</string>
+	<string id="zat_b38_stalker_cop_about_lair_bloodsucker">
+		<text>Ich habe einen Blutsauger gesehen wie er das Gebaude betreten hat. Ich schatze, das ist ihr Zuhause... Aber lass uns diese Theorie zur Seite schieben.</text>
+	</string>
+	<string id="zat_b38_stalker_cop_another_one">
+		<text>Sieh mal! Da ist noch einer!</text>
+	</string>
+	<string id="zat_b38_stalker_cop_appear">
+		<text>Hast du das auch gehort?... Ehm... Wie auch immer, ich muss wohl Halluzinieren.</text>
+	</string>
+	<string id="zat_b38_stalker_cop_bloodsuckers_no_sleep">
+		<text>Sie wachen auf! Renn!</text>
+	</string>
+	<string id="zat_b38_stalker_cop_bloodsuckers_sleep">
+		<text>Shh! Es wimmelt hier nur von schlafenden Blutsauger. Lass uns versuchen an denen vorbeizuschleichen, ohne Gerausche zu machen.</text>
+	</string>
+	<string id="zat_b38_stalker_cop_come_here_1">
+		<text>Komm! Sieh dir das an!... Es ist wahrscheinlich der einzige Weg in den Keller zu kommen.</text>
+	</string>
+	<string id="zat_b38_stalker_cop_come_here_2">
+		<text>Bitte, spar dir den Applaus! Jetzt, lass uns einen Blick reinwerfen.</text>
+	</string>
+	<string id="zat_b38_stalker_cop_down_floor">
+		<text>Sind deine Fussohlen noch in Takt? Schauen wir uns den Keller an.</text>
+	</string>
+	<string id="zat_b38_stalker_cop_fear_end">
+		<text>Puh... Wir haben es geschafft. Und wir haben sie nichtmal bei ihrem Nickerchen gestort.</text>
+	</string>
+	<string id="zat_b38_stalker_cop_find_lair_pda">
+		<text>Ich denke ich habe deren Zuhause gefunden. Komm her, ASAP!</text>
+	</string>
+	<string id="zat_b38_stalker_cop_hit_1">
+		<text>Pass auf wo du schiesst!</text>
+	</string>
+	<string id="zat_b38_stalker_cop_hit_2">
+		<text>Was zur verdammten Holle tust du? Du hast mich angeschossen!</text>
+	</string>
+	<string id="zat_b38_stalker_cop_jump_down_1">
+		<text>Nun, runterspringen ist wohl der einzige Weg... Folge mir!</text>
+	</string>
+	<string id="zat_b38_stalker_cop_jump_down_2">
+		<text>Das sieht wie ein Ausgang aus! Spring!</text>
+	</string>
+	<string id="zat_b38_stalker_cop_kill_1">
+		<text>Einer ist erledigt! Aber da sind noch zwei von denen, also sei vorsichtig!</text>
+	</string>
+	<string id="zat_b38_stalker_cop_kill_2">
+		<text>Das sollte es gewesen sein. Das war der letzte.</text>
+	</string>
+	<string id="zat_b38_stalker_cop_not_a_hunter">	<!-- not used - sound exists only in Russian -->
+		<text>Keine Jager hier... Gott! Sieh dir das an. Da sind Klauenspuren. Die Leute davor hatten keine. Seltsam...</text>
+	</string>
+	<string id="zat_b38_stalker_cop_not_a_hunter_1">
+		<text>Sieh dir die Klauenspuren an! Seltsam..</text>
+	</string>
+	<string id="zat_b38_stalker_cop_not_a_hunter_2">
+		<text>Die Leichen die wir davor fanden, hatten keine.</text>
+	</string>
+	<string id="zat_b38_stalker_cop_not_a_hunter_3">
+		<text>Der Jager ist nicht hier, lass uns gehen!</text>
+	</string>
+	<string id="zat_b38_stalker_cop_notice">
+		<text>Achte auf die Schatten! Sie konnen uberall auftachen.</text>
+	</string>
+	<string id="zat_b38_stalker_cop_see_bloodsucker">
+		<text>Da ist etwas. Gib mir Ruckendeckung!</text>
+	</string>
+	<string id="zat_b38_stalker_cop_sit">
+		<text>Runter!</text>
+	</string>
+	<string id="zat_b38_stalker_cop_tell_about_quest">
+		<text>Wir haben den Jager nicht gefunden, aber ich habe eine Idee, wo er sein konnte. Lass mich das uberprufen, dann melde ich mich bei dir. Wahrend ich das tue, lass die Stalker von diesen blutsaugenden Arschlochern wissen. Etwas muss uber sie getan werden.</text>
+	</string>
+	<string id="zat_b38_stalker_cop_tell_stalker_about_lair">
+		<text>Wir musen Beard davon erzahlen. Lass uns hoffen dass er weiss wie man mit solchen Bastarden umgeht.</text>
+	</string>
+	<string id="zat_b38_stalker_cop_try">
+		<text>Das ist es was ich tue. Ich knacke Schlosser schon mein ganzes Leben lang.</text>
+	</string>
+	<string id="zat_b39_joker_pda_record">
+		<text>Ich bin sicher, dass das Artefakt auf dem Baum ist. Vom Hugel aus kann ich auf den Baum klettern. Ich hoffe nur, dass die Hugel frei von Mutanten sind. Es ist schade, dass ich nach diesem Streit mit Cardan und Barge allein hierher kommen musste. Aber wenn ich das Artefakt zuruckbringe, werden sie sehen, dass ich die ganze Zeit recht hatte.</text>
+	</string>
+	<string id="zat_b40_merc_combat">
+		<text>Okay, lass das fallen du Idiot!</text>
+	</string>
+	<string id="zat_b40_merc_go_away_1">
+		<text>Dreh um, Stalker! Dieser Platz ist nichts fur dich!</text>
+	</string>
+	<string id="zat_b40_merc_go_away_2">
+		<text>Stalker! Verschwinde, solange du noch Beine hast!</text>
+	</string>
+	<string id="zat_b42_controller_warning_1">
+		<text>Geh weg, Mann.</text>
+	</string>
+	<string id="zat_b42_controller_warning_2">
+		<text>Geh, und verschwinde von hier, solange du noch kannst!</text>
+	</string>
+	<string id="zat_b44_stalker_barge_pda">
+		<text>Cardan, dieser alte Betrunkene! Er ist nicht nur ein fauler Bastard. Wenn er einmal getrunken hat dann sagt er Sachen wie "Es ist besser hier. Wir mussen es ruhig angehen..." Aber dann geht er und schimpft mich und Joker, und sagt, dass wir jung sind und keine Ahnung haben! Haha...! Eh, Joker ist auch ein Stuck Scheisse. Wird angepisst, packt seine Tasche und verschwindet. Wahrend ich versuchte, Cardan zu beruhigen, ging er und die Holle soll mich holen, wenn ich weiss, wohin er ging. Und was soll ich danach tun? Mit diesem sentilen Idioten trinken? Nein danke, sein Wodka ist Scheisse! Ew. Und zu denken, wie viel versprechende Dinge am Anfang waren...</text>
+	</string>
+	<string id="zat_b5_bandit_dealer_speak_1">
+		<text>Schau, wir haben diese Artefakte hier und wir konnen mehr davon bekommen. Als gegenleistung suchen wir nach Waffen und etwas guter Ausrustung.</text>
+	</string>
+	<string id="zat_b5_bandits_see_actor">
+		<text>Hey! Wer geht dahin?</text>
+	</string>
+	<string id="zat_b5_dealer_angry">
+		<text>Du, Idiot! Du hast diesen Schwanz mitgebracht!</text>
+	</string>
+	<string id="zat_b5_dealer_bandit_speak_1">
+		<text>Was hast du den so? Zeig es mir!</text>
+	</string>
+	<string id="zat_b5_dealer_bandit_speak_2">
+		<text>Du weisst, das ich alles habe was die Wachter haben. Also sind Waffen und Ausrustung kein Problem. Alle meine Sachen sind von hochster Qualitat, keinen Zweifel.</text>
+	</string>
+	<string id="zat_b5_dealer_kill_bandits">
+		<text>Exekutiere sie. Ich brauche keine Zeugen.</text>
+	</string>
+	<string id="zat_b5_dealer_see_clients">
+		<text>Hier kommen sie.</text>
+	</string>
+	<string id="zat_b5_dealer_to_actor_fire">
+		<text>Schaltet sie aus!</text>
+	</string>
+	<string id="zat_b5_dealer_wait_clients">
+		<text>Wir warten hier. Die Kunden sollten sehr bald auftauchen.</text>
+	</string>
+	<string id="zat_b5_dealer_want_speak_with_actor">
+		<text>Warum reden wir nicht ein kleines bisschen? Nur du, und ich?</text>
+	</string>
+	<string id="zat_b5_dealer_who_there">
+		<text>Was ist passiert?</text>
+	</string>
+	<string id="zat_b5_stalkers_all_clear_go">
+		<text>Nun, das macht die Dinge klar. Schalte sie aus!</text>
+	</string>
+	<string id="zat_b5_stalkers_refuse_talk">
+		<text>Frag den Boss.</text>
+	</string>
+	<string id="zat_b5_stalkers_watch_out_sentry">
+		<text>Lass die Wachen dich nicht sehen.</text>
+	</string>
+	<string id="zat_b5_sultan_angry">
+		<text>Stalker? Was zur...?!</text>
+	</string>
+	<string id="zat_b5_sultan_kill_stalkers">
+		<text>Erledigt sie, Jungs!</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_greeting_1">
+		<text>Hallo, Stalker. Gedanken an eine Bestellung?</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_greeting_2">
+		<text>Was geht! Entschieden etwas zu bestellen?</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_greeting_3">
+		<text>Hey! Brauchst du irgendwas?</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_greeting_order_not_ready_1">
+		<text>Mach dir keine Sorgen, du bekommst deine Ware ein bisschen spater.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_greeting_order_not_ready_2">
+		<text>Komm spater wieder, ich habe die Ware noch nicht.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_greeting_order_not_ready_3">
+		<text>Komm spater vorbei. Ich werde deine Bestellung bis dahin haben.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_greeting_order_ready_1">
+		<text>Das ist deine Bestellung. Hol deine Waren.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_greeting_order_ready_2">
+		<text>Ich habe die Ware. Nimm sie!</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_greeting_order_ready_3">
+		<text>Nimm deine Waren, Stalker! Wie du siehst, halte ich immer mein Wort!</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_order">
+		<text>Die Arbeit ist erledigt. Du kannst deine Waren jetzt nehmen.</text>
+	</string>
+	<string id="zat_b52_port_bandits_after_pay_snd_1">
+		<text>Gut. Verschwinde jetzt, bevor ich es mir anders uberlege!</text>
+	</string>
+	<string id="zat_b52_port_bandits_after_pay_snd_2">
+		<text>Du bist immernoch hier? Ich bin nicht geduldig, Mann...</text>
+	</string>
+	<string id="zat_b52_port_bandits_after_pay_snd_3">
+		<text>Okay, das war's! Ich mach dich fertig!</text>
+	</string>
+	<string id="zat_b52_port_bandits_kill_actor_snd_1">
+		<text>Hor auf, du Wichser!</text>
+	</string>
+	<string id="zat_b52_port_bandits_kill_actor_snd_2">
+		<text>Bros, er will nicht kooperieren. Lasst ihn!</text>
+	</string>
+	<string id="zat_b52_port_bandits_kill_actor_snd_3">
+		<text>Bros, dieses Arschloch will nicht teilen!</text>
+	</string>
+	<string id="zat_b52_port_bandits_see_actor">
+		<text>Das ist ein Junge mit einer netten Knarre! Hey, warte!</text>
+	</string>
+	<string id="zat_b52_port_bandits_stand_still_snd">
+		<text>Warte! Ich komme runter!</text>
+	</string>
+	<string id="zat_b53_artefact_hunter_2_come_on">
+		<text>Entspann dich und bleib in Bewegung.</text>
+	</string>
+	<string id="zat_b53_artefact_hunter_2_come_on_continue">
+		<text>Schau, dein Anzug kann damit umgehen! Mach weiter!</text>
+	</string>
+	<string id="zat_b53_artefact_hunter_help">
+		<text>Hilf mir, Stalker!</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_farewell_1">
+		<text>Wir sehen uns ... Wenn du es schaffst in einem Stuck zu bleiben, das zahlt.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_farewell_2">
+		<text>Schau mal vorbei bei Zeiten! Wir werden eine tolle Zeit haben!</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_greeting_1">
+		<text>Der Mann selbst!</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_greeting_2">
+		<text>Also hast du es geschaft deinen Arsch hierher zu bewegen? Gluckwunsch!</text>
+	</string>
+	<string id="zat_b7_raider_after_bad">
+		<text>Nun, das ist es. Was zum Teufel hast du gemacht? Bewunderst du die Landschaft?</text>
+	</string>
+	<string id="zat_b7_raider_after_ok">
+		<text>Nun, das war es! Es war suss zu sehen, wie du arbeitest!</text>
+	</string>
+	<string id="zat_b7_raider_sneak_comments_1">
+		<text>Wir werden es ihnen gut tun!</text>
+	</string>
+	<string id="zat_b7_raider_sneak_comments_2">
+		<text>Hey, was ist los?</text>
+	</string>
+	<string id="zat_b7_raider_sneak_comments_3">
+		<text>Nimm eine Beruhigungstablette man! Wir werden es ihnen leicht machen.</text>
+	</string>
+	<string id="zat_b7_raiders_attack">
+		<text>Lass es uns tun!</text>
+	</string>
+	<string id="zat_b7_raiders_ready_to_go">
+		<text>Also...! Wir haben nun ein Weilchen auf dich gewartet.</text>
+	</string>
+	<string id="zat_b7_raiders_sneak_confuse">
+		<text>Was zum...?! Haben sie sich versteckt oder was?</text>
+	</string>
+	<string id="zat_b7_raiders_to_boss">
+		<text>Hor zu! Sultan will dich sehen.</text>
+	</string>
+	<string id="zat_b7_stalker_after_bad">
+		<text>Wir haben die Bastarde! Du bist nicht scharf darauf, in einen echten Kampf verwickelt zu werden, oder?</text>
+	</string>
+	<string id="zat_b7_stalker_after_ok">
+		<text>Wir haben die Bastarde! Danke fur deine Hilfe!</text>
+	</string>
+	<string id="zat_b7_stalkers_attack">
+		<text>Totet sie alle!</text>
+	</string>
+
+
+	<!-- Jupiter -->
+
+	<string id="jup_a10_bandit_leader_hello">
+		<text>Sieh dir das mal an! Der Mann personlich!</text>
+	</string>
+	<string id="jup_a10_bandits_warn">
+		<text>Steck deine Knarre weg, Stalker! Oder ich werde dich unter die Erde bringen!</text>
+	</string>
+	<string id="jup_a10_vano_need_help">
+		<text>Was mache ich? Wenn ich gehe, verliere ich Kohle. Wenn ich nicht gehe, verrecke ich.</text>
+	</string>
+	<string id="jup_a12_bandit_say_jump">
+		<text>Warum... Ist diese Veranderung noch in deinen Taschen zu horen?... Also, hat es sich?</text>
+	</string>
+	<string id="jup_a12_bandit_threat_to_prisoner">
+		<text>Einen weiteren Schritt, und er ist tot!</text>
+	</string>
+	<string id="jup_a12_bandits_bodyguard_warning_actor">
+		<text>Pack deine Knarre weg du Esel!</text>
+	</string>
+	<string id="jup_a12_bandits_warning_actor">
+		<text>Hey! Was machst du hier? Geh zuruck, woher auch immer du gekommen bist, solange du noch deine Beine Hast!</text>
+	</string>
+	<string id="jup_a12_merc_attack_started">
+		<text>Auf gehts!</text>
+	</string>
+	<string id="jup_a12_merc_cover_us">
+		<text>Ich werde dich decken.</text>
+	</string>
+	<string id="jup_a12_merc_lets_go">
+		<text>Ich ziehe uas.</text>
+	</string>
+	<string id="jup_a12_merc_ready">
+		<text>Ich bin in Position.</text>
+	</string>
+	<string id="jup_a12_stalker_assaulter_1_argue">
+		<text>Ich denke immernoch, dass wir das Artefakt verkaufen sollten und das Geld dazu verwenden sollten, neue Leute zu rekrutieren. Das ist der beste Weg, wie wir die Banditen alle gemeinsam angreifen konnen.</text>
+	</string>
+	<string id="jup_a12_stalker_assaulter_2_argue">
+		<text>Glaubst du nicht, dass sie ihn erschiessen werden, sobald sie das Artefakt haben?</text>
+	</string>
+	<string id="jup_a12_stalker_assaulter_3_argue">
+		<text>Wir konnen ihnen nicht genug geben. Egal was du ihnen gibst, sie wollen immer mehr.</text>
+	</string>
+	<string id="jup_a12_stalker_diplomat_1_argue">
+		<text>Auf keinen Fall! Es ist viel besser, ihnen das Artefakt als Losegeld zu geben.</text>
+	</string>
+	<string id="jup_a12_stalker_diplomat_2_argue">
+		<text>Sie werden ihn definitiv erschiessen, wenn wir rauskommen.</text>
+	</string>
+	<string id="jup_a12_stalker_diplomat_3_argue">
+		<text>Wir geben nicht nach...! Die Einhaltung der Bedingungen ist die einzige Option, die wir haben.</text>
+	</string>
+	<string id="jup_a12_stalker_diplomat_no_talk">
+		<text>Ich vertraue dir nicht.</text>
+	</string>
+	<string id="jup_a12_stalker_prisoner_says_we_can_run_from_here">
+		<text>Renn! Wir konnen es noch schaffen!</text>
+	</string>
+	<string id="jup_a12_stalker_prisoner_thanks_actor">
+		<text>Danke, dass du mich gerettet hast.</text>
+	</string>
+	<string id="jup_a12_stalkers_to_actor_came_back">
+		<text>Hey! Wo gehst du hin? Warte! Komm zuruck!</text>
+	</string>
+	<string id="jup_a12_stalkers_to_actor_meet_on_base">
+		<text>Ich treffe dich beim alten Bahnhof.</text>
+	</string>
+	<string id="jup_a6_base_alarm">
+		<text>Achtung an alle Stalker und alle anderen die es interessiert! Die Yanov Station wurde angegriffen! Wir haben vorlaufig alle Eingange gesperrt.</text>
+	</string>
+	<string id="jup_a6_base_guard_1">
+		<text>Pack die Waffe weg. Das ist ein neutrales Gebiet.</text>
+	</string>
+	<string id="jup_a6_base_guard_2">
+		<text>Wir sind in der Schusslinie, Stalker. Wenn du diese Waffe nicht wegpackst, bekommst du Arger.</text>
+	</string>
+	<string id="jup_a6_base_guard_3">
+		<text>Also, solange du diese Waffe in deiner Hand hast, kommst du hier nicht rein. Hast du das kapiert!?</text>
+	</string>
+	<string id="jup_a6_base_megaphone_1">
+		<text>Langsam, Kumpel. Pack die Waffe weg.</text>
+	</string>
+	<string id="jup_a6_base_megaphone_2">
+		<text>Wir erlauben keine Waffen hier drinnen.</text>
+	</string>
+	<string id="jup_a6_base_megaphone_3">
+		<text>Stalker. Wenn du rein kommen willst, pack deine Waffe weg.</text>
+	</string>
+	<string id="jup_a6_base_relax">
+		<text>Achtung an alle Stalker und alle anderen die es interessiert! Die Yanov Station ist wieder sicher. Alle konnen wieder reinkommen.</text>
+	</string>
+	<string id="jup_a6_duty_leader_farewell_1">
+		<text>Wir sehen uns, Stalker!</text>
+	</string>
+	<string id="jup_a6_duty_leader_farewell_2">
+		<text>Okay, wir sehen uns. Hab einen schonen Tag noch!</text>
+	</string>
+	<string id="jup_a6_duty_leader_greeting_1">
+		<text>Hallo, Stalker.</text>
+	</string>
+	<string id="jup_a6_duty_leader_greeting_2">
+		<text>Warum bist du hier?</text>
+	</string>
+	<string id="jup_a6_freedom_leader_farewell_1">
+		<text>Viel Gluck!</text>
+	</string>
+	<string id="jup_a6_freedom_leader_farewell_2">
+		<text>Pass auf dich auf!</text>
+	</string>
+	<string id="jup_a6_freedom_leader_greeting_1">
+		<text>Hey, Alter! Was geht?</text>
+	</string>
+	<string id="jup_a6_freedom_leader_greeting_2">
+		<text>Komm rein, Mann. Entspann dich! Nimm deine Ladung ab.</text>
+	</string>
+	<string id="jup_a6_stalker_barmen_farewell_1">
+		<text>Komm jeder Zeit wieder, wenn du magst!</text>
+	</string>
+	<string id="jup_a6_stalker_barmen_farewell_2">
+		<text>Wir sehen uns!</text>
+	</string>
+	<string id="jup_a6_stalker_barmen_greeting_1">
+		<text>Komm vorbei, Bruder! Ich habe all den Kram den du je gebrauchen kannst!</text>
+	</string>
+	<string id="jup_a6_stalker_barmen_greeting_2">
+		<text>Aloha!</text>
+	</string>
+	<string id="jup_a6_stalker_medik_after_surge">
+		<text>Die Emission ist vorbei. Ich hoffe alle sind in Ordnung. Wenn jemand verletzt ist, kommt zur Yanov Station und wir flicken euch wieder zusammen.</text>
+	</string>
+	<string id="jup_a6_stalker_medik_farewell_1">
+		<text>Nachster! ...Ah...Ich meine... Pass auf und bleib gesund!</text>
+	</string>
+	<string id="jup_a6_stalker_medik_farewell_2">
+		<text>Bleib von Arger weg, Kumpel!</text>
+	</string>
+	<string id="jup_a6_stalker_medik_greeting_1">
+		<text>Du bist ein wenig Blass, Kumpel. Wie ware es mit einer kleinen Spritze. Oder zwei?</text>
+	</string>
+	<string id="jup_a6_stalker_medik_greeting_2">
+		<text>Wieder verwundet? Du verschwendest auch keine Zeit auf dem Schlachtfeld, oder?</text>
+	</string>
+	<string id="jup_a6_stalker_medik_phase_1">
+		<text>Achtung! Achtung! Eine Emission nahert sich! Sofort Deckung finden!</text>
+	</string>
+	<string id="jup_a6_stalker_medik_phase_2">
+		<text>Achtung! Achtung! Eine Emission steht kurz bevor! Sofort Deckung finden!</text>
+	</string>
+	<string id="jup_a9_actor_conservation_info">
+		<text>Also... Die Unterfuhrung war nach der Versiegelung mit Gas gefullt.</text>
+	</string>
+	<string id="jup_a9_actor_power_info">
+		<text>Der Eingang zur Unterfuhrung ist hier. Wenn wir den Generator aktivieren, konnen wir die Transportsicherung offnen.</text>
+	</string>
+	<string id="jup_a9_actor_way_info">
+		<text>Schema fur die Unterfuhrung "Pripyat-1". Dies ist der Beweis dafur, dass es einen unterirdischen Weg nach Pripyat gibt.</text>
+	</string>
+	<string id="jup_b1_actor_dont_come">
+		<text>Hey, Mann! Zeit ist Geld. Wir sind fertig hier. Wir warten keine einzige Sekunde mehr auf dich. Die Truppe geht jetzt zuruck.</text>
+	</string>
+	<string id="jup_b1_stalker_warning">
+		<text>Pa...  Pass... Pass auf!... Contro... Control... Controller!</text>
+	</string>
+	<string id="jup_b1_stalkers_aftershock_1">
+		<text>Ahm... Heilige... Was... Was ist...? Was... Schonwieder...</text>
+	</string>
+	<string id="jup_b1_stalkers_aftershock_2">
+		<text>Ooh... Impuls... ...Bleh... Schrecklich...! Mann... Mein Kopf! Es totet mich!</text>
+	</string>
+	<string id="jup_b1_stalkers_first_stay">
+		<text>Wir warten hier auf dich. Falls etwas passiert, geben wir dir Ruckendeckung.</text>
+	</string>
+	<string id="jup_b1_stalkers_get_out">
+		<text>Oh, Scheisse! Wir verschwinden besser von hier! Pronto!</text>
+	</string>
+	<string id="jup_b1_stalkers_greeting">
+		<text>Du bist also der Lochexperte, was? He, He, He... Mach dir keine Sorgen. Du kannst dich darauf verlassen, dass die Jungs mutig und nett sind.</text>
+	</string>
+	<string id="jup_b1_stalkers_lair_check">
+		<text>Hmm... Es sieht ruhig aus. Wir konnen Weitergehen.</text>
+	</string>
+	<string id="jup_b1_stalkers_monsters_beat_off">
+		<text>Es ist alles in Ordnung. Da waren ein paar Hamster drinnen, aber wir haben uns damit beschaftigt.</text>
+	</string>
+	<string id="jup_b1_stalkers_monsters_out">
+		<text>Sieht aus, als ware das der letzte.</text>
+	</string>
+	<string id="jup_b1_stalkers_psy_wound_1">
+		<text>Aargh... Es ist in mir drinnen! Nein!...</text>
+	</string>
+	<string id="jup_b1_stalkers_second_stay">
+		<text>Geh! Wir passen beim Eingang auf.</text>
+	</string>
+	<string id="jup_b1_stalkers_see_zombied">
+		<text>Es ist ein Zombie!</text>
+	</string>
+	<string id="jup_b10_stalker_drunk_no_meet_1">
+		<text>Nun... ...Er... D-Du weisst...</text>
+	</string>
+	<string id="jup_b10_stalker_drunk_no_meet_2">
+		<text>Ha? Was?</text>
+	</string>
+	<string id="jup_b10_stalker_drunk_no_meet_3">
+		<text>Er... Nun...</text>
+	</string>
+	<string id="jup_b10_ufo_memory_repaired_nitro">
+		<text>Hiya, es ist Nitro. Komm vorbei fur dieses Speichermodul. Es ist bereit fur dich.</text>
+	</string>
+	<string id="jup_b15_zulus_greeting">
+		<text>Was geht?</text>
+	</string>
+	<string id="jup_b15_zulus_ready">
+		<text>Okay, wir haben einen Deal. Wir gehen zusammen. Welche Kampfer du auch immer siehst, schicke sie zu mir und ich mache ein ganzes Team daraus. Wenn alles fertig ist, komm zu mir. Wir holen Nitro ab und machen uns auf den Weg nach Jupiter.</text>
+	</string>
+	<string id="jup_b19_freedom_yar_about_zombie_1">
+		<text>Sieht wie ein ruhiges Dorf aus... Es sei denn, wir storen die Einwohner.</text>
+	</string>
+	<string id="jup_b19_freedom_yar_about_zombie_2">
+		<text>Es ist so ruhig hier... Wie ein Erholungsort.</text>
+	</string>
+	<string id="jup_b19_freedom_yar_about_zombie_3">
+		<text>Wir sind fast da.</text>
+	</string>
+	<string id="jup_b19_freedom_yar_come_here_1">
+		<text>Komm hoch, die Dinge stehen kurz bevor!</text>
+	</string>
+	<string id="jup_b19_freedom_yar_come_here_2">
+		<text>Komm schon, worauf wartest du? Du wirst das Beste verpassen.</text>
+	</string>
+	<string id="jup_b19_freedom_yar_come_here_3">
+		<text>Was machst du? Beeil dich! Das lustige Zeug fangt gleich an.</text>
+	</string>
+	<string id="jup_b19_freedom_yar_explanations">
+		<text>Also, das ist es. Ich kann sehen, dass du voller Fragen bist, und ich kann das verstehen. Lass uns ein wenig reden, oder?</text>
+	</string>
+	<string id="jup_b19_freedom_yar_guessed_long">
+		<text>Sieht so aus, als hatte ich recht. Jetzt werden die Zombies uns decken und diese Bastarde erschiessen!</text>
+	</string>
+	<string id="jup_b19_freedom_yar_guessed_short">
+		<text>Sieht so aus, als hatte ich recht. Erschiesst diese Bastarde!</text>
+	</string>
+	<string id="jup_b19_freedom_yar_suspense">
+		<text>Lass uns sehen ob ich recht hatte.</text>
+	</string>
+	<string id="jup_b19_freedom_yar_zombie_hit">
+		<text>Warum hast du das getan? Er hat dich nicht einmal beruhrt, oder? Verdammt!</text>
+	</string>
+	<string id="jup_b202_bandit_pda">
+		<text>Sultan, ich habe diesen Verlierer wirklich gut behandelt. Das wird ihn lehren, sich nicht mit uns anzulegen!</text>
+	</string>
+	<string id="jup_b202_bandit_to_snag">
+		<text>Sultan sendet seine Grusse, du Wichser!</text>
+	</string>
+	<string id="jup_b202_snag_pda">
+		<text>Ich bin diesen Arschlochern entkommen. Je fruher, desto besser. Die Beute, die ich hinter dem Umspannwerk versteckt habe, sollte mich eine Weile durchhalten lassen. Das Leben geht weiter. Ich bin mir sicher, dass sie schon nach mir suchen. Es ist alles in Ordnung. Wir werden sehen, wer am Ende wen bekommt.</text>
+	</string>
+	<string id="jup_b207_duty_guards_warning_actor">
+		<text>Hey! Verschwinde! Nur Mitglieder, der Wachter gestattet!</text>
+	</string>
+	<string id="jup_b207_duty_leader_about_depot">
+		<text>Gavrilenko! Ich habe von dem Lagerhaus erfahren. Es ist die Freiheit, und es sollte viele von ihnen geben. Bring deine ganze Truppe mit und wir werden diese Wichser schnell erledigen.</text>
+	</string>
+	<string id="jup_b207_duty_leader_about_depot_after">
+		<text>Wenn dies uberpruft wird, erhaltest du Zugriff auf das Lagerhaus.</text>
+	</string>
+	<string id="jup_b207_duty_security_squad_to_freedom_leave">
+		<text>Achtung, Freiheit! Dies ist das Wachter Territorium! Verschwindet sofort vom Lagerhaus!</text>
+	</string>
+	<string id="jup_b207_duty_security_squad_to_freedom_start_attack">
+		<text>Bastarde...! Nun, sie haben danach gefragt. Manner, beginnt mit der Operation!</text>
+	</string>
+	<string id="jup_b207_freedom_guards_warning_actor">
+		<text>Das ist kein offentlicher Teil, Junge. Du solltest am besten auf dem Weg sein.</text>
+	</string>
+	<string id="jup_b207_freedom_leader_about_depot">
+		<text>Kremen! Nimm deine Manner und komm zu Haiduk in das Lagerhaus. Diese Wachter Bastarde kommen bald fur ihre Vorrate!</text>
+	</string>
+	<string id="jup_b207_freedom_leader_about_depot_after">
+		<text>Grossartig! Jetzt werden die Jungs in der Lage sein, sie zu bekampfen. Ich vergesse Gefalligkeiten nicht, also kannst du das Versteck immer benutzen, wann immer du willst. Ich werde es alle wissen lassen.</text>
+	</string>
+	<string id="jup_b207_freedom_recon_squad_refuse">
+		<text>Klare Sache! Gib uns nur eine Minute, um etwas Munition aufzustocken.</text>
+	</string>
+	<string id="jup_b212_trapper_found_chimera">
+		<text>Hey, es ist Trapper. Ich hatte gerade einen Jager hier, der letzte Nacht eine Chimera gesehen hat. Nach der Beschreibung zu urteilen, ist es dieselbe, nach der wir suchen. Komm und triff mich, wenn du kannst. Es ist wichtig.</text>
+	</string>
+	<string id="jup_b217_stalker_guide_welcome">
+		<text>Hier sind wir. Die Yanov Station ist eine Oase der relativen Sicherheit in der Gegend um Jupiter. Hier gehen wir getrennte Wege. Aber wenn du mich brauchst, such mich an der Bar.</text>
+	</string>
+	<string id="jup_b217_stalker_tech_farewell_1">
+		<text>Bis spater!</text>
+	</string>
+	<string id="jup_b217_stalker_tech_farewell_2">
+		<text>Wir sehen uns!</text>
+	</string>
+	<string id="jup_b217_stalker_tech_greeting_1">
+		<text>Hey, Kumpel!</text>
+	</string>
+	<string id="jup_b217_stalker_tech_greeting_2">
+		<text>Was geht!?</text>
+	</string>
+	<string id="jup_b217_stalker_tech_welcome">
+		<text>Erstes Mal hier? Ich bin selbst relativ neu hier. Mein Name ist Nitro. Ich arbeite mit Ausrustung. Ich kann alles reparieren, was du brauchst. Aber... ein paar gute Werkzeuge zu bekommen ist hier ein Problem. Wenn du etwas hast, bring es direkt zu mir. Und wenn du technische Hilfe brauchst, komm zu mir, und ich werde dir so gut wie es nur geht helfen.</text>
+	</string>
+	<string id="jup_b219_actor_go">
+		<text>Das ist gut. Los!</text>
+	</string>
+	<string id="jup_b219_actor_ready">
+		<text>Jeder ist bereit. Offnet es!</text>
+	</string>
+	<string id="jup_b219_duty_ready">
+		<text>Bereit! Truppe?</text>
+	</string>
+	<string id="jup_b219_duty_to_tech">
+		<text>Klar!</text>
+	</string>
+	<string id="jup_b219_monolith_ready">
+		<text>Auch, bereit.</text>
+	</string>
+	<string id="jup_b219_soldier_ready">
+		<text>Ich habe ein schlechtes Gefuhl bei der Sache.</text>
+	</string>
+	<string id="jup_b219_stalker_ready">
+		<text>Ich bin bereit seit ich geboren wurde!</text>
+	</string>
+	<string id="jup_b219_tech_damn">
+		<text>Gah...! Kommt schon!</text>
+	</string>
+	<string id="jup_b219_tech_opening">
+		<text>Roger. Lass uns rocken!</text>
+	</string>
+	<string id="jup_b219_tech_ready">
+		<text>Bereit zu gehen?</text>
+	</string>
+	<string id="jup_b219_tech_success">
+		<text>Na also! Das ist besser.</text>
+	</string>
+	<string id="jup_b219_tech_to_duty">
+		<text>Viel Gluck, Jungs!</text>
+	</string>
+	<string id="jup_b220_trapper_farewell_1">
+		<text>Hab einen guten Tag!</text>
+	</string>
+	<string id="jup_b220_trapper_farewell_2">
+		<text>Gute Jagd!</text>
+	</string>
+	<string id="jup_b220_trapper_greeting_1">
+		<text>Howdy!</text>
+	</string>
+	<string id="jup_b220_trapper_greeting_2">
+		<text>Wie lauft die Jagd?</text>
+	</string>
+	<string id="jup_b221_duty_main_1">
+		<text>Nun, ich schlage einen Toast auf eine tapfere Truppe von Wachter Mannern vor, die an die Front geschickt werden, um einen ernsthaften grunen Abschaum Arsch zu treten.</text>
+	</string>
+	<string id="jup_b221_duty_main_2">
+		<text>Habe ich dir die Geschichte von Flint erzahlt? Zuerst richtete er Stalkerjager ein, um von einer Chimeras angegriffen zu werden, dann verliess er seinen Partner, und liess ihn in einer Anomalie sterben, und dann trat er der Freiheit bei. Ich wurde sagen, das ist eine ziemlich logische Schlussfolgerung. Also, ich wurde sagen, wir trinken in der Hoffnung, dass alle Mitglieder der Freiheit seiner Fuhrung folgen und wir werden uns um denjenigen kummern, der ubrig ist.</text>
+	</string>
+	<string id="jup_b221_duty_main_3">
+		<text>Lasst uns darauf trinken, dass selbst in der Mitte der Zone Leute sind, die bereit sind, bei den Wachtern zu leisten! Auf unsere neue Truppe!</text>
+	</string>
+	<string id="jup_b221_duty_main_4">
+		<text>Ich erhebe mein Glas zu der Tatsache, dass dieser Forschungskomplex jetzt vollstandig durch die Wachter vor Mutanten, Anarchisten und anderem Abschaum geschutzt ist.</text>
+	</string>
+	<string id="jup_b221_duty_main_5">
+		<text>Gefahrten! Lasst uns trinken, um unsere tapferen Freiwilligen zu ehren, die Lesungen in einigen der gefahrlichsten Gegenden der Zone zum Wohle unseres Wissenschaftlichen Fortschritts machen.</text>
+	</string>
+	<string id="jup_b221_duty_main_6">
+		<text>Ich schlage einen Toast auf Wachter Einheiten vor, die mutig einen feigen Angriff dieser schmutzigen Dreckskerle abwehren.</text>
+	</string>
+	<string id="jup_b221_duty_reaction_1">
+		<text>Verdammt richtig!</text>
+	</string>
+	<string id="jup_b221_duty_reaction_2">
+		<text>Absolut!</text>
+	</string>
+	<string id="jup_b221_duty_reaction_3">
+		<text>Schon gesagt!</text>
+	</string>
+	<string id="jup_b221_duty_reaction_4">
+		<text>Ich konnte nicht besser zustimmen.</text>
+	</string>
+	<string id="jup_b221_duty_reply_1">
+		<text>Er ist schon tot. Und wenn es nach mir ginge, wurde ich euch alle folgen lassen. Bringe dir selber bei, die Produkte der Zone, die von derselben Gier angetrieben werden, nicht zu exportieren.</text>
+	</string>
+	<string id="jup_b221_duty_reply_2">
+		<text>Niemand weiss, was wirklich passiert ist. Es ist nicht so, als warst du da, um es zu sehen.</text>
+	</string>
+	<string id="jup_b221_duty_reply_3">
+		<text>Ist das ein Trupp von Monolith Leuten? Nun, ich hoffe, du wirst auch einen Blutsauger finden, denn wenn du das tust, wird dich der Oberstleutnant definitiv zur Liste der gefahrlichen Mutanten hinzufugen.</text>
+	</string>
+	<string id="jup_b221_duty_reply_4">
+		<text>Ha! Manche bewachen dich. Erst im letzten Jahr haben dich die Soldner mit deinem Schwanz zwischen den Beinen durch das Dunkle Tal rennen sehen. Oder hast du es vergessen?</text>
+	</string>
+	<string id="jup_b221_duty_reply_5">
+		<text>Ja, ich kann mir die Lesungen vorstellen, die die Wissenschaftler bekommen. Luftproben: 100% Rauch, Wasserproben: 100% Wodka und idiotisches Lachen auf allen Tonfrequenzen.</text>
+	</string>
+	<string id="jup_b221_duty_reply_6">
+		<text>Das ist in Ordnung. Wir werden unsere Waffen zuruckbekommen. Ihr habt eine nette Angewohnheit entwickelt, Waffen und Artefakte fallen zu lassen, wenn ihr auf unsere Kampfer stosst. Ich mache euch auch keine Vorwurfe. Wird nicht leicht sein das alles zu tragen mit deiner Scheisse in der Hose und das ganze drum und dran, oder?</text>
+	</string>
+	<string id="jup_b221_freedom_main_1">
+		<text>Jungs! Habt ihr gehort, wie sich die Wachter an ihren Traditionen festhalten? Behalte sie im Auge Officer Morgan, weil er der strikten Notwendigkeit folgte, den Ruf seiner Fraktion aufrecht zu erhalten, hielt er es fur seine "Pflicht", die Halfte seines Lagers auf Sicht zu verkaufen.</text>
+	</string>
+	<string id="jup_b221_freedom_main_2">
+		<text>Einfallen! Erinnerst du dich? General Tkatschenko selbst hat die festen Traditionen der Wachter festgelegt. Er belog seine Kameraden, verfuhrte das Hauptquartier und starb tapfer in einer Space Blase. Hier folgt allen Mitgliedern der Wachter, seiner Fuhrung folgen.</text>
+	</string>
+	<string id="jup_b221_freedom_main_3">
+		<text>Weisst du, als ich unseren neuen Trupp das erste Mal sah, fragte ich sie: "Gefahrten, wurdet ihr es vorziehen, den Wachtern beizutreten? Ihr konnt doch machen was ihr wollt." Sie sagten zu mir: "Nein, Danke. Bei ihnen dreht sich alles um die Bestellungen. Kein Wunder, dass ihre Augen leer sind. Wir haben genug von Zombies."</text>
+	</string>
+	<string id="jup_b221_freedom_main_4">
+		<text>Ein Mitglied der Wachter kam zu einem unserer Leute, stieg in den Bunker und fragte ihn: "Professor, kannst du mir sagen, welches Artefakt am besten ist, um Eber zu bekampfen? Geknupft, um dich vor Strahlung zu schutzen, oder  um dir mit Wunden zu helfen." Weisst du, was die Antwort war? "Shell ist was du brauchst, mein Sohn. Wenn du einen Eber siehst, renn so schnell wie moglich zu deiner Basis zuruck. Haha!"</text>
+	</string>
+	<string id="jup_b221_freedom_main_5">
+		<text>Leute, wisst ihr, wie die Wissenschaftler dazu kamen, unsere Jungs fur Anomaliemessungen auszuwahlen? Sie gingen zuerst zu Shulga und sagten zu ihm: "Es gibt eine Arbeit, die zum Wohle der Wissenschaft getan werden muss." Und er sagte: "Kein Problem. Wen muss ich ausfuhren?"</text>
+	</string>
+	<string id="jup_b221_freedom_main_6">
+		<text>Mit jedem Tag, an dem das Bedurfnis der Wachter aufsteigt, wird es mir immer klarer. Ich meine, wer sonst wurde ein ganzes Lager mit Waffen und Munition zusammenstellen und es dann der Freiheit spenden? Es war wirklich nett von ihnen, oder?</text>
+	</string>
+	<string id="jup_b221_freedom_reaction_1">
+		<text>[lachen]</text>
+	</string>
+	<string id="jup_b221_freedom_reaction_2">
+		<text>[lachen]</text>
+	</string>
+	<string id="jup_b221_freedom_reaction_3">
+		<text>[lachen]</text>
+	</string>
+	<string id="jup_b221_freedom_reaction_4">
+		<text>[lachen]</text>
+	</string>
+	<string id="jup_b221_freedom_reply_1">
+		<text>Ja? Nun, ich scheine mich zu erinnern, wie deine tapfere Truppe auf ihren Knien war, um vor einer Emission zur Yanov Station zu kriechen.</text>
+	</string>
+	<string id="jup_b221_freedom_reply_2">
+		<text>Jeder hat einen davon. Die Wachter ist ein echter Zufluchtsort fur Heuchler. "Wir werden die Welt vor der Zone schutzen". Direkt nachdem wir ein paar Artefakte gesammelt haben.</text>
+	</string>
+	<string id="jup_b221_freedom_reply_3">
+		<text>Gutes Geschaft. Fanatic sollte bei Fanatikern bleiben. Sie sollten auch Monolith-Uniformen tragen. Damit die Stalker dich nicht fur Menschen verwirren konnten.</text>
+	</string>
+	<string id="jup_b221_freedom_reply_4">
+		<text>Von Mutanten? Bist du sicher, dass du genug Platz in diesem Bunker hast, wenn die Mutanten in Kraft treten? Es ist nicht wie die 100 Rad Bar. Du kannst dich nicht einfach dort eingraben und warten.</text>
+	</string>
+	<string id="jup_b221_freedom_reply_5">
+		<text>Wenn deine Freiwilligen so viel trinken wie du, kann ich mir die Lesungen nur ganz gut vorstellen, die die Wissenschaftler bekommen.</text>
+	</string>
+	<string id="jup_b221_freedom_reply_6">
+		<text>Ja das ist richtig. Bringe so viele Wachen herein, wie du nur kannst. Jetzt weiss die halbe Zone von deinem Ausrustungslager, also erwarte Besucher.</text>
+	</string>
+	<string id="jup_b25_revage_senya">
+		<text>Halt! Findet ihn! Das schlimmste ist noch... Argh...</text>
+	</string>
+	<string id="jup_b25_story_artefact">
+		<text>Du hattest sehen sollen, dass ich dieses eine Artefakt neulich bekommen habe. Das war mal etwas. Weisst du etwas uber den Steinbruch? Gut. Was fur ein anstandiger Scheiss es war. Ist schon lange vorbei. Es hat keinen Sinn, in Anomalien zu suchen, in die Flint hineingeschaut hat. Jeder weiss das.</text>
+	</string>
+	<string id="jup_b25_story_bloodsucker">
+		<text>Ich werde dir alles erzahlen, was es uber Blutsauger zu sagen gibt. Als ich in Zaton war, machten diese Arschlocher das Leben fur fast jeden sehr schwierig. Stalker hielten Tag und Nacht bei ihnen, aber es half nicht ein kleines bisschen. Arme Bastarde. Eines Tages habe ich beschlossen, ihnen zu helfen. Also nahm ich meine Schrotflinte und ging direkt in die Blutsaugerhohle. Drei Tage habe ich mit diesen Hurensohnen gefeiert. Manchmal mit zwei oder sogar drei zusammen. Nach einiger Zeit mit denen ist das Blutzuckerproblem bei Zaton alles andere als vorbei. Die Bastarde halten ihre Tentakel danach immer in sich.</text>
+	</string>
+	<string id="jup_b25_story_controller">
+		<text>Okay, ich werde dir sagen, wie man Controller totet. Neulich habe ich zufallig eine Ladung Artefakte entdeckt und beschlossen, sie unterwegs zu verstauen, weil mein Rucken es nicht mehr packen konnte. Auf dem Ruckweg kam ich zu meinem Versteck, und da war er. Ein Controller, der direkt darauf sass. Jetzt dachte ich mir: "Controller oder kein Controller, ich muss den Mist zuruckbekommen." Dann erkannte ich, dass, wenn ich mich mit etwas beschutze, sein Manipulations Schwachsinn nicht auf mich wirken wird. Also nahm ich ein Metallgitter auf, das ich herumliegen fand und begann, mich auf das Biest zu schleichen. Als es aufwachte, und bemerkte, was vor sich ging, pumpte ich ein Magazin in den Schwanzlutscher. Gerade als es anfing, mich zu kontrollieren, gab ich ihm einen letzten Schlag mit meinem Gewehrkolben und das wars.</text>
+	</string>
+	<string id="jup_b25_story_first_reac_1">
+		<text>Ah! Das ist ja mal eine Geschichte, Flint.</text>
+	</string>
+	<string id="jup_b25_story_first_reac_2">
+		<text>Flint ist ein echter Mann, dass kann man nicht abstreiten.</text>
+	</string>
+	<string id="jup_b25_story_first_reac_3">
+		<text>Ja... Nicht schlecht.</text>
+	</string>
+	<string id="jup_b25_story_guide">
+		<text>Nun, ich bin mir sicher, dass du den Weg von Zaton kennst... Nein? Nun, der Fuhrere hat einen grossen Umweg gemacht. Was ich getan habe, war eine Abkurzung zu schaffen, indem ich uber eine gerade Linie, einen neuen Weg, gefunden habe. Ich habe ein paar Platze ausprobiert und den Weg durch die Anomalien ziemlich schnell gefunden. Also habe ich diese Information an den Fuhrer verkauft und jetzt fuhrt er jeden mit diesem Weg.</text>
+	</string>
+	<string id="jup_b25_story_oasis">
+		<text>Hast du von der Oase gehort? Ich bin mir sicher, dass hast du. Jedenfalls, bin ich auf der anderen Seite tatsachlich dort gewesen. Ich war die erste Person, die den Weg dorthin gefunden hat. Ein Pionier, wenn du magst. Dort gibt es keine Mutanten oder verdammte Anomalien. Es ist ruhig wie ein Friedhof und voller Artefakte. Ich war erst vor ein paar Tagen dort. Sonntag, weisst du das... Dich dort Hinfuhren? Ha! Entschuldigung, aber ich will nicht, dass es voll wird. Nichts Personliches.</text>
+	</string>
+	<string id="jup_b25_story_scientist">
+		<text>Nun, ich habe eine Menge Geschichten zu erzahlen. Habe ich dir von meiner Zeit bei den Wissenschaftlern erzahlt? Also, eines Tages ging ich in ihren Bunker und war sehr neugierig darauf, was sie dort vorhatten. Zuerst waren sie alle schockiert. Aber dann sagten sie: "Du bist genau das, was wir gerade brauchen." Es stellte sich heraus, dass sie ihre Gerate unter Anomalien einrichten wollten. Offensichtlich hatten die Eierkopfe nicht das Gefuhl, es selbst zu tun, also versprachen sie mir Bargeld und andere Leckereien. Also war ich wie, "Nun, das ist in Ordnung, aber die Leckereien sollten es wert sein!" Ich musste in dieser Gegend herumkrabbeln, um nach Anomalien zu suchen, aber es war nicht einmal halb so schwer, wie diese Nerds, die dazu gebracht wurden, ihr Preisgeld auszugeben.</text>
+	</string>
+	<string id="jup_b25_story_second_reac_1">
+		<text>Coole Geschichte!</text>
+	</string>
+	<string id="jup_b25_story_second_reac_2">
+		<text>Ja!</text>
+	</string>
+	<string id="jup_b25_story_second_reac_3">
+		<text>Wow!</text>
+	</string>
+	<string id="jup_b25_story_zaton">
+		<text>Es konnte ein paar Leute geben, die denken, dass Flint Lugen erzahlt. Nun, sie konnen jemanden an der Basis nach mir fragen. Sogar die Gruppe der Pro-Jager, als sie mich am anderen Tag sahen. Alle sagten: "Wir brauchen dich, Flint. Wir konnen es nicht ohne dich machen." Sie jagten eine Chimera, also musste ich diesen "Profis" zeigen, wie es gemacht wird. Meine Munition ist wirklich verdammt einfach. Ich gehe geradewegs in die Hohle. Sie liessen einen Anfanger am Eingang zuruck, um nach ihm Ausschau zu halten. Naturlich kam der Morgen. Sobald der Neuling das Biest sah, schlug er ihm die Hose weg und zerfleischte ihn, also war ich auf mich alleine gestellt. Wie du sehen kannst. He he he...</text>
+	</string>
+	<string id="jup_b4_duty_squad_leader_align">
+		<text>Fall rein!</text>
+	</string>
+	<string id="jup_b4_duty_squad_leader_align_line">
+		<text>Einzelner Rang, jetzt!</text>
+	</string>
+	<string id="jup_b4_duty_squad_leader_final">
+		<text>Gluckwunsch fur das beitreten der Wachter! Folg mir! Links, Rechts, Links, Rechts...</text>
+	</string>
+	<string id="jup_b4_duty_squad_leader_praise">
+		<text>Siehst du? Du kannst es, wenn du nur wollen wurdest. Zeit, den Eid zu beschworen.</text>
+	</string>
+	<string id="jup_b4_duty_squad_leader_speech">
+		<text>Schworst du, den Wachter mit Mut und Integritat zu dienen, die Menschheit vor der Aggression der Zone zu schutzen und immer dem Kodex zu folgen?</text>
+	</string>
+	<string id="jup_b4_freedom_squad_leader_any_questions">
+		<text>Also. Fragen?</text>
+	</string>
+	<string id="jup_b4_freedom_squad_leader_lets_talk">
+		<text>Warum stehst du da so rum? Setz dich und lass uns reden!</text>
+	</string>
+	<string id="jup_b4_freedom_squad_leader_reply">
+		<text>Wir haben keine strenge Hierarchie. Verdiene unseren Respekt, und du wirst viele Anhanger bekommen. Bei einer Mission befolgen wir jedoch die Befehle des Kommandeurs ohne Frage.</text>
+	</string>
+	<string id="jup_b4_freedom_squad_leader_speech">
+		<text>Wir respektieren die Freiheit unserer Mitglieder und anderer Stalker, und wir glauben, dass die Zone fur alle offen ist. Als das grosste Geschenk, das die Menschheit jemals erhalten hat, ist es eine Chance, einen enormen Sprung in unserer Entwicklung zu machen. Und jeder muss das verstehen.</text>
+	</string>
+	<string id="jup_b4_freedom_squad_leader_welcome_to_freedom">
+		<text>Also, willkommen bei der Freiheit</text>
+	</string>
+	<string id="jup_b4_monolith_1_ask_to_freedom">
+		<text>Wer gibt uns die Befehle?</text>
+	</string>
+	<string id="jup_b4_monolith_squad_leader_meet">
+		<text>Stalker! Kannst du kurz herkommen?</text>
+	</string>
+	<string id="jup_b4_monolith_talk_to_commander_1">
+		<text>Du solltest besser mit Strider sprechen.</text>
+	</string>
+	<string id="jup_b4_monolith_talk_to_commander_2">
+		<text>Strider ist derjenige, mit dem du reden solltest.</text>
+	</string>
+	<string id="jup_b4_monolith_talking_1_1">
+		<text>Wir konnen den ganzen Tag hier rumsitzen, aber das bringt uns nirgendwohin.</text>
+	</string>
+	<string id="jup_b4_monolith_talking_1_2">
+		<text>Es gibt nichts anderes als Mutanten hier in der Nahe.</text>
+	</string>
+	<string id="jup_b4_monolith_talking_1_3">
+		<text>Und wo gehen wir hin?</text>
+	</string>
+	<string id="jup_b4_monolith_talking_5_1">
+		<text>Das erste was wir tun mussen ist herrauszufinden wo zur Holle wir sind.</text>
+	</string>
+	<string id="jup_b4_monolith_talking_5_2">
+		<text>Wir mussen Leute finden</text>
+	</string>
+	<string id="jup_b4_monolith_talking_5_3">
+		<text>Wir sind erledigt, egal was wir tun.</text>
+	</string>
+	<string id="jup_b4_recruit_1_cool_freedom">
+		<text>Cool!</text>
+	</string>
+	<string id="jup_b4_recruit_1_serve_duty">
+		<text>Wir schworen es!</text>
+	</string>
+	<string id="jup_b4_recruit_2_cool_freedom">
+		<text>Grossartig! Genau das, was wir brauchen</text>
+	</string>
+	<string id="jup_b4_recruit_2_serve_duty">
+		<text>Wir schworen es!</text>
+	</string>
+	<string id="jup_b41_base_alarm">
+		<text>Achtung! Achtung! Hier spricht Hermann. Das Wissenschaftslabor wird angegriffen. Wir werden Stalker fur eine Weile nicht reinlassen.</text>
+	</string>
+	<string id="jup_b41_base_relax">
+		<text>Achtung! Achtung! Hier spricht Hermann. Unser Mobiles Labor ist wieder offen fur alle Stalker.</text>
+	</string>
+	<string id="jup_b41_bunker_megaphone_1">
+		<text>Stalker! Ich muss dich warnen, dass das betreten des Bunkers mit einer Waffe in der Hand strikt verboten ist.</text>
+	</string>
+	<string id="jup_b41_bunker_megaphone_2">
+		<text>Stalker! Du musst deine Waffe beim Eingang zum Forschungseinrichtung wegpacken.</text>
+	</string>
+	<string id="jup_b41_bunker_megaphone_3">
+		<text>Horst du mich? Pack deine Waffe weg!</text>
+	</string>
+	<string id="jup_b46_duty_founder_pda_diary">
+		<text>...wie auch immer wir gehen, wir landen immer an genau derselben Stelle. Ich kann mich immer noch nicht an diesen Nebel gewohnen. Es ist seltsam, dass Chepurnoy spurlos verschwunden ist. Vielleicht hat er einen Ausweg gefunden... Tag sechs. Uns ist das Wasser ausgegangen. Der Colonel schlug den Deckel auf und erschoss zwei Leute aus nachster Nahe und dann sich selbst. Jetzt bin ich alleine in dieser verdammten Anomalie. Wenn ich doch nur unsere Kommunikation mit dem Hauptquartier repariert hatte, hatten sie uns retten konnen. Und die Wachter hatten nie existiert. Ich frage mich, wie sich die Dinge entwickelt haben... Ach, scheiss drauf! Dieser Kapitan Tkachenko ist vor langer Zeit gestorben. Und dieser General Tkachenko der bei den Wachtern ist wird ihm folgen. Das ist... Gerechtigkeit, nehme ich an.</text>
+	</string>
+	<string id="jup_b46_spatial_bubble_sos_1">
+		<text>...finde einen Ausweg. Hilfe! Uns geht es schlecht...</text>
+	</string>
+	<string id="jup_b46_spatial_bubble_sos_2">
+		<text>...viel langer. Wir waren zwei Tage ohne Wasser. Eine Rettungsaktion anfordern! Hil...</text>
+	</string>
+	<string id="jup_b46_spatial_bubble_sos_3">
+		<text>...benotige sofortige Hilfe! Wir werden nicht langer als drei ...</text>
+	</string>
+	<string id="jup_b47_merc_leader_regret">
+		<text>Du hattest nicht hierher kommen sollen, Stalker! Jetzt wirst du Wurmfutter sein!</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_farewell_1">
+		<text>Wir sehen uns das nachste mal!</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_farewell_2">
+		<text>Sei bloss kein Fremder!</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_greeting_1">
+		<text>Hallo! Es ist doch immer Nett ein neues Gesicht im Bunker zu sehen.</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_greeting_2">
+		<text>Oh... Hallo!</text>
+	</string>
+	<string id="jup_b6_scientist_medic_farewell_1">
+		<text>Viel Gluck!</text>
+	</string>
+	<string id="jup_b6_scientist_medic_farewell_2">
+		<text>Bye!</text>
+	</string>
+	<string id="jup_b6_scientist_medic_greeting_1">
+		<text>Hallo!</text>
+	</string>
+	<string id="jup_b6_scientist_medic_greeting_2">
+		<text>Hey!</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_farewell_1">
+		<text>Danke fur die Zeit.</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_farewell_2">
+		<text>Ist das alles? Dann wohl aufwiedersehen.</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_greeting_1">
+		<text>Ehh... sehr gut, komm her. Was kann ich fur dich tun?</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_greeting_2">
+		<text>Ja, ja du hast meine ungeteilte Aufmerksamkeit.</text>
+	</string>
+	<string id="jup_b6_stalker_1_first_measurement_begin">
+		<text>Okay, lass uns das schnell machen. Je schneller wir das fertig haben, desto mehr Chancen haben wir, am Leben zu bleiben.</text>
+	</string>
+	<string id="jup_b6_stalker_1_first_measurement_done">
+		<text>Alpha, Beta und Gammastrahlungswerte genommen.</text>
+	</string>
+	<string id="jup_b6_stalker_1_first_measurement_in_progress">
+		<text>Nehme Lesungen!</text>
+	</string>
+	<string id="jup_b6_stalker_1_fourth_measurement_done">
+		<text>Torsionsfeldscan abgeschlossen.</text>
+	</string>
+	<string id="jup_b6_stalker_1_fourth_measurement_in_progress">
+		<text>Wir gehen hin. Der Torsionsfeld Scan ist fast fertig.</text>
+	</string>
+	<string id="jup_b6_stalker_1_measurements_done">
+		<text>Wir sind hier fertig, Stalker. Jetzt lass uns hier verschwinden!</text>
+	</string>
+	<string id="jup_b6_stalker_1_monsters_coming_1">
+		<text>Hey! Gibst du uns nun Ruckendeckung oder was?</text>
+	</string>
+	<string id="jup_b6_stalker_1_monsters_coming_2">
+		<text>Stalker! Gib uns Ruckendeckung!</text>
+	</string>
+	<string id="jup_b6_stalker_1_monsters_coming_3">
+		<text>Hey! Was tust du da?!</text>
+	</string>
+	<string id="jup_b6_stalker_1_monsters_coming_4">
+		<text>Stalker! Sie sind hier! Hilf uns!</text>
+	</string>
+	<string id="jup_b6_stalker_1_monsters_coming_5">
+		<text>Stalker! Was zur verdammten Holle tust du da?!</text>
+	</string>
+	<string id="jup_b6_stalker_1_monsters_coming_6">
+		<text>Sie attackieren uns! Stalker, was zur...</text>
+	</string>
+	<string id="jup_b6_stalker_1_second_measurement_done">
+		<text>Elektromagnetischer Feldscan abgeschlossen.</text>
+	</string>
+	<string id="jup_b6_stalker_1_second_measurement_in_progress">
+		<text>Elektromagnetischer Feldscan lauft.</text>
+	</string>
+	<string id="jup_b6_stalker_1_third_measurement_done">
+		<text>Akustische Daten fur alle Bereiche erfasst.</text>
+	</string>
+	<string id="jup_b6_stalker_1_third_measurement_in_progress">
+		<text>Akustische Daten fur zwei Bereiche bisher gesammelt.</text>
+	</string>
+	<string id="jup_b9_blackbox_records">
+		<text>Stingray-4, Bitte kommen! Bitte kommen! Verdammt! Stingray-4, Kannst du mich horen?... Achtung, Stingray-Gruppe! Das ist Stingray-1. Die Notfall-Evakuierungsposition ist B-Zwei-Acht. Ich wiederhole, B-Zwei-Acht!</text>
+	</string>
+	<string id="jup_b9_heli_1_blackbox">
+		<text>Zwei Leichen... Sieht so aus, als waren sie bei dem Absturz gestorben... Alles von Wert wurde geplundert und der Bordcomputer wurde abgewischt. Aber die Blackbox ist noch intakt... Interessant... Ich denke, ein anstandiger Techniker wird in der Lage sein, die Informationen zu extrahieren und dann zu entschlusseln.</text>
+	</string>
+
+
+	<!-- Underpass -->
+
+	<string id="pas_b400_sokolov_about_control_gates_1">
+		<text>Es ist blockiert, und es gibt keinen Knopf. Ich habe das Gefuhl, dass jemand in den Kontrollraum muss, um dieses Problem zu losen.</text>
+	</string>
+	<string id="pas_b400_sokolov_about_cover_1">
+		<text>Ich warte hier unten und gebe uns Ruckendeckung, okay?</text>
+	</string>
+	<string id="pas_b400_sokolov_about_dome_1">
+		<text>Verdammt, ich wusste, dass wir nicht hierher kommen sollten.</text>
+	</string>
+	<string id="pas_b400_sokolov_about_door_1">
+		<text>Kein Grund, hier herumzustehen, das ist sicher.</text>
+	</string>
+	<string id="pas_b400_sokolov_about_elevator_1">
+		<text>Grossartig! Einfach Grossartig!</text>
+	</string>
+	<string id="pas_b400_sokolov_about_exit_1">
+		<text>Mein Bauchgefuhl sagt mir, dass wir es geschafft haben.</text>
+	</string>
+	<string id="pas_b400_sokolov_about_gates">
+		<text>Also... Wie ware es wenn wir den Knopf drucken?</text>
+	</string>
+	<string id="pas_b400_sokolov_about_railway_1">
+		<text>Toll! Das Tor hat keine Energie.</text>
+	</string>
+	<string id="pas_b400_sokolov_about_sniper_first_1">
+		<text>Vorsicht! Irgendwas stimmt hier nicht.</text>
+	</string>
+	<string id="pas_b400_sokolov_about_snorks_1">
+		<text>Oh-oh!</text>
+	</string>
+	<string id="pas_b400_sokolov_about_snorks_2">
+		<text>Scheisse!</text>
+	</string>
+	<string id="pas_b400_sokolov_about_snorks_3">
+		<text>Mann, sie geben nie nach, oder?</text>
+	</string>
+	<string id="pas_b400_sokolov_about_train_1">
+		<text>Hm... Irgendetwas stimmt hier nicht.</text>
+	</string>
+	<string id="pas_b400_sokolov_about_train_gates_1">
+		<text>Hm... Hier ist auch irgendwas faul.</text>
+	</string>
+	<string id="pas_b400_sokolov_about_transformer_1">
+		<text>Hey, gehe vorsichtig mit dem Ding um, alles klar?</text>
+	</string>
+	<string id="pas_b400_sokolov_about_tushkano_1">
+		<text>Ich habe ein komisches Gefuhl, und das auch nicht gerade so ein gutes.</text>
+	</string>
+	<string id="pas_b400_sokolov_come_back_1">
+		<text>Hey! Also, gehen wir, oder nicht?</text>
+	</string>
+	<string id="pas_b400_sokolov_idle_1">
+		<text>Warum bin ich uberhaupt dazu gekommen??</text>
+	</string>
+	<string id="pas_b400_sokolov_idle_2">
+		<text>Zur Holle mit diesem Ort! Kanns kaum abwarten, hier rauskommen.</text>
+	</string>
+	<string id="pas_b400_sokolov_idle_3">
+		<text>Ich kann diesen Scheiss nicht glauben, dass sie mir sagten, "Mach dir keine Sorgen, Pilotieren ist so einfach, wie einen Kuchen zu backen." Am Arsch!</text>
+	</string>
+	<string id="pas_b400_sokolov_no_meet_1">
+		<text>Leise! Schon ruhig und leise!</text>
+	</string>
+	<string id="pas_b400_sokolov_no_meet_2">
+		<text>Wir reden, wenn wir hier drausen sind.</text>
+	</string>
+	<string id="pas_b400_sokolov_no_meet_3">
+		<text>Das ist gerade nicht der richtige Zeitpunkt um zu reden.</text>
+	</string>
+	<string id="pas_b400_sokolov_on_actor_assault_1">
+		<text>Bist du verruckt?!</text>
+	</string>
+	<string id="pas_b400_sokolov_on_actor_hit_1">
+		<text>Ooh... Pass auf, Wichser!</text>
+	</string>
+	<string id="pas_b400_sokolov_on_actor_hit_2">
+		<text>Ooh... Hor auf verdammt! Du hast mich verletzt!</text>
+	</string>
+	<string id="pas_b400_sokolov_on_actor_hit_3">
+		<text>Ugh... Verdammter Psycho!</text>
+	</string>
+	<string id="pas_b400_sokolov_on_death_1">
+		<text>[Sokolov stirbt]</text>
+	</string>
+	<string id="pas_b400_sokolov_on_enemy_assault_vano_1">
+		<text>Vano ist tot.</text>
+	</string>
+	<string id="pas_b400_sokolov_on_enemy_assault_wanderer_1">
+		<text>Strider wurde getotet.</text>
+	</string>
+	<string id="pas_b400_sokolov_on_enemy_assault_zulus_1">
+		<text>Zulu ist erledigt.</text>
+	</string>
+	<string id="pas_b400_sokolov_on_enemy_hit_1">
+		<text>[Sokolov wird verletzt]</text>
+	</string>
+	<string id="pas_b400_sokolov_on_enemy_hit_2">
+		<text>[Sokolov wird verletzt]</text>
+	</string>
+	<string id="pas_b400_sokolov_on_enemy_hit_3">
+		<text>[Sokolov wird verletzt]</text>
+	</string>
+	<string id="pas_b400_sokolov_wait_for_me_1">
+		<text>Hey, komm zuruck! Es ist zu gefahrlich!</text>
+	</string>
+	<string id="pas_b400_vano_about_anomaly_first_1">
+		<text>Oh, Da ist eine Anomalie.</text>
+	</string>
+	<string id="pas_b400_vano_about_anomaly_first_2">
+		<text>Lass uns sehen, ob es einen Weg gibt, da durch zu kommen.</text>
+	</string>
+	<string id="pas_b400_vano_about_anomaly_first_3">
+		<text>Komm! Ich habe einen Weg gefunden, da durchzukommen.</text>
+	</string>
+	<string id="pas_b400_vano_about_anomaly_second_1">
+		<text>Noch eine Anomalie. Lass uns sehen.</text>
+	</string>
+	<string id="pas_b400_vano_about_anomaly_second_2">
+		<text>Hm... Gehe mal diesen Weg. Es konnte dein letzter sein.</text>
+	</string>
+	<string id="pas_b400_vano_about_anomaly_second_3">
+		<text>Okay, hier ist ein Weg durch. Hoffen wir, dass es irgendwo etwas weniger todlich fuhrt.</text>
+	</string>
+	<string id="pas_b400_vano_about_anomaly_third_1">
+		<text>Okay, Lass uns gehen.</text>
+	</string>
+	<string id="pas_b400_vano_about_control_gates_1">
+		<text>Also... das Tor ist blockiert, nicht wahr? Hmm... ich weiss nicht... Vielleicht kann es vom Kontrollraum aus geoffnet werden?</text>
+	</string>
+	<string id="pas_b400_vano_about_cover_1">
+		<text>Bleib in Bewegung, Kumpel! Ich gebe deinem Arsch Ruckendeckung. Keine Sorge.</text>
+	</string>
+	<string id="pas_b400_vano_about_dome_1">
+		<text>Nun, ich werde... Das ist wunderschon!</text>
+	</string>
+	<string id="pas_b400_vano_about_door_1">
+		<text>Hier druben ist die Tur offen. Sollten wir diesen Weg gehen?</text>
+	</string>
+	<string id="pas_b400_vano_about_gates">
+		<text>Guck! Drucke den Knopf oder etwas, okay?</text>
+	</string>
+	<string id="pas_b400_vano_about_railway_1">
+		<text>Es gab einen Stromausfall, huh huh...</text>
+	</string>
+	<string id="pas_b400_vano_about_room_closed">
+		<text>Hey! Geh da nicht hin! Es ist geschlossen!</text>
+	</string>
+	<string id="pas_b400_vano_about_room_open">
+		<text>Guck! Es ist nun offen!</text>
+	</string>
+	<string id="pas_b400_vano_about_sniper_first_1">
+		<text>Mundungsblitz rechts... ah... ich meine, links.</text>
+	</string>
+	<string id="pas_b400_vano_about_snorks_1">
+		<text>Toll, sie sind alle erledigt.</text>
+	</string>
+	<string id="pas_b400_vano_about_transformer_1">
+		<text>Hor zu, es sollten Hebel an dieser Stelle geben, mit denen du Dinge einschalten kannst.</text>
+	</string>
+	<string id="pas_b400_vano_about_underpass">
+		<text>Also... Gehts los?</text>
+	</string>
+	<string id="pas_b400_vano_come_back_1">
+		<text>Hey, Mann! Hor auf Zeit zu verschwenden. Tu es noch ein Weilchen langer, und du verschwendest auch noch unser Leben.</text>
+	</string>
+	<string id="pas_b400_vano_idle_1">
+		<text>Weisst du, eigentlich ist es garnicht so ubel hier... Denke ich.</text>
+	</string>
+	<string id="pas_b400_vano_idle_2">
+		<text>Mit loyalen Freunden an deiner Seite, ist nicht einmal dieser Scheiss so schlecht.</text>
+	</string>
+	<string id="pas_b400_vano_idle_3">
+		<text>Es war eine gute Entscheidung, dir zu folgen. Wie sonst hatte ich einen Ort wie diesen entdecken konnen?</text>
+	</string>
+	<string id="pas_b400_vano_no_meet_1">
+		<text>Lass uns nachher reden, Kumpel.</text>
+	</string>
+	<string id="pas_b400_vano_no_meet_2">
+		<text>Hor mal, jetzt ist nicht der richtige Zeitpunkt um zu plaudern..</text>
+	</string>
+	<string id="pas_b400_vano_no_meet_3">
+		<text>Ich bin ehrlich mit dir. Gerade ist weder der richtige Zeitpunkt, noch der richtige Ort zum reden.</text>
+	</string>
+	<string id="pas_b400_vano_on_actor_assault_1">
+		<text>Was zum... Du Bastard!</text>
+	</string>
+	<string id="pas_b400_vano_on_actor_hit_1">
+		<text>Warum, Alter? Warum...</text>
+	</string>
+	<string id="pas_b400_vano_on_actor_hit_2">
+		<text>Ich bin kein Feind, Mann!</text>
+	</string>
+	<string id="pas_b400_vano_on_actor_hit_3">
+		<text>Ich mach dich Kalt, du elender Bastard!</text>
+	</string>
+	<string id="pas_b400_vano_on_death_1">
+		<text>[Vano stirbt]</text>
+	</string>
+	<string id="pas_b400_vano_on_enemy_assault_sokolov_1">
+		<text>Unser Armeefreund ist tot.</text>
+	</string>
+	<string id="pas_b400_vano_on_enemy_assault_wanderer_1">
+		<text>Unser Monolithen Kamarade wurde getotet.</text>
+	</string>
+	<string id="pas_b400_vano_on_enemy_assault_zulus_1">
+		<text>Es ist Zulu! Er ist tot.</text>
+	</string>
+	<string id="pas_b400_vano_on_enemy_hit_1">
+		<text>[Vano wird verletzt]</text>
+	</string>
+	<string id="pas_b400_vano_on_enemy_hit_2">
+		<text>[Vano wird verletzt]</text>
+	</string>
+	<string id="pas_b400_vano_on_enemy_hit_3">
+		<text>[Vano wird verletzt]</text>
+	</string>
+	<string id="pas_b400_vano_wait_for_me_1">
+		<text>Hey, Mann! Wo gehst du hin? Lass uns zusammen an der Sache arbeiten!</text>
+	</string>
+	<string id="pas_b400_wanderer_about_control_gates_1">
+		<text>Das Tor ist blockiert. Wenn ich du ware, wurde ich mich im Kontrollraum umsehen.</text>
+	</string>
+	<string id="pas_b400_wanderer_about_cover_1">
+		<text>Ich werde hier bleiben und Ruckendeckung geben.</text>
+	</string>
+	<string id="pas_b400_wanderer_about_door_1">
+		<text>Die Tur ist offen. Sollen wir gehen?</text>
+	</string>
+	<string id="pas_b400_wanderer_about_gates">
+		<text>Du musst den Knopf drucken.</text>
+	</string>
+	<string id="pas_b400_wanderer_about_monolith_1">
+		<text>Wir sind draussen. Lass uns gehen!</text>
+	</string>
+	<string id="pas_b400_wanderer_about_railway_1">
+		<text>Es sieht so aus, als ob dem Tor keine Energie zugefuhrt wird.</text>
+	</string>
+	<string id="pas_b400_wanderer_about_sniper_first_1">
+		<text>Sie gehoren mit.</text>
+	</string>
+	<string id="pas_b400_wanderer_about_sniper_first_2">
+		<text>Sie sind Toast.</text>
+	</string>
+	<string id="pas_b400_wanderer_about_snorks_1">
+		<text>Ich mache diese Bastarde fertig.</text>
+	</string>
+	<string id="pas_b400_wanderer_about_transformer_1">
+		<text>Ein Transformator. Ich erinnere mich an diese aus meiner Kindheit.</text>
+	</string>
+	<string id="pas_b400_wanderer_about_underpass">
+		<text>Lass uns gehen!</text>
+	</string>
+	<string id="pas_b400_wanderer_come_back_1">
+		<text>Dies ist nicht der beste Ort, um deine Daumen zu drehen. Lass uns gehen!</text>
+	</string>
+	<string id="pas_b400_wanderer_idle_1">
+		<text>Es ist leise. Zu leise-</text>
+	</string>
+	<string id="pas_b400_wanderer_idle_2">
+		<text>Ich denke, dass ich irgendwann hier war. Ich bin mir nicht sicher.</text>
+	</string>
+	<string id="pas_b400_wanderer_idle_3">
+		<text>Seltsam... Alles uber diesen Ort ist seltsam.</text>
+	</string>
+	<string id="pas_b400_wanderer_no_meet_1">
+		<text>Halt endlich die Klappe.</text>
+	</string>
+	<string id="pas_b400_wanderer_no_meet_2">
+		<text>Leise, Alter.</text>
+	</string>
+	<string id="pas_b400_wanderer_no_meet_3">
+		<text>Ich... Ich will gerade nicht reden.</text>
+	</string>
+	<string id="pas_b400_wanderer_on_actor_assault_1">
+		<text>Verrater!</text>
+	</string>
+	<string id="pas_b400_wanderer_on_actor_hit_1">
+		<text>Ahm... Das ist unnotig.</text>
+	</string>
+	<string id="pas_b400_wanderer_on_actor_hit_2">
+		<text>Ich wurde dir dringend raten, damit aufzuhoren, Kumpel!</text>
+	</string>
+	<string id="pas_b400_wanderer_on_actor_hit_3">
+		<text>Das reicht, ich habe dich Gewarnt! Ich mache dich Kalt!</text>
+	</string>
+	<string id="pas_b400_wanderer_on_death_1">
+		<text>[Strider stirbt]</text>
+	</string>
+	<string id="pas_b400_wanderer_on_enemy_assault_sokolov_1">
+		<text>Sokolov ist tot.</text>
+	</string>
+	<string id="pas_b400_wanderer_on_enemy_assault_vano_1">
+		<text>Vano ist tot.</text>
+	</string>
+	<string id="pas_b400_wanderer_on_enemy_assault_zulus_1">
+		<text>Zulu wurde getotet.</text>
+	</string>
+	<string id="pas_b400_wanderer_on_enemy_hit_1">
+		<text>[Strider wird verletzt]</text>
+	</string>
+	<string id="pas_b400_wanderer_on_enemy_hit_2">
+		<text>[Strider wird verletzt]</text>
+	</string>
+	<string id="pas_b400_wanderer_on_enemy_hit_3">
+		<text>[Strider wird verletzt]</text>
+	</string>
+	<string id="pas_b400_wanderer_wait_for_me_1">
+		<text>Keine Eile! Es ist am besten, hier zusammen zu bleiben.</text>
+	</string>
+	<string id="pas_b400_zulus_about_control_gates_1">
+		<text>Das Tor ist blockiert, und hier ist kein Knopf. Kann irgendjemand in den Kontrollraum gehen und sehen, ob da etwas ist, das uns hilft?</text>
+	</string>
+	<string id="pas_b400_zulus_about_cover_1">
+		<text>Bleib in Bewegung, Bruder! Ich gebe dir Ruckendeckung.</text>
+	</string>
+	<string id="pas_b400_zulus_about_door_1">
+		<text>Nun, der Weg ist sicher. Los gehts!</text>
+	</string>
+	<string id="pas_b400_zulus_about_exit_1">
+		<text>Sieht so aus, als waren wir unter Pripyat.</text>
+	</string>
+	<string id="pas_b400_zulus_about_gates">
+		<text>Druck den Knopf, Bro!</text>
+	</string>
+	<string id="pas_b400_zulus_about_monolith_1">
+		<text>Rucken an Rucken, schnell!</text>
+	</string>
+	<string id="pas_b400_zulus_about_monolith_2">
+		<text>Verdammt!</text>
+	</string>
+	<string id="pas_b400_zulus_about_obstacle_1">
+		<text>Hm... Sieht so aus als ware die direkte Route keine Option.</text>
+	</string>
+	<string id="pas_b400_zulus_about_obstacle_2">
+		<text>Keine Panik. Echte Manner nehmen oft die Hintertur.</text>
+	</string>
+	<string id="pas_b400_zulus_about_outfits_1">
+		<text>Nun, wenigstens sind die Schutzanzuge mal fur etwas zu gebrauchen.</text>
+	</string>
+	<string id="pas_b400_zulus_about_railway_1">
+		<text>Hm... die Stromversorgung zum Tor wurde unterbrochen.</text>
+	</string>
+	<string id="pas_b400_zulus_about_sniper_first_1">
+		<text>Scharfschutzen!</text>
+	</string>
+	<string id="pas_b400_zulus_about_snorks_1">
+		<text>Ruhig bleiben. Feuer... eroffnen!</text>
+	</string>
+	<string id="pas_b400_zulus_about_train_gates_1">
+		<text>Nun, Bro... Lass es uns rocken!</text>
+	</string>
+	<string id="pas_b400_zulus_about_train_gates_2">
+		<text>Lege dich mit dem besten an, und du stirbst wie der Rest.</text>
+	</string>
+	<string id="pas_b400_zulus_about_transformer_1">
+		<text>Das sieht wie ein Transformator aus. Ich frage mich, ob alle Linien aktiviert wurden.</text>
+	</string>
+	<string id="pas_b400_zulus_about_underpass">
+		<text>Los gehts!</text>
+	</string>
+	<string id="pas_b400_zulus_come_back_1">
+		<text>Weiter machen, Bruder! Wir mussen weitermachen!</text>
+	</string>
+	<string id="pas_b400_zulus_idle_1">
+		<text>Was fur ein Ort, Mann...</text>
+	</string>
+	<string id="pas_b400_zulus_idle_2">
+		<text>Was fur ein Chaos! Du wurdest fur diese Art von Sache in unserer Basis exekutiert werden!.</text>
+	</string>
+	<string id="pas_b400_zulus_idle_3">
+		<text>Dieser Ort ist kein Sandy Beach, das ist sicher.</text>
+	</string>
+	<string id="pas_b400_zulus_no_meet_1">
+		<text>Keine Zeit fur Neckereien, Bruder.</text>
+	</string>
+	<string id="pas_b400_zulus_no_meet_2">
+		<text>Lass uns reden, wenn das alles vorbei ist.</text>
+	</string>
+	<string id="pas_b400_zulus_no_meet_3">
+		<text>Hor auf zu reden und konzentrier dich!</text>
+	</string>
+	<string id="pas_b400_zulus_on_actor_assault_1">
+		<text>Hey! Er war mein Kumpel!</text>
+	</string>
+	<string id="pas_b400_zulus_on_actor_hit_1">
+		<text>Ugh! Was zur Holle machst du da?!</text>
+	</string>
+	<string id="pas_b400_zulus_on_actor_hit_2">
+		<text>Argh! Hey, aufhoren, jetzt!</text>
+	</string>
+	<string id="pas_b400_zulus_on_actor_hit_3">
+		<text>Urgh! Auf so eine Scheisse stehe ich nicht! Wird Zeit, dass dir mal jemand den Arsch versohlt, du bloder Flachwichser!</text>
+	</string>
+	<string id="pas_b400_zulus_on_death_1">
+		<text>[Zulu stirbt]</text>
+	</string>
+	<string id="pas_b400_zulus_on_enemy_assault_sokolov_1">
+		<text>Sokolov ist tot!</text>
+	</string>
+	<string id="pas_b400_zulus_on_enemy_assault_vano_1">
+		<text>Vano is tot!</text>
+	</string>
+	<string id="pas_b400_zulus_on_enemy_assault_wanderer_1">
+		<text>Strider is tot!</text>
+	</string>
+	<string id="pas_b400_zulus_on_enemy_hit_1">
+		<text>[Zulu wird verletzt]</text>
+	</string>
+	<string id="pas_b400_zulus_on_enemy_hit_2">
+		<text>[Zulu wird verletzt]</text>
+	</string>
+	<string id="pas_b400_zulus_on_enemy_hit_3">
+		<text>[Zulu wird verletzt]</text>
+	</string>
+	<string id="pas_b400_zulus_wait_for_me_1">
+		<text>Komm zuruck, Bruder! Wir brauchen keinen Spion bei dieser Mission.</text>
+	</string>
+
+
+	<!-- Pripyat -->
+
+	<string id="pri_a15_actor_introduce">
+		<text>Ich bin Major Degtyarev, USS. Ich bin hier, um das Scheitern der Operation "Fairway" zu untersuchen.</text>
+	</string>
+	<string id="pri_a15_actor_introduce_squad">
+		<text>Stalker haben mir geholfen, nach Pripyat zu gelangen.</text>
+	</string>
+	<string id="pri_a15_actor_leave_him">
+		<text>Lass ihn gehen, Captain.</text>
+	</string>
+	<string id="pri_a15_actor_need_talk_with_commander">
+		<text>Ich habe Informationen fur Kovalsky. Bringe mich zu ihm.</text>
+	</string>
+	<string id="pri_a15_army_go">
+		<text>Folge mir!</text>
+	</string>
+	<string id="pri_a15_army_go_with_me">
+		<text>Okay. Folge mir.</text>
+	</string>
+	<string id="pri_a15_army_hide_weapon">
+		<text>Lass deine Waffe fallen, jetzt!</text>
+	</string>
+	<string id="pri_a15_army_joke">
+		<text>Ihr seid eine frohliche Bande, oder?</text>
+	</string>
+	<string id="pri_a15_army_leave">
+		<text>Fein, scheiss auf ihn!</text>
+	</string>
+	<string id="pri_a15_army_stop">
+		<text>Aufhoren!</text>
+	</string>
+	<string id="pri_a15_army_who_a_you">
+		<text>Wer bist du? Was willst du von dem Kommandeur?</text>
+	</string>
+	<string id="pri_a15_sokolov_conjecture">
+		<text>Ich wusste es!</text>
+	</string>
+	<string id="pri_a15_sokolov_introduce">
+		<text>Nicht schiessen! Ich bin Lieutenant Sokolov, Co-Pilot von Stingray-4. Ich bin auf dem Weg zur B28 Notfallposition.</text>
+	</string>
+	<string id="pri_a15_sokolov_wonder">
+		<text>Du kennst Kovalsky?</text>
+	</string>
+	<string id="pri_a15_vano_speech_one">
+		<text>Was denkst du, warum wir hier sind? Spass, oder was? Warum so ausloserfreudig? Siehst du nicht, dass wir alle hier Freunde sind? Ich und Agent D-De... haben viel durchgemacht. Darauf kannst du wetten.</text>
+	</string>
+	<string id="prI_a15_wanderer_about_actor">
+		<text>Und mir ist es scheissegal wer fur wen arbeitet.</text>
+	</string>
+	<string id="pri_a15_zulus_go">
+		<text>...oder die USS.</text>
+	</string>
+	<string id="pri_a15_zulus_no_business_with_army">
+		<text>Ich habe nichts mit der Armee zu tun...</text>
+	</string>
+	<string id="pri_a15_zulus_not_me">
+		<text>Ich gehe nicht.</text>
+	</string>
+	<string id="pri_a15_zulus_wonder">
+		<text>USS?... Was zum...?</text>
+	</string>
+	<string id="pri_a16_army_1_talk_to_commander_1">
+		<text>Major, Sprich mit dem Colonel, wenn du etwas brauchst.</text>
+	</string>
+	<string id="pri_a16_army_1_talk_to_commander_2">
+		<text>Du scheinst nach dem Colonel zu suchen, Major.</text>
+	</string>
+	<string id="pri_a16_army_2_talk_to_commander_1">
+		<text>Colonel Kovalsy, ist die Person, mit der du sprechen willst, Sir.</text>
+	</string>
+	<string id="pri_a16_army_2_talk_to_commander_2">
+		<text>Rede mit Kovalsky, Major</text>
+	</string>
+	<string id="pri_a16_army_3_talk_to_commander_1">
+		<text>Kovalsky ist der Mann, mit dem du sprechen sollst, Sir.</text>
+	</string>
+	<string id="pri_a16_army_3_talk_to_commander_2">
+		<text>Sir, du solltest Kovalsky sehen, wenn du etwas brauchst.</text>
+	</string>
+	<string id="pri_a16_base_alarm">
+		<text>Achtung, an alle Einheiten! Hier spricht Oberst Kovalsky. Die Basis wird angegriffen. Der Eingang wurde blockiert, bis die Bedrohung beseitigt ist.</text>
+	</string>
+	<string id="pri_a16_base_megaphone_1">
+		<text>Major, wenn es dir nichts ausmacht, konntest du diese Waffe einstecken?</text>
+	</string>
+	<string id="pri_a16_base_megaphone_2">
+		<text>Hor zu, Major, Stecke deine Waffe ein. Wir werden dich nicht erschiessen, du hast mein Wort.</text>
+	</string>
+	<string id="pri_a16_base_megaphone_3">
+		<text>Komm schon, Major. Leg deine Waffe weg, um Gottes willen. Jeder ist so nervos gerade.</text>
+	</string>
+	<string id="pri_a16_base_relax">
+		<text>Achtung, an alle Einheiten! Hier spricht Oberst Kovalsky. Die Bedrohung wurde beseitigt.</text>
+	</string>
+	<string id="pri_a17_kovalsky_after_surge">
+		<text>Achtung, an alle Einheiten! Hier spricht Oberst Kovalsky. Die Emission ist vorbei.</text>
+	</string>
+	<string id="pri_a17_kovalsky_surge_phase_1">
+		<text>Achtung, an alle Einheiten! Hier spricht Oberst Kovalsky. Nach unseren Messungen nahert sich eine Emission. Geht sofort in Deckung!</text>
+	</string>
+	<string id="pri_a17_kovalsky_surge_phase_2">
+		<text>Achtung, an alle Einheiten! Hier spricht Oberst Kovalsky. Eine Emission beginnt, ich wiederhole, eine Emission beginnt. Geht sofort in Deckung!</text>
+	</string>
+	<string id="pri_a17_monolith_preacher">
+		<text>Wir danken dir, Monolith, dass du uns die schlauen Plane deiner Feinde offenbart hast. Moge dein Licht auf die Seelen der tapferen Soldaten scheinen, die ihr Leben im Dienste deines Willens gegeben haben. Weiter, Krieger des Monolithen! Rache deine gefallenen Bruder, gesegnet wie sie in ihrer ewigen Vereinigung mit dem Monolith sind. Bringe den Tod denen, die die heilige Kraft des Monolithen verachten!</text>
+	</string>
+	<string id="pri_a17_recon_squad_actor_dont_hide">
+		<text>So werden sie dich sehen, Major.</text>
+	</string>
+	<string id="pri_a17_recon_squad_after_monolith_clear">
+		<text>Gebiet gesichert! Los gehts!</text>
+	</string>
+	<string id="pri_a17_recon_squad_attack_now_1">
+		<text>Warten wir, bis sie in die Mitte des Hofes gelangen.</text>
+	</string>
+	<string id="pri_a17_recon_squad_attack_now_2">
+		<text>Das Ziel ist in Position.</text>
+	</string>
+	<string id="pri_a17_recon_squad_attack_now_3">
+		<text>Sie gehen!</text>
+	</string>
+	<string id="pri_a17_recon_squad_attack_now_4">
+		<text>Wir mussen handeln, bevor wir entdeckt werden. Eroffnet das Feuer!</text>
+	</string>
+	<string id="pri_a17_recon_squad_commander_order_hide1">
+		<text>Ice, rauf auf das Dach. Der Rest von euch, folgt mir.</text>
+	</string>
+	<string id="pri_a17_recon_squad_commander_order_hide2">
+		<text>Geht in eure Position.</text>
+	</string>
+	<string id="pri_a17_recon_squad_commander_ready_to_fire">
+		<text>Bereit zum Angriff auf dein Zeichen.</text>
+	</string>
+	<string id="pri_a17_recon_squad_commander_to_prapor">
+		<text>Seltsam. Gibt ihnen jemand unsere Plane bekannt? Wir sollten das Kovalsky mitteilen.</text>
+	</string>
+	<string id="pri_a17_recon_squad_monolith_ambush">
+		<text>Das ist eine Falle! In Deckung!</text>
+	</string>
+	<string id="pri_a17_recon_squad_nice_shoot">
+		<text>Guter Schuss, Major.</text>
+	</string>
+	<string id="pri_a17_recon_squad_order_to_check">
+		<text>Lass es uns uberprufen. Ice, gib uns Ruckendeckung.</text>
+	</string>
+	<string id="pri_a17_recon_squad_prapor_to_commander">
+		<text>Diese Fanatiker wussten von uns!</text>
+	</string>
+	<string id="pri_a17_recon_squad_sniper_out">
+		<text>Ice, wach auf verdammt!</text>
+	</string>
+	<string id="pri_a17_recon_squad_talk_with_commander">
+		<text>Du fragst lieber den Captain.</text>
+	</string>
+	<string id="pri_a18_actor_report">
+		<text>Kovalsky, hier passiert etwas Seltsames. Im Inneren des Gebaudes gab es eine Menge Monolith-Kampfer. Sie waren alle in Trance und redeten mit... Einem Haufen Mull. Ich habe diesen Haufen untersucht, und wenn du den Mist durchschneidest, ahnelt er einer primitiven Antenne. Es scheint, dass jemand mit ihnen uber diese Antenne spricht... Und sie glauben, dass es eine gottliche Intervention ist.</text>
+	</string>
+	<string id="pri_a18_kovalskiy_guard">
+		<text>Das ist alles sehr seltsam. Jemand kontrolliert diese Fanatiker... Hmm. Wir kummern uns spater darum.</text>
+	</string>
+	<string id="pri_a18_kovalskiy_squad">
+		<text>Das ist alles sehr seltsam. Jemand kontrolliert diese Fanatiker... Hmm. Wir kummern uns spater darum. Der Posten ist noch nicht aufgetaucht, also sag Bescheid, wenn du ihn findest. Kovalsky, over.</text>
+	</string>
+	<string id="pri_a18_monolith_pray_1">
+		<text>Monolith, wir konnen dich nicht horen.</text>
+	</string>
+	<string id="pri_a18_monolith_pray_2">
+		<text>Warum hast du uns verlassen, Monolith?</text>
+	</string>
+	<string id="pri_a18_monolith_pray_3">
+		<text>Wir erwarten deine Befehle, Monolith.</text>
+	</string>
+	<string id="pri_a18_shelly_hello">
+		<text>Lieutenant Skelya, zu deiner Verfugung.</text>
+	</string>
+	<string id="pri_a18_sokolov_fight">
+		<text>Heilige Scheisse, dieser Ort wimmelt nur von ihnen!</text>
+	</string>
+	<string id="pri_a18_sokolov_hello">
+		<text>Weisst du, eigentlich habe ich gedacht, ich ware bei dir sicherer.</text>
+	</string>
+	<string id="pri_a18_sokolov_on_place">
+		<text>Hier sind wir.</text>
+	</string>
+	<string id="pri_a18_vano_fight">
+		<text>Tote sie, bevor sie rauskommen!</text>
+	</string>
+	<string id="pri_a18_vano_hello">
+		<text>Ich habe mich gemeldet, als ich herausfand, dass du Hilfe brauchst. Ich werde dir bis zum bitteren Ende folgen, Mann.</text>
+	</string>
+	<string id="pri_a20_actor_about_next_task">
+		<text>Die Aufklarungseinheit hatte Informationen uber den Standort von Monolith-Kraften. Die Notizen zeigen den Buchladen an.</text>
+	</string>
+	<string id="pri_a20_actor_no_data">
+		<text>Die Aufklarungseinheit entdeckte nur Monolith-Patrouillen. Sie haben keine grossen Trupps oder Einheiten gesehen.</text>
+	</string>
+	<string id="pri_a20_actor_report_about_squad">
+		<text>Ich habe die Einheit gefunden. Sie sind alle tot. Sieht so aus, als waren sie erschossen worden, aber vom Feind ist nichts zu sehen.</text>
+	</string>
+	<string id="pri_a20_colonel_about_sentry">
+		<text>Ich verstehe nicht, wie sie so plotzlich hatten angreifen konnen, ohne irgendwelche Beweise zu hinterlassen. Wirklich seltsam... Major, wir haben gerade das Signal der Wache aufgenommen! Die Koordinaten sagen, dass er irgendwo in der Nahe des Lebensmittelladens ist. Schau es dir an, wenn du kannst. Ich zahle auf dich, Major. Colonel, over.</text>
+	</string>
+	<string id="pri_a20_colonel_ask_check_recon_squad">
+		<text>Wir mussen die Recon-Einheit finden. Major, finde heraus, was passiert ist! Was zum Teufel... Hmm. Pass auf dich auf, okay? Und, Major... Halte mich auf dem Laufenden!</text>
+	</string>
+	<string id="pri_a20_colonel_give_next_task_1">
+		<text>Es sind diese verdammten Fanatiker. Wir mussen uns mit ihnen befassen.</text>
+	</string>
+	<string id="pri_a20_colonel_give_next_task_1_a21_sentry_task">
+		<text>Es sind diese verdammten Fanatiker, sie lassen nicht locker. Eine Wache fehlt auch noch; Er antwortet nicht und es gibt auch keine Spur von ihm. Wir mussen uns ein fur allemal um diese Bastarde kummern.</text>
+	</string>
+	<string id="pri_a20_colonel_send_reinforcement">
+		<text>Nun gut, ich werde dir zwei Jungs schicken. Sie werden dich in der Nahe des Ziels treffen. Colonel, over.</text>
+	</string>
+	<string id="pri_a20_colonel_send_reinforcement_a21_about_sentry">
+		<text>Nun gut, ich werde dir zwei Jungs schicken. Sie werden dich in der Nahe des Ziels treffen. Und noch etwas... Wir haben gerade das Signal der Wache empfangen. Die Koordinaten fuhren zu einem Lebensmittelladen. Schau es dir an, wenn du kannst. Ich zahle auf dich, Major. Colonel, over.</text>
+	</string>
+	<string id="pri_a20_colonel_talk_in_radio">
+		<text>Uberwachungseinheit, Bitte kommen! Was geht da draussen vor sich?</text>
+	</string>
+	<string id="pri_a20_colonel_task_done">
+		<text>Ich verstehe nicht, wie sie so plotzlich hatten angreifen konnen. Ohne irgendwelche Beweise zu hinterlassen. Wirklich seltsam. Ich muss daruber nachdenken. Wir werden uns bald wieder sprechen.</text>
+	</string>
+	<string id="pri_a20_communication_with_recon_squad">
+		<text>Ich habe eine Nachricht von der Uberwachungseinheit erhalten.</text>
+	</string>
+	<string id="pri_a20_recon_squad_attacked">
+		<text>Nein!... Was zum Teufel ist das?... Warte!... Wir sind alle tot... Argh... Hilfe! Hilf mir doch jemand! Hol das Ding von mir weg! Nein...</text>
+	</string>
+	<string id="pri_a20_sokolov_with_garick_new_way_to_pripyat_1">
+		<text>Wow, ich kann nicht glauben, dass wir es unbeschadet nach Pripyat geschafft haben. Wie hast du diesen Weg uberhaupt gefunden?</text>
+	</string>
+	<string id="pri_a20_sokolov_with_garick_new_way_to_pripyat_2">
+		<text>Es ist nicht so schwer. Alles was du brauchst ist Geschick und ein bisschen Gluck, und wir haben beides. Oder vielleicht ist es die Zone, die uns fur unsere Geduld belohnt. Gott weiss, was passiert ist. Ich habe meine Gebuhren bei den Wissenschaftlern bezahlt.</text>
+	</string>
+	<string id="pri_a20_sokolov_with_garick_new_way_to_pripyat_3">
+		<text>Ja. Ich habe selber genug von Hermann.</text>
+	</string>
+	<string id="pri_a21_actor_to_base_find_and_terminate_controller">
+		<text>Basis, der Wachter ist tot. Er benahm sich seltsam und griff mich an. Ich habe auch einen Controller in diesem Bereich identifiziert und beseitigt.</text>
+	</string>
+	<string id="pri_a21_actor_to_base_find_controller">
+		<text>Basis, der Wachter ist tot. Er benahm sich seltsam und griff mich an. Ich fand auch einen Controller in diesem Bereich, also musste ich zuruckfallen.</text>
+	</string>
+	<string id="pri_a21_actor_to_base_terminate_controller">
+		<text>Base, der Controller wurde eliminiert.</text>
+	</string>
+	<string id="pri_a21_base_to_actor_find_and_terminate_controller">
+		<text>Verstanden, Major. Der Controller muss die Wache ubernommen haben. Eh. Er war ein guter Typ... Hm. Das muss mit der Aufklarungseinheit geschehen sein. Der Controller zwang sie, sich gegenseitig anzugreifen. Wie auch immer, immer und immer wieder.</text>
+	</string>
+	<string id="pri_a21_base_to_actor_terminate_controller">
+		<text>Verstanden, Major. Der Controller muss die Wache ubernommen haben. Du musst dieses Arschloch jetzt toten! Wir sind ein grosses Risiko, solange es noch lebt.</text>
+	</string>
+	<string id="pri_a21_colonel_base_about_sentry">
+		<text>Major, Kovalsky hier. Wir haben einen weiteren Notfall in unseren Handen. Komm her und ich werde dich uber die Details informieren.</text>
+	</string>
+	<string id="pri_a21_colonel_give_sentry_task">
+		<text>Major, ich habe einen Gefallen. Unser Posten antwortet nicht. Du weisst hoffentlich noch, wo der Supermarkt fruher war? Von dort kommt sein Signal. Untersuche es, wenn du kannst. Ah, und noch was. Pass auf dich auf. Colonel, over.</text>
+	</string>
+	<string id="pri_a21_colonel_lets_talk">
+		<text>Ah, Major. Komm rein.</text>
+	</string>
+	<string id="pri_a21_sentr_crazy_1">
+		<text>Lass mich in ruhe! Geh weg!</text>
+	</string>
+	<string id="pri_a21_sentr_crazy_2">
+		<text>Nein! Nein, nein!</text>
+	</string>
+	<string id="pri_a22_actor_to_base_find_squad_member">
+		<text>Basis, ich habe einen der Manner gefunden. Es sieht so aus, als hatte er sich mit einer Granate in die Luft gesprengt. Es gibt keine Anzeichen fur ein Feuergefecht oder andere Anzeichen fur einen Angriff.</text>
+	</string>
+	<string id="pri_a22_base_to_actor_has_rfi_coordinates">
+		<text>Kovalsky hier... Roger, Major. Hey, ich habe gute Neuigkeiten. Wir haben schliesslich die genauen Koordinaten der Storungsquelle erhalten. Das Signal kommt vom Kindergartengebaude.</text>
+	</string>
+	<string id="pri_a22_colonel_about_rfi_and_lost_suad">
+		<text>Unser Kommunikationsexperte glaubt, dass das Signal von irgendwo in unserer Nahe gestort wird. Er arbeitet daran, die Koordinaten zu bekommen, wahrend wir sprechen. Ich habe einige meiner Manner geschickt, um nach einer moglichen Storquelle zu suchen, aber sie sind verschwunden, und ihre personlichen Signale registrieren sich nicht.</text>
+	</string>
+	<string id="pri_a22_colonel_about_situation">
+		<text>Major, wir haben ein ernstes Problem. Diese Operation wird seit dem Absturz der Hubschrauber jede Minute lacherlicher. Die Manner fallen wie Fliegen. Wir haben keine Kommunikation mit dem Hauptquartier, und die Situation wird immer schlimmer. Die Evakuierungshacken kamen nicht wieder. Und bei dieser Geschwindigkeit wird es nicht lange dauern, bis wir die Kontrolle uber die Situation vollstandig verlieren. Wir mussen jetzt die Kommunikation mit dem Hauptquartier aufnehmen.</text>
+	</string>
+	<string id="pri_a22_colonel_give_task">
+		<text>Major, eines deiner Ziele ist es, die Kommunikation mit dem Hauptquartier herzustellen. Angesichts der Situation, in der wir uns befinden, sollte dies von nun an deine Prioritat sein. Auch, als ein personlicher Gefallen fur mich: Bitte, finde meine Jungs.</text>
+	</string>
+	<string id="pri_a22_colonel_to_actor_need_talk">
+		<text>Major, Ich muss mit dir reden. Privat</text>
+	</string>
+	<string id="pri_a25_actor_all_doors_locked">
+		<text>Ich bin beim Gebaude, aber alle Eingange sind blockiert.</text>
+	</string>
+	<string id="pri_a25_kovalski_take_explosive">
+		<text>Die Truppe, die ausgesandt wurde, um nach der Quelle der Storung zu suchen, hatte Sprengstoff. Benutze es, um den Eingang zu raumen.</text>
+	</string>
+	<string id="pri_a28_actor_scene_end">
+		<text>Der Stalker und die Stingray Truppe sind tot. Vorbereitung fur den Start.</text>
+	</string>
+	<string id="pri_a28_actor_scene_end_when_strelok_dead">
+		<text>Das sind alle, ausser dem Stalker. Er ist tot. Vorbereitung fur den Start.</text>
+	</string>
+	<string id="pri_a28_actor_to_ssu_1">
+		<text>Major Degtyarev hier. Ich hore dich</text>
+	</string>
+	<string id="pri_a28_actor_to_ssu_2">
+		<text>[Major Degtyarev] Ich habe es geschafft, Dokumente uber Experimente zu erhalten, die in der Zone durchgefuhrt wurden. Ausserdem wurden wir von einem Stalker kontaktiert, der im CNPP war. Er heisst Strelok und hat uns seine Mitarbeit angeboten.</text>
+	</string>
+	<string id="pri_a28_actor_to_ssu_with_heli_info">
+		<text>[Major Degtyarev] Ja, ich habe die Daten. Und Streloks Informationen bestatigen es. Die Hubschrauber wurden von Anomalien getroffen, nachdem sich ihre Standorte wahrend der Emissionen verandert hatten. Die Anomaliekarten, die an ihre Piloten ausgegeben wurden, erwiesen sich als nutzlos.</text>
+	</string>
+	<string id="pri_a28_actor_to_ssu_without_heli_info">
+		<text>[Major Degtyarev] Strelok glaubt, dass die Hubschrauber in Anomalien geraten sind. Der Ort der Anomalien andert sich nach jeder Emission. Eine Tatsache, die bei der Erstellung der Karte fur Operation Fairway ubersehen wurde.</text>
+	</string>
+	<string id="pri_a28_actor_to_strelok">
+		<text>Steig in den Hubschrauber! Ich hoffe es hat sich gelohnt ...</text>
+	</string>
+	<string id="pri_a28_army_about_evacuation_1">
+		<text>Lass uns zum Hubschrauber gehen, und wir reden wahrend dem Flug, okay?</text>
+	</string>
+	<string id="pri_a28_army_about_evacuation_2">
+		<text>Wir haben viel Zeit, um spater zu sprechen. Wir mussen sicherstellen, dass wir genug Munition haben.</text>
+	</string>
+	<string id="pri_a28_army_about_evacuation_3">
+		<text>Nun, das war eine anstandige Basis. Das alte Madchen hat uns am Leben erhalten. Mehr kann ich nicht verlangen. Aber jetzt mussen wir zu den Hubschraubern und nach Hause fliegen.</text>
+	</string>
+	<string id="pri_a28_army_about_surge_1">
+		<text>Reden wir nachher. Meine Kiefer brechen wahrend der Emissionen zusammen.</text>
+	</string>
+	<string id="pri_a28_army_about_surge_2">
+		<text>Eine weitere Emission. Langsam werden diese Emissionen echt nervig...</text>
+	</string>
+	<string id="pri_a28_army_about_surge_3">
+		<text>Argh... Ich fuhle mich, als ware ich in einem Graben mit uberrollenden Panzern.</text>
+	</string>
+	<string id="pri_a28_army_confusion">
+		<text>Hm?... Okay, lauf!</text>
+	</string>
+	<string id="pri_a28_army_its_here">
+		<text>Es ist hier!</text>
+	</string>
+	<string id="pri_a28_army_surge_talk_1_first">
+		<text>Mann, ich dachte saurer Regen ware hier schlimm genug.</text>
+	</string>
+	<string id="pri_a28_army_surge_talk_1_second">
+		<text>Vergiss es. Ich tausche es jeden Tag am Wochenende gegen Regen, zweimal am Sonntag.</text>
+	</string>
+	<string id="pri_a28_army_surge_talk_2_first">
+		<text>Verdammt, das ist laut! Meine Ohren klingeln immer noch, ich fuhle mich wie taub.</text>
+	</string>
+	<string id="pri_a28_army_surge_talk_2_second">
+		<text>Was? Heh Heh ... Ich hab nur einen Scherz gemacht.</text>
+	</string>
+	<string id="pri_a28_army_surge_talk_3_first">
+		<text>Heh... Jedes Mal, wenn es eine Emission gibt, bekomme ich diese spaltenden Kopfschmerzen.</text>
+	</string>
+	<string id="pri_a28_army_surge_talk_3_second">
+		<text>Solange die Emission dich nicht umbringt, sage ich, dass es ziemlich gut geht.</text>
+	</string>
+	<string id="pri_a28_army_what_is_that">
+		<text>Was war das?!</text>
+	</string>
+	<string id="pri_a28_army_zombied_first">
+		<text>Zombies!</text>
+	</string>
+	<string id="pri_a28_army_zombied_in_building">
+		<text>Es gibt ungefahr ein Dutzend Zombies im Gebaude.</text>
+	</string>
+	<string id="pri_a28_center_to_colonel_1">
+		<text>Colonel, warum sind die Comms untergegangen?</text>
+	</string>
+	<string id="pri_a28_center_to_colonel_2">
+		<text>Okay. Alles klar, hort zu: Operation Fairway wird von der USS ubernommen. Ist Major Degtyarev da?</text>
+	</string>
+	<string id="pri_a28_center_to_colonel_3">
+		<text>Okay. Er hat von nun an das Kommando. Sag ihm, er soll bleiben. Er wird in Kurze von einem Vorgesetzten kontaktiert werden.</text>
+	</string>
+	<string id="pri_a28_colonel_about_heli">
+		<text>Schau dir das an! Die Hurensohne haben es tatsachlich geschafft... Du hattest recht, Strelok.</text>
+	</string>
+	<string id="pri_a28_colonel_about_snork">
+		<text>Dafur ist keine Zeit! Uberprufe deine Waffen und Feuer nach Belieben!</text>
+	</string>
+	<string id="pri_a28_colonel_actor_talk">
+		<text>Major, Auf ein Wort. Alles klar?</text>
+	</string>
+	<string id="pri_a28_colonel_after_surge">
+		<text>Es sieht so aus, als ware die Emission vorbei. Kirillov, Kontakt HQ.</text>
+	</string>
+	<string id="pri_a28_colonel_cannot_wait">
+		<text>Major, wir konnen nicht langer warten.</text>
+	</string>
+	<string id="pri_a28_colonel_clear_the_deck">
+		<text>Macht euch Bereit, Manner!</text>
+	</string>
+	<string id="pri_a28_colonel_close_by">
+		<text>Kommt schon Jungs! Ein letzter Schub!</text>
+	</string>
+	<string id="pri_a28_colonel_evacuation">
+		<text>Los gehts, Truppe!</text>
+	</string>
+	<string id="pri_a28_colonel_fire_will">
+		<text>Feuer frei! Los!</text>
+	</string>
+	<string id="pri_a28_colonel_go_left">
+		<text>Geht nach links und gebt euch Ruckendeckung!</text>
+	</string>
+	<string id="pri_a28_colonel_instructions">
+		<text>Habt ihr die Neuigkeiten gehort, Leute? Wenn wir gehen, bleibt zusammen und haltet den Stalker am Leben. Fragen?... Mach dich bereit fur den Kampf!</text>
+	</string>
+	<string id="pri_a28_colonel_ok_go_here">
+		<text>Durch den Bogen!</text>
+	</string>
+	<string id="pri_a28_colonel_ready_to_go">
+		<text>Bleibt wachsam und folge den Anweisungen! Wir sind wirklich nahe am Evakuierungspunkt. Lasst uns gehen!</text>
+	</string>
+	<string id="pri_a28_colonel_see_helicopter">
+		<text>Scheisse! Monolith Kampfer! Feuer nach Belieben und geht weiter auf die Helikopter zu!</text>
+	</string>
+	<string id="pri_a28_colonel_strelok_out">
+		<text>Scheisse! Strelok ist erledigt! Aber wir mussen immer noch hier raus. Los, los!</text>
+	</string>
+	<string id="pri_a28_colonel_to_center_1">
+		<text>Wegen der Emission. Es ist unmoglich, wahrend eines Gesprachs eine Verbindung aufzubauen.</text>
+	</string>
+	<string id="pri_a28_colonel_to_center_2">
+		<text>Ja.</text>
+	</string>
+	<string id="pri_a28_colonel_to_center_3">
+		<text>Roger.</text>
+	</string>
+	<string id="pri_a28_colonel_wait_actor">
+		<text>Major, wo bist du? Wir mussen Strelok zum Evakuierungspunkt bringen!</text>
+	</string>
+	<string id="pri_a28_colonel_wait_actor_go">
+		<text>Major, wir werden uns weiter bewegen mussen.</text>
+	</string>
+	<string id="pri_a28_colonel_wait_actor_long">
+		<text>Major, wir konnen nicht viel langer auf dich warten.</text>
+	</string>
+	<string id="pri_a28_colonel_wait_actor_return">
+		<text>Okay, lass uns weitergehen!</text>
+	</string>
+	<string id="pri_a28_colonel_we_close">
+		<text>Wir sind auf dem Weg!</text>
+	</string>
+	<string id="pri_a28_colonel_will_time">
+		<text>Verstanden! Wir werden bald da sein!</text>
+	</string>
+	<string id="pri_a28_colonel_zombied_attack">
+		<text>Jeder Zombie in Pripyat wird wissen, dass wir kommen! Wir mussen uns schneller bewegen! Lauft!</text>
+	</string>
+	<string id="pri_a28_colonel_zombied_first">
+		<text>Lass uns nach rechts entlang des Gebaudes gehen! Doppelte Zeit!</text>
+	</string>
+	<string id="pri_a28_continuation">
+		<text>Heilige Scheisse, bist du noch hier? Nun, wenn du etwas brauchst, findest du mich an der Basis. Ich bin zuruck und habe dieses mal Stalker mitgebracht.</text>	<!-- Bug in xenglish.db (this file should be named jup_a12_stalker_diplomat_no_talk_pda as it says "I don't trust you..." with a PDA voice effect -->
+	</string>
+	<string id="pri_a28_evac_com_cant_wait">
+		<text>Unsere Befehle sind anzunehmen, wenn wir angegriffen werden, also beeile dich!</text>
+	</string>
+	<string id="pri_a28_evac_com_helicopter_run_time">
+		<text>Wir konnen nicht langer warten! Wir gehen in 60 Sekunden!</text>
+	</string>
+	<string id="pri_a28_evac_com_ready">
+		<text>Major Degtyarev, wir sind bereit zu gehen!</text>
+	</string>
+	<string id="pri_a28_evac_com_scene_end_when_strelok_dead">
+		<text>Verstanden!</text>
+	</string>
+	<string id="pri_a28_evac_com_to_helicopter">
+		<text>Zu den Helikopter! Los! Los! Los!</text>
+	</string>
+	<string id="pri_a28_evac_com_where_you">
+		<text>Stingray! Wo bist du?</text>
+	</string>
+	<string id="pri_a28_evac_come_close">
+		<text>Major Degtyarev, wir nehmen schweres Feuer von einem unbekannten Feind auf! Wir konnen nicht lange durchhalten!</text>
+	</string>
+	<string id="pri_a28_medic_about_snork">
+		<text>Diese... Bastarde wieder. Vielleicht sollten wir um das Gebaude herumgehen.</text>
+	</string>
+	<string id="pri_a28_signaller_after_surge_1">
+		<text>Verstanden!</text>
+	</string>
+	<string id="pri_a28_signaller_after_surge_2">
+		<text>Hauptquartier auf der Linie!</text>
+	</string>
+	<string id="pri_a28_ssu_to_actor_1">
+		<text>Major, Horst du mich?</text>
+	</string>
+	<string id="pri_a28_ssu_to_actor_2">
+		<text>[USS Befehl] Gut. Ab diesem Zeitpunkt bist du verantwortlich fur die Durchfuhrung der Operation Fairway. Kovalsky und der Stingray-Trupp werden dir helfen; Bericht.</text>
+	</string>
+	<string id="pri_a28_ssu_to_actor_3">
+		<text>[USS Befehl] Verstanden. Akzeptiere sein Angebot. Weisst du, was unsere Hubschrauber zum Absturz gebracht hat?</text>
+	</string>
+	<string id="pri_a28_ssu_to_actor_5">
+		<text>[USS Befehl] Gut. Das heisst, wir haben bis zur nachsten Emission Zeit. Du wirst zusammen mit dem Stalker aus Position B28 gebracht. Die Stingray Truppe wird mit dir evakuiert werden. Die Vogel sind schon in der Luft. Ende der Durchsage.</text>
+	</string>
+	<string id="pri_a28_strelok_dont_stop">
+		<text>Nicht aufhoren! Weiter machen!</text>
+	</string>
+	<string id="pri_a28_strelok_go_over_anomaly">
+		<text>Mehr Zombies voraus!</text>
+	</string>
+	<string id="pri_a28_strelok_run">
+		<text>Lauf!</text>
+	</string>
+	<string id="pri_b301_zulus_after_fight">
+		<text>Nun, das hat spass gemacht!</text>
+	</string>
+	<string id="pri_b301_zulus_hello_in_combat">
+		<text>Geh in Deckung! Diese Bastarde kommen von allen Seiten!</text>
+	</string>
+	<string id="pri_b301_zulus_surrounded_1">
+		<text>Nimm das!</text>
+	</string>
+	<string id="pri_b301_zulus_surrounded_2">
+		<text>Du dachtest ich ware einfach, hm?!</text>
+	</string>
+	<string id="pri_b301_zulus_surrounded_3">
+		<text>Nimm ein wenig von dem!</text>
+	</string>
+	<string id="pri_b305_actor_ask_about_burning_antenn">
+		<text>Bist du der Stalker, der den Scorcher deaktiviert hat?</text>
+	</string>
+	<string id="pri_b305_actor_check_signal">
+		<text>Ich sichere.</text>
+	</string>
+	<string id="pri_b305_actor_dont_see_anyone">
+		<text>Ich sehe keinen.</text>
+	</string>
+	<string id="pri_b305_actor_emission_starts">
+		<text>Eine Emission beginnt!</text>
+	</string>
+	<string id="pri_b305_actor_go">
+		<text>Danke, ich werde das tun.</text>
+	</string>
+	<string id="pri_b305_actor_it_is_underground">
+		<text>Es ist unter der Erde.</text>
+	</string>
+	<string id="pri_b305_actor_need_center_to_know">
+		<text>Wir mussen dies dem Hauptquartier so bald wie moglich mitteilen.</text>
+	</string>
+	<string id="pri_b305_actor_understand">
+		<text>Verstanden.</text>
+	</string>
+	<string id="pri_b305_actor_we_have_problems">
+		<text>Wir haben ein Problem. Unsere Hubschrauber sturzen ohne Grunde ab.</text>
+	</string>
+	<string id="pri_b305_actor_wondered">
+		<text>So ist es also...</text>
+	</string>
+	<string id="pri_b305_army_what_freezer">
+		<text>Hahaha! Wow, noch nie zuvor gehort! Ein Kuhlschrank, was?</text>
+	</string>
+	<string id="pri_b305_kirilov_about_garik">
+		<text>Ausserdem fuhr Garry in die Yanov-Station um seinen Vorrat aufzustocken. Er hat mich gebeten, dir zu sagen, dass er fur ein paar Tage nicht zuruck sein wird.</text>
+	</string>
+	<string id="pri_b305_kirilov_about_garik_vano">
+		<text>Ausserdem bat mich Vano, dir zu sagen, dass er und Garry zum Bahnhof Yanov gingen. Er sagte, sie wurden Souvenirs mitbringen.</text>
+	</string>
+	<string id="pri_b305_kirilov_about_strelok_1">
+		<text>Danke fur deine Hilfe! Der Colonel will ubrigens, dass du ihm einen Besuch abstattest.</text>
+	</string>
+	<string id="pri_b305_kirilov_give_coordinates">
+		<text>Ja, ich habe die Koordinaten, aber das Signal ist intermittierend und... es bewegt sich!</text>
+	</string>
+	<string id="pri_b305_kirilov_give_new_coordinates">
+		<text>Das Signal ist zuruck! Ubertragen von Koordinaten.</text>
+	</string>
+	<string id="pri_b305_kirilov_glad">
+		<text>Bist das wirklich du? Nun, ich werde...! Wir dachten, wir wurden unseren Arzt nie wieder sehen.</text>
+	</string>
+	<string id="pri_b305_kirilov_ok">
+		<text>Okay...</text>
+	</string>
+	<string id="pri_b305_kirilov_order_agree">
+		<text>Ja, Sir!</text>
+	</string>
+	<string id="pri_b305_kirilov_signal_lost">
+		<text>Das Signal ist verschwunden.</text>
+	</string>
+	<string id="pri_b305_kirilov_signal_next_to_actor">
+		<text>Es ist zuruck! Es ist direkt neben dir.</text>
+	</string>
+	<string id="pri_b305_kirilov_source_is_near">
+		<text>Es ist nah. Und es bewegt sich auf unsere Basis zu.</text>
+	</string>
+	<string id="pri_b305_kirilov_strange_signal">
+		<text>Oberst! Ein Funksignal wurde erkannt und seine Quelle ist nicht weit von der Basis entfernt. Die Ubertragung ist verschlusselt, und ich konnte sie noch nicht knacken.</text>
+	</string>
+	<string id="pri_b305_kirilov_what_freezer">
+		<text>Welcher Kuhlschrank? Wo hast du es gefunden?</text>
+	</string>
+	<string id="pri_b305_kirilov_what_happen">
+		<text>Also, was ist passiert?</text>
+	</string>
+	<string id="pri_b305_kirilov_what_next">
+		<text>Und welcher Zustand ware das?</text>
+	</string>
+	<string id="pri_b305_kirilov_where_you_been">
+		<text>Damit? Sag mir! Wo warst du?</text>
+	</string>
+	<string id="pri_b305_kovalskiy_about_anomaly_map">
+		<text>Wir hatten eine Karte mit einem sicheren Luftkorridor zwischen Anomalien... Und die Hubschrauber hatten Emissionsschutzsysteme!</text>
+	</string>
+	<string id="pri_b305_kovalskiy_about_deal">
+		<text>Bis wir es schaffen, wird es keine Hubschrauberunterstutzung geben. Der einzige Weg, um zu den Grenzen der Zone zu gelangen, ist zu Fuss.</text>
+	</string>
+	<string id="pri_b305_kovalskiy_ask_coordinates">
+		<text>Hast du die Koordinaten?</text>
+	</string>
+	<string id="pri_b305_kovalskiy_attack_case_prepare">
+		<text>Major, Kovalsky hier. Du solltest besser zuruckkommen. Wir mussen uns auf einen moglichen Angriff vorbereiten. Diese Bastarde werden uns diesmal nicht mit unseren Hosen unten erwischen!</text>
+	</string>
+	<string id="pri_b305_kovalskiy_let_center_know">
+		<text>Ich werde gleich nach der Emission mit meinen Kommandeuren Kontakt aufnehmen.</text>
+	</string>
+	<string id="pri_b305_kovalskiy_news">
+		<text>Ich habe mit dem Kommandandeur des Hauptquartiers gesprochen und ihm die Situation sowie alle gesammelten Informationen mitgeteilt. Es wird keine Helikopterunterstutzung fur eine Weile geben; Er schlug vor, dass wir deine Position festigen und weitere Befehle erwarten sollten. USS-Beobachter sind derzeit im Hauptquartier, so dass du bald genug mit deinem Vorgesetzten sprechen kannst.</text>
+	</string>
+	<string id="pri_b305_kovalskiy_order_kirilov">
+		<text>Leutnant! Hole dich auf die Linie, sobald du kannst!</text>
+	</string>
+	<string id="pri_b305_kovalskiy_talk_in_safe_place">
+		<text>Komm, lass uns drinnen reden!</text>
+	</string>
+	<string id="pri_b305_kovalskiy_think_of_attack">
+		<text>Monolith? Schonwieder?!</text>
+	</string>
+	<string id="pri_b305_kovalskiy_who_are_you">
+		<text>Wer bist du?!</text>
+	</string>
+	<string id="pri_b305_kovalskiy_wondered">
+		<text>Was?!</text>
+	</string>
+	<string id="pri_b305_medik_dont_know_what_say">
+		<text>Hm... Bin mir nicht ganz sicher, wie ich es beschreiben soll.</text>
+	</string>
+	<string id="pri_b305_medik_excuse">
+		<text>Wo habe ich es gefunden...? Ich wurde gerne sehen, wie du in meinem Zustand etwas finden kannst.</text>
+	</string>
+	<string id="pri_b305_medik_in_freezer">
+		<text>Du wirst mir sowieso nicht glauben, aber... in einem Kuhlschrank.</text>
+	</string>
+	<string id="pri_b305_medik_talk_later">
+		<text>Puh... es ist eine lange Geschichte... Ich erzahle es dir ein anderes Mal.</text>
+	</string>
+	<string id="pri_b305_strelok_about_anomaly_randomize">
+		<text>Das ist merkwurdig... Du sagst mir, dass du nicht bemerkt hast, dass sich Anomalien nach einer Emission bewegen? Einige verschwinden und neue tauchen an verschiedenen Stellen auf, was deine Karte von Anomalien effektiv nutzlos macht.</text>
+	</string>
+	<string id="pri_b305_strelok_about_heli">
+		<text>Die Grunde liegen auf der Hand. Es gibt viele Anomalien in der Luft, besonders in der Mitte der Zone.</text>
+	</string>
+	<string id="pri_b305_strelok_about_zone_destroying">
+		<text>Ja... aber mein Plan hat nicht funktioniert. Ich bin gekommen, um mit deinem Kommandeur zu sprechen. Ich habe Informationen, die es der Armee ermoglichen, die Kontrolle uber die Zone zu ubernehmen und sie zu zerstoren.</text>
+	</string>
+	<string id="pri_b305_strelok_give_up">
+		<text>Nicht schiessen! Ich bin unterwegs zum Haupteingang.</text>
+	</string>
+	<string id="pri_b305_strelok_how_to_get_away">
+		<text>Emissionen folgen nicht einfach aufeinander. Wenn du den Bereich einscannen und alle Anomalien identifizieren kannst, konnen die Helikopter uns sicher abholen. Vorausgesetzt, sie werden direkt nach einer Emission geschickt.</text>
+	</string>
+	<string id="pri_b305_strelok_introduse">
+		<text>Ich heisse Strelok</text>
+	</string>
+	<string id="pri_b35_both_done_end">
+		<text>Beide Ziele wurden eliminiert. Gut gemacht! Mission erfullt. Zuruckfallen!</text>
+	</string>
+	<string id="pri_b35_envoy_sighted">
+		<text>Schau, da ist eine andere Gruppe! Mal sehen, wer von ihnen der Bote ist.</text>
+	</string>
+	<string id="pri_b35_kovalski_calls_guide">
+		<text>Leutnant Kirillow, Kovalsky hier. Ich brauche dich, um den Major zu begleiten.</text>
+	</string>
+	<string id="pri_b35_merc_leader_sighted">
+		<text>Ich schatze, der am Haupteingang ist ihr Anfuhrer.</text>
+	</string>
+	<string id="pri_b35_primary_target_down">
+		<text>Erstes Ziel wurde eliminiert.</text>
+	</string>
+	<string id="pri_b35_primary_target_lost_end">
+		<text>Erstes Ziel ist geflohen. Zuruckfallen!</text>
+	</string>
+	<string id="pri_b35_rendevous_done">
+		<text>Die sind fertig! Es wird Zeit sie zu erledigen!</text>
+	</string>
+	<string id="pri_b35_rendevous_in_process">
+		<text>Die Ziele befinden sich am Haupteingang.</text>
+	</string>
+	<string id="pri_b35_rendevous_started">
+		<text>Major! Die Soldner sind in Position.</text>
+	</string>
+	<string id="pri_b35_secondary_target_down">
+		<text>Zweites Ziel wurde eliminiert.</text>
+	</string>
+	<string id="pri_b35_secondary_target_lost_end">
+		<text>Zweites Ziel ist geflohen. Zuruckfallen!</text>
+	</string>
+	<string id="pri_b35_targets_lost_end">
+		<text>Beide Ziele sind geflohen. Mission abbrechen und zuruckfallen!</text>
+	</string>
+</string_table>

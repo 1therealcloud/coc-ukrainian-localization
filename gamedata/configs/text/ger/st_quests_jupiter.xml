@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+
+<!--===========================================================
+<
+< TEXT  STRINGS FOR TASKS ON JUPITER (YANOV) MAP
+<	CoC 1.3.11
+<
+<	Modified by: DoctorX
+<	March 18, 2016
+<
+<===========================================================-->
+
+<string_table>
+
+	<!-- Jup A6 Yar -->
+	<string id="jup_b19_freedom_yar_task_1_name">
+		<text>Speziale Lieferung</text>
+	</string>
+	<string id="jup_b19_freedom_yar_task_1_text">
+		<text>Du musst eine Nachricht ubermitteln. Wie bist du in die Mitte geraten?</text>
+	</string>
+	<string id="jup_b19_freedom_yar_task_1_about">
+		<text>In Ordnung, ich habe einen sehr einfachen Job fur dich. Ich brauche dich, um meinem Kumpel eine Nachricht zu uberbringen. Er braucht seinen PDA repariert. Sag ihm, er soll es hierher bringen.</text>
+	</string>
+	<string id="jup_b19_freedom_yar_task_1_finish">
+		<text>Haha, wir haben dir nur einen Streich gespielt, Stalker! Ich kann nicht glauben, dass du dich so lange mit diesem Scheiss begnugt hast.</text>
+	</string>
+	
+	<string id="jup_b19_freedom_yar_task_1_dm_query">
+		<text>Ich bin hier, um eine Nachricht zu uberbringen.</text>
+	</string>
+	<!-- ESCORT ECOGS TASK -->
+	<string id="jup_b6_scientist_tech_task_1_name">
+		<text>Wissenschaftler begleiten</text>
+	</string>
+	<string id="jup_b6_scientist_tech_task_1_text">
+		<text>Wissenschaftler haben dich engagiert, um sie an einen bestimmten Ort zu leiten. Sobald ihre Forschung erfolgreich durchgefuhrt wurde, bring sie sicher zum Camp zuruck.</text>
+	</string>
+	<string id="jup_b6_scientist_tech_task_1_about">
+		<text>Wir brauchen einen erfahrenen Stalker, um einige unserer Kollegen zum Studium zu fuhren. Also? Wie ware es mit dir, Stalker?</text>
+	</string>
+	<string id="jup_b6_scientist_tech_task_1_fetch_finish">
+		<text>Danke fur deinen Schutz, Stalker. Bitte nehmee dies als Zeichen unserer Dankbarkeit.</text>
+	</string>
+
+
+	<!-- FIND ARTEFACT FOR ECOGS TASK -->
+	<string id="jup_b6_scientist_tech_task_2_name">
+		<text>Finde das %s Artefakt</text>
+	</string>
+	<string id="jup_b6_scientist_tech_task_2_text">
+		<text>Du wurdest beauftragt das %s Artefakt zu finden. Bringe es zu Tukarev, falls du etwas dergleichen findest.</text>
+	</string>
+	<string id="jup_b6_scientist_tech_task_2_about">
+		<text>Wir suchen nach bestimmten Arten von Artefakten. Wenn du interessiert bist, sage ich dir was wir brauchen.</text>
+	</string>
+	<string id="jup_b6_scientist_tech_task_2_fetch_about">
+		<text>Ich will das du uns einen %s bringst. Jemals was davon gehort? Wir haben was, das wir dir als Belohnung geben konnten, wenn du uns hilfst. Es wird sicher nutzlich fur dich sein.</text>
+	</string>
+	<string id="jup_b6_scientist_tech_task_2_fetch_finish">
+		<text>Tolle Leistung! Du hast genau das gefunden, wonach wir gesucht haben! Nimm diesen Anzug. Es schutzt dich von der Zone. Ich bin mir sicher du kannst es sogar fur einen guten Preis verkaufen, wenn du magst.</text>
+	</string>
+
+
+	<!-- ELIMINATE MUTANTS FOR TRAPPER TASK -->
+	<string id="jup_b220_trapper_task_1_name">
+		<text>Eliminiere die Mutanten Bedrohungen</text>
+	</string>
+	<string id="jup_b220_trapper_task_1_text">
+		<text>In der Nahe dieses Ortes wurden Mutanten entdeckt, die das Gebiet fur einige Einheimische gefahrlich machen. Dein Auftrag ist es, die Mutantenbedrohung in diesem Gebiet zu eliminieren. Melde dich nach Abschluss des Auftrags bei Trapper.</text>
+	</string>
+	<string id="jup_b220_trapper_task_1_about">
+		<text>Ich suche jemanden, der die Gegend um die Yanov Station etwas sicherer macht indem er die Mutanten erledigt, die hier immer wieder aufkreuzen. Was sagst du, Stalker?</text>
+	</string>
+	<string id="jup_b220_trapper_task_1_finish">
+		<text>Danke, Stalker. Das Gebiet wird jetzt viel sicherer wegen dir sein. Hier ist deine Bezahlung.</text>
+	</string>
+
+
+	<!-- ASSASSINATION FOR TRAPPER TASK -->
+	<string id="jup_b220_trapper_task_2_name">
+		<text>Hoch Bedrohungs Attentat</text>
+	</string>
+	<string id="jup_b220_trapper_task_2_text">
+		<text>Trapper hat ein hohes Wertziel, das beseitigt werden muss.</text>
+	</string>
+	<string id="jup_b220_trapper_task_2_about">
+		<text>Ich habe eine gefahrliche Bedrohung, die beseitigt werden muss. Diesmal keine Mutanten, sondern ein Mann. Er wird nicht einfach zu eliminieren sein, aber ich kann dir versprechen das du den vollen Preis meiner Bezahlung bekommst. Also, was sagst du dazu, Stalker?</text>
+	</string>
+	<string id="jup_b220_trapper_task_2_finish">
+		<text>Gute Arbeit, Stalker. Hier ist deine Bezahlung.</text>
+	</string>
+
+
+	<!-- FIND WEAPON FOR TRAPPER TASK -->
+	<string id="jup_b220_trapper_task_3_name">
+		<text>Finde %s</text>
+	</string>
+	<string id="jup_b220_trapper_task_3_text">
+		<text>Trapper hat dich gebeten, eine bestimmte Waffe zu finden. Es muss in einwandfreiem Zustand sein. Kehre zu ihm zuruck, wenn du findest, wonach er sucht.</text>
+	</string>
+	<string id="jup_b220_trapper_task_3_about">
+		<text>Einer meiner Kunden ist auf meinem Markt und sucht eine bestimmte Waffe, die ich nicht habe. Konntest du eine fur mich finden?</text>
+	</string>
+	<string id="jup_b220_trapper_task_3_fetch_about">
+		<text>Ich brauche ganz klar eine %s. Mein Kunde, der diese Waffe braucht, Lebt ein sehr gefahrliches Leben und es muss in einwandfreiem Zustand sein. Ich bezahle dich, wenn du mir so eine Waffe findest.</text>
+	</string>
+	<string id="jup_b220_trapper_task_3_fetch_finish">
+		<text>Ah, perfekt! Sieht nicht schlecht aus. Hier ist meine Bezahlung.</text>
+	</string>
+
+
+	<!-- FIND MUTANT PARTS FOR TRAPPER TASK -->
+	<string id="jup_b220_trapper_task_4_name">
+		<text>Sammle %s</text>
+	</string>
+	<string id="jup_b220_trapper_task_4_text">
+		<text>Trapper sagt, er bezahlt dich wenn du ihm eine %s findest.</text>
+	</string>
+	<string id="jup_b220_trapper_task_4_about">
+		<text>Ich habe ein Kopfgeld auf eine bestimmte Art von Mutanten. Bist du interessiert?</text>
+	</string>
+	<string id="jup_b220_trapper_task_4_fetch_about">
+		<text>Erledige diesen Mutanten und bring mir einen %s und ich bezahle dich gut, Stalker.</text>
+	</string>
+	<string id="jup_b220_trapper_task_4_fetch_finish">
+		<text>Ah, eine weitere Bedrohung beseitigt und eine neue Dekoration fur das Lager. Gut gemacht, Stalker!</text>
+	</string>
+
+
+	<!-- FIND LEVEL 1 TOOLKIT FOR NITRO TASK -->
+	<string id="jup_b217_stalker_tech_task_1_name">
+		<text>Finde %s</text>
+	</string>
+	<string id="jup_b217_stalker_tech_task_1_text">
+		<text>%s werden von Nitro benotigt, um grundlegende Ausrustungs-Upgrades zu installieren. Du solltest sie ihm bringen, wenn du welche findest.</text>
+	</string>
+	<string id="jup_b217_stalker_tech_task_1_about">
+		<text>Ich brauche neue Werkzeuge, Stalker. Etwas, das in der Zone schwer zu finden ist. Wenn du daran interessiert bist, mir zu helfen, werde ich dir sagen, was ich brauche.</text>
+	</string>
+	<string id="jup_b217_stalker_tech_task_1_fetch_about">
+		<text>Ich brauche eine Reihe Grundlegender Werkzeuge. Es sollte enthalten was ich brauche. Wenn du etwas fur mich hast, ware ich dir sehr dankbar! Ich werde dir von hier aus sogar einen Rabatt anbieten.</text>
+	</string>
+	<string id="jup_b217_stalker_tech_task_1_fetch_finish">
+		<text>Perfekt! Das ist genau das, was ich brauche, Stalker. Wenn du deine Ausrustung feineinstellen musst, kann ich es jetzt richtig machen.</text>
+	</string>
+
+
+	<!-- FIND LEVEL 2 TOOLKIT FOR NITRO TASK -->
+	<string id="jup_b217_stalker_tech_task_2_name">
+		<text>Finde %s</text>
+	</string>
+	<string id="jup_b217_stalker_tech_task_2_text">
+		<text>%s werden von Nitro benotigt, um fortgeschrittene Ausrustungs-Upgrades zu installieren. Du solltest sie ihm bringen, wenn du welche findest.</text>
+	</string>
+	<string id="jup_b217_stalker_tech_task_2_about">
+		<text>Die Werkzeuge, die du mir gebracht hast sind toll, nur es hat einfach nicht alles was ich brauche. Denkst du, du kannst mir ein besseres bringen?</text>
+	</string>
+	<string id="jup_b217_stalker_tech_task_2_fetch_about">
+		<text>Ich brauche ein %s. Ich habe keine verdammte Ahnung, wo du das finden kannst, aber falls du eines findest, bring es zu mir. Ich brauche es dringend, Mann.</text>
+	</string>
+	<string id="jup_b217_stalker_tech_task_2_fetch_finish">
+		<text>Whoa! Du hast ein Nettes Set an Werkzeugen gebracht! Ich habe dir ja Geld versprochen. Nimm das, Bruder.</text>
+	</string>
+
+
+	<!-- FIND LEVEL 3 TOOLKIT FOR NITRO TASK -->
+	<string id="jup_b217_stalker_tech_task_3_name">
+		<text>Finde %s</text>
+	</string>
+	<string id="jup_b217_stalker_tech_task_3_text">
+		<text>%s werden von Nitro benotigt, um sachverstandige Ausrustungsverbesserungen zu installieren. Du solltest sie ihm bringen, wenn du welche findest.</text>
+	</string>
+	<string id="jup_b217_stalker_tech_task_3_about">
+		<text>Die Werkzeuge, die du mir gebracht hast sind toll, nur es hat einfach nicht alles was ich brauche. Denkst du, du kannst mir ein besseres bringen?</text>
+	</string>
+	<string id="jup_b217_stalker_tech_task_3_fetch_about">
+		<text>Ich brauche ein %s. Ich habe keine verdammte Ahnung, wo du das finden kannst, aber falls du eines findest, bring es zu mir. Ich brauche es dringend, Mann.</text>
+	</string>
+	<string id="jup_b217_stalker_tech_task_3_fetch_finish">
+		<text>Whoa! Du hast ein Nettes Set an Werkzeugen gebracht! Ich habe dir ja Geld versprochen. Nimm das, Bruder.</text>
+	</string>
+	
+</string_table>

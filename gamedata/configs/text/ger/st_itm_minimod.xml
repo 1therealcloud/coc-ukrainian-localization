@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="st_itm_artefact_container_name">
+		<text>Artefaktbehalter</text>
+	</string>
+	<string id="st_itm_backpack_name">
+		<text>Rucksack</text>
+			</string>
+	<string id="st_itm_backpack_desc">
+		<text>Ein Rucksack aus strapazierfahigem Material, der den widrigsten Wetterbedingungen standhalt.</text>
+			</string>
+	<string id="st_itm_sleepbag_name">
+		<text>Schlafsack</text>
+			</string>
+	<string id="st_itm_sleepbag_desc">
+		<text>Ein tragbarer Schlafsack, der den Benutzer nachts warm und versteckt halt.</text>
+			</string>
+	<string id="st_sleep">
+		<text>Schlafen</text>
+			</string>
+	<string id="st_itm_actor_backpack_name">
+		<text>Feldausrustung</text>
+			</string>
+	<string id="st_itm_actor_backpack_desc">
+		<text>Ein robuster Rucksack mit verschiedenen Taschen und Fachern, die mit Schnellverschlussen ausgestattet sind; die Moglichkeit geben, das Feldkit sofort fallen zu lassen.</text>
+	</string>
+	<string id="st_itm_gunsmith_toolkit">
+		<text>Reperaturkasten</text>
+	</string>
+	<string id="st_itm_gunsmith_toolkit_descr">
+		<text>Ein Set mit Olen und Werkzeugen fur die grundlegende Waffenwartung. Nutzlich beim Erkunden, aber auch ziemlich schwer.\n\n%c[255,255,1,1]Ziehe den Kasten auf den Gegenstand, den du reparieren willst.</text>
+	</string>
+	<string id="st_itm_outfit_toolkit">
+		<text>Flickzeug</text>
+	</string>
+	<string id="st_itm_outfit_toolkit_descr">
+		<text>Ein provisorischer Satz von Nahausrustung und Ersatzmaterialien fur die Wartung der Ausrustung. Nutzlich fur die Reparatur von Lochern und Rissen in der Rustung.\n\n%c[255,255,1,1]Ziehe as Flickzeug auf den Gegenstand, den du reparieren willst.</text>
+	</string>
+	<string id="st_itm_repairkit_tier_1_name">
+		<text>Allgemeine Werkzeuge</text>
+	</string>
+	<string id="st_itm_repairkit_tier_1_descr">
+		<text>Ein Werkzeugkasten fur Kinder. Unwahrscheinlich, dass sie fur die Wartung geeignet sind, aber sie konnten in den Handen eines sparsamen Technikers nutzlich sein.</text>
+	</string>
+	<string id="st_itm_repairkit_tier_2_name">
+		<text>Forgeschrittene Werkzeuge</text>
+	</string>
+	<string id="st_itm_repairkit_tier_2_descr">
+		<text>Ein anstandiges Set alter Werkzeuge, aber trotz ihres Alters scheinen sie in einem guten Zustand zu sein. Ein Techniker konnte wahrscheinlich davon Gebrauch machen.</text>
+	</string>
+	<string id="st_itm_repairkit_tier_3_name">
+		<text>Experten Werkzeuge</text>
+	</string>
+	<string id="st_itm_repairkit_tier_3_descr">
+		<text>Ein professionelles Set hochwertiger Werkzeuge fur die Feinabstimmung der Ausrustung. Ein Techniker konnte damit Waffen und Rustungen komplett modifizieren.</text>
+	</string>
+	<string id="st_repair_mod_message_box_ask">
+		<text>Bist du sicher das du %s reparieren willst?\n\n%c[255,1,255,1]+%s%</text>
+	</string>
+	<string id="st_repair_mod_message_box_condition_to_low">
+		<text>Der Gegenstand ist mit diesen Werkzeugen nicht mehr zu reparieren.</text>
+	</string>
+	<string id="st_repair_mod_message_box_condition_to_high">
+		<text>Diese Werkzeuge sind nicht genug, um dieses Element weiter zu reparieren.</text>
+	</string>
+	<string id="st_itm_stash">
+		<text>Versteck</text>
+	</string>
+	<string id="st_itm_stash_of_character">
+		<text>%s's Versteck</text>
+	</string>
+</string_table>

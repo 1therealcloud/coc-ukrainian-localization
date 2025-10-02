@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+<string id="bad_psy_helmet_desc">
+		<text>Prototyp von Wissenschaftlern entwickelt, um Menschen vor Psi-Emissionen zu schutzen. Muss angepasst werden.</text>
+	</string>
+	<string id="bad_psy_helmet_name">
+		<text>Unkalibrierter Psi-Helm</text>
+	</string>
+	<string id="good_psy_helmet_desc">
+		<text>Prototyp von Wissenschaftlern entwickelt, um Menschen vor Psi-Emissionen zu schutzen.</text>
+	</string>
+	<string id="good_psy_helmet_name">
+		<text>Psi-Helm</text>
+	</string>
+	<string id="cit_doctors_key_short_desc">
+		<text>Der Schlussel des Doktors zu einem geheimen Vorrat in Pripyat</text>
+	</string>
+	<string id="cit_doctors_key_name">
+		<text>Doctors Schlussel</text>
+	</string>
+	<string id="cit_doctors_key_desc">
+		<text>Ein Schlussel mit "Hotel Polissya - Room 26" auf der Seite eingraviert.</text>
+	</string>
+	<string id="item_docs_hiden_pri_desc">
+		<text>Abgenutztes Manuskript in Ledereinband. Geschrieben von Strelok selbst. \nAlleine nach den Uberschriften zu urteilen, konnte es einige der Geheimnisse der Zone erklaren.</text>
+	</string>
+	<string id="cit_doctors_pda_name">
+		<text>Doctors Notizen</text>
+	</string>
+	<string id="cit_doctors_pda_desc">
+		<text>"Nur ein paar Notizen uber die Verschworungstheorien alter Manner". \nEs gibt Geruchte, dass das Agroprom-Institut in den Jahren vor dem Unfall 2006 als Front fur ein inoffizielles Labor genutzt wurde. In diesem Labor wurden einige sehr ungewohnliche Experimente durchgefuhrt. Die Handler haben viele Informationen uber diese Laboratorien ausgegraben. Ich traf mich mit dem Barkeep, er sagt, er schickte Wachter Soldaten, um in die unterirdischen Gewolbe vom Dunklen Tal und X-18 zu gelangen, aber sie verschwanden. Es gibt noch weitere Geruchte uber einen "Psi-Brain" Mechanismus. Die ganze Nachbarschaft in Yantar ist unter dem Einfluss dieses Stuck Mulls - es zoomte jeden, der in Reichweite kam. Es gibt noch einen anderen Mechanismus im Roten Wald, Radar Untergrund, auch genannt Lab X-19, und das ist wahrscheinlich der Brain Scorcher. Es gibt Hinweise darauf, dass die Anwesenheit des Brain Scorcher absichtlich den Weg nach Norden blockiert, aber niemand weiss genau, was es ist. Die Barkeep glaubt, dass der Brain Scorcher von Menschen gemacht ist, und diese Mechanismen funktionieren nicht immer in voller Starke. Er denkt, dass es Zeiten gibt, in denen ihre Kraft gesenkt wird, um den Apparat zu kuhlen. Es ist Zeit, alle unterirdischen Labore in der Zone zu besuchen und herauszufinden, welche Geheimnisse sie verbergen. Schade, dass ich zu alt fur diese Schei?e bin. Ich wunschte, Strelok ware noch da, aber verdammt, er ist vor Jahren verschwunden.</text>
+	</string>
+	<string id="item_docs_hiden_pri_name">
+		<text>Streloks Manuskript</text>
+	</string>
+	<string id="item_decoder_desc">
+		<text>Ein leistungsstarker elektronischer Lock-Pick. Seltsamerweise scheint es kein Allzweck-Diebesinstrument zu sein. Eher scheint es mit einem bestimmten elektronischen Schloss erstellt worden zu sein und kann nicht verwendet werden, um irgendetwas anderes zu uberschreiben.</text>
+	</string>
+	<string id="item_decoder_name">
+		<text>Decoder</text>
+	</string>
+	<string id="pri_decoder_docs_conclusion_txt">
+		<text>Das Manuskript enthalt einen kurzen Bericht daruber, wie Fang und Strelok ein verborgenes Labor und ihre Reise dorthin infiltriert haben. Es erwahnt die Anwesenheit von gro?en Monolithen in und um das Kernkraftwerk von Tschernobyl. Genauer gesagt unter dem Betonsarkophag, was auch darauf hindeutet, dass es sich um ihre Operationsbasis handelt, aber mit der Absicht, etwas zu verbergen. Weiter lesen sie, dass sie entdeckt Labor im Norden unter den Generatoren versteckt, jedoch konnten sie zum Zeitpunkt des Schreibens nicht zugreifen, da sie den Einsatz eines Decoders benotigt.</text>
+	</string>
+	<string id="item_quest_case_02_desc">
+		<text>Eine feuerfeste Aktentasche mit militarischen Dokumenten und Berichten uber Untersuchungen in der Nahe von Agroprom. In den Berichten wird ausfuhrlich daruber berichtet, wie Maschinen und Gerate aus dem Institut verschwunden sind und wie die Ergebnisse der Untersuchungen zu ihrem Verbleib offenbar verfalscht wurden.</text>
+	</string>
+	<string id="item_quest_case_02_name">
+		<text>Militardokumente</text>
+	</string>
+	<string id="item_doc_x18_name">
+		<text>Biologie Forschungsbericht</text>
+	</string>
+	<string id="item_doc_x18_desc">
+		<text>Der Bericht beschreibt die Untersuchung biologischer Proben, die aus Labor X-18 gesendet wurden. Die Proben wurden Informationsfeldeffekten unterschiedlicher Intensitat ausgesetzt. Der Bericht beschreibt akribisch die Mutation von Lebewesen nach Exposition gegenuber Emissionen.</text>
+	</string>
+	<string id="item_doc_x16_desc">
+		<text>Die Dokumente beziehen sich auf eine der seitlichen Entdeckungen der Bioforschung, insbesondere auf die Entdeckung, dass Lebewesen in der Lage sind, gerichtete Psi-Emissionen zu erzeugen. Ein biologischer Feldemitter, im Wesentlichen ein riesiges Gehirn, wurde als Teil der in Labor X-16 durchgefuhrten Forschung gezuchtet.</text>
+	</string>
+	<string id="item_doc_x16_name">
+		<text>Psi Forschungsdokumente</text>
+	</string>
+		<string id="item_doc_x10_desc">
+		<text>Die Dokumente beschreiben die technischen Eigenschaften einer Antenne und wie sie von ihren geplanten Designs abweichen. Auf der Ruckseite befindet sich ein Hinweis, dass diese Dokumente in Lab X-19 erstellt wurden.</text>
+	</string>
+	<string id="item_doc_x10_name">
+		<text>Regenbogen Emitter Dokumente</text>
+	</string>
+		<string id="item_doc_x8_desc">
+		<text>Das Dokument bezieht sich auf die Ubertragung des Forschungsteams und aller Materialien auf ein anderes Labor weit im Norden, das zur Erforschung des Einflusses der Noosphare verwendet wird. Um das Labor zu betreten, verwenden Sie das Unfalldatum als Code. \ N \ nDas Forschungsteam bestand aus: N. A. Lebedev, E. F. Kalancha und V.I. Suslov.</text>
+	</string>
+	<string id="item_doc_x8_name">
+		<text>Reihenfolge der Ubertragung</text>
+	</string>
+	<string id="item_doc_jup_ug_desc">
+		<text>Das Notizbuch enthalt eine detaillierte Beschreibung eines Experiments zur Beurteilung der Wirkung eines Psi-Feldes auf ein Objekt in einer anderen Hemisphare. Eine Gruppe von Wissenschaftlern in der Karibik erhielt das Signal, aber es war verzerrt. Das Signal wurde auf seltsame Weise verandert, als ware es von jemandem korrigiert worden. Eine mogliche Erklarung ist, dass die Noospharentheorie korrekt ist und die Anderungen von der Noosphare gemacht wurden.</text>
+	</string>
+	<string id="item_doc_jup_ug_name">
+		<text>Notizbuch uber das Experiment</text>
+	</string>
+		<string id="item_doc_mon_con_name">
+		<text>Prototyp Waffenbericht</text>
+	</string>
+	<string id="item_doc_mon_con_name_desc">
+		<text>Dokumente, die den Betriebsmechanismus und die wichtigsten technischen Eigenschaften eines fortgeschritteneren elektromagnetischen Gerats beschreiben. \nIn den Dokumenten befindet sich ein Hinweis: "Dokumente mussen an X-8, das Zentrallabor, zuruckgeschickt werden. Ich werde beschaftigt sein, also liefern sie selbst. - N. Lebedev "</text>
+	</string>
+</string_table>

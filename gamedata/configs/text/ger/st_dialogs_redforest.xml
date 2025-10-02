@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+<string id="red_forester_hello_dialog_0">
+		<text>Wem verdanke ich dieses Vergnugen?</text>
+	</string>
+	<string id="red_forester_about_forest_0">
+		<text>Erzahle mir was uber den Roten Wald.</text>
+	</string>
+	<string id="red_forester_about_forest_1">
+		<text>Dies war fruher ein Naturschutzgebiet, und ich war ortlich von hier. Ich habe den Wald und seine Tiere vor Wilderern geschutzt. Jetzt schutzt die Zone selbst diesen Ort, und sie macht es so gut, dass die Leute bereit sind, ein Dutzend zusatzliche Meilen zu reisen, nur um es zu vermeiden. Wenn ein Fremder seinen Fuss in den Wald setzt, ist er so gut wie tot. Ich bin zwar Forster, aber selbst ich weiss nicht genau, was hier vor sich geht. Ein Mann geht in den Nebel und wird einfach ins Nichts abgesaugt. Du konntest direkt hinter ihm laufen und immer noch nicht wissen, wie er sein Ende erreicht hat. So tickt die Zone, mein Junge.</text>
+	</string>
+	<string id="red_forester_about_zone_0">
+		<text>Was kannst du mir uber die Zone erzahlen?</text>
+	</string>
+	<string id="red_forester_about_zone_1">
+		<text>Die Zone, heh... Die Zone hat ein Eigenleben, und wir Menschen kommen ihr nur in die Quere. Einige mehr, manche weniger. Die Zone arbeitet daran, jegliches Risiko fur ihre Existenz auf die gleiche Weise zu neutralisieren, wie unsere Korper Krankheiten bekampfen. Wir bekommen Fieber und die Zone hat auch ihre Erschutterungen. Emissionen. Das ist jetzt eine Moglichkeit, uns zu "bannen". Je mehr Irritationen wir verursachen, desto starker werden die neuen Emissionen sein.</text>
+	</string>
+	<string id="red_forester_about_zone_11">
+		<text>Wie hast du all diese Jahre hier uberlebt? Alleine und in den Gefahren?</text>
+	</string>
+	<string id="red_forester_about_zone_111">
+		<text>Eine dumme Aktion kann die Zone zerstoren... Zusammen mit allem, was dazu gehort. Nicht nur Mutanten und Anomalien, sondern auch Artefakte und du, Stalker... und ich. Ich kann fuhlen, dass die Zone tief betroffen ist - etwas stort es und stort sein Gleichgewicht. Ein Sturm braut sich zusammen... und ich weiss nicht, ob der Status quo erhalten werden kann.</text>
+	</string>
+	<string id="red_forester_hello_dialog_1">
+		<text>Was macht ein Anfanger wie du in Foresters Anliegen?</text>
+	</string>
+	<string id="red_forester_hello_dialog_2">
+		<text>War es der Zufall, der dich zu mir brachte?</text>
+	</string>
+	<string id="red_forester_hello_dialog_3">
+		<text>Viel Gluck, mein Sohn!</text>
+	</string>
+	<string id="red_forester_hello_dialog_4">
+		<text>Vergiss mich nicht!</text>
+	</string>
+	<string id="red_forester_hello_dialog_5">
+		<text>Erinnere dich gut an mich!</text>
+	</string>
+	<string id="red_forester_who_are_you_0">
+		<text>Wer bist du?</text>
+	</string>
+	<string id="red_forester_who_are_you_1">
+		<text>Was kann ich dir uber mich erzahlen? Ich bin Forester. Ich bin schon lange hier. Ich habe mein ganzes Leben damit verbracht, neben diesem Wald zu leben. Ich bin alt. In meinem Alter wachst du in einem anderen Wohnort auf, egal was es ist. Ich weigerte mich, nach dem Unfall im Kraftwerk evakuiert zu werden. Trotzdem uberlebte ich dies. Ich erinnere mich an einen Blitz am Horizont... viele Leute starben an diesem Tag, aber die Zone hat mich verschont, verstehst du? Verdammt, es hat mich nicht nur verschont, es hat mir ein Geschenk gegeben! Fruher konnte ich Wege im Wald finden, und jetzt kann ich einen sicheren Weg finden, echte todliche Anomalien zu uberwinden! Stalker beneiden mich, aber ich kann nicht sagen, dass ich uber mein Geschenk so glucklich bin. Du musst verstehen, dass alles einen Preis hat. Eines Tages wird die Zone die Zahlung fur mein Geschenk annehmen. Das ist es, wovor ich Angst habe, Kumpel.</text>
+	</string>
+	<string id="red_forester_who_are_you_111">
+		<text>Nein, das war dein typischer Kiefernwald. Nun, es war auch ein Naturschutzgebiet, aber das war so besonders wie es damals war. Nach dem Unfall im Atomkraftwerk von Tschernobyl 1986 wurde es rot. Es war grun, als ich ins Bett ging, und als ich aufwachte, war es so, wie du es jetzt siehst. Dann erschien die Zone und Tiere und Vogel verliessen diesen Wald. Ich war das einzige Lebewesen, das zuruckblieb. Nur ich, ein roter Wald und dieser dichte Nebel, der niemals verschwindet.</text>
+	</string>
+	<string id="red_forester_who_are_you_11111">
+		<text>Ja, viele Stalker haben hier deren Ende gefunden. Wenn du verstehst... Ich habe sogar Geruchte gehort, dass ein boser Geist im Roten Wald lebt. So wie ich es sehe, ist dieser Wald genau wie alles andere in der Zone. Wenn du es richtig behandelst, wird es dich nicht beruhren. Das Problem ist, dass Stalker nichts richtig behandeln. Du versuchst Teile der Zone zu besitzen, und dafur bekommst du... was du verdienst...</text>
+	</string>
+</string_table>

@@ -1,0 +1,2673 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="st_dyn_news_boar_1">
+		<text>кабан</text>
+	</string>
+	<string id="st_dyn_news_boar_2">
+		<text>На нас напав кабан</text>
+	</string>
+	<string id="st_dyn_news_boar_3">
+		<text>Нарвалися на кабана</text>
+	</string>
+	<string id="st_dyn_news_boar_4">
+		<text>На нас напала зграя кабанів</text>
+	</string>
+	<string id="st_dyn_news_boar_5">
+		<text>Нарвалися на стадо кабанів</text>
+	</string>
+	<string id="st_dyn_news_boar_6">
+		<text>стадо кабанів</text>
+	</string>
+
+	<string id="st_dyn_news_dog_1">
+		<text>пес</text>
+	</string>
+	<string id="st_dyn_news_dog_2">
+		<text>На нас напав сліпий пес</text>
+	</string>
+	<string id="st_dyn_news_dog_3">
+		<text>Нарвалися на пса</text>
+	</string>
+	<string id="st_dyn_news_dog_4">
+		<text>На нас напала зграя собак</text>
+	</string>
+	<string id="st_dyn_news_dog_5">
+		<text>Нарвалися на собачу зграю</text>
+	</string>
+	<string id="st_dyn_news_dog_6">
+		<text>зграя собак</text>
+	</string>
+
+	<string id="st_dyn_news_flesh_1">
+		<text>плоть</text>
+	</string>
+	<string id="st_dyn_news_flesh_2">
+		<text>На нас напала плоть</text>
+	</string>
+	<string id="st_dyn_news_flesh_3">
+		<text>Нарвалися на плоть</text>
+	</string>
+	<string id="st_dyn_news_flesh_4">
+		<text>На нам напало стадо плотей</text>
+	</string>
+	<string id="st_dyn_news_flesh_5">
+		<text>Нарвалися на стадо плотей</text>
+	</string>
+	<string id="st_dyn_news_flesh_6">
+		<text>стадо плотей</text>
+	</string>
+
+	<string id="st_dyn_news_pseudodog_1">
+		<text>псевдопес</text>
+	</string>
+	<string id="st_dyn_news_pseudodog_2">
+		<text>На нас напав псевдопес</text>
+	</string>
+	<string id="st_dyn_news_pseudodog_3">
+		<text>Нарвалися на псевдопса</text>
+	</string>
+	<string id="st_dyn_news_pseudodog_4">
+		<text>На нас напали псевдопси</text>
+	</string>
+	<string id="st_dyn_news_pseudodog_5">
+		<text>нарвалися на зграю псевдопсів</text>
+	</string>
+	<string id="st_dyn_news_pseudodog_6">
+		<text>зграя псевдопсів</text>
+	</string>
+
+	<string id="st_dyn_news_snork_1">
+		<text>снорк</text>
+	</string>
+	<string id="st_dyn_news_snork_2">
+		<text>На нас напав снорк</text>
+	</string>
+	<string id="st_dyn_news_snork_3">
+		<text>Нарвалися на снорка</text>
+	</string>
+	<string id="st_dyn_news_snork_4">
+		<text>На нас напала зграя снорків</text>
+	</string>
+	<string id="st_dyn_news_snork_5">
+		<text>Нарвалися на зграю снорків</text>
+	</string>
+	<string id="st_dyn_news_snork_6">
+		<text>зграя снорків</text>
+	</string>
+
+	<string id="st_dyn_news_bloodsucker_1">
+		<text>кровосос</text>
+	</string>
+	<string id="st_dyn_news_bloodsucker_2">
+		<text>На нас напав кровосос</text>
+	</string>
+	<string id="st_dyn_news_bloodsucker_3">
+		<text>Нарвалися на кровососа</text>
+	</string>
+	<string id="st_dyn_news_bloodsucker_4">
+		<text>На нас напала зграя кровососів</text>
+	</string>
+	<string id="st_dyn_news_bloodsucker_5">
+		<text>Нарвалися на зграю кровососів</text>
+	</string>
+	<string id="st_dyn_news_bloodsucker_6">
+		<text>вивід кровососів</text>
+	</string>
+
+	<string id="st_dyn_news_burer_1">
+		<text>бюрер</text>
+	</string>
+	<string id="st_dyn_news_burer_2">
+		<text>На нас напав бюрер</text>
+	</string>
+	<string id="st_dyn_news_burer_3">
+		<text>Нарвалися на бюрера</text>
+	</string>
+	<string id="st_dyn_news_burer_4">
+		<text>На нас напали бюрери</text>
+	</string>
+	<string id="st_dyn_news_burer_5">
+		<text>Нарвалися на бюрерів</text>
+	</string>
+	<string id="st_dyn_news_burer_6">
+		<text>група бюрерів</text>
+	</string>
+
+	<string id="st_dyn_news_chimera_1">
+		<text>химера</text>
+	</string>
+	<string id="st_dyn_news_chimera_2">
+		<text>На нам напала химера</text>
+	</string>
+	<string id="st_dyn_news_chimera_3">
+		<text>Нарвалися на химеру</text>
+	</string>
+	<string id="st_dyn_news_chimera_4">
+		<text>На нас напали химери</text>
+	</string>
+	<string id="st_dyn_news_chimera_5">
+		<text>Нарвалися на химер</text>
+	</string>
+	<string id="st_dyn_news_chimera_6">
+		<text>вивід химер</text>
+	</string>
+
+	<string id="st_dyn_news_controller_1">
+		<text>контролер</text>
+	</string>
+	<string id="st_dyn_news_controller_2">
+		<text>На нас напав контролер</text>
+	</string>
+	<string id="st_dyn_news_controller_3">
+		<text>Нарвалися на контролера</text>
+	</string>
+	<string id="st_dyn_news_controller_4">
+		<text>На нас напала група контролерів</text>
+	</string>
+	<string id="st_dyn_news_controller_5">
+		<text>Нарвалися на контролерів</text>
+	</string>
+	<string id="st_dyn_news_controller_6">
+		<text>група контролерів</text>
+	</string>
+
+	<string id="st_dyn_news_poltergeist_1">
+		<text>полтергейст</text>
+	</string>
+	<string id="st_dyn_news_poltergeist_2">
+		<text>На нас напав полтергейст</text>
+	</string>
+	<string id="st_dyn_news_poltergeist_3">
+		<text>Нарвалися на полтергейста</text>
+	</string>
+	<string id="st_dyn_news_poltergeist_4">
+		<text>На нас напали полтергейсти</text>
+	</string>
+	<string id="st_dyn_news_poltergeist_5">
+		<text>Нарвалися на полтергейстів</text>
+	</string>
+	<string id="st_dyn_news_poltergeist_6">
+		<text>полтергейсти</text>
+	</string>
+
+	<string id="st_dyn_news_gigant_1">
+		<text>псевдогігант</text>
+	</string>
+	<string id="st_dyn_news_gigant_2">
+		<text>На нас напав псевдогігант</text>
+	</string>
+	<string id="st_dyn_news_gigant_3">
+		<text>Нарвалися на псевдогіганта</text>
+	</string>
+	<string id="st_dyn_news_gigant_4">
+		<text>На нас напали псевдогіганти</text>
+	</string>
+	<string id="st_dyn_news_gigant_5">
+		<text>Нарвалися на псевдогігантів</text>
+	</string>
+	<string id="st_dyn_news_gigant_6">
+		<text>група псевдогігантів</text>
+	</string>
+
+	<string id="st_dyn_news_tushkano_1">
+		<text>тушкан</text>
+	</string>
+	<string id="st_dyn_news_tushkano_2">
+		<text>На нас напав тушкан</text>
+	</string>
+	<string id="st_dyn_news_tushkano_3">
+		<text>Нарвалися на тушкана</text>
+	</string>
+	<string id="st_dyn_news_tushkano_4">
+		<text>На нас напала зграя тушканів</text>
+	</string>
+	<string id="st_dyn_news_tushkano_5">
+		<text>Нарвалися на зграю тушканів</text>
+	</string>
+	<string id="st_dyn_news_tushkano_6">
+		<text>зграя тушканів</text>
+	</string>
+
+	<string id="st_dyn_news_psy_dog_1">
+		<text>псі-собака</text>
+	</string>
+	<string id="st_dyn_news_psy_dog_2">
+		<text>На нас напала псі-собака</text>
+	</string>
+	<string id="st_dyn_news_psy_dog_3">
+		<text>Нарвалися на псі-собаку</text>
+	</string>
+	<string id="st_dyn_news_psy_dog_4">
+		<text>На нас напала зграя псі-собак</text>
+	</string>
+	<string id="st_dyn_news_psy_dog_5">
+		<text>Нарвалися на зграю псі-собак</text>
+	</string>
+	<string id="st_dyn_news_psy_dog_6">
+		<text>зграя псі-собак</text>
+	</string>
+
+	<string id="st_dyn_news_psy_dog_phantom_1">
+		<text>фантом</text>
+	</string>
+	<string id="st_dyn_news_psy_dog_phantom_2">
+		<text>На нас напала псі-собака</text>
+	</string>
+	<string id="st_dyn_news_psy_dog_phantom_3">
+		<text>Нарвалися на псі-собаку</text>
+	</string>
+	<string id="st_dyn_news_psy_dog_phantom_4">
+		<text>На нас напали псі-собаки</text>
+	</string>
+	<string id="st_dyn_news_psy_dog_phantom_5">
+		<text>Нарвалися на псі-собак</text>
+	</string>
+	<string id="st_dyn_news_psy_dog_phantom_6">
+		<text>зграя псі-собак</text>
+	</string>
+
+	<string id="st_dyn_news_zombied_1">
+		<text>зомбований</text>
+	</string>
+	<string id="st_dyn_news_zombied_2">
+		<text>На нас напав зомбований</text>
+	</string>
+	<string id="st_dyn_news_zombied_3">
+		<text>Нарвалися на зомбованого</text>
+	</string>
+	<string id="st_dyn_news_zombied_4">
+		<text>На нас напали зомбовані</text>
+	</string>
+	<string id="st_dyn_news_zombied_5">
+		<text>Нарвалися на зомбованих</text>
+	</string>
+	<string id="st_dyn_news_zombied_6">
+		<text>загін зомбованих</text>
+	</string>
+
+	<string id="st_dyn_news_cat_1">
+		<text>кіт</text>
+	</string>
+	<string id="st_dyn_news_cat_2">
+		<text>На нас напала кішка</text>
+	</string>
+	<string id="st_dyn_news_cat_3">
+		<text>Нарвалися на кішку</text>
+	</string>
+	<string id="st_dyn_news_cat_4">
+		<text>На нас напала зграя котів</text>
+	</string>
+	<string id="st_dyn_news_cat_5">
+		<text>Нарвалися на зграю котів</text>
+	</string>
+	<string id="st_dyn_news_cat_6">
+		<text>зграя котів</text>
+	</string>
+
+	<string id="st_dyn_news_fracture_1">
+		<text>ізлом</text>
+	</string>
+	<string id="st_dyn_news_fracture_2">
+		<text>На нас напав ізлом</text>
+	</string>
+	<string id="st_dyn_news_fracture_3">
+		<text>Нарвалися на ізлома</text>
+	</string>
+	<string id="st_dyn_news_fracture_4">
+		<text>На нас напали ізломи</text>
+	</string>
+	<string id="st_dyn_news_fracture_5">
+		<text>Нарвалися на зграю ізломів</text>
+	</string>
+	<string id="st_dyn_news_fracture_6">
+		<text>зграя ізломів</text>
+	</string>
+
+	<string id="st_dyn_news_zombie_1">
+		<text>зомбі</text>
+	</string>
+	<string id="st_dyn_news_zombie_2">
+		<text>На нас напав зомбі</text>
+	</string>
+	<string id="st_dyn_news_zombie_3">
+		<text>Нарвалися на зомбі</text>
+	</string>
+	<string id="st_dyn_news_zombie_4">
+		<text>На нас напали зомбі</text>
+	</string>
+	<string id="st_dyn_news_zombie_5">
+		<text>Нарвалися на стадо зомбі</text>
+	</string>
+	<string id="st_dyn_news_zombie_6">
+		<text>стадо зомбі</text>
+	</string>
+
+	<string id="st_dyn_news_rat_1">
+		<text>щур</text>
+	</string>
+	<string id="st_dyn_news_rat_2">
+		<text>На нас напав щур</text>
+	</string>
+	<string id="st_dyn_news_rat_3">
+		<text>Нарвалися на щура</text>
+	</string>
+	<string id="st_dyn_news_rat_4">
+		<text>На нас напали щури</text>
+	</string>
+	<string id="st_dyn_news_rat_5">
+		<text>Нарвалися на щурячу зграю</text>
+	</string>
+	<string id="st_dyn_news_rat_6">
+		<text>зграя щурів</text>
+	</string>
+
+	<string id="st_dyn_news_comm_actor_1">
+		<text>сталкер</text>
+	</string>
+	<string id="st_dyn_news_comm_actor_2">
+		<text>одинак</text>
+	</string>
+	<string id="st_dyn_news_comm_actor_3">
+		<text>сталкера</text>
+	</string>
+	<string id="st_dyn_news_comm_actor_4">
+		<text>одинака</text>
+	</string>
+	<string id="st_dyn_news_comm_actor_5">
+		<text>сталкер</text>
+	</string>
+	<string id="st_dyn_news_comm_actor_6">
+		<text>Загальний канал:</text>
+	</string>
+	<string id="st_dyn_news_comm_actor_7">
+		<text>сталкер</text>
+	</string>
+	<string id="st_dyn_news_comm_actor_8">
+		<text>одинак</text>
+	</string>
+	<string id="st_dyn_news_comm_actor_9">
+		<text>сталкери</text>
+	</string>
+	<string id="st_dyn_news_comm_actor_10">
+		<text>одинаки</text>
+	</string>
+	<string id="st_dyn_news_comm_actor_11">
+		<text>Хлопці, виручайте!</text>
+	</string>
+	<string id="st_dyn_news_comm_actor_12">
+		<text>SOS!</text>
+	</string>
+	<string id="st_dyn_news_comm_actor_13">
+		<text>Потрібна допомога, виручайте.</text>
+	</string>
+	<string id="st_dyn_news_comm_actor_14">
+		<text>Рятуйте...</text>
+	</string>
+	<string id="st_dyn_news_comm_monolith_1">
+		<text>монолітівець</text>
+	</string>
+	<string id="st_dyn_news_comm_monolith_2">
+		<text>фанатик</text>
+	</string>
+	<string id="st_dyn_news_comm_monolith_3">
+		<text>монолітівця</text>
+	</string>
+	<string id="st_dyn_news_comm_monolith_4">
+		<text>фанатика</text>
+	</string>
+	<string id="st_dyn_news_comm_monolith_5">
+		<text>боєць моноліту</text>
+	</string>
+	<string id="st_dyn_news_comm_monolith_6">
+		<text>Моноліт:</text>
+	</string>
+	<string id="st_dyn_news_comm_monolith_7">
+		<text>монолітівець</text>
+	</string>
+	<string id="st_dyn_news_comm_monolith_8">
+		<text>фанатик</text>
+	</string>
+	<string id="st_dyn_news_comm_monolith_9">
+		<text>монолітівці</text>
+	</string>
+	<string id="st_dyn_news_comm_monolith_10">
+		<text>фанатики</text>
+	</string>
+	<string id="st_dyn_news_comm_monolith_11">
+		<text>Браття, виручайте!</text>
+	</string>
+	<string id="st_dyn_news_comm_monolith_12">
+		<text>SOS!</text>
+	</string>
+	<string id="st_dyn_news_comm_monolith_13">
+		<text>Потрібна допомога, виручайте.</text>
+	</string>
+	<string id="st_dyn_news_comm_monolith_14">
+		<text>Рятуйте...</text>
+	</string>
+	<string id="st_dyn_news_comm_bandit_1">
+		<text>бандит</text>
+	</string>
+	<string id="st_dyn_news_comm_bandit_2">
+		<text>бандит</text>
+	</string>
+	<string id="st_dyn_news_comm_bandit_3">
+		<text>бандита</text>
+	</string>
+	<string id="st_dyn_news_comm_bandit_4">
+		<text>бандита</text>
+	</string>
+	<string id="st_dyn_news_comm_bandit_5">
+		<text>бандит</text>
+	</string>
+	<string id="st_dyn_news_comm_bandit_6">
+		<text>Бандити:</text>
+	</string>
+	<string id="st_dyn_news_comm_bandit_7">
+		<text>бандит</text>
+	</string>
+	<string id="st_dyn_news_comm_bandit_8">
+		<text>бандит</text>
+	</string>
+	<string id="st_dyn_news_comm_bandit_9">
+		<text>бандити</text>
+	</string>
+	<string id="st_dyn_news_comm_bandit_10">
+		<text>блатарі</text>
+	</string>
+	<string id="st_dyn_news_comm_bandit_11">
+		<text>Мля, пацани, виручайте!</text>
+	</string>
+	<string id="st_dyn_news_comm_bandit_12">
+		<text>Братани, мля, SOS!</text>
+	</string>
+	<string id="st_dyn_news_comm_bandit_13">
+		<text>Пацани, виручайте, пришліть когось!</text>
+	</string>
+	<string id="st_dyn_news_comm_bandit_14">
+		<text>Пацани!...</text>
+	</string>
+	<string id="st_dyn_news_comm_dolg_1">
+		<text>долгівець</text>
+	</string>
+	<string id="st_dyn_news_comm_dolg_2">
+		<text>долгівець</text>
+	</string>
+	<string id="st_dyn_news_comm_dolg_3">
+		<text>долгівця</text>
+	</string>
+	<string id="st_dyn_news_comm_dolg_4">
+		<text>долгівця</text>
+	</string>
+	<string id="st_dyn_news_comm_dolg_5">
+		<text>долгівець</text>
+	</string>
+	<string id="st_dyn_news_comm_dolg_6">
+		<text>Долг:</text>
+	</string>
+	<string id="st_dyn_news_comm_dolg_7">
+		<text>долгівець</text>
+	</string>
+	<string id="st_dyn_news_comm_dolg_8">
+		<text>долгівець</text>
+	</string>
+	<string id="st_dyn_news_comm_dolg_9">
+		<text>долгівці</text>
+	</string>
+	<string id="st_dyn_news_comm_dolg_10">
+		<text>долгарі</text>
+	</string>
+	<string id="st_dyn_news_comm_dolg_11">
+		<text>SOS! Хлопці - виручайте!</text>
+	</string>
+	<string id="st_dyn_news_comm_dolg_12">
+		<text>Тривога!</text>
+	</string>
+	<string id="st_dyn_news_comm_dolg_13">
+		<text>Потрібна підмога, терміново!</text>
+	</string>
+	<string id="st_dyn_news_comm_dolg_14">
+		<text>Потрібна допомога, вишліть квад!</text>
+	</string>
+	<string id="st_dyn_news_comm_ecolog_1">
+		<text>вчений</text>
+	</string>
+	<string id="st_dyn_news_comm_ecolog_2">
+		<text>науковець</text>
+	</string>
+	<string id="st_dyn_news_comm_ecolog_3">
+		<text>вченого</text>
+	</string>
+	<string id="st_dyn_news_comm_ecolog_4">
+		<text>еколога</text>
+	</string>
+	<string id="st_dyn_news_comm_ecolog_5">
+		<text>вчений</text>
+	</string>
+	<string id="st_dyn_news_comm_ecolog_6">
+		<text>Вчені:</text>
+	</string>
+	<string id="st_dyn_news_comm_ecolog_7">
+		<text>вчений</text>
+	</string>
+	<string id="st_dyn_news_comm_ecolog_8">
+		<text>еколог</text>
+	</string>
+	<string id="st_dyn_news_comm_ecolog_9">
+		<text>вчені</text>
+	</string>
+	<string id="st_dyn_news_comm_ecolog_10">
+		<text>екологи</text>
+	</string>
+	<string id="st_dyn_news_comm_ecolog_11">
+		<text>SOS! Необхідна допомога.</text>
+	</string>
+	<string id="st_dyn_news_comm_ecolog_12">
+		<text>Дослідницькій групі потрібна допомога!</text>
+	</string>
+	<string id="st_dyn_news_comm_ecolog_13">
+		<text>Потрібна допомога, рятуйте.</text>
+	</string>
+	<string id="st_dyn_news_comm_ecolog_14">
+		<text>Рятуйте...</text>
+	</string>
+	<string id="st_dyn_news_comm_csky_1">
+		<text>чистонебівець</text>
+	</string>
+	<string id="st_dyn_news_comm_csky_2">
+		<text>чистонебівець</text>
+	</string>
+	<string id="st_dyn_news_comm_csky_3">
+		<text>чистонебівця</text>
+	</string>
+	<string id="st_dyn_news_comm_csky_4">
+		<text>чистонебівця</text>
+	</string>
+	<string id="st_dyn_news_comm_csky_5">
+		<text>чистонебівець</text>
+	</string>
+	<string id="st_dyn_news_comm_csky_6">
+		<text>Чисте Небо:</text>
+	</string>
+	<string id="st_dyn_news_comm_csky_7">
+		<text>"чистий"</text>
+	</string>
+	<string id="st_dyn_news_comm_csky_8">
+		<text>чистонебівець</text>
+	</string>
+	<string id="st_dyn_news_comm_csky_9">
+		<text>чисті</text>
+	</string>
+	<string id="st_dyn_news_comm_csky_10">
+		<text>чистонебівці</text>
+	</string>
+	<string id="st_dyn_news_comm_csky_11">
+		<text>SOS! Хлопці, виручайте!</text>
+	</string>
+	<string id="st_dyn_news_comm_csky_12">
+		<text>Це загін "Чистого Неба"! SOS!</text>
+	</string>
+	<string id="st_dyn_news_comm_csky_13">
+		<text>Сталкери, на допомогу!</text>
+	</string>
+	<string id="st_dyn_news_comm_csky_14">
+		<text>Рятуйте!</text>
+	</string>
+	<string id="st_dyn_news_comm_army_1">
+		<text>військовий</text>
+	</string>
+	<string id="st_dyn_news_comm_army_2">
+		<text>солдат</text>
+	</string>
+	<string id="st_dyn_news_comm_army_3">
+		<text>військового</text>
+	</string>
+	<string id="st_dyn_news_comm_army_4">
+		<text>вояку</text>
+	</string>
+	<string id="st_dyn_news_comm_army_5">
+		<text>військовий</text>
+	</string>
+	<string id="st_dyn_news_comm_army_6">
+		<text>Військові:</text>
+	</string>
+	<string id="st_dyn_news_comm_army_7">
+		<text>військовий</text>
+	</string>
+	<string id="st_dyn_news_comm_army_8">
+		<text>армієць</text>
+	</string>
+	<string id="st_dyn_news_comm_army_9">
+		<text>військові</text>
+	</string>
+	<string id="st_dyn_news_comm_army_10">
+		<text>армійці</text>
+	</string>
+	<string id="st_dyn_news_comm_army_11">
+		<text>Командире, потребуємо підтримки!</text>
+	</string>
+	<string id="st_dyn_news_comm_army_12">
+		<text>Тривога!</text>
+	</string>
+	<string id="st_dyn_news_comm_army_13">
+		<text>Це спецзагін, терміново потребуємо підтримку.</text>
+	</string>
+	<string id="st_dyn_news_comm_army_14">
+		<text>SOS! Нам потрібне підкріплення!</text>
+	</string>
+	<string id="st_dyn_news_comm_killer_1">
+		<text>найманець</text>
+	</string>
+	<string id="st_dyn_news_comm_killer_2">
+		<text>наймит</text>
+	</string>
+	<string id="st_dyn_news_comm_killer_3">
+		<text>найманця</text>
+	</string>
+	<string id="st_dyn_news_comm_killer_4">
+		<text>найманця</text>
+	</string>
+	<string id="st_dyn_news_comm_killer_5">
+		<text>мерк</text>
+	</string>
+	<string id="st_dyn_news_comm_killer_6">
+		<text>Найманці:</text>
+	</string>
+	<string id="st_dyn_news_comm_killer_7">
+		<text>найманець</text>
+	</string>
+	<string id="st_dyn_news_comm_killer_8">
+		<text>найманець</text>
+	</string>
+	<string id="st_dyn_news_comm_killer_9">
+		<text>найманці</text>
+	</string>
+	<string id="st_dyn_news_comm_killer_10">
+		<text>найманці</text>
+	</string>
+	<string id="st_dyn_news_comm_killer_11">
+		<text>SOS! Хлопи, виручайте!</text>
+	</string>
+	<string id="st_dyn_news_comm_killer_12">
+		<text>Ахтунг!</text>
+	</string>
+	<string id="st_dyn_news_comm_killer_13">
+		<text>Потрібна допомога, виручайте.</text>
+	</string>
+	<string id="st_dyn_news_comm_killer_14">
+		<text>Потрібне підкріплення!</text>
+	</string>
+	<string id="st_dyn_news_comm_stalker_1">
+		<text>сталкер</text>
+	</string>
+	<string id="st_dyn_news_comm_stalker_2">
+		<text>одинак</text>
+	</string>
+	<string id="st_dyn_news_comm_stalker_3">
+		<text>сталкера</text>
+	</string>
+	<string id="st_dyn_news_comm_stalker_4">
+		<text>одинака</text>
+	</string>
+	<string id="st_dyn_news_comm_stalker_5">
+		<text>сталкер</text>
+	</string>
+	<string id="st_dyn_news_comm_stalker_6">
+		<text>Загальний канал:</text>
+	</string>
+	<string id="st_dyn_news_comm_stalker_7">
+		<text>сталкер</text>
+	</string>
+	<string id="st_dyn_news_comm_stalker_8">
+		<text>одинак</text>
+	</string>
+	<string id="st_dyn_news_comm_stalker_9">
+		<text>сталкери</text>
+	</string>
+	<string id="st_dyn_news_comm_stalker_10">
+		<text>одинаки</text>
+	</string>
+	<string id="st_dyn_news_comm_stalker_11">
+		<text>SOS! Хлопці, виручайте!</text>
+	</string>
+	<string id="st_dyn_news_comm_stalker_12">
+		<text>SOS!</text>
+	</string>
+	<string id="st_dyn_news_comm_stalker_13">
+		<text>Потрібна допомога, виручайте.</text>
+	</string>
+	<string id="st_dyn_news_comm_stalker_14">
+		<text>Рятуйте...</text>
+	</string>
+	<string id="st_dyn_news_comm_zombied_1">
+		<text>зомбований</text>
+	</string>
+	<string id="st_dyn_news_comm_zombied_2">
+		<text>зомбі</text>
+	</string>
+	<string id="st_dyn_news_comm_zombied_3">
+		<text>зомбованого</text>
+	</string>
+	<string id="st_dyn_news_comm_zombied_4">
+		<text>зомбі</text>
+	</string>
+	<string id="st_dyn_news_comm_zombied_5">
+		<text>зомбі</text>
+	</string>
+	<string id="st_dyn_news_comm_zombied_6">
+		<text>Зомбовані:</text>
+	</string>
+	<string id="st_dyn_news_comm_zombied_7">
+		<text>зомбований</text>
+	</string>
+	<string id="st_dyn_news_comm_zombied_8">
+		<text>зомбяк</text>
+	</string>
+	<string id="st_dyn_news_comm_zombied_9">
+		<text>зомбовані</text>
+	</string>
+	<string id="st_dyn_news_comm_zombied_10">
+		<text>зомбі</text>
+	</string>
+	<string id="st_dyn_news_comm_zombied_11">
+		<text>Ххх-ххх-ррр!</text>
+	</string>
+	<string id="st_dyn_news_comm_zombied_12">
+		<text>Аааа</text>
+	</string>
+	<string id="st_dyn_news_comm_zombied_13">
+		<text>Мммм-ниии...</text>
+	</string>
+	<string id="st_dyn_news_comm_zombied_14">
+		<text>Ууу-ааа-хрррр...</text>
+	</string>
+	<string id="st_dyn_news_comm_freedom_1">
+		<text>волівець</text>
+	</string>
+	<string id="st_dyn_news_comm_freedom_2">
+		<text>вольний</text>
+	</string>
+	<string id="st_dyn_news_comm_freedom_3">
+		<text>волівця</text>
+	</string>
+	<string id="st_dyn_news_comm_freedom_4">
+		<text>вільного</text>
+	</string>
+	<string id="st_dyn_news_comm_freedom_5">
+		<text>вольовик</text>
+	</string>
+	<string id="st_dyn_news_comm_freedom_6">
+		<text>Воля:</text>
+	</string>
+	<string id="st_dyn_news_comm_freedom_7">
+		<text>волівець</text>
+	</string>
+	<string id="st_dyn_news_comm_freedom_8">
+		<text>анархіст</text>
+	</string>
+	<string id="st_dyn_news_comm_freedom_9">
+		<text>волівці</text>
+	</string>
+	<string id="st_dyn_news_comm_freedom_10">
+		<text>анархісти</text>
+	</string>
+	<string id="st_dyn_news_comm_freedom_11">
+		<text>SOS! Хлопці - виручайте!</text>
+	</string>
+	<string id="st_dyn_news_comm_freedom_12">
+		<text>Чуваки! SOS!</text>
+	</string>
+	<string id="st_dyn_news_comm_freedom_13">
+		<text>Потрібна допомога, виручайте.</text>
+	</string>
+	<string id="st_dyn_news_comm_freedom_14">
+		<text>Рятуйте...</text>
+	</string>
+	<!-- weapon class description -->
+	<string id="st_dyn_news_wpn_cls_1_1">
+		<text>Причина невідома</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_1_2">
+		<text>якісь постріли</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_1_3">
+		<text>з автомату</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_1_4">
+		<text>прикінчив</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_1_5">
+		<text>вбив</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_1_6">
+		<text>застрелив</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_1_7">
+		<text>замочив</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_1_8">
+		<text>прибив</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_2_1">
+		<text>Кульове поранення</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_2_2">
+		<text>автоматні черги</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_2_3">
+		<text>з автомату</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_2_4">
+		<text>прикінчив</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_2_5">
+		<text>вбив</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_2_6">
+		<text>застрелив</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_2_7">
+		<text>забив</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_2_8">
+		<text>убив</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_3_1">
+		<text>Кульове поранення</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_3_2">
+		<text>поодинокі постріли</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_3_3">
+		<text>з пістолету</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_3_4">
+		<text>прикінчив</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_3_5">
+		<text>вбив</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_3_6">
+		<text>застрелив</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_3_7">
+		<text>замочив</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_3_8">
+		<text>грохнув</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_4_1">
+		<text>Кульове поранення</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_4_2">
+		<text>гвинтівкові постріли</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_4_3">
+		<text>з гвинтівки</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_4_4">
+		<text>прикінчив</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_4_5">
+		<text>вбив</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_4_6">
+		<text>застрелив</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_4_7">
+		<text>замочив</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_4_8">
+		<text>грохнув</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_5_1">
+		<text>Кульове поранення</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_5_2">
+		<text>постріли з дробовика</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_5_3">
+		<text>з дробовика</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_5_4">
+		<text>прикінчив</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_5_5">
+		<text>вбив</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_5_6">
+		<text>застрелив</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_5_7">
+		<text>замочив</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_5_8">
+		<text>грохнув</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_6_1">
+		<text>Ножове поранення</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_6_2">
+		<text>шум рукопашної сутички</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_6_3">
+		<text>зарізав</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_6_4">
+		<text>заколов</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_6_5">
+		<text>вбив</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_6_6">
+		<text>прирізав</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_6_7">
+		<text>замочив</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_6_8">
+		<text>грохнув</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_7_1">
+		<text>Вибухова хвиля</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_7_2">
+		<text>вибухи</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_7_3">
+		<text>з гранатомета</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_7_4">
+		<text>прикінчив</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_7_5">
+		<text>вбив</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_7_6">
+		<text>застрелив</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_7_7">
+		<text>замочив</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_7_8">
+		<text>грохнув</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_8_1">
+		<text>Уламкове поранення</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_8_2">
+		<text>вибухи гранат</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_8_3">
+		<text>гранатою</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_8_4">
+		<text>завалив гранатою</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_8_5">
+		<text>вбив</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_8_6">
+		<text>завалив лимонкою</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_8_7">
+		<text>замочив</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_8_8">
+		<text>грохнув</text>
+	</string>
+	<!-- direction -->
+	<string id="st_dyn_news_near">
+		<text>біля</text>
+	</string>
+	<string id="st_dyn_news_close">
+		<text>поблизу</text>
+	</string>
+	<string id="st_dyn_news_east">
+		<text>східніше</text>
+	</string>
+	<string id="st_dyn_news_north_east">
+		<text>на північний-схід від</text>
+	</string>
+	<string id="st_dyn_news_north">
+		<text>північніше</text>
+	</string>
+	<string id="st_dyn_news_north_west">
+		<text>на північний-захід від</text>
+	</string>
+	<string id="st_dyn_news_west">
+		<text>західніше</text>
+	</string>
+	<string id="st_dyn_news_south_west">
+		<text>на південний-захід від</text>
+	</string>
+	<string id="st_dyn_news_south">
+		<text>південніше</text>
+	</string>
+	<string id="st_dyn_news_south_east">
+		<text>на південний-схід від</text>
+	</string>
+	<!-- level description -->
+	<string id="st_dyn_news_jupiter">
+		<text>в околицях Юпітера,</text>
+	</string>
+	<string id="st_dyn_news_jupiter_underground">
+		<text>в Шляхопроводі,</text>
+	</string>
+	<string id="st_dyn_news_k00_marsh">
+		<text>на Болотах,</text>
+	</string>
+	<string id="st_dyn_news_k01_darkscape">
+		<text>в Темній Лощині,</text>
+	</string>
+	<string id="st_dyn_news_k02_trucks_cemetery">
+		<text>на Кладовищі Техніки,</text>
+	</string>
+	<string id="st_dyn_news_l01_escape">
+		<text>на Кордоні,</text>
+	</string>
+	<string id="st_dyn_news_l02_garbage">
+		<text>на Смітнику,</text>
+	</string>
+	<string id="st_dyn_news_l03_agroprom">
+		<text>на Агропромі,</text>
+	</string>
+	<string id="st_dyn_news_l04_darkvalley">
+		<text>в Темні Долині,</text>
+	</string>
+	<string id="st_dyn_news_l05_bar">
+		<text>на Ростку,</text>
+	</string>
+	<string id="st_dyn_news_l06_rostok">
+		<text>на Дикій Території,</text>
+	</string>
+	<string id="st_dyn_news_l07_military">
+		<text>на Армійських Складах,</text>
+	</string>
+	<string id="st_dyn_news_l08_yantar">
+		<text>на Янтарі,</text>
+	</string>
+	<string id="st_dyn_news_l09_deadcity">
+		<text>в Мертвому Місті,</text>
+	</string>
+	<string id="st_dyn_news_l10_limansk">
+		<text>в Лиманську,</text>
+	</string>
+	<string id="st_dyn_news_l10_radar">
+		<text>на Радарі,</text>
+	</string>
+	<string id="st_dyn_news_l10_red_forest">
+		<text>в Рудому Лісі,</text>
+	</string>
+	<string id="st_dyn_news_l11_pripyat">
+		<text>в центральній Прип'яті,</text>
+	</string>
+	<string id="st_dyn_news_labx8">
+		<text>в лабораторії X-8,</text>
+	</string>
+	<string id="st_dyn_news_pripyat">
+		<text>на Околицях Припя'ті,</text>
+	</string>
+	<string id="st_dyn_news_zaton">
+		<text>на Затоні,</text>
+	</string>
+	<string id="st_dyn_news_l12_stancia">
+		<text>на півдні ЧАЕС,</text>
+	</string>
+	<string id="st_dyn_news_l12_stancia_2">
+		<text>на півночі ЧАЕС,</text>
+	</string>
+<string id="st_dyn_l09_deadcity_daleko_1">
+	<text>тунелю на Військові Склади</text>
+</string>
+<string id="st_dyn_l09_deadcity_daleko_2">
+	<text>проходу на Янтар</text>
+</string>
+<string id="st_dyn_l09_deadcity_daleko_3">
+	<text>пам’ятника Іллічу</text>
+</string>
+<string id="st_dyn_l09_deadcity_daleko_4">
+	<text>проходу в Лиманськ</text>
+</string>
+<string id="st_dyn_jupiter_underground_daleko_1">
+	<text>в тунелі</text>
+</string>
+<string id="st_dyn_zaton_daleko_1">
+	<text>аномалії Кіготь</text>
+</string>
+<string id="st_dyn_zaton_daleko_2">
+	<text>аномалії Залізний Ліс</text>
+</string>
+<string id="st_dyn_zaton_daleko_3">
+	<text>лісопилки</text>
+</string>
+<string id="st_dyn_zaton_daleko_4">
+	<text>ВНД Круг</text>
+</string>
+<string id="st_dyn_zaton_daleko_5">
+	<text>станції переробки відходів</text>
+</string>
+<string id="st_dyn_zaton_daleko_6">
+	<text>аномалії Цирк</text>
+</string>
+<string id="st_dyn_zaton_daleko_7">
+	<text>лісництва</text>
+</string>
+<string id="st_dyn_zaton_daleko_8">
+	<text>Скадовська</text>
+</string>
+<string id="st_dyn_zaton_daleko_9">
+	<text>згорілого хутора</text>
+</string>
+<string id="st_dyn_zaton_daleko_10">
+	<text>аномалії Казан</text>
+</string>
+<string id="st_dyn_zaton_daleko_11">
+	<text>аномалії Трясина</text>
+</string>
+<string id="st_dyn_zaton_daleko_12">
+	<text>Смарагдового</text>
+</string>
+<string id="st_dyn_zaton_daleko_13">
+	<text>Шевченка</text>
+</string>
+<string id="st_dyn_zaton_daleko_14">
+	<text>земснаряда</text>
+</string>
+<string id="st_dyn_zaton_daleko_15">
+	<text>портових кранів</text>
+</string>
+<string id="st_dyn_zaton_daleko_16">
+	<text>аномалії Соснодуб</text>
+</string>
+<string id="st_dyn_zaton_daleko_17">
+	<text>заправки</text>
+</string>
+<string id="st_dyn_zaton_daleko_18">
+	<text>старої баржі</text>
+</string>
+<string id="st_dyn_zaton_daleko_19">
+	<text>аномалії Шрам</text>
+</string>
+<string id="st_dyn_zaton_daleko_20">
+	<text>моста ім. Преображенського</text>
+</string>
+<string id="st_dyn_zaton_daleko_21">
+	<text>південного плато</text>
+</string>
+<string id="st_dyn_zaton_daleko_22">
+	<text>цехів підстанції</text>
+</string>
+<string id="st_dyn_jupiter_daleko_1">
+	<text>аномалії Попелище</text>
+</string>
+<string id="st_dyn_jupiter_daleko_2">
+	<text>градирні</text>
+</string>
+<string id="st_dyn_jupiter_daleko_3">
+	<text>півстанка</text>
+</string>
+<string id="st_dyn_jupiter_daleko_4">
+	<text>аномалії Заплави</text>
+</string>
+<string id="st_dyn_jupiter_daleko_5">
+	<text>цементного заводу</text>
+</string>
+<string id="st_dyn_jupiter_daleko_6">
+	<text>Копачів</text>
+</string>
+<string id="st_dyn_jupiter_daleko_7">
+	<text>Станції "Янів"</text>
+</string>
+<string id="st_dyn_jupiter_daleko_8">
+	<text>кар’єру</text>
+</string>
+<string id="st_dyn_jupiter_daleko_9">
+	<text>бункера вчених</text>
+</string>
+<string id="st_dyn_jupiter_daleko_10">
+	<text>ЗРК Волхов</text>
+</string>
+<string id="st_dyn_jupiter_daleko_11">
+	<text>аномального гаю</text>
+</string>
+<string id="st_dyn_jupiter_daleko_12">
+	<text>стоянки</text>
+</string>
+<string id="st_dyn_jupiter_daleko_13">
+	<text>КПП</text>
+</string>
+<string id="st_dyn_jupiter_daleko_14">
+	<text>аномалії Бітум</text>
+</string>
+<string id="st_dyn_jupiter_daleko_15">
+	<text>східного тунелю</text>
+</string>
+<string id="st_dyn_jupiter_daleko_16">
+	<text>складу контейнерів</text>
+</string>
+<string id="st_dyn_jupiter_daleko_17">
+	<text>вентиляційного комплексу</text>
+</string>
+<string id="st_dyn_jupiter_daleko_18">
+	<text>вертолітних майданчиків</text>
+</string>
+<string id="st_dyn_jupiter_daleko_19">
+	<text>аномалії Бетонна ванна</text>
+</string>
+<string id="st_dyn_jupiter_daleko_20">
+	<text>заводу Юпітер</text>
+</string>
+<string id="st_dyn_l05_bar_daleko_1">
+	<text>західного блокпоста</text>
+</string>
+<string id="st_dyn_l05_bar_daleko_2">
+	<text>входу в Бар</text>
+</string>
+<string id="st_dyn_l05_bar_daleko_3">
+	<text>бази Боргу</text>
+</string>
+<string id="st_dyn_l05_bar_daleko_4">
+	<text>проходу на Військові Склади</text>
+</string>
+<string id="st_dyn_l07_military_daleko_1">
+	<text>аномалії Пекло</text>
+</string>
+<string id="st_dyn_l07_military_daleko_2">
+	<text>аномалій Карусель</text>
+</string>
+<string id="st_dyn_l07_military_daleko_3">
+	<text>бази Волі</text>
+</string>
+<string id="st_dyn_l07_military_daleko_4">
+	<text>Кислотного болота</text>
+</string>
+<string id="st_dyn_l07_military_daleko_5">
+	<text>занедбаного села</text>
+</string>
+<string id="st_dyn_l07_military_daleko_6">
+	<text>аномалії Гравітаційний пучок</text>
+</string>
+<string id="st_dyn_l07_military_daleko_7">
+	<text>аномалії Ментальний вогонь</text>
+</string>
+<string id="st_dyn_l01_escape_daleko_1">
+	<text>південного блокпоста</text>
+</string>
+<string id="st_dyn_l01_escape_daleko_2">
+	<text>села новачків</text>
+</string>
+<string id="st_dyn_l01_escape_daleko_3">
+	<text>аномалій М’ясорубка</text>
+</string>
+<string id="st_dyn_l01_escape_daleko_4">
+	<text>АТП</text>
+</string>
+<string id="st_dyn_l01_escape_daleko_5">
+	<text>залізничного насипу</text>
+</string>
+<string id="st_dyn_l01_escape_daleko_6">
+	<text>свинарника</text>
+</string>
+<string id="st_dyn_l01_escape_daleko_7">
+	<text>аномалії Костянка</text>
+</string>
+<string id="st_dyn_l01_escape_daleko_8">
+	<text>аномалії Дробарка</text>
+</string>
+<string id="st_dyn_l01_escape_daleko_9">
+	<text>північного блокпоста</text>
+</string>
+<string id="st_dyn_k00_marsh_daleko_1">
+	<text>бази Чистого Неба</text>
+</string>
+<string id="st_dyn_k00_marsh_daleko_2">
+	<text>рибальського хутора</text>
+</string>
+<string id="st_dyn_k00_marsh_daleko_3">
+	<text>насосної станції</text>
+</string>
+<string id="st_dyn_k00_marsh_daleko_4">
+	<text>Західної Трясини</text>
+</string>
+<string id="st_dyn_k00_marsh_daleko_5">
+	<text>переходу на Агропром</text>
+</string>
+<string id="st_dyn_k00_marsh_daleko_6">
+	<text>машинного двору</text>
+</string>
+<string id="st_dyn_k00_marsh_daleko_7">
+	<text>Нижнього Попелища</text>
+</string>
+<string id="st_dyn_k00_marsh_daleko_8">
+	<text>південного блокпоста</text>
+</string>
+<string id="st_dyn_k00_marsh_daleko_9">
+	<text>старої церкви</text>
+</string>
+<string id="st_dyn_l10_limansk_daleko_1">
+	<text>проходу до Мертвого Міста</text>
+</string>
+<string id="st_dyn_l10_limansk_daleko_2">
+	<text>тунелю до Рудого Лісу</text>
+</string>
+<string id="st_dyn_l04_darkvalley_daleko_1">
+	<text>закинутої ферми</text>
+</string>
+<string id="st_dyn_l04_darkvalley_daleko_2">
+	<text>аномалії Темний Розлом</text>
+</string>
+<string id="st_dyn_l04_darkvalley_daleko_3">
+	<text>аномалій Трамплін</text>
+</string>
+<string id="st_dyn_l04_darkvalley_daleko_4">
+	<text>аномалії Комета</text>
+</string>
+<string id="st_dyn_l04_darkvalley_daleko_5">
+	<text>аномалії Смертельна Хмара</text>
+</string>
+<string id="st_dyn_l04_darkvalley_daleko_6">
+	<text>бази бандитів</text>
+</string>
+<string id="st_dyn_l04_darkvalley_daleko_7">
+	<text>переходу на Свалку</text>
+</string>
+<string id="st_dyn_k02_trucks_cemetery_daleko_1">
+	<text>шляху до Бара</text>
+</string>
+<string id="st_dyn_k02_trucks_cemetery_daleko_2">
+	<text>кладовища гвинтокрилів</text>
+</string>
+<string id="st_dyn_k02_trucks_cemetery_daleko_3">
+	<text>кладовища пожежних машин</text>
+</string>
+<string id="st_dyn_k02_trucks_cemetery_daleko_4">
+	<text>радіоактивних пагорбів</text>
+</string>
+<string id="st_dyn_k02_trucks_cemetery_daleko_5">
+	<text>північно-східного блокпоста</text>
+</string>
+<string id="st_dyn_k02_trucks_cemetery_daleko_6">
+	<text>пагорба в лісі</text>
+</string>
+<string id="st_dyn_k02_trucks_cemetery_daleko_7">
+	<text>долини</text>
+</string>
+<string id="st_dyn_k02_trucks_cemetery_daleko_8">
+	<text>стоянки біля контейнерів</text>
+</string>
+<string id="st_dyn_k02_trucks_cemetery_daleko_9">
+	<text>південної стоянки</text>
+</string>
+<string id="st_dyn_l11_pripyat_daleko_1">
+	<text>проходу до Радара</text>
+</string>
+<string id="st_dyn_l11_pripyat_daleko_2">
+	<text>ПК "Енергетик"</text>
+</string>
+<string id="st_dyn_l10_radar_daleko_1">
+	<text>антен</text>
+</string>
+<string id="st_dyn_l10_radar_daleko_2">
+	<text>проходу до Прип'яті</text>
+</string>
+<string id="st_dyn_l10_red_forest_daleko_1">
+	<text>мосту</text>
+</string>
+<string id="st_dyn_l10_red_forest_daleko_2">
+	<text>аномалій Електра</text>
+</string>
+<string id="st_dyn_l10_red_forest_daleko_3">
+	<text>аномалії Симбіонт</text>
+</string>
+<string id="st_dyn_l10_red_forest_daleko_4">
+	<text>Галявини Трупів</text>
+</string>
+<string id="st_dyn_l10_red_forest_daleko_5">
+	<text>шахти</text>
+</string>
+<string id="st_dyn_l10_red_forest_daleko_6">
+	<text>аномалії Підземна Гроза</text>
+</string>
+<string id="st_dyn_k01_darkscape_daleko_1">
+	<text>переходу на Кордон</text>
+</string>
+<string id="st_dyn_k01_darkscape_daleko_2">
+	<text>заправки</text>
+</string>
+<string id="st_dyn_k01_darkscape_daleko_3">
+	<text>лісопильні</text>
+</string>
+<string id="st_dyn_k01_darkscape_daleko_4">
+	<text>мосту</text>
+</string>
+<string id="st_dyn_k01_darkscape_daleko_5">
+	<text>переходу до Темної Долини</text>
+</string>
+<string id="st_dyn_l08_yantar_daleko_1">
+	<text>аномалії Отруєне озеро</text>
+</string>
+<string id="st_dyn_l08_yantar_daleko_2">
+	<text>бункера вчених</text>
+</string>
+<string id="st_dyn_l08_yantar_daleko_3">
+	<text>аномалії Загребущі Руки</text>
+</string>
+<string id="st_dyn_l08_yantar_daleko_4">
+	<text>входу на завод</text>
+</string>
+<string id="st_dyn_l08_yantar_daleko_5">
+	<text>переходу до Мертвого Міста</text>
+</string>
+<string id="st_dyn_labx8_daleko_1">
+	<text>лабораторії</text>
+</string>
+<string id="st_dyn_l06_rostok_daleko_1">
+	<text>переходу на Янтар</text>
+</string>
+<string id="st_dyn_l06_rostok_daleko_2">
+	<text>тунелю з жарками</text>
+</string>
+<string id="st_dyn_l06_rostok_daleko_3">
+	<text>недобудованої будівлі</text>
+</string>
+<string id="st_dyn_l06_rostok_daleko_4">
+	<text>стоянки між будматеріалами</text>
+</string>
+<string id="st_dyn_l06_rostok_daleko_5">
+	<text>проходу до Бара</text>
+</string>
+<string id="st_dyn_l03_agroprom_daleko_1">
+	<text>аномалії Пташина карусель</text>
+</string>
+<string id="st_dyn_l03_agroprom_daleko_2">
+	<text>аномалії Зона ЕМІ</text>
+</string>
+<string id="st_dyn_l03_agroprom_daleko_3">
+	<text>аномалії Аномальна Лощина</text>
+</string>
+<string id="st_dyn_l03_agroprom_daleko_4">
+	<text>НДІ</text>
+</string>
+<string id="st_dyn_l03_agroprom_daleko_5">
+	<text>аномалії Старі кігті</text>
+</string>
+<string id="st_dyn_l03_agroprom_daleko_6">
+	<text>Болот</text>
+</string>
+<string id="st_dyn_l10_limansk_daleko_1">
+	<text>проходу до Мертвого Міста</text>
+</string>
+<string id="st_dyn_l10_limansk_daleko_2">
+	<text>тунелю до Рудого Лісу</text>
+</string>
+<string id="st_dyn_l04_darkvalley_daleko_1">
+	<text>занедбаної ферми</text>
+</string>
+<string id="st_dyn_l04_darkvalley_daleko_2">
+	<text>аномалії Темний Розлом</text>
+</string>
+<string id="st_dyn_l04_darkvalley_daleko_3">
+	<text>аномалій Трамплін</text>
+</string>
+<string id="st_dyn_l04_darkvalley_daleko_4">
+	<text>аномалії Комета</text>
+</string>
+<string id="st_dyn_l04_darkvalley_daleko_5">
+	<text>аномалії Смертельна хмара</text>
+</string>
+<string id="st_dyn_l04_darkvalley_daleko_6">
+	<text>бази бандитів</text>
+</string>
+<string id="st_dyn_l04_darkvalley_daleko_7">
+	<text>переходу до Свалки</text>
+</string>
+<string id="st_dyn_k02_trucks_cemetery_daleko_1">
+	<text>шляху до Бару</text>
+</string>
+<string id="st_dyn_k02_trucks_cemetery_daleko_2">
+	<text>кладовища гелікоптерів</text>
+</string>
+<string id="st_dyn_k02_trucks_cemetery_daleko_3">
+	<text>кладовища пожежних машин</text>
+</string>
+<string id="st_dyn_k02_trucks_cemetery_daleko_4">
+	<text>радіоактивних пагорбів</text>
+</string>
+<string id="st_dyn_k02_trucks_cemetery_daleko_5">
+	<text>північно-східного блокпоста</text>
+</string>
+<string id="st_dyn_k02_trucks_cemetery_daleko_6">
+	<text>пагорба в лісі</text>
+</string>
+<string id="st_dyn_k02_trucks_cemetery_daleko_7">
+	<text>долини</text>
+</string>
+<string id="st_dyn_k02_trucks_cemetery_daleko_8">
+	<text>стоянки біля контейнерів</text>
+</string>
+<string id="st_dyn_k02_trucks_cemetery_daleko_9">
+	<text>південної стоянки</text>
+</string>
+<string id="st_dyn_l11_pripyat_daleko_1">
+	<text>проходу до Радару</text>
+</string>
+<string id="st_dyn_l11_pripyat_daleko_2">
+	<text>ПК «Енергетик»</text>
+</string>
+<string id="st_dyn_l10_radar_daleko_1">
+	<text>антен</text>
+</string>
+<string id="st_dyn_l10_radar_daleko_2">
+	<text>проходу до Прип’яті</text>
+</string>
+<string id="st_dyn_l10_red_forest_daleko_1">
+	<text>мосту</text>
+</string>
+<string id="st_dyn_l10_red_forest_daleko_2">
+	<text>аномалій Електра</text>
+</string>
+<string id="st_dyn_l10_red_forest_daleko_3">
+	<text>аномалії Симбіонт</text>
+</string>
+<string id="st_dyn_l10_red_forest_daleko_4">
+	<text>Галявини Трупів</text>
+</string>
+<string id="st_dyn_l10_red_forest_daleko_5">
+	<text>шахти</text>
+</string>
+<string id="st_dyn_l10_red_forest_daleko_6">
+	<text>аномалії Підземна Гроза</text>
+</string>
+<string id="st_dyn_k01_darkscape_daleko_1">
+	<text>переходу до Кордону</text>
+</string>
+<string id="st_dyn_k01_darkscape_daleko_2">
+	<text>заправки</text>
+</string>
+<string id="st_dyn_k01_darkscape_daleko_3">
+	<text>лісопильні</text>
+</string>
+<string id="st_dyn_k01_darkscape_daleko_4">
+	<text>мосту</text>
+</string>
+<string id="st_dyn_k01_darkscape_daleko_5">
+	<text>переходу до Темної Долини</text>
+</string>
+<string id="st_dyn_l08_yantar_daleko_1">
+	<text>аномалії Отруєне озеро</text>
+</string>
+<string id="st_dyn_l08_yantar_daleko_2">
+	<text>бункера вчених</text>
+</string>
+<string id="st_dyn_l08_yantar_daleko_3">
+	<text>аномалії Загребущі руки</text>
+</string>
+<string id="st_dyn_l08_yantar_daleko_4">
+	<text>входу на завод</text>
+</string>
+<string id="st_dyn_l08_yantar_daleko_5">
+	<text>переходу до Мертвого Міста</text>
+</string>
+<string id="st_dyn_labx8_daleko_1">
+	<text>до лабораторії</text>
+</string>
+<string id="st_dyn_l06_rostok_daleko_1">
+	<text>переходу до Янтаря</text>
+</string>
+<string id="st_dyn_l06_rostok_daleko_2">
+	<text>тунелю з жарками</text>
+</string>
+<string id="st_dyn_l06_rostok_daleko_3">
+	<text>недобудованої будівлі</text>
+</string>
+<string id="st_dyn_l06_rostok_daleko_4">
+	<text>стоянки серед будматеріалів</text>
+</string>
+<string id="st_dyn_l06_rostok_daleko_5">
+	<text>проходу до Бару</text>
+</string>
+<string id="st_dyn_l03_agroprom_daleko_1">
+	<text>аномалії Пташина карусель</text>
+</string>
+<string id="st_dyn_l03_agroprom_daleko_2">
+	<text>аномалії Зона ЕМІ</text>
+</string>
+<string id="st_dyn_l03_agroprom_daleko_3">
+	<text>аномалії Аномальна Лощина</text>
+</string>
+<string id="st_dyn_l03_agroprom_daleko_4">
+	<text>НДІ</text>
+</string>
+<string id="st_dyn_l03_agroprom_daleko_5">
+	<text>аномалії Старі кігті</text>
+</string>
+<string id="st_dyn_l03_agroprom_daleko_6">
+	<text>Болот</text>
+</string>
+<string id="st_dyn_pripyat_daleko_1">
+	<text>кінотеатру Прометей</text>
+</string>
+<string id="st_dyn_pripyat_daleko_2">
+	<text>річкового порту</text>
+</string>
+<string id="st_dyn_pripyat_daleko_3">
+	<text>старого КБО</text>
+</string>
+<string id="st_dyn_pripyat_daleko_4">
+	<text>школи</text>
+</string>
+<string id="st_dyn_pripyat_daleko_5">
+	<text>госпіталю</text>
+</string>
+<string id="st_dyn_pripyat_daleko_6">
+	<text>КБО Ювілейний</text>
+</string>
+<string id="st_dyn_pripyat_daleko_7">
+	<text>пральні</text>
+</string>
+<string id="st_dyn_pripyat_daleko_8">
+	<text>дитсадка</text>
+</string>
+<string id="st_dyn_pripyat_daleko_9">
+	<text>гуртожитку</text>
+</string>
+<string id="st_dyn_pripyat_daleko_10">
+	<text>гастроному</text>
+</string>
+<string id="st_dyn_pripyat_daleko_11">
+	<text>універмагу</text>
+</string>
+<string id="st_dyn_pripyat_daleko_12">
+	<text>книгарні</text>
+</string>
+<string id="st_dyn_pripyat_daleko_13">
+	<text>аномалії Вулкан</text>
+</string>
+<string id="st_dyn_pripyat_daleko_14">
+	<text>аномалії Лоза</text>
+</string>
+<string id="st_dyn_l02_garbage_daleko_1">
+	<text>блокпоста на дорозі до Бару</text>
+</string>
+<string id="st_dyn_l02_garbage_daleko_2">
+	<text>аномалії Відьмин круг</text>
+</string>
+<string id="st_dyn_l02_garbage_daleko_3">
+	<text>депо</text>
+</string>
+<string id="st_dyn_l02_garbage_daleko_4">
+	<text>стоянки покинутої техніки</text>
+</string>
+<string id="st_dyn_l02_garbage_daleko_5">
+	<text>аномалії Газировка</text>
+</string>
+<string id="st_dyn_l02_garbage_daleko_6">
+	<text>аномалії Виворіт</text>
+</string>
+<string id="st_dyn_l02_garbage_daleko_7">
+	<text>переходу на Кордон</text>
+</string>
+
+	        <!-- blizko -->
+<string id="st_dyn_l09_deadcity_blizko_1">
+	<text>біля тунелю до Військових Складів</text>
+</string>
+<string id="st_dyn_l09_deadcity_blizko_2">
+	<text>біля проходу на Янтар</text>
+</string>
+<string id="st_dyn_l09_deadcity_blizko_3">
+	<text>поряд із пам’ятником</text>
+</string>
+<string id="st_dyn_l09_deadcity_blizko_4">
+	<text>біля проходу в Лиманськ</text>
+</string>
+<string id="st_dyn_jupiter_underground_blizko_1">
+	<text>в тунелі</text>
+</string>
+<string id="st_dyn_zaton_blizko_1">
+	<text>біля аномалії Кіготь</text>
+</string>
+<string id="st_dyn_zaton_blizko_2">
+	<text>біля аномалії Залізний Ліс</text>
+</string>
+<string id="st_dyn_zaton_blizko_3">
+	<text>на Лісопильні</text>
+</string>
+<string id="st_dyn_zaton_blizko_4">
+	<text>біля НДІ «Круг»</text>
+</string>
+<string id="st_dyn_zaton_blizko_5">
+	<text>на станції переробки відходів</text>
+</string>
+<string id="st_dyn_zaton_blizko_6">
+	<text>в аномалії Цирк</text>
+</string>
+<string id="st_dyn_zaton_blizko_7">
+	<text>в лісництві</text>
+</string>
+<string id="st_dyn_zaton_blizko_8">
+	<text>на «Скадовську»</text>
+</string>
+<string id="st_dyn_zaton_blizko_9">
+	<text>на згорілому хуторі</text>
+</string>
+<string id="st_dyn_zaton_blizko_10">
+	<text>в аномалії Казан</text>
+</string>
+<string id="st_dyn_zaton_blizko_11">
+	<text>в аномалії Топільце</text>
+</string>
+<string id="st_dyn_zaton_blizko_12">
+	<text>в «Смарагдовому»</text>
+</string>
+<string id="st_dyn_zaton_blizko_13">
+	<text>на «Шевченку»</text>
+</string>
+<string id="st_dyn_zaton_blizko_14">
+	<text>на земснаряді</text>
+</string>
+<string id="st_dyn_zaton_blizko_15">
+	<text>на портових кранах</text>
+</string>
+<string id="st_dyn_zaton_blizko_16">
+	<text>біля аномалії Соснодуб</text>
+</string>
+<string id="st_dyn_zaton_blizko_17">
+	<text>на заправці</text>
+</string>
+<string id="st_dyn_zaton_blizko_18">
+	<text>на старій баржі</text>
+</string>
+<string id="st_dyn_zaton_blizko_19">
+	<text>біля аномалії Шрам</text>
+</string>
+<string id="st_dyn_zaton_blizko_20">
+	<text>на мосту Преображенського</text>
+</string>
+<string id="st_dyn_zaton_blizko_21">
+	<text>на Південному плато</text>
+</string>
+<string id="st_dyn_zaton_blizko_22">
+	<text>в цехах підстанції</text>
+</string>
+<string id="st_dyn_jupiter_blizko_1">
+	<text>біля аномалії Попелище</text>
+</string>
+<string id="st_dyn_jupiter_blizko_2">
+	<text>на градирні</text>
+</string>
+<string id="st_dyn_jupiter_blizko_3">
+	<text>на полустанку</text>
+</string>
+<string id="st_dyn_jupiter_blizko_4">
+	<text>в аномалії Плавні</text>
+</string>
+<string id="st_dyn_jupiter_blizko_5">
+	<text>на цементному заводі</text>
+</string>
+<string id="st_dyn_jupiter_blizko_6">
+	<text>в Копачах</text>
+</string>
+<string id="st_dyn_jupiter_blizko_7">
+	<text>на Станції «Янів»</text>
+</string>
+<string id="st_dyn_jupiter_blizko_8">
+	<text>в кар’єрі</text>
+</string>
+<string id="st_dyn_jupiter_blizko_9">
+	<text>в бункері науковців</text>
+</string>
+<string id="st_dyn_jupiter_blizko_10">
+	<text>на ЗРК «Волхов»</text>
+</string>
+<string id="st_dyn_jupiter_blizko_11">
+	<text>в аномальному гаю</text>
+</string>
+<string id="st_dyn_jupiter_blizko_12">
+	<text>на стоянці</text>
+</string>
+<string id="st_dyn_jupiter_blizko_13">
+	<text>на КПП</text>
+</string>
+<string id="st_dyn_jupiter_blizko_14">
+	<text>в аномалії Бітум</text>
+</string>
+<string id="st_dyn_jupiter_blizko_15">
+	<text>у східному тунелі</text>
+</string>
+<string id="st_dyn_jupiter_blizko_16">
+	<text>на складі контейнерів</text>
+</string>
+<string id="st_dyn_jupiter_blizko_17">
+	<text>у вентиляційному комплексі</text>
+</string>
+<string id="st_dyn_jupiter_blizko_18">
+	<text>на вертолітних майданчиках</text>
+</string>
+<string id="st_dyn_jupiter_blizko_19">
+	<text>в аномалії Бетонна Ванна</text>
+</string>
+<string id="st_dyn_jupiter_blizko_20">
+	<text>на заводі «Юпітер»</text>
+</string>
+<string id="st_dyn_l05_bar_blizko_1">
+	<text>біля західного блокпоста</text>
+</string>
+<string id="st_dyn_l05_bar_blizko_2">
+	<text>біля входу до Бару</text>
+</string>
+<string id="st_dyn_l05_bar_blizko_3">
+	<text>на базі «Обов’язку»</text>
+</string>
+<string id="st_dyn_l05_bar_blizko_4">
+	<text>біля проходу на Військові Склади</text>
+</string>
+<string id="st_dyn_l07_military_blizko_1">
+	<text>в аномалії Пекло</text>
+</string>
+<string id="st_dyn_l07_military_blizko_2">
+	<text>біля аномалії Карусель</text>
+</string>
+<string id="st_dyn_l09_deadcity_blizko_1">
+	<text>біля тунелю на Військові Склади</text>
+</string>
+<string id="st_dyn_l09_deadcity_blizko_2">
+	<text>біля проходу на Янтар</text>
+</string>
+<string id="st_dyn_l09_deadcity_blizko_3">
+	<text>біля пам’ятника</text>
+</string>
+<string id="st_dyn_l09_deadcity_blizko_4">
+	<text>біля проходу до Лиманська</text>
+</string>
+<string id="st_dyn_jupiter_underground_blizko_1">
+	<text>у тунелі</text>
+</string>
+<string id="st_dyn_zaton_blizko_1">
+	<text>аномалія Кіготь</text>
+</string>
+<string id="st_dyn_zaton_blizko_2">
+	<text>біля аномалії Залізний Ліс</text>
+</string>
+<string id="st_dyn_zaton_blizko_3">
+	<text>на Лісопильні</text>
+</string>
+<string id="st_dyn_zaton_blizko_4">
+	<text>на ВНЗ Круг</text>
+</string>
+<string id="st_dyn_zaton_blizko_5">
+	<text>на станції переробки відходів</text>
+</string>
+<string id="st_dyn_zaton_blizko_6">
+	<text>в аномалії Цирк</text>
+</string>
+<string id="st_dyn_zaton_blizko_7">
+	<text>у лісництві</text>
+</string>
+<string id="st_dyn_zaton_blizko_8">
+	<text>на Скадовську</text>
+</string>
+<string id="st_dyn_zaton_blizko_9">
+	<text>на згорілому хуторі</text>
+</string>
+<string id="st_dyn_zaton_blizko_10">
+	<text>в аномалії Казан</text>
+</string>
+<string id="st_dyn_zaton_blizko_11">
+	<text>в аномалії Трясина</text>
+</string>
+<string id="st_dyn_zaton_blizko_12">
+	<text>в Смарагдовому</text>
+</string>
+<string id="st_dyn_zaton_blizko_13">
+	<text>на «Шевченку»</text>
+</string>
+<string id="st_dyn_zaton_blizko_14">
+	<text>на земснаряді</text>
+</string>
+<string id="st_dyn_zaton_blizko_15">
+	<text>на портових кранах</text>
+</string>
+<string id="st_dyn_zaton_blizko_16">
+	<text>біля аномалії Соснодуб</text>
+</string>
+<string id="st_dyn_zaton_blizko_17">
+	<text>на заправці</text>
+</string>
+<string id="st_dyn_zaton_blizko_18">
+	<text>на старій баржі</text>
+</string>
+<string id="st_dyn_zaton_blizko_19">
+	<text>біля аномалії Шрам</text>
+</string>
+<string id="st_dyn_zaton_blizko_20">
+	<text>на мості Преображенського</text>
+</string>
+<string id="st_dyn_zaton_blizko_21">
+	<text>на Південному плато</text>
+</string>
+<string id="st_dyn_zaton_blizko_22">
+	<text>у цехах підстанції</text>
+</string>
+<string id="st_dyn_jupiter_blizko_1">
+	<text>біля аномалії Попелище</text>
+</string>
+<string id="st_dyn_jupiter_blizko_2">
+	<text>на градирні</text>
+</string>
+<string id="st_dyn_jupiter_blizko_3">
+	<text>на полустанку</text>
+</string>
+<string id="st_dyn_jupiter_blizko_4">
+	<text>в аномалії Болото</text>
+</string>
+<string id="st_dyn_jupiter_blizko_5">
+	<text>на цементному заводі</text>
+</string>
+<string id="st_dyn_jupiter_blizko_6">
+	<text>у Копачах</text>
+</string>
+<string id="st_dyn_jupiter_blizko_7">
+	<text>на Станції "Янів"</text>
+</string>
+<string id="st_dyn_jupiter_blizko_8">
+	<text>у кар’єрі</text>
+</string>
+<string id="st_dyn_jupiter_blizko_9">
+	<text>у бункері науковців</text>
+</string>
+<string id="st_dyn_jupiter_blizko_10">
+	<text>на ЗРК «Волхов»</text>
+</string>
+<string id="st_dyn_jupiter_blizko_11">
+	<text>в аномальному гаю</text>
+</string>
+<string id="st_dyn_jupiter_blizko_12">
+	<text>на стоянці</text>
+</string>
+<string id="st_dyn_jupiter_blizko_13">
+	<text>на КПП</text>
+</string>
+<string id="st_dyn_jupiter_blizko_14">
+	<text>в аномалії Бітум</text>
+</string>
+<string id="st_dyn_jupiter_blizko_15">
+	<text>у східному тунелі</text>
+</string>
+<string id="st_dyn_jupiter_blizko_16">
+	<text>на складі контейнерів</text>
+</string>
+<string id="st_dyn_jupiter_blizko_17">
+	<text>у вентиляційному комплексі</text>
+</string>
+<string id="st_dyn_jupiter_blizko_18">
+	<text>на гелікоптерних майданчиках</text>
+</string>
+<string id="st_dyn_jupiter_blizko_19">
+	<text>в аномалії Бетонна ванна</text>
+</string>
+<string id="st_dyn_jupiter_blizko_20">
+	<text>на заводі «Юпітер»</text>
+</string>
+<string id="st_dyn_l05_bar_blizko_1">
+	<text>біля західного блокпоста</text>
+</string>
+<string id="st_dyn_l05_bar_blizko_2">
+	<text>біля входу до Бару</text>
+</string>
+<string id="st_dyn_l05_bar_blizko_3">
+	<text>на базі Долгу</text>
+</string>
+<string id="st_dyn_l05_bar_blizko_4">
+	<text>біля проходу на Військові Склади</text>
+</string>
+<string id="st_dyn_l07_military_blizko_1">
+	<text>в аномалії Пекло</text>
+</string>
+<string id="st_dyn_l07_military_blizko_2">
+	<text>біля аномалії Карусель</text>
+</string>
+<string id="st_dyn_l07_military_blizko_3">
+	<text>на базі Волі</text>
+</string>
+<string id="st_dyn_l07_military_blizko_4">
+	<text>в Кислотному болоті</text>
+</string>
+<string id="st_dyn_l07_military_blizko_5">
+	<text>у закинутому селі</text>
+</string>
+<string id="st_dyn_l07_military_blizko_6">
+	<text>в аномалії Гравітаційний пучок</text>
+</string>
+<string id="st_dyn_l07_military_blizko_7">
+	<text>в аномалії Ментальний вогонь</text>
+</string>
+<string id="st_dyn_l01_escape_blizko_1">
+	<text>біля південного блокпоста</text>
+</string>
+<string id="st_dyn_l01_escape_blizko_2">
+	<text>в селищі новачків</text>
+</string>
+<string id="st_dyn_l01_escape_blizko_3">
+	<text>біля аномалії М’ясорубка</text>
+</string>
+<string id="st_dyn_l01_escape_blizko_4">
+	<text>на АТП</text>
+</string>
+<string id="st_dyn_l01_escape_blizko_5">
+	<text>біля залізничного насипу</text>
+</string>
+<string id="st_dyn_l01_escape_blizko_6">
+	<text>на свинофермі</text>
+</string>
+<string id="st_dyn_l01_escape_blizko_7">
+	<text>в аномалії Кістянка</text>
+</string>
+<string id="st_dyn_l01_escape_blizko_8">
+	<text>в аномалії Дробарка</text>
+</string>
+<string id="st_dyn_l01_escape_blizko_9">
+	<text>біля північного блокпоста</text>
+</string>
+<string id="st_dyn_k00_marsh_blizko_1">
+	<text>на базі Чистого Неба</text>
+</string>
+<string id="st_dyn_k00_marsh_blizko_2">
+	<text>на рибальському хуторі</text>
+</string>
+<string id="st_dyn_k00_marsh_blizko_3">
+	<text>на насосній станції</text>
+</string>
+<string id="st_dyn_k00_marsh_blizko_4">
+	<text>у Західному Трясині</text>
+</string>
+<string id="st_dyn_k00_marsh_blizko_5">
+	<text>біля переходу на Агропром</text>
+</string>
+<string id="st_dyn_k00_marsh_blizko_6">
+	<text>на машинному дворі</text>
+</string>
+<string id="st_dyn_k00_marsh_blizko_7">
+	<text>у Нижньому Попелищі</text>
+</string>
+<string id="st_dyn_k00_marsh_blizko_8">
+	<text>біля південного блокпоста</text>
+</string>
+<string id="st_dyn_k00_marsh_blizko_9">
+	<text>у старій церкві</text>
+</string>
+<string id="st_dyn_l10_limansk_blizko_1">
+	<text>біля проходу до Мертвого Міста</text>
+</string>
+<string id="st_dyn_l10_limansk_blizko_2">
+	<text>біля тунелю до Рудого Лісу</text>
+</string>
+<string id="st_dyn_l04_darkvalley_blizko_1">
+	<text>на покинутій фермі</text>
+</string>
+<string id="st_dyn_l04_darkvalley_blizko_2">
+	<text>в аномалії Темний Розлом</text>
+</string>
+<string id="st_dyn_l07_military_blizko_3">
+	<text>на базі Волі</text>
+</string>
+<string id="st_dyn_l07_military_blizko_4">
+	<text>у Кислотному болоті</text>
+</string>
+<string id="st_dyn_l07_military_blizko_5">
+	<text>в занедбаному селі</text>
+</string>
+<string id="st_dyn_l07_military_blizko_6">
+	<text>в аномалії Гравітаційний пучок</text>
+</string>
+<string id="st_dyn_l07_military_blizko_7">
+	<text>в аномалії Ментальний вогонь</text>
+</string>
+<string id="st_dyn_l01_escape_blizko_1">
+	<text>біля південного блокпоста</text>
+</string>
+<string id="st_dyn_l01_escape_blizko_2">
+	<text>у селі новачків</text>
+</string>
+<string id="st_dyn_l01_escape_blizko_3">
+	<text>біля аномалій М’ясорубка</text>
+</string>
+<string id="st_dyn_l01_escape_blizko_4">
+	<text>на АТП</text>
+</string>
+<string id="st_dyn_l01_escape_blizko_5">
+	<text>біля залізничного насипу</text>
+</string>
+<string id="st_dyn_l01_escape_blizko_6">
+	<text>на свинофермі</text>
+</string>
+<string id="st_dyn_l01_escape_blizko_7">
+	<text>в аномалії Костянка</text>
+</string>
+<string id="st_dyn_l01_escape_blizko_8">
+	<text>в аномалії Дробарка</text>
+</string>
+<string id="st_dyn_l01_escape_blizko_9">
+	<text>біля північного блокпоста</text>
+</string>
+<string id="st_dyn_k00_marsh_blizko_1">
+	<text>на базі Чистого Неба</text>
+</string>
+<string id="st_dyn_k00_marsh_blizko_2">
+	<text>на рибальському хуторі</text>
+</string>
+<string id="st_dyn_k00_marsh_blizko_3">
+	<text>на насосній станції</text>
+</string>
+<string id="st_dyn_k00_marsh_blizko_4">
+	<text>у Західній Топі</text>
+</string>
+<string id="st_dyn_k00_marsh_blizko_5">
+	<text>біля переходу на Агропром</text>
+</string>
+<string id="st_dyn_k00_marsh_blizko_6">
+	<text>на машинному дворі</text>
+</string>
+<string id="st_dyn_k00_marsh_blizko_7">
+	<text>в Нижньому Попелищі</text>
+</string>
+<string id="st_dyn_k00_marsh_blizko_8">
+	<text>біля південного блокпоста</text>
+</string>
+<string id="st_dyn_k00_marsh_blizko_9">
+	<text>у старій церкві</text>
+</string>
+<string id="st_dyn_l10_limansk_blizko_1">
+	<text>біля проходу в Мертвоград</text>
+</string>
+<string id="st_dyn_l10_limansk_blizko_2">
+	<text>біля тунелю до Рудого лісу</text>
+</string>
+<string id="st_dyn_l04_darkvalley_blizko_1">
+	<text>на закинутій фермі</text>
+</string>
+<string id="st_dyn_l04_darkvalley_blizko_2">
+	<text>в аномалії Темний Розлом</text>
+</string>
+<string id="st_dyn_l04_darkvalley_blizko_3">
+	<text>біля аномалій Трамплін</text>
+</string>
+<string id="st_dyn_l04_darkvalley_blizko_4">
+	<text>біля аномалії Комета</text>
+</string>
+<string id="st_dyn_l04_darkvalley_blizko_5">
+	<text>біля аномалії Смертельна хмара</text>
+</string>
+<string id="st_dyn_l04_darkvalley_blizko_6">
+	<text>на базі бандитів</text>
+</string>
+<string id="st_dyn_l04_darkvalley_blizko_7">
+	<text>біля переходу на Свалку</text>
+</string>
+<string id="st_dyn_k02_trucks_cemetery_blizko_1">
+	<text>на шляху до Бару</text>
+</string>
+<string id="st_dyn_k02_trucks_cemetery_blizko_2">
+	<text>на кладовищі гелікоптерів</text>
+</string>
+<string id="st_dyn_k02_trucks_cemetery_blizko_3">
+	<text>на кладовищі пожежних машин</text>
+</string>
+<string id="st_dyn_k02_trucks_cemetery_blizko_4">
+	<text>на радіоактивних пагорбах</text>
+</string>
+<string id="st_dyn_k02_trucks_cemetery_blizko_5">
+	<text>біля північно-східного блокпоста</text>
+</string>
+<string id="st_dyn_k02_trucks_cemetery_blizko_6">
+	<text>на пагорбі в лісі</text>
+</string>
+<string id="st_dyn_k02_trucks_cemetery_blizko_7">
+	<text>у долині</text>
+</string>
+<string id="st_dyn_k02_trucks_cemetery_blizko_8">
+	<text>на стоянці біля контейнерів</text>
+</string>
+<string id="st_dyn_k02_trucks_cemetery_blizko_9">
+	<text>на південній стоянці</text>
+</string>
+<string id="st_dyn_l11_pripyat_blizko_1">
+	<text>біля проходу на Радар</text>
+</string>
+<string id="st_dyn_l11_pripyat_blizko_2">
+	<text>біля Палацу культури "Енергетик"</text>
+</string>
+<string id="st_dyn_l10_radar_blizko_1">
+	<text>біля антен</text>
+</string>
+<string id="st_dyn_l10_radar_blizko_2">
+	<text>біля проходу до Прип’яті</text>
+</string>
+<string id="st_dyn_l10_red_forest_blizko_1">
+	<text>біля мосту</text>
+</string>
+<string id="st_dyn_l10_red_forest_blizko_2">
+	<text>біля аномалій Електра</text>
+</string>
+<string id="st_dyn_l10_red_forest_blizko_3">
+	<text>біля аномалії Симбіонт</text>
+</string>
+<string id="st_dyn_l10_red_forest_blizko_4">
+	<text>на Галявині Трупів</text>
+</string>
+<string id="st_dyn_l10_red_forest_blizko_5">
+	<text>біля шахти</text>
+</string>
+<string id="st_dyn_l10_red_forest_blizko_6">
+	<text>біля аномалії Підземна Гроза</text>
+</string>
+<string id="st_dyn_k01_darkscape_blizko_1">
+	<text>біля переходу на Кордон</text>
+</string>
+<string id="st_dyn_k01_darkscape_blizko_2">
+	<text>на заправці</text>
+</string>
+<string id="st_dyn_k01_darkscape_blizko_3">
+	<text>на лісопильні</text>
+</string>
+<string id="st_dyn_k01_darkscape_blizko_4">
+	<text>біля мосту</text>
+</string>
+<string id="st_dyn_k01_darkscape_blizko_5">
+	<text>біля переходу в Темну Долину</text>
+</string>
+<string id="st_dyn_l08_yantar_blizko_1">
+	<text>в аномалії Отруєне озеро</text>
+</string>
+<string id="st_dyn_l08_yantar_blizko_2">
+	<text>біля бункера вчених</text>
+</string>
+<string id="st_dyn_l08_yantar_blizko_3">
+	<text>в аномалії Загребущі руки</text>
+</string>
+<string id="st_dyn_l08_yantar_blizko_4">
+	<text>біля входу до заводу</text>
+</string>
+<string id="st_dyn_l08_yantar_blizko_5">
+	<text>біля переходу в Мертвоград</text>
+</string>
+<string id="st_dyn_labx8_blizko_1">
+	<text>у лабораторії</text>
+</string>
+<string id="st_dyn_l06_rostok_blizko_1">
+	<text>біля переходу на Янтар</text>
+</string>
+<string id="st_dyn_l06_rostok_blizko_2">
+	<text>в тунелі з жарками</text>
+</string>
+<string id="st_dyn_l06_rostok_blizko_3">
+	<text>у недобудові</text>
+</string>
+<string id="st_dyn_l06_rostok_blizko_4">
+	<text>біля стоянки серед будматеріалів</text>
+</string>
+<string id="st_dyn_l06_rostok_blizko_5">
+	<text>біля проходу до Бару</text>
+</string>
+<string id="st_dyn_l03_agroprom_blizko_1">
+	<text>в аномалії Пташина карусель</text>
+</string>
+<string id="st_dyn_l03_agroprom_blizko_2">
+	<text>в аномалії Зона ЕМІ</text>
+</string>
+<string id="st_dyn_l03_agroprom_blizko_3">
+	<text>в Аномальній Лощині</text>
+</string>
+<string id="st_dyn_l03_agroprom_blizko_4">
+	<text>біля НДІ</text>
+</string>
+<string id="st_dyn_l03_agroprom_blizko_5">
+	<text>біля аномалії Старі кігті</text>
+</string>
+<string id="st_dyn_l03_agroprom_blizko_6">
+	<text>в болоті</text>
+</string>
+<string id="st_dyn_pripyat_blizko_1">
+	<text>біля кінотеатру "Прометей"</text>
+</string>
+<string id="st_dyn_pripyat_blizko_2">
+	<text>у річковому порту</text>
+</string>
+<string id="st_dyn_pripyat_blizko_3">
+	<text>біля старого КБО</text>
+</string>
+<string id="st_dyn_pripyat_blizko_4">
+	<text>у школі</text>
+</string>
+<string id="st_dyn_pripyat_blizko_5">
+	<text>у шпиталі</text>
+</string>
+<string id="st_dyn_pripyat_blizko_6">
+	<text>біля КБО "Ювілейний"</text>
+</string>
+<string id="st_dyn_pripyat_blizko_7">
+	<text>у пральні</text>
+</string>
+<string id="st_dyn_pripyat_blizko_8">
+	<text>у дитячому садку</text>
+</string>
+<string id="st_dyn_pripyat_blizko_9">
+	<text>в гуртожитку</text>
+</string>
+<string id="st_dyn_pripyat_blizko_10">
+	<text>біля гастроному</text>
+</string>
+<string id="st_dyn_pripyat_blizko_11">
+	<text>в універмазі</text>
+</string>
+<string id="st_dyn_pripyat_blizko_12">
+	<text>біля магазину "Книги"</text>
+</string>
+<string id="st_dyn_pripyat_blizko_13">
+	<text>в аномалії Вулкан</text>
+</string>
+<string id="st_dyn_pripyat_blizko_14">
+	<text>в аномалії Лоза</text>
+</string>
+<string id="st_dyn_l02_garbage_blizko_1">
+	<text>біля блокпоста на шляху до Бару</text>
+</string>
+<string id="st_dyn_l02_garbage_blizko_2">
+	<text>в аномалії Відьмине коло</text>
+</string>
+<string id="st_dyn_l02_garbage_blizko_3">
+	<text>у депо</text>
+</string>
+<string id="st_dyn_l02_garbage_blizko_4">
+	<text>на стоянці покинутої техніки</text>
+</string>
+<string id="st_dyn_l02_garbage_blizko_5">
+	<text>в аномалії Газировка</text>
+</string>
+<string id="st_dyn_l02_garbage_blizko_6">
+	<text>в аномалії Навиворіт</text>
+</string>
+<string id="st_dyn_l02_garbage_blizko_7">
+	<text>біля переходу на Кордон</text>
+</string>
+
+	<!-- Bounty gossip -->
+	<string id="st_dyn_news_gossip_bounty_1">
+		<text>%s зараз %s. Тільки-но бачив. Чув, комусь його голова потрібна.</text>
+	</string>
+	<string id="st_dyn_news_gossip_bounty_2">
+		<text>%s сам не свій останнім часом. Зазвичай він стирчить %s. Схоже, переховується від когось.</text>
+	</string>
+	<string id="st_dyn_news_gossip_bounty_3">
+		<text>%s. Я його щойно бачив %s. Чув, Сидорович його шукає"</text>
+	</string>
+	<string id="st_dyn_news_gossip_bounty_4">
+		<text>%s комусь дорогу перейшов. За його голову кругленькую суму обіцяють.</text>
+	</string>
+	<!-- Arte gossip -->
+	<string id="st_dyn_news_gossip_arte_1">
+		<text>Вдалий день! Знайшов артефакт %s.</text>
+	</string>
+	<string id="st_dyn_news_gossip_arte_2">
+		<text>Хтось знає, де можна знайти артефакт %s?</text>
+	</string>
+	<string id="st_dyn_news_gossip_arte_3">
+		<text>О! %s! Тепер можна й додому!</text>
+	</string>
+	<string id="st_dyn_news_gossip_arte_4">
+		<text>Ого! %s! Торговці це з руками відірвуть!</text>
+	</string>
+	<!-- Heli gossip -->
+	<string id="st_dyn_news_gossip_heli_1">
+		<text>Запрошую підтримку гелікоптера %s.</text>
+	</string>
+	<string id="st_dyn_news_gossip_heli_2">
+		<text>Ворог помічений %s. Потрібна повітряна підтримка.</text>
+	</string>
+	<string id="st_dyn_news_gossip_heli_3">
+		<text>Земля – Повітрю. Потрібна допомога!</text>
+	</string>
+	<string id="st_dyn_news_gossip_heli_4">
+		<text>Земля – Повітрю. Де підкріплення?!</text>
+	</string>
+	<string id="st_dyn_news_gossip_heli_5">
+		<text>Запрошую підтримку гелікоптера, %s. Противник - %s.</text>
+	</string>
+	<string id="st_dyn_news_gossip_heli_6">
+		<text>Повітря, я – Земля. Противник розташований %s. Це %s.</text>
+	</string>	
+	<string id="st_dyn_news_gossip_heli_7">
+		<text>Земля - Повітрю. Потрібна допомога %s. Мета - %s. Знищити!</text>
+	</string>
+	<!-- buy gossip -->
+	<string id="st_dyn_news_gossip_buy_1_1">
+		<text>Я гадаю, %s мене наколов. %s за таку ціну - це взагалі охрініти!</text>
+	</string>
+	<string id="st_dyn_news_gossip_buy_1_2">
+		<text>Коли %s оновить асортимент товарів? %s є хоча б у інших торговців?</text>
+	</string>
+	<string id="st_dyn_news_gossip_buy_1_3">
+		<text>Якщо хто не в курсі - %s сьогодні непогано торгує. %s за цілком прийнятною ціною.</text>
+	</string>
+	<string id="st_dyn_news_gossip_buy_1_4">
+		<text>Я розорюся, якщо %s підніме ціни.</text>
+	</string>
+	<string id="st_dyn_news_gossip_buy_2_1">
+		<text>%s сьогодні за надто високою ціною... Оце невезуха.</text>
+	</string>
+	<string id="st_dyn_news_gossip_buy_2_2">
+		<text>%s де-небудь є в продажу? %s сказав, що в нього немає.</text>
+	</string>	
+	<string id="st_dyn_news_gossip_buy_2_3">
+		<text>Дідько... %s сьогодні мені не по кишені.</text>
+	</string>
+	<string id="st_dyn_news_gossip_buy_2_4">
+		<text>%s! Ось це знахідка! І навіть не надійтеся знайти мою схованку.</text>
+	</string>
+	<!-- kill wounded -->
+	<string id="st_dyn_news_gossip_kill_wounded_1">
+		<text>Один ще живий. Це ненадовго!</text>
+	</string>
+	<string id="st_dyn_news_gossip_kill_wounded_2">
+		<text>Швидко! Один, наче, ще живий.</text>
+	</string>
+	<string id="st_dyn_news_gossip_kill_wounded_3">
+		<text>Адже мертвим прикидався!</text>
+	</string>
+	<string id="st_dyn_news_gossip_kill_wounded_4">
+		<text>Твій час сплинув.</text>
+	</string>
+	<string id="st_dyn_news_gossip_kill_wounded_5">
+		<text>Псові - псяча смерть.</text>
+	</string>
+	<string id="st_dyn_news_gossip_kill_wounded_6">
+		<text>Подивимося, чи варто йому жити...</text>
+	</string>	
+	<string id="st_dyn_news_gossip_kill_wounded_7">
+		<text>Кінчай його!</text>
+	</string>
+	<string id="st_dyn_news_gossip_kill_wounded_8">
+		<text>Ну що, мудацюро, боляче?!</text>
+	</string>	
+	<string id="st_dyn_news_gossip_kill_wounded_9">
+		<text>Його поранено... Доб'ємо!</text>
+	</string>
+	<!-- hostage -->
+	<string id="st_dyn_news_gossip_hostage_1">
+		<text>Схоже, ми отримали заручника!</text>
+	</string>
+	<string id="st_dyn_news_gossip_hostage_2">
+		<text>Цей придурок сподівався втекти. Хтось, нагляньте за ним.</text>
+	</string>
+	<string id="st_dyn_news_gossip_hostage_3">
+		<text>Як гадаєте - внесуть за нього викуп?</text>
+	</string>
+	<string id="st_dyn_news_gossip_hostage_4">
+		<text>Я не думаю, що твої друзі прийдуть за тобою.</text>
+	</string>
+	<string id="st_dyn_news_gossip_hostage_5">
+		<text>Він в наших руках. Розглянемо пропозиції щодо викупу!</text>
+	</string>
+	<string id="st_dyn_news_gossip_hostage_6">
+		<text>Гляньмо, чи зможемо ми витягнути дані з цього покидька.</text>
+	</string>
+	<!-- Task -->
+	<string id="st_dyn_news_gossip_task_1">
+		<text>Чув, що %s добровольців для якогось завдання шукає.</text>
+	</string>
+	<string id="st_dyn_news_gossip_task_2">
+		<text>Гей, %s зве охочих підробити. Якесь діло в нього є.</text>
+	</string>
+	<string id="st_dyn_news_gossip_task_3">
+		<text>Кому робота потрібна? %s пропонує.</text>
+	</string>
+	<string id="st_dyn_news_gossip_task_4">
+		<text>Якщо кому цікаво, %s пропонує непоганий заробіток...</text>
+	</string>
+	<!-- Sentence Builders -->
+	<string id="st_dyn_news_builder_attacked_1">
+		<text>Оце втрапили! Тут</text>
+	</string>
+	<string id="st_dyn_news_builder_attacked_2">
+		<text>Ми втрапили! Тут</text>
+	</string>
+	<string id="st_dyn_news_builder_attacked_3">
+		<text>На нас напали, це</text>
+	</string>
+	<string id="st_dyn_news_builder_attacked_4">
+		<text>Напад! Це</text>
+	</string>
+	
+	<string id="st_dyn_news_builder_hear_1">
+		<text>Почув</text>
+	</string>
+	<string id="st_dyn_news_builder_hear_2">
+		<text>Чув</text>
+	</string>
+	<string id="st_dyn_news_builder_hear_3">
+		<text>Донеслися</text>
+	</string>
+	<string id="st_dyn_news_builder_hear_4">
+		<text>Пару хвилин тому чув</text>
+	</string>
+	<string id="st_dyn_news_builder_hear_5">
+		<text>Пару хвилин тому чув</text>
+	</string>
+	<string id="st_dyn_news_builder_hear_6">
+		<text>Почув</text>
+	</string>
+	<string id="st_dyn_news_builder_hear_7">
+		<text>Пролунали</text>
+	</string>
+	<string id="st_dyn_news_builder_hear_8">
+		<text>Почув</text>
+	</string>
+	<string id="st_dyn_news_builder_hear_9">
+		<text>Пару хвилин тому пролунали</text>
+	</string>
+	
+	<string id="st_dyn_news_builder_sight_1">
+		<text>Бачив, як</text>
+	</string>
+	<string id="st_dyn_news_builder_sight_2">
+		<text>Оце так кіно:</text>
+	</string>
+	<string id="st_dyn_news_builder_sight_3">
+		<text>Пару хвилин тому бачив, як</text>
+	</string>
+	<string id="st_dyn_news_builder_sight_4">
+		<text>Нещодавно спостерігав таку картину:</text>
+	</string>
+	<string id="st_dyn_news_builder_sight_5">
+		<text>Тільки-но бачив, як</text>
+	</string>
+	<string id="st_dyn_news_builder_sight_6">
+		<text>Хлопці, бачив, як</text>
+	</string>
+	<string id="st_dyn_news_builder_sight_7">
+		<text>Тільки-но спостерігав, як</text>
+	</string>
+	<string id="st_dyn_news_builder_sight_8">
+		<text>Бачив, як</text>
+	</string>
+	<string id="st_dyn_news_builder_sight_9">
+		<text>Агов, я бачив, як</text>
+	</string>
+	
+	<string id="st_dyn_news_builder_middle_1">
+		<text>якісь крики</text>
+	</string>
+	<string id="st_dyn_news_builder_middle_2">
+		<text>крики</text>
+	</string>
+	<string id="st_dyn_news_builder_middle_3">
+		<text>крики про допомогу</text>
+	</string>
+	<string id="st_dyn_news_builder_middle_4">
+		<text>крики та постріли</text>
+	</string>
+	<string id="st_dyn_news_builder_middle_5">
+		<text>зойки</text>
+	</string>
+	<string id="st_dyn_news_builder_middle_6">
+		<text>крики та ричання</text>
+	</string>
+	
+	<string id="st_dyn_news_builder_ending_1">
+		<text>Будьте пильними!</text>
+	</string>
+	<string id="st_dyn_news_builder_ending_2">
+		<text>Весело, га?</text>
+	</string>
+	<string id="st_dyn_news_builder_ending_3">
+		<text>Цікаво, що трапилося?</text>
+	</string>
+	<string id="st_dyn_news_builder_ending_4">
+		<text>Ну й справи...</text>
+	</string>
+	<string id="st_dyn_news_builder_ending_5">
+		<text>Хтось знає, що відбувається?</text>
+	</string>
+	<string id="st_dyn_news_builder_ending_6">
+		<text>До чого б це?</text>
+	</string>
+	<string id="st_dyn_news_builder_ending_7">
+		<text>Оминайте це місце.</text>
+	</string>
+	<string id="st_dyn_news_builder_ending_8">
+		<text>Тримайтеся подалі.</text>
+	</string>
+	<string id="st_dyn_news_builder_ending_9">
+		<text>Тримайте вушка на макушці.</text>
+	</string>
+	<string id="st_dyn_news_builder_ending_10">
+		<text>Небезпечно.</text>
+	</string>
+	<string id="st_dyn_news_builder_ending_11">
+		<text>Остерігайтеся.</text>
+	</string>
+	<string id="st_dyn_news_builder_ending_12">
+		<text>Я б тримався подалі.</text>
+	</string>
+	<string id="st_dyn_news_builder_ending_13">
+		<text>Хтось хоче перевірити?</text>
+	</string>
+	<string id="st_dyn_news_builder_ending_14">
+		<text>Дідько, треба валити звідти, та швидше.</text>
+	</string>
+	<string id="st_dyn_news_builder_ending_15">
+		<text>Не знаю, що, в біса, там коїться.</text>
+	</string>
+	
+	<!-- misc -->
+	<string id="st_dyn_news_ch_died">
+		<text>Некролог:</text>
+	</string>
+	<string id="st_dyn_news_ch_found">
+		<text>Загинув</text>
+	</string>
+	<string id="st_dyn_news_ch_blowout">
+		<text>Викид</text>
+	</string>
+</string_table>

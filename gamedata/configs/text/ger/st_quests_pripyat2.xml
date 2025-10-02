@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+
+<!--===========================================================
+<
+< TEXT  STRINGS FOR TASKS ON PRIPYAT MAP
+<	CoC 1.3.11
+<
+<	Modified by: DoctorX
+<	March 17, 2016
+<
+<===========================================================-->
+
+<string_table>
+
+
+	<!-- ASSAULT TERRITORY FOR MONOLITH TASK -->
+	<string id="pri_monolith_monolith_trader_stalker_task_1_name">
+		<text>Sauberung</text>
+	</string>
+	<string id="pri_monolith_monolith_trader_stalker_task_1_text">
+		<text>Du wurdest beauftragt, ein Gebiet zum Wohle des allmachtigen Monoliths zu raumen. Melde dich nach Abschluss der Arbeit bei Rabbit.</text>
+	</string>
+	<string id="pri_monolith_monolith_trader_stalker_task_1_about">
+		<text>Ich habe eine wichtige Mission fur dich. Du musst in die Zone reisen und das Gebiet raumen, damit unsere Truppen einziehen konnen. Bist du bereit?</text>
+	</string>
+	<string id="pri_monolith_monolith_trader_stalker_task_1_finish">
+		<text>Die Aufgabe ist erledigt? Gut. Lob die Monolith.</text>
+	</string>
+
+
+	<!-- ASSASSINATION FOR MONOLITH TASK -->
+	<string id="pri_monolith_monolith_trader_stalker_task_2_name">
+		<text>Tote den Planer</text>
+	</string>
+	<string id="pri_monolith_monolith_trader_stalker_task_2_text">
+		<text>Ein Stalker versucht den Brain Scorcher zu deaktivieren. Tote ihn!</text>
+	</string>
+	<string id="pri_monolith_monolith_trader_stalker_task_2_about">
+		<text>Es gibt viele Bedrohungen fur die grossen Werke der Zone. Es gibt einen, der wieder einmal den Brain Scorcher deaktivieren will. Er muss gestoppt werden. Du musst ihn finden und eliminieren.</text>
+	</string>
+	<string id="pri_monolith_monolith_trader_stalker_task_2_finish">
+		<text>Gut gemacht. Jetzt kann er sich wohl sein eigenes Grab schauffeln.</text>
+	</string>
+
+
+	<!-- FIND WEAPON FOR MONOLITH TASK -->
+	<string id="pri_monolith_monolith_trader_stalker_task_3_name">
+		<text>Finde %s</text>
+	</string>
+	<string id="pri_monolith_monolith_trader_stalker_task_3_text">
+		<text>Rabbit hat nach einer neuen Waffe gefragt, um sie zum Monolithen Arsenal hinzuzufugen.</text>
+	</string>
+	<string id="pri_monolith_monolith_trader_stalker_task_3_about">
+		<text>Wir werden jeden Tag starker. Wir brauchen mehr Waffen, um unsere Ziele zu erreichen. Du musst eine neue Waffe fur uns finden, damit wir unser Arsenal weiter ausbauen konnen.</text>
+	</string>
+	<string id="pri_monolith_monolith_trader_stalker_task_3_fetch_about">
+		<text>Finde eine neue %s und bringe es zu mir.</text>
+	</string>
+	<string id="pri_monolith_monolith_trader_stalker_task_3_fetch_finish">
+		<text>Dies wird gut gehen.</text>
+	</string>
+
+
+	<!-- FIND MUTANT MEAT FOR MONOLITH TASK -->
+	<string id="pri_monolith_monolith_trader_stalker_task_4_name">
+		<text>Wildfleisch</text>
+	</string>
+	<string id="pri_monolith_monolith_trader_stalker_task_4_text">
+		<text>Jage und Haute %s. Bringe das Fleisch zu Rabbit zuruck, damit er es vorbereiten kann.</text>
+	</string>
+	<string id="pri_monolith_monolith_trader_stalker_task_4_about">
+		<text>Unsere Vorrate sind niedrig. Du musst in die Zone gehen und nach Fleisch jagen, damit deine Monolith Bruder essen konnen.</text>
+	</string>
+	<string id="pri_monolith_monolith_trader_stalker_task_4_fetch_about">
+		<text>Jage und bring uns %s. Denke daran, dass diese Kreaturen ein Geschenk der Zone sind. Tote sie schnell und danke danach. Gib mir das Fleisch zuruck, wenn es dir gelungen ist.</text>
+	</string>
+	<string id="pri_monolith_monolith_trader_stalker_task_4_fetch_finish">
+		<text>Du hast deine Aufgabe erledigt. Gute Arbeit.</text>
+	</string>
+
+
+	<!-- FIND SUPPLIES FOR MONOLITH TASK -->
+	<string id="pri_monolith_monolith_trader_stalker_task_5_name">
+		<text>Besorge %s</text>
+	</string>
+	<string id="pri_monolith_monolith_trader_stalker_task_5_text">
+		<text>Besorge %s und bringe sie zu Rabbit zuruck.</text>
+	</string>
+	<string id="pri_monolith_monolith_trader_stalker_task_5_about">
+		<text>Du musst mehr Vorrate fur uns beschaffen, damit wir unsere grossen Arbeiten fortsetzen konnen.</text>
+	</string>
+	<string id="pri_monolith_monolith_trader_stalker_task_5_fetch_about">
+		<text>Finde %s und bringe sie zu mir zuruck.</text>
+	</string>
+	<string id="pri_monolith_monolith_trader_stalker_task_5_fetch_finish">
+		<text>Du hast es den Monolithen gut serviert, Bruder.</text>
+	</string>
+
+
+	<!-- FIND ARTEFACT FOR MONOLITH TASK -->
+	<string id="pri_monolith_monolith_trader_stalker_task_6_name">
+		<text>Finde das %s Artefakt</text>
+	</string>
+	<string id="pri_monolith_monolith_trader_stalker_task_6_text">
+		<text>Finde das %s Artefakt. Bringt es zuruck zu Rabbit, damit er es als Opfergabe vorbereiten kann.</text>
+	</string>
+	<string id="pri_monolith_monolith_trader_stalker_task_6_about">
+		<text>Wir mussen ein weiteres Artefakt finden, um es zu opfern. Wirst du helfen, dem Guten des Monolithen zu dienen?</text>
+	</string>
+	<string id="pri_monolith_monolith_trader_stalker_task_6_fetch_about">
+		<text>Finde %s. Bring es mir, wenn es dir gelungen ist, damit wir die Zeremonie durchfuhren konnen.</text>
+	</string>
+	<string id="pri_monolith_monolith_trader_stalker_task_6_fetch_finish">
+		<text>Du machst es den Monolithen gut, Bruder. Begleite uns heute Abend im Zeremonialangebot. Es wird gesungen werden.</text>
+	</string>
+
+
+	<!-- FIND LEVEL 1 TOOLKIT FOR CLERIC TASK -->
+	<string id="pri_monolith_monolith_mechanic_stalker_task_1_name">
+		<text>Finde %s</text>
+	</string>
+	<string id="pri_monolith_monolith_mechanic_stalker_task_1_text">
+		<text>%s werden von Cleric benotigt, um grundlegende Ausrustungs-Upgrades zu installieren. Du solltest sie ihm bringen, wenn du welche findest.</text>
+	</string>
+	<string id="pri_monolith_monolith_mechanic_stalker_task_1_about">
+		<text>Ich brauche deine Hilfe. Ich brauche spezielle Werkzeuge, um unsere Waffen zu stimmen.</text>
+	</string>
+	<string id="pri_monolith_monolith_mechanic_stalker_task_1_fetch_about">
+		<text>Okay, ich brauche %s. Geh nun.</text>
+	</string>
+	<string id="pri_monolith_monolith_mechanic_stalker_task_1_fetch_finish">
+		<text>Das hast du gut gemacht.</text>
+	</string>
+
+
+	<!-- FIND LEVEL 2 TOOLKIT FOR CLERIC TASK -->
+	<string id="pri_monolith_monolith_mechanic_stalker_task_2_name">
+		<text>Finde %s</text>
+	</string>
+	<string id="pri_monolith_monolith_mechanic_stalker_task_2_text">
+		<text>%s werden von Cleric benotigt, um fortgeschrittene Ausrustungs-Upgrades zu installieren. Du solltest sie ihm bringen, wenn du welche findest.</text>
+	</string>
+	<string id="pri_monolith_monolith_mechanic_stalker_task_2_about">
+		<text>Ich brauche mehr Werkzeuge. Bessere Werkzeuge. Kannst du das finden, wonach ich suche?</text>
+	</string>
+	<string id="pri_monolith_monolith_mechanic_stalker_task_2_fetch_about">
+		<text>Ich brauche eine Reihe von Fortgeschrittenen Werkzeugen. Es sollte enthalten was ich brauche. Wenn du etwas fur mich hast, ware ich dir sehr dankbar! Ich werde dir von hier aus sogar einen Rabatt anbieten.</text>
+	</string>
+	<string id="pri_monolith_monolith_mechanic_stalker_task_2_fetch_finish">
+		<text>Gut, du hast sie mir gebracht.</text>
+	</string>
+
+
+	<!-- FIND LEVEL 3 TOOLKIT FOR CLERIC TASK -->
+	<string id="pri_monolith_monolith_mechanic_stalker_task_3_name">
+		<text>Finde %s</text>
+	</string>
+	<string id="pri_monolith_monolith_mechanic_stalker_task_3_text">
+		<text>%s werden von Cleric benotigt, um sachverstandige Ausrustungsverbesserungen zu installieren. Du solltest sie ihm bringen, wenn du welche findest.</text>
+	</string>
+	<string id="pri_monolith_monolith_mechanic_stalker_task_3_about">
+		<text>Ich brauche mehr Werkzeuge. Bessere Werkzeuge. Kannst du das finden, wonach ich suche?</text>
+	</string>
+	<string id="pri_monolith_monolith_mechanic_stalker_task_3_fetch_about">
+		<text>Ich brauche eine Reihe von Experten-Tools. Es sollte enthalten was ich brauche. Wenn du etwas fur mich hast, ware ich dir sehr dankbar! Ich werde dir von hier aus sogar einen Rabatt anbieten.</text>
+	</string>
+	<string id="pri_monolith_monolith_mechanic_stalker_task_3_fetch_finish">
+		<text>Gut, du hast sie mir gebracht.</text>
+	</string>
+
+
+</string_table>

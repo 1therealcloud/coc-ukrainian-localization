@@ -1,0 +1,568 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="Btn_Cancel">
+		<text>Abbrechen</text>
+	</string>
+	<string id="Btn_No">
+		<text>Nein</text>
+	</string>
+	<string id="Btn_OK">
+		<text>OK</text>
+	</string>
+	<string id="Btn_Yes">
+		<text>Ja</text>
+	</string>
+	<string id="global_map">
+		<text>Karte von der Zone</text>
+	</string>
+	<string id="mm_mp_pda_hunt">
+		<text>PDA Bonus</text>
+	</string>
+	<string id="mp_only_one_voting">
+		<text>Nur eine aktive Stimme erlaubt.</text>
+	</string>
+	<string id="st_game">
+		<text>Spiel</text>
+	</string>
+	<string id="st_item_used">
+		<text>Benutzt</text>
+	</string>
+	<string id="st_level">
+		<text>Level</text>
+	</string>
+	<string id="st_loading_ai_objects">
+		<text>Lade AI Objekte</text>
+	</string>
+	<string id="st_loading_alife_simulator">
+		<text>Server: Lade A-Life Simulator</text>
+	</string>
+	<string id="st_loading_cform">
+		<text>Lade CFORM</text>
+	</string>
+	<string id="st_loading_details">
+		<text>Lade Details</text>
+	</string>
+	<string id="st_loading_geometry">
+		<text>Lade Geometrie</text>
+	</string>
+	<string id="st_loading_saved_game">
+		<text>Lade gespeichertes Spiel</text>
+	</string>
+	<string id="st_loading_sectors_portals">
+		<text>Lade Sektoren & Portale</text>
+	</string>
+	<string id="st_loading_shaders">
+		<text>Lade Schatten</text>
+	</string>
+	<string id="st_loading_spatial_db">
+		<text>Lade Spatial-DB</text>
+	</string>
+	<string id="st_loading_textures">
+		<text>Lade Texturen</text>
+	</string>
+	<string id="st_mp_direct_ip">
+		<text>Direkte IP</text>
+	</string>
+	<string id="st_no_active_task">
+		<text>Keine aktiven Auftrage</text>
+	</string>
+	<string id="st_not_enough_money">
+		<text>Nicht genug Geld</text>
+	</string>
+	<string id="st_not_enough_money_npc">
+		<text>Der NPC hat nicht genug Geld</text>
+	</string>
+	<string id="st_opening_stream">
+		<text>Offnener Stream</text>
+	</string>
+	<string id="st_prefetching_objects">
+		<text>Rufe Objekte vorab</text>
+	</string>
+	<string id="st_rubles">
+		<text>Rubel.</text>
+	</string>
+	<string id="st_server_connecting">
+		<text>SERVER: Verbinden</text>
+	</string>
+	<string id="st_server_starting">
+		<text>SERVER: Starte</text>
+	</string>
+	<string id="st_validating_cdkey">
+		<text>Uberprufe den CD-Schlussel</text>
+	</string>
+	<string id="st_video">
+		<text>Video</text>
+	</string>
+	<string id="ui_inv_repair">
+		<text>Reparieren</text>
+	</string>
+	<string id="ui_st_cant_run_r2">
+		<text>Sie konnen Render 2 nicht auf Ihrem PC ausfuhren</text>
+	</string>
+	<string id="ui_st_conn_cdkey_disabled">
+		<text>Verbindungsfehler: Ihr CD-Key ist deaktiviert. Kontaktieren Sie den Kundendienst.</text>
+	</string>
+	<string id="ui_st_conn_cdkey_in_use">
+		<text>Verbindungsfehler: CD-Key wird bereits verwendet.</text>
+	</string>
+	<string id="ui_st_conn_cdkey_invalid">
+		<text>Verbindungsfehler: Ungultiger CD-Key.</text>
+	</string>
+	<string id="ui_st_conn_invalid_host">
+		<text>Verbindungsfehler: Ungultiger Host</text>
+	</string>
+	<string id="ui_st_conn_invalid_pass">
+		<text>Verbindungsfehler: Ungultiges Passwort</text>
+	</string>
+	<string id="ui_st_conn_new_patch">
+		<text>Eine neue Version ist verfugbar.\n Version: %s\n Location: %s\nWollen Sie es jetzt runterladen?</text>
+	</string>
+	<string id="ui_st_conn_no_new_patch">
+		<text>Derzeit sind keine neuen Patches verfugbar</text>
+	</string>
+	<string id="ui_st_conn_rejected_server">
+		<text>Verbindungsfehler: Verbindung vom Server abgelehnt</text>
+	</string>
+	<string id="ui_st_conn_sess_full">
+		<text>Verbindungsfehler: Server voll</text>
+	</string>
+	<string id="ui_st_conn_version_differs">
+		<text>Verbindungsfehler: Andere Version</text>
+	</string>
+	<string id="ui_st_connecting_to_masterserver">
+		<text>Verbindung zum Master-Server</text>
+	</string>
+	<string id="ui_st_days">
+		<text>Tage</text>
+	</string>
+	<string id="ui_st_error">
+		<text>Fehler</text>
+	</string>
+	<string id="ui_st_error_loading">
+		<text>Fehler laden</text>
+	</string>
+	<string id="ui_st_file_exist_owerwrite_q">
+		<text>Eine Datei mit diesem Namen existiert bereits. Willst du es uberschreiben?</text>
+	</string>
+	<string id="ui_st_file_name_is_empty">
+		<text>Der Dateiname ist leer</text>
+	</string>
+	<string id="ui_st_hours">
+		<text>Stunden</text>
+	</string>
+	<string id="ui_st_kicked_by_battleye">
+		<text>Verbindung wurde vom BattleEye-Schutzsystem getrennt:</text>
+	</string>
+	<string id="ui_st_kicked_by_server">
+		<text>Verbindung getrennt. Grund:</text>
+	</string>
+	<string id="ui_st_leave">
+		<text>Verlassen</text>
+	</string>
+	<string id="ui_st_load_game_confirm">
+		<text>Wenn Sie diesen Speicherpunkt laden, konnen nicht gespeicherte Vortschritte verloren gehen. Fortfahren?</text>
+	</string>
+	<string id="ui_st_mins">
+		<text>Minuten</text>
+	</string>
+	<string id="ui_st_months">
+		<text>Monate</text>
+	</string>
+	<string id="ui_st_opponent_items">
+		<text>Rucksack</text>
+	</string>
+	<string id="ui_st_params">
+		<text>Parameter</text>
+	</string>
+	<string id="ui_st_patch_download_error">
+		<text>Der Patch konnte nicht heruntergeladen werden.</text>
+	</string>
+	<string id="ui_st_patch_download_success">
+		<text>Patch erfolgreich heruntergeladen. Mochten Sie es installieren?</text>
+	</string>
+	<string id="ui_st_price">
+		<text>Preis</text>
+	</string>
+	<string id="ui_st_secs">
+		<text>Sekunden</text>
+	</string>
+	<string id="mp_si_sec">
+		<text>Sekunden</text>
+	</string>
+	<string id="ui_st_select_one_map">
+		<text>Bitte wahlen Sie mindestens eine Karte aus</text>
+	</string>
+	<string id="ui_st_take_all">
+		<text>Alles nehmen</text>
+	</string>
+	<string id="ui_st_time_remains">
+		<text>Verbleibend</text>
+	</string>
+	<string id="ui_st_voting_disabled">
+		<text>Abstimmung fehlgeschlagen</text>
+	</string>
+	<string id="ui_st_want_to_leave_game_q">
+		<text>Wollen Sie das Spiel wirklich verlassen?</text>
+	</string>
+	<string id="ui_total_price">
+		<text>Gesamt</text>
+	</string>
+	<string id="ui_st_inv_repair">
+		<text>Reparieren</text>
+	</string>
+	<string id="ui_repair_button_hint">
+		<text>Ausgewahlten Gegenstand reparieren</text>
+	</string>
+	<string id="st_key_notbinded">
+		<text>...</text>
+	</string>
+	<string id="st_save_uni_travel_generic">
+		<text>Innerhalb eines Bereichs bewegen</text>
+	</string>
+	<string id="st_travel_lost">
+		<text>Ich kenne den Weg noch nicht.</text>
+	</string>
+	<string id="st_level_changer_descr">
+		<text>Zum nachsten Level wechseln?</text>
+	</string>
+	<string id="st_future_maps_descr">
+		<text>Du kannst da nicht hin.</text>
+	</string>
+	<string id="st_save_uni_travel_zat_to_jup">
+		<text>Wechseln von Zaton nach Yanov</text>
+	</string>
+	<string id="st_save_uni_travel_zat_to_pri">
+		<text>Wechseln von Zaton nach Pripyat</text>
+	</string>
+	<string id="st_save_uni_travel_jup_to_zat">
+		<text>Wechseln von Yanov nach Zaton</text>
+	</string>
+	<string id="st_save_uni_travel_jup_to_pri">
+		<text>Wechseln von Yanov nach Pripyat</text>
+	</string>
+	<string id="st_save_uni_travel_pri_to_zat">
+		<text>Wechseln von Pripyat nach Zaton</text>
+	</string>
+	<string id="st_save_uni_travel_pri_to_jup">
+		<text>Wechseln von Pripyat nach Yanov</text>
+	</string>
+	<string id="st_save_uni_pri_to_labx8">
+		<text>Wechseln von Pripyat nach Lab X-8</text>
+	</string>
+	<string id="st_save_uni_labx8_to_pri">
+		<text>Wechseln von Lab X-8 nach Pripyat</text>
+	</string>
+	<string id="st_save_uni_surge_start">
+		<text>Emission</text>
+	</string>
+	<string id="st_save_zat_a1_game_start">
+		<text>Anfang des Spiels</text>
+	</string>
+	<string id="st_save_zat_a2_reached_skadovsk">
+		<text>Ankunft in Skadowsk</text>
+	</string>
+	<string id="st_save_jup_b9_searched_heli_1">
+		<text>Stingray 1 untersucht</text>
+	</string>
+	<string id="st_save_zat_b100_searched_heli_2">
+		<text>Stingray 2 untersucht</text>
+	</string>
+	<string id="st_save_zat_b28_searched_heli_3">
+		<text>Stingray 3 untersucht</text>
+	</string>
+	<string id="st_save_jup_b8_searched_heli_4">
+		<text>Stingray 4 untersucht</text>
+	</string>
+	<string id="st_save_zat_b101_searched_heli_5">
+		<text>Stingray 5 untersucht</text>
+	</string>
+	<string id="st_save_zat_b18_noah_showed_teleport">
+		<text>Auf das Plateau kommen</text>
+	</string>
+	<string id="st_save_jup_b217_arrived_to_jup">
+		<text>Ankunft in Yanov</text>
+	</string>
+	<string id="st_save_jup_a9_got_underpass_docs">
+		<text>Stra?e nach Pripyat gefunden</text>
+	</string>
+	<string id="st_save_jup_b15_drunk_with_zulu">
+		<text>Zulu tritt der Gruppe bei</text>
+	</string>
+	<string id="st_save_jup_a10_gonna_return_debt">
+		<text>Vano's Schulden zuruckgezahlt</text>
+	</string>
+	<string id="st_save_jup_b218_vano_in_squad">
+		<text>Vano tritt der Gruppe bei</text>
+	</string>
+	<string id="st_save_jup_b206_got_anomalous_plant">
+		<text>Anomale Pflanze gesammelt</text>
+	</string>
+	<string id="st_save_jup_b218_sokolov_in_squad">
+		<text>Sokolov tritt der Gruppe bei</text>
+	</string>
+	<string id="st_save_jup_b218_strider_in_squad">
+		<text>Strider tritt der Gruppe bei</text>
+	</string>
+	<string id="st_save_jup_b218_travel_jup_to_pas">
+		<text>Gruppe versammelt</text>
+	</string>
+	<string id="st_save_pas_b400_underpass_start">
+		<text>Ankunft in der Unterfuhrung</text>
+	</string>
+	<string id="st_save_uni_travel_pas_to_pri">
+		<text>Ankunft in Pripjat</text>
+	</string>
+	<string id="st_save_pri_a16_arrived_to_pri">
+		<text>Militar Soldaten gefunden</text>
+	</string>
+	<string id="st_save_pri_a17_hospital_start">
+		<text>Unidentifizierte Waffe erbeutet</text>
+	</string>
+	<string id="st_save_pri_a20_found_dead_recon">
+		<text>Aufklarungsgruppe gefunden</text>
+	</string>
+	<string id="st_save_pri_a18_met_reinforcement">
+		<text>Verstarkungen sind angekommen</text>
+	</string>
+	<string id="st_save_pri_a18_searched_antenna">
+		<text>"Antenne" untersucht</text>
+	</string>
+	<string id="st_save_pri_a21_approached_mad_sentry">
+		<text>Fehlende Wache gefunden</text>
+	</string>
+	<string id="st_save_pri_a21_killed_controller">
+		<text>Controller in der Nahe von Wache getotet</text>
+	</string>
+	<string id="st_save_zat_a23_entered_test_center">
+		<text>Testing Workshop zugegriffen</text>
+	</string>
+	<string id="st_save_zat_a23_got_gauss_docs">
+		<text>Gauss Gewehr Dokumente gefunden</text>
+	</string>
+	<string id="st_save_pri_a22_found_dead_squad">
+		<text>Toter Kampfer gefunden</text>
+	</string>
+	<string id="st_save_pri_a25_gonna_place_explosive">
+		<text>Eintritt in den Kindergarten</text>
+	</string>
+	<string id="st_save_pri_a25_freed_medic">
+		<text>Militararzt gerettet</text>
+	</string>
+	<string id="st_save_pri_a28_talked_with_ssu">
+		<text>Etablierte Kommunikation mit HQ</text>
+	</string>
+	<string id="st_save_pri_a28_evacutaion_start">
+		<text>Pripjat Evakuierung eingeleitet</text>
+	</string>
+	<string id="st_save_pri_a28_evacuation_end">
+		<text>Evakuierungshubschrauber erreicht</text>
+	</string>
+	<string id="st_save_uni_zone_to_reality">
+		<text>Evakuierung abgeschlossen</text>
+	</string>
+	<string id="st_save_jup_b209_placed_mutant_scanner">
+		<text>Mutanten Detektor</text>
+	</string>
+	<string id="st_save_jup_a12_gave_artefact_for_hostage">
+		<text>Losegeld bezahlt fur Geisel</text>
+	</string>
+	<string id="st_save_jup_a12_met_with_liberators">
+		<text>Geisel befreit</text>
+	</string>
+	<string id="st_save_jup_b6_arrived_to_ash_heap">
+		<text>Ash Heap Anomalie Messungen</text>
+	</string>
+	<string id="st_save_jup_b6_arrived_to_fen">
+		<text>Plavni Anomalie Messungen</text>
+	</string>
+	<string id="st_save_zat_b38_met_with_grouse">
+		<text>Blutsauger Hohle</text>
+	</string>
+	<string id="st_save_jup_b19_arrived_to_kopachy">
+		<text>Nach Kopachy geschickt</text>
+	</string>
+	<string id="st_save_zat_b40_warned_by_mercs">
+		<text>Annaherung an die Abfallverarbeitungsstation</text>
+	</string>
+	<string id="st_save_zat_b7_met_with_robbers">
+		<text>Stalker getroffen</text>
+	</string>
+	<string id="st_save_zat_b33_got_container">
+		<text>Container im Versteck gefunden</text>
+	</string>
+	<string id="st_save_zat_b106_arrived_to_chimera_lair">
+		<text>Jage die Chimera</text>
+	</string>
+	<string id="st_save_jup_b16_passed_labyrinth">
+		<text>Oase gefunden</text>
+	</string>
+	<string id="st_save_pri_b35_ready_to_snipe">
+		<text>Operation One Shot eingeleitet</text>
+	</string>
+	<string id="st_save_jup_b1_entered_railroad_tunnel">
+		<text>Suche nach der Psi-Emissionsquelle</text>
+	</string>
+	<string id="st_save_jup_b47_got_admin_docs">
+		<text>Verwaltungsdokumente</text>
+	</string>
+	<string id="st_save_zat_b103_warned_by_mercs">
+		<text>Annaherung an die Umspannwerkstatt</text>
+	</string>
+	<string id="st_save_zat_b5_met_with_others">
+		<text>Deal von der Ranger-Station</text>
+	</string>
+	<string id="st_save_jup_b207_arrived_to_duty_depot">
+		<text>Wachterlager</text>
+	</string>
+	<string id="st_save_zat_b14_got_altered_wheel">
+		<text>Seltsame Gluhquelle gefunden</text>
+	</string>
+	<string id="st_save_pri_b301_arrived_to_help_zulu">
+		<text>Zulu gefunden</text>
+	</string>
+	<string id="st_save_zat_b42_arrived_to_controler_lair">
+		<text>Gefahrliche Hohle</text>
+	</string>
+	<string id="ui_st_upgrade">
+		<text>Reparieren/Modifizieren</text>
+	</string>
+	<string id="ui_st_buy">
+		<text>Kaufen</text>
+	</string>
+	<string id="ui_st_sell">
+		<text>Verkaufen</text>
+	</string>
+	<string id="ui_st_trade">
+		<text>Handeln</text>
+	</string>
+	<string id="ui_st_exit_hint">
+		<text>Fenster schliessen ($$ACTION_USE$$)</text>
+	</string>
+	<string id="ui_st_trade_hint">
+		<text>Handels Fenster offnen ($$ACTION_SPRINT_TOGGLE$$)</text>
+	</string>
+	<string id="ui_st_upgrade_hint">
+		<text>Reparier und Modifikations Fenster offnen ($$ACTION_SPRINT_TOGGLE$$)</text>
+	</string>
+	<string id="ui_st_take_all_hint">
+		<text>Alle Sachen zu deinem Rucksack schieben ($$ACTION_SPRINT_TOGGLE$$)</text>
+	</string>
+	<string id="ui_st_buy_hint">
+		<text>Kaufe ausgewahlte Gegenstande</text>
+	</string>
+	<string id="ui_st_sell_hint">
+		<text>Verkaufe ausgewahlte Gegenstande</text>
+	</string>
+	<string id="st_save_pri_a28_evacuation_heli">
+		<text>Evakuierung Helikopterstart</text>
+	</string>
+	
+	<string id="st_set_companion_to_attack_state">
+		<text>Aggressiver Modus</text>
+	</string>
+	<string id="st_set_companion_to_ignore_combat_state">
+		<text>Passiver Modus</text>
+	</string>
+	<string id="st_set_companion_to_attack_only_actor_combat_enemy_state">
+		<text>Verteidigungs Modus</text>
+	</string>
+	<string id="st_set_companion_to_wait_state">
+		<text>Wartungs Modus</text>
+	</string>
+	<string id="st_set_companion_to_follow_state">
+		<text>Folgungs Modus</text>
+	</string>
+	<string id="st_move_to_point">
+		<text>Gehe zum Punkt</text>
+	</string>
+	<string id="st_hold_then_release">
+		<text>Halten dann loslassen</text>
+	</string>
+	<string id="st_enable_looting">
+		<text>Plundern aktiviert</text>
+	</string>
+	<string id="st_disable_looting">
+		<text>Plundern deaktiviert</text>
+	</string>
+	<string id="st_set_companion_to_loot_corpse_state">
+		<text>Leichen plunderbar</text>
+	</string>
+	<string id="st_set_companion_to_loot_items_state">
+		<text>Gegenstande konnen aufgehoben werden</text>
+	</string>
+	<string id="st_companion_state_stealth_enabled">
+		<text>Companion Stealth Modus deaktiviert</text>
+	</string>
+	<string id="st_companion_state_stealth_disabled">
+		<text>Companion Stealth Modus aktiviert</text>
+	</string>
+	<string id="st_set_companion_to_stealth_state">
+		<text>Stealth Modus</text>
+	</string>	
+	<!-- Sleep deprivation -->
+	<string id="st_sleep_awake">
+		<text>Du musst dich jetzt nicht ausruhen</text>
+	</string>
+	<string id="st_sleep_awake_wired">
+		<text>Du hast einen Koffein-Schub und kannst momentan nicht schlafen</text>
+	</string>
+	<string id="st_sleep_bleeding">
+		<text>Du blutest; suche Medizinische Hilfe</text>
+	</string>
+	<string id="st_sleep_bleeding_irradiated">
+		<text>Du blutest und bist verstrahlt; suche Medizinische Hilfe</text>
+	</string>
+	<string id="st_sleep_deprived">
+		<text>Du wurdest bewusstlos getotet</text>
+	</string>
+	<string id="st_sleep_event">
+		<text>Du bist nicht verruckt genug, um dich wahrend dem auszuruhen</text>
+	</string>
+	<string id="st_sleep_exhausted">
+		<text>Du bist erschopft und musst dich ausruhen</text>
+	</string>
+	<string id="st_sleep_exhausted_final">
+        <text>Du bist extrem mude - ruhe dich sofort aus!</text>
+    </string>
+	<string id="st_sleep_irradiated">
+		<text>Du bist verstrahlt; suche Medizinische Hilfe</text>
+	</string>
+	
+	<!-- Stash placement -->
+	<string id="st_stash_created">
+		<text>Versteck erstellt</text>
+	</string>
+	<string id="st_stash_placed">
+		<text>Du hast schon irgendwo ein Versteck hinterlegt</text>
+	</string>
+	<string id="st_stash_unsafe">
+		<text>Versteck kann hier nicht platziert werden</text>
+	</string>
+	
+	<!-- Miscellaneous -->
+	<string id="st_body_decayed">
+		<text>Der Korper ist stark verfault</text>
+	</string>
+	<string id="st_invalid_position">
+		<text>Position nicht auf AI-Karte</text>
+	</string>
+	<string id="st_lamp_disconnected">
+		<text>Scheinwerfer von der UPD getrennt</text>
+	</string>
+	<string id="st_lamp_equipped">
+		<text>Scheinwerfer ausgestattet</text>
+	</string>
+	
+	<string id="st_travel_event">
+		<text>It would be unsafe to travel with enemies nearby</text>
+	</string>
+	<string id="st_travel_overloaded">
+		<text>You are carrying too much weight</text>
+	</string>
+	<string id="st_travel_already_here">
+		<text>You are already at your destination</text>
+	</string>
+	<string id="st_wish_granted">
+		<text>WISH GRANTED!</text>
+	</string>
+</string_table>

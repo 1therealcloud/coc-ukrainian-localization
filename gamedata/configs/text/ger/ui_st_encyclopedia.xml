@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+
+	<!-- PDA -->
+	<string id="pda_btn_encyclopedia">
+		<text>Benutzerhandbuch</text>
+	</string>
+	
+	<string id="pda_btn_encyclopedia_hint">
+		<text>Benutzerhandbuch zeigen</text>
+	</string>
+	
+	<string id="pda_btn_encyclopedia_title">
+		<text>Durch die Zone fuhren</text>
+	</string>
+	
+	<string id="pda_btn_encyclopedia_notify">
+		<text>Leitartikel freigeschaltet</text>
+	</string>
+	
+	<string id="pda_btn_encyclopedia_locked">
+		<text>
+			Du hast diesen Artikel noch nicht freigeschaltet.\n
+			\nArtikel konnen durch Folgendes freigeschaltet werden:\n
+			\n• Memory Sticks finden und verwenden.
+		</text>
+	</string>
+	
+</string_table>

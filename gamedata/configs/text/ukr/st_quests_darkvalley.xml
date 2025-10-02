@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+
+<!--===========================================================
+<
+< TEXT  STRINGS FOR TASKS ON DARK VALLEY MAP
+<	CoC 1.3.11
+<
+<	Modified by: DoctorX
+<	March 17, 2016
+<
+<===========================================================-->
+
+<string_table>
+
+	<!-- RAID COMPANION DIALOGUES -->
+	<string id="bandit_companion_task_1_start_dialog_1">
+		<text>Ну, чого стоїш? Давай веди, йопта, мене в натурі уже заманало тут сидіти. Тіки ти, головне, веди там, де звірів побільше і на шухері стій, поки ми трофеї збираємо. Частку свою після справи отримаєш.</text>
+	</string>
+	<string id="bandit_companion_task_1_start_dialog_2">
+		<text>Ну, якого ми тут телимося? У мене уже кулаки сверблять, веди давай!</text>
+	</string>
+	<string id="bandit_companion_task_1_complete">
+		<text>Гаразд, молодчик, нормальненько спрацював. Ось твоя частка.</text>
+	</string>
+	<string id="bandit_companion_task_1_actor_reply">
+		<text>Ага, бувай.</text>
+	</string>
+	<!-- val_smart_terrain_7_4_bandit_trader_stalker -->
+
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_1_name">
+		<text>Знищити мутантів</text>
+	</string>
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_1_text">
+		<text>Необхідно зачистити лігво мутантів.</text>
+	</string>
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_1_about">
+		<text>Коротше, справа така: до нас тут на днях зі Звалища звірина місцева заповзла. Пацанів зжерли, що прохід тримали, а самі лігво захерачили біля дороги, суки. Ну і сталкерня туди тепер не сується - бояться, петушари. Такими темпами сюди взагалі ніхто лізти не буде, і з кого нам тоді бабло трясти? Не з мутантів же ж, йопта. Коротше, місце я тобі в КПК позначив. Пошмаляєш мутантів - отримаєш нагороду.</text>
+	</string>
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_1_finish">
+		<text>Молодчик, йоптить! Тримай бабки. Слухай, я дивлюсь ти реальний пацан, так шо я пахану за тебе слово в натурі замовлю.</text>
+	</string>
+
+
+
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_2_name">
+		<text>Захопити табір</text>
+	</string>
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_2_text">
+		<text>Необхідно знищити загін супротивника в цій точці.</text>
+	</string>
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_2_about">
+		<text>На нас тут суче знову залупитися почало, пруть що дурні, ледве відбиваємося. Ну ось пахан і сказав знайти декілька нормальних пацанів, щоб приструнити цих підрил, та декілька таборів відвоювати. Ось я про тебе одразу і згадав, ти ж їх всіх на раз-два завалиш, йоптить. Ну, що скажеш? Не засциш?</text>
+	</string>
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_2_finish">
+		<text>Мля-а, та ти реально крутий! Ну тепер-то ти точно авторитетом тут будеш, йопт. Коротше, спорядок знадобиться - завалюй, херню не впарю, мля буду.</text>
+	</string>
+
+
+
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_3_name">
+		<text>Чики-брики і в дамки!</text>
+	</string>
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_3_text">
+		<text>Потрібно влаштувати новачкам сафарі. Поводити їх по околицях і прикривати їх, поки вони не настріляються.</text>
+	</string>
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_3_about">
+		<text>Коротше така тема, два якихось фраєра авторитетних з Великої Землі вирішили тута "сафарі" влаштувати, йопта. Ну і потрібно щоб хтось їх поводив по околицях. Та прослідкував, щоб їм бошки не повідгризали, поки ті мутантів шмаляють. Вони, здається, нехерові бабки за цю справу пропонують, так що робота цього варта. Берешся?</text>
+	</string>
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_3_finish">
+		<text>Кльово. Ось твоя частка.</text>
+	</string>
+
+
+	<!-- ASSASSINATION FOR OLIVIUS TASK -->
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_4_name">
+		<text>Мокруха</text>
+	</string>
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_4_text">
+		<text>Зуб просив знайти й усунути ціль.</text>
+	</string>
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_4_about">
+		<text>Діло тут одне підвернулося, як раз для тебе. Тут один шнир метушиться сильно. Авторитет намагається заробити. Базар гнилий веде за очі перед братвою, опустити мене тужиться, а таке западло у братви не за поняттями. Скопитиш чушкана цього - з пустими руками не підеш. Що б там хто не балакав, а Зуб за базар відповідає! Отримаєш за роботу непоганий куш... Тільки скопитити його потрібно по-тихому, буз кіпішу.</text>
+	</string>
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_4_finish">
+		<text>Добре, ти дістався до цього чушкаря! Без базару. Тримай гроші.</text>
+	</string>
+
+
+	<!-- FIND LEVEL 1 TOOLKIT FOR LIMPID -->
+	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_1_name">
+		<text>Знайти Прозорому %s</text>
+	</string>
+	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_1_text">
+		<text>Необхідно принести Прозорому %s, щоб він зміг проводити модернізацію спорядження.</text>
+	</string>
+	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_1_about">
+		<text>Коротше, сам розумієш, пацанам потрібно волини ремонтувати, а у мене ваще голяк: із інструментів тільки напилок з молотком. Я з паханом базарив, той мені якийсь набір визначив, а там, сука, одне лайно ржаве, та ссань якась замість мастил. Коротше, якщо зможеш дістати мені щось покраще, баблом не ображу.</text>
+	</string>
+	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_1_fetch_about">
+		<text>Давай, знайдеш нормальний набір - занось.</text>
+	</string>
+	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_1_fetch_finish">
+		<text>Молоток, брателла! Мля, ну тепер я хоч щось замутити зможу. Потрібно буде спорядження - заходь, завжди зробимо!</text>
+	</string>
+
+
+
+	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_2_name">
+		<text>Знайти Прозорому %s</text>
+	</string>
+	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_2_text">
+		<text>Необхідно принести Прозорому %s, щоб проводити більш складну модернізацію спорядження.</text>
+	</string>
+	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_2_about">
+		<text>Братан, ти приніс охєрєнні інструменти, я тепер можу все що хочеш полагодити, та тільки ти ж знаєш, у нас же ж тут всі типу модні, йопта, їм апґрейди подавай. А я з цим навпаки можу хіба що прикрутити або ще яке фуфло по дрібницях. Коротше, мені потрібен набір крутіше. Допоможеш?</text>
+	</string>
+	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_2_fetch_about">
+		<text>Тягни %s. Хрін знає де їх тут шукати, але якщо знайдеш - неси.</text>
+	</string>
+	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_2_fetch_finish">
+		<text>Бля, ну ні хріна собі! Брате, та ти реально все що завгодно дістати зможеш. Ти підтягуйся давай, я тепер таку херню замутити зможу!</text>
+	</string>
+
+
+
+	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_3_name">
+		<text>Знайти Прозорому %s</text>
+	</string>
+	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_3_text">
+		<text>Необхідно принести Прозорому %s, аби він зміг здійснити ще більш складну модернізацію зброї.</text>
+	</string>
+	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_3_about">
+		<text>Брате, ти приніс офігенні інструменти, я тепер можу все що хочеш полагодити, та тільки ти ж знаєш, у нас же тут всі типу круті. Одним словом, мені треба набір крутіший - ця, як його, мля...- інструменти для калібрування типу! Кумекаєш?</text>
+	</string>
+	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_3_fetch_about">
+		<text>Тягни %s. Хрін знає де його тут шукати, але якщо знайдеш - неси.</text>
+	</string>
+	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_3_fetch_finish">
+		<text>Йопта! Та ти в натурі реальний пацан! Ну, з мене простава!</text>
+	</string>	
+
+</string_table>

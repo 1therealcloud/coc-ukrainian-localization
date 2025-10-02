@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+
+	<!-- FIND THE WISH GRANTER (FALSE ENDING) -->
+	<string id="sar_monolith">
+		<text>Поклик Півночі</text>
+	</string>
+	<string id="sar_monolith_0">
+		<text>Поговорити з Виконавцем Бажань.</text>
+	</string>
+	<string id="sar_monolith_1">
+		<text>Голос на півночі кличе мене. Я повинен піти туди та знайти джерело.</text>
+	</string>
+	<string id="sar_monolith_2">
+		<text>Голос, що кличе мене, виходить з Виконавця Бажань. Я повинен знайти його десь у Саркофазі.</text>
+	</string>
+	
+	<!-- FIND THE WISH GRANTER (TRUE ENDING) -->
+	<string id="sar_monolith_destroy">
+		<text>Гробниця</text>
+	</string>
+	<string id="sar_monolith_destroy_0">
+		<text>Знайти приховану базу, згадану в рукописі та дізнатися, що там відбувається.</text>
+	</string>
+	<string id="sar_monolith_destroy_1">
+		<text>Знищити Виконавця Бажань: вразити всі 10 хвиль психофізичних голопроекцій Моноліту.</text>
+	</string>
+    <string id="sar_monolith_destroy_2">
+        <text>Вимкнути генератори, живлючі «З-Свідомість».</text>
+    </string>
+	    <string id="sar_monolith_destroy_3">
+        <text>Вимкнути Генератори.</text>
+    </string>
+</string_table>

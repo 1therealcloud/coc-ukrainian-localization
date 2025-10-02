@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+
+
+<!--			-- Clear Sky --				-->
+
+	<string id="csky_novice_outfit_name">
+		<text>Clear Sky Leder Jacke</text>
+	</string>
+	<string id="csky_light_novice_outfit_name">
+		<text>CS-1 Korperpanzerung</text>
+	</string>
+	<string id="csky_light_novice_outfit_description">
+		<text>Standardausrustung, die von Clear Sky verwendet wird. Diese Korperpanzerung ist in der Lage, eine Pistolenkugel zu stoppen, wahrend sie gleichzeitig einen guten Schutz vor anomaler Exposition bietet. Enthalt einen Behalter, der ein Artefakt aufnehmen kann.</text>
+	</string>
+	<string id="csky_light_outfit_name">
+		<text>CS-2 Korperpanzerung</text>
+	</string>
+	<string id="csky_light_outfit_description">
+		<text>Diese Korperpanzerung wurde fruher zur Durchfuhrung von Suchoperationen in Gebieten mit geringer anomaler Aktivitat verwendet. Kommt mit einem eingebauten Artefaktbehalter.</text>
+	</string>
+	<string id="csky_medium_outfit_name">
+		<text>CS-3a Korperpanzerung</text>
+	</string>
+	<string id="csky_medium_outfit_description">
+		<text>Die CS-3a-Korperpanzerung wurde einst von Clear Sky Soldaten als Standardanzug benutzt. Die CS-3a besteht aus einer militarischen kugelsicheren Weste mit einer tragenden Weste daruber. Kommt mit einem eingebauten Artefaktbehalter.</text>
+	</string>
+	<string id="csky_heavy_outfit_name">
+		<text>CS-3b Korperpanzerung</text>
+	</string>
+	<string id="csky_heavy_outfit_description">
+		<text>Einmal als Standardanzug von den Clear Sky Angriffsgruppen eingesetzt. Die Rustung ist in der Lage, eine Pistolenkugel zu stoppen, wahrend der Trager auch gut vor Anomalien geschutzt ist. Kommt mit einem eingebauten Artefaktbehalter.</text>
+	</string>
+
+<!--			-- Ecologist --				-->
+
+
+
+
+	<string id="ecolog_outfit_orn_name">
+		<text>SSP-99 Schutzanzug</text>
+	</string>
+	<string id="ecolog_outfit_orn_description">
+		<text>Der Chemikalienschutzanzug SSP-99 wurde speziell fur die Zonenbedingungen entwickelt, die von Okologen und Stalkern verwendet werden, die mit ihnen zusammenarbeiten. Der Anzug verfugt uber einen integrierte Luftfilter und Klimaanlage. Es ist zudem hitze und elektrizitatsresistent und bietet einen guten Schutz vor Strahlung und biologischen Anomalien und es ist auch resistent gegen chemisch aggressive Umgebungen. Es ist nicht fur kampfe entwickelt worden, also bietet es weder Geschoss noch Splitterschutz. Der Anzug hat zwei Artefaktbehalter.</text>
+	</string>
+	<string id="ecolog_outfit_grn_name">
+		<text>SSP-99M Schutzanzug</text>
+	</string>
+	<string id="ecolog_outfit_grn_description">
+		<text>Der Chemikalienschutzanzug SSP-99M wurde speziell fur wissenschaftliche Expeditionen in die Zone entwickelt. Der SSP-99M ist ein hochwertiger modifizierter SSP-99-Anzug. Es bietet einen erhohten Korperschutz vor Kugeln und Splittern, wie es fur Wachter entwickelt wurde, die mit wissenschaftlichen Expeditionen arbeiten. Der Anzug hat zwei Artefaktbehalter.</text>
+	</string>
+	<string id="ecologist_guard_outfit_name">
+		<text>Okologen Wachter Anzug</text>
+	</string>
+
+	<string id="ecologist_guard_outfit_description">
+		<text>Dieser Anzug ist eine Kombination aus einer Weste aus zweilagigem gummiertem Stoff mit Plexiglasfutter und eingebauter Korperpanzerung. Dieser Anzug wurde speziell fur die Mitglieder der Okologen Fraktion entworfen und ist dem beliebten Sunrise Anzug nachempfunden. Kommt mit eingebauten Artefaktbehaltern.</text>
+	</string>
+
+
+
+
+<!--			-- Duty --				-->
+
+
+	<string id="dolg_novice_outfit_name">
+		<text>Wachter Lederjacke</text>
+	</string>
+
+	<string id="dolg_outfit_name">
+		<text>PS5-M Universalschutz</text>
+	</string>
+
+	<string id="dolg_outfit_description">
+		<text>Diese moderne Version des Wachter Anzugs ist besser geeignet fur Stalker Rekruten, die an leichte Anzuge gewohnt sind. Im Gegensatz zur PSZ Serie bietet dieser Anzug einen guten Schutz vor Anomalien und kann gleichzeitig eine Pistolenkugel stoppen. Der Anzug kommt nicht mit einem Artefaktbehalter, kann aber stattdessen mit einem Kampfunterstutzungssystem aufgerustet werden.</text>
+	</string>
+
+	<string id="dolg_heavy_outfit_name">
+		<text>PSZ-9d Korperpanzerung</text>
+	</string>
+
+	<string id="dolg_heavy_outfit_description">
+		<text>Dieses fruhe Modell der Koperpanzerung der Wachter ist eine modifizierte Spetsnaz PSZ-9 Korperschutz. Der Anzug ist in der Lage, eine Gewehrkugel zu stoppen, jedoch geht dieses Schutzniveau auf Kosten von Gewicht, Sperrigkeit und praktisch nicht vorhandenem Anomalieschutz. Der Anzug hat keinen Artefaktbehalter, kann aber mit einem Kampfunterstutzungssystem aufgerustet werden.</text>
+	</string>
+
+	<string id="dolg_exo_outfit_name">
+		<text>Wachter Exoskelett</text>
+	</string>
+
+	<string id="dolg_exo_outfit_description">
+		<text>Die Wachter Mitglieder entschieden sich dafur, schwerere Materialien zu verwenden, um die Geschosswiderstandsfahigkeit gegenuber anderen zu verbessern. Diese Version des Exoskeletts, obwohl es extremst schwer ist, fuhlt sich an wie ein Panzer. Der einzige Nachteil ist der schwache Anomalie Schutz, der mit der Panzerung verbunden ist, und selbst die grundlegendsten Anomalien konnen diesen Panzer zerstoren. Kommt nicht mit einem Artefaktbehalter.</text>
+	</string>
+
+	<string id="dolg_scientific_outfit_name">
+		<text>Wachter Wissenschaftsanzug</text>
+	</string>
+
+	<string id="dolg_scientific_outfit_description">
+		<text>Ein wunderbarer Schutzanzug fur die Zone. Stalker schatzen es, weil es hervorragende anomalie und kugelsichere Eigenschaften vereint. Es umfasst den Anzug von PSZ-9d, ein Atemkreislaufsystem mit geschlossenem Kreislauf und ein integriertes System zur Unterdruckung anomaler Felder. Es bietet hochwertigen Kugel und Splitterschutz. Kommt nicht mit einem Artefaktbehalter.</text>
+	</string>
+
+
+<!--			-- Freedom --				-->
+
+
+	<string id="svoboda_novice_outfit_name">
+		<text>Freiheit Lederjacke</text>
+	</string>
+
+	<string id="svoboda_heavy_outfit_name">
+		<text>Wachter der Freiheit</text>
+	</string>
+
+	<string id="svoboda_heavy_outfit_description">
+		<text>Dieser Stalker Schutzanzug mit verstarkten Korperpanzern von Freiheit Handwerkern stellt einen guten Kompromiss zwischen Kampf und Anomalienschutz da. Die eingebaute Korperpanzerung besteht aus Panzerplatten und zehn Kevlar Schichten, die Pistolengeschosse stoppen konnen. Der Anzug verwendet die relativ teure Sovereign Verbindung fur den Anomalieschutz. Kommt mit einem Artefaktbehalter.</text>
+	</string>
+
+	<string id="svoboda_light_outfit_name">
+		<text>Wind der Freiheit</text>
+	</string>
+
+	<string id="svoboda_light_outfit_description">
+		<text>Dieser leichte Stalker Schutzanzug wird von den Freiheit Handwerkern hergestellt. Der Stoff des Anzugs wird mit Horizon behandelt. Einer speziellen Losung, die von der Fraktion durch Versuch und Irrtum entwickelt wurde, um die Widerstandsfahigkeit gegen Anomalien zu erhohen. Wie der Sunrise Anzug kommt der Wind der Freiheit mit eingebauter Korperpanzerung und Artefaktbehalter.</text>
+	</string>
+
+  	<string id="svoboda_heavy_outfit_2_name">
+    		<text>Bewacher der Freiheit</text>
+  	</string>
+
+  	<string id="svoboda_heavy_outfit_2_description">
+    		<text>Ein modernes Freiheitsmodell. Es ist besser geeignet fur neue Stalker Rekruten, die an einfachere Anzuge gewohnt sind. Im Gegensatz zur PS3-Serie bietet diese Variante einen anstandigen Schutz vor Anomalien und minimalen Schutz vor Kugeln. Kommt mit integriertem Artefaktbehalter.</text>
+  	</string>
+
+  	<string id="svoboda_exo_outfit_name">
+    		<text>Freiheit Exoskelett</text>
+  	</string>
+
+  	<string id="svoboda_exo_outfit_description">
+    		<text>Eine verbesserte Version eines regularen Exoskeletts. Die Verwendung von leichteren Materialien erlaubte es den Konstrukteuren, das Gewicht des Anzugs zu reduzieren, und mit Freiheits ublichem Markenzeichen fur hochwertigen Anomalie Schutz ist das einzige was darunter leidet, seine gesamte Rustung und Wirkung. Kommt mit integriertem Artefaktbehalter.</text>
+  	</string>
+
+	<string id="svoboda_scientific_outfit_name">
+		<text>Freiheit Wissenschaftsanzug</text>
+	</string>
+
+	<string id="svoboda_scientific_outfit_description">
+		<text>Produziert mit der Teilnahme von Partisanen aus der Gruppe "Freiheit". Besonders fur die Forschung in der Zone. Das geschlossene System von Atem und Spezialbehandlungsmaterialien bietet einen ausgezeichneten Schutz gegen schadliche Strahlung und anomale Effekte. Ein integrierter Korperschutz zerbricht jedoch selbst Pistolenkugeln, so dass der Anzug nicht fur aktive Feindseligkeiten geeignet ist. Vollstandig erweiterbar und mit integriertem Artefaktbehalter ausgestattet.</text>
+	</string>
+
+
+
+<!--			-- Loner --				-->
+
+
+
+	<string id="novice_outfit_name">
+		<text>Beige Lederjacke</text>
+	</string>
+
+	<string id="novice_outfit_description">
+		<text>Die Lederjacke bietet keinen ausreichenden Schutz vor den harten Bedingungen der Zone, da es sich einfach um einen Leder Anorak mit blauer Hose in Wanderschuhen handelt. Normalerweise wird es auch mit einem Rucksack und zusatzlichen Riemen uber die Brust getragen. Leder bietet wenig Schutz vor Schussen oder Krallen und ist absolut unbrauchbar gegen Strahlung oder Anomalien.</text>
+	</string>
+
+	<string id="stalker_outfit_name">
+		<text>Sunrise Anzug</text>
+	</string>
+
+	<string id="stalker_outfit_description">
+		<text>Dieser DIY Stalker Anzug ist eine Kombination aus einer Weste aus zweilagigem gummiertem Stoff mit Plexiglas-Futter und integrierter Korperpanzerung. Trotz der Tatsache, dass die Korperpanzerung nicht einmal in der Lage ist, den Trager vor Pistolenkugeln zu schutzen, erfreut sich der Schutzanzug aufgrund seines geringen Kosten und Modifikationspotentials grosser Beliebtheit. Kommt mit integriertem Artefaktbehalter.</text>
+	</string>
+
+	<string id="exo_outfit_name">
+		<text>Exoskelett</text>
+	</string>
+
+	<string id="exo_outfit_description">
+		<text>Eine experimentelle Probe eines militarischen Exoskeletts. Wurde aufgrund aussergewohnlicher Kosten und einiger Konstruktionsfehler nie in Serie produziert. Trotzdem ist es aufgrund seiner Fahigkeit, das Gewicht aller mitgefuhrten Gerate zu ubernehmen lohnenswert und deshalb werden kleine Mengen in unterirdischen Anlagen ausserhalb der Ukraine hergestellt. Kommt mit einem eingebauten Artefaktbehalter.</text>
+	</string>
+
+	<string id="scientific_outfit_name">
+		<text>SEVA Schutzanzug</text>
+	</string>
+
+	<string id="scientific_outfit_description">
+		<text>Dieser Anzug, der von einem der Verteidigungsforschungsinstitute in Kiew hergestellt wurde, ist eine grossartige Alternative zu selbstgemachten Stalkeranzugen. Wahrend seine eingebaute Korperpanzerung nur eine Pistole stoppen kann, ist die Anomalie und das Strahlenschutzsystem unubertroffen. Dieser Schutzanzug ist voll aufrustbar und verfugt uber einen integrierten Artefaktbehalter. Er ist die ideale Ausrustung fur viele erfahrene Stalker.</text>
+	</string>
+	
+<!--			-- Mercenary --				-->
+
+	<string id="merc_novice_outfit_name">
+		<text>Soldner Lederjacke</text>
+	</string>
+
+  	<string id="merc_outfit_description">
+    		<text>Standard Outfit der Soldner-Fraktion. Viele erfahrene Soldner tragen diesen Anzug. Sein Design basiert auf dem Anzug der Spezialeinheiten der westlichen Armeen. Aufgrund einer speziellen Behandlung des Gewebes, hat die Rustung eine verstarkte Stabilitat wahrend der physischen Bewegung ihrer Platten. Kommt mit eingebauten Artefaktbehaltern.</text>
+  	</string>
+
+ 	<string id="merc_outfit_name">
+    		<text>Soldner Anzug</text>
+  	</string>
+
+	<string id="merc_exo_outfit_name">
+		<text>Soldner Exoskelett</text>
+	</string>
+
+	<string id="merc_exo_outfit_description">
+		<text>Eine experimentelle Probe eines militarischen Exoskeletts. In Soldnerfarben bemalt, ist ihre Nachfrage zwischen erfahrenen Soldnern hoch. Kommt mit einem eingebauten Artefaktbehalter.</text>
+	</string>
+
+	<string id="merc_scientific_outfit_name">
+		<text>Soldner Wissenschaftsanzug</text>
+	</string>
+
+	<string id="merc_scientific_outfit_description">
+		<text>Anzug fur Soldner, die sich in den anomalen Zonen aufgehalten haben. Schutzsysteme mit einem geschlossenen Zyklus, eingebaute Unterdruckung Aktion anomale Felder. Es bietet einen guten Schutz vor Kugeln und Granatsplittern, aber nicht genug fur grosse Feindseligkeiten. Vollstandig erweiterbar und mit zwei integrierten Artefaktbehaltern ausgestattet.</text>
+	</string>
+
+<!--			-- Monolith--				-->
+
+
+
+
+	<string id="monolith_novice_outfit_name">
+		<text>Monolithen Lederjacke</text>
+	</string>
+
+  <string id="monolith_scientific_outfit_description">
+    <text>Eine Rustung, die entweder von Monolithen oder einem unbekannten Hersteller hergestellt wurde. Es enthalt eine Flakweste unbekannter Herkunft und weist zudem einzigartige Modifikationen auf, die eine geringe Strahlenresistenz erzeugen. Das Anomalie Schutzsystem wurde auf den SEVA-Body umgerustet. Der Anzug hat zwei Artefaktbehalter.</text>
+  </string>
+
+  <string id="monolith_scientific_outfit_name">
+    <text>Monolithen Wissenschaftsanzug</text>
+  </string>
+
+
+  <string id="monolith_outfit_description">
+    <text>Eine Rustung, die entweder von Monolithen oder einem unbekannten Hersteller hergestellt wurde. Es enthalt eine Flakweste unbekannter Herkunft und weist zudem einzigartige Modifikationen auf, die eine geringe Strahlenresistenz erzeugen. Der Anzug hat zwei Artefaktbehalter.</text>
+  </string>
+
+  <string id="monolith_outfit_name">
+    <text>Monolithen Anzug</text>
+  </string>
+
+  <string id="monolith_exo_outfit_name">
+    <text>Monolithen Exoskelett</text>
+  </string>
+
+  <string id="monolith_exo_outfit_description">
+    <text>Eine Rustung, die entweder von Monolithen oder einem unbekannten Hersteller hergestellt wurde. Es enthalt eine Flakweste unbekannter Herkunft und weist zudem einzigartige Modifikationen auf, die eine geringe Strahlenresistenz erzeugen. Das System wurde von dem Exoskelett des Militars angepasst. Der Anzug hat zwei Artefaktbehalter.</text>
+  </string>
+
+
+
+
+<!--			-- Bandit --				-->
+
+
+	<string id="bandit_novice_outfit_name">
+		<text>Schwarze Lederjacke</text>
+	</string>
+
+	<string id="bandit_novice_outfit_description">
+		<text>Die Jacke besteht aus einem schwarzen Leder Anorak mit eingenahten Kevlar Patches und einer blauen Jogginghose, die in wei?e Laufschuhe und einen darunter getragenen beigen Hoodie gesteckt ist. Typischerweise wird es auch mit einem Rucksack aus Hanf getragen, mit zusatzlichen Tragern uber der Brust.</text>
+	</string>
+
+	<string id="trenchcoat_outfit_name">
+		<text>Lederregenjacke</text>
+	</string>
+
+	<string id="trenchcoat_outfit_description">
+		<text>Eine normale schwarzer Lederregenjacke. Hat keinen besonderen Zweck, ausser den Trager nachts warm zu halten oder ihn vor einem blinden Hundebiss zu schutzen. Obwohl die Regenjacke nicht besonders komfortabel ist, wird er oft von Banditen in der Zone benutzt. Entweder weil er sich im Dunkeln verstecken kann oder einfach wegen seines "coolen" Aussehens.</text>
+	</string>
+
+	<string id="banditmerc_outfit_name">
+		<text>Banditen-Soldner Anzug</text>
+	</string>
+
+	<string id="banditmerc_outfit_description">
+		<text>Outfit der Wahl fur die Soldner-Fraktion, die kurzlich von Banditen gestohlen wurde. Die Banditen-Variante bietet weniger angemessenen Schutz auf der ganzen Linie. Ist nicht nur kostspielig, sondern auch leichter zu erreichen.</text>
+	</string>
+
+	<string id="bandit_exo_outfit_name">
+		<text>Banditen Exoskelett</text>
+	</string>
+
+	<string id="bandit_exo_outfit_description">
+		<text>Dies ist eine modifizierte Art von Standard Exoskeleton. Produziert mit der Teilnahme von Partisanen der Gruppe "Banditen". der Banditen Exoskelett verwendet leichtere Materialien, wodurch das Gewicht des Anzugs reduziert werden konnte. Kommt mit einem eingebauten Artefaktbehalter.</text>
+	</string>
+
+
+<!--			-- Military --				-->
+
+	<string id="military_novice_outfit_name">
+		<text>Militar Lederjacke</text>
+	</string>
+
+	<string id="specops_outfit_name">
+		<text>Berill-5M Gepanzerter Anzug</text>
+	</string>
+
+	<string id="specops_outfit_description">
+		<text>Dieser Gegenstand besteht aus einer Militarrustung der PS5-Serie mit Berylliumsputter, die fur den Einsatz in der Zone modifiziert wurde. Entwickelt fur den Angriff in stark radioaktiven Gebieten, ist es in Gebieten mit hoher anormaler Aktivitat wirkungslos. Der Anzug kommt uber das Militar zu den Stalkern, die ihn gegen Beute eintauschen. Kommt nicht mit einem Artefaktbehalter.</text>
+	</string>
+
+	<string id="military_outfit_name">
+		<text>SKAT-9 "Bulat" Militar Gepanzerter Anzug </text>
+	</string>
+
+	<string id="military_outfit_description">
+		<text>Dieser moderne militarische Panzeranzug ist fur Angriffsoperationen in anomalen Bereichen konzipiert. Besteht aus einem schweren militarischen Panzeranzug PSZ-12p, einem eingebauten Kompensationsanzug und einem anormalen Schutzanzug. Die Panzerung bietet einen hervorragenden Schutz gegen Beschadigung durch Kugel und Splitter, ohne die Beweglichkeit des Tragers stark zu beeintrachtigen. Kommt nicht mit einem Artefaktbehalter.</text>
+	</string>
+
+	<string id="military_exo_outfit_name">
+		<text>Militar Exoskelett</text>
+	</string>
+
+	<string id="military_exo_outfit_description">
+		<text>Die Militarmitglieder beschlossen, schwerere Materialien zu verwenden, um die Gescho?widerstandsfahigkeit gegenuber anderen zu verbessern. Diese Version des Exoskeletts, obwohl schwer, fuhlt sich an wie ein Panzer. Der einzige Nachteil ist der schwache Anomalie-Schutz, der mit der Panzerung verbunden ist, sehr fehlt und selbst die grundlegendsten Anomalien konnen diesen Panzer zerstoren. Kommt nicht mit einem Artefaktbehalter.</text>
+	</string>
+
+
+<!--			-- Helmet --				-->
+
+
+	<string id="st_helm_battle">
+		<text>Spharen M12 Helm</text>
+	</string>
+
+	<string id="st_helm_battle_descr">
+		<text>Ein Helm aus Aluminium/Titan mit einer Aussenseite aus Stoff, der mit Taschen fur zusatzliche Stahlruststucke und einer Gesichtsmaske fur die Rustung geliefert wird. Kugel M12 wird normalerweise als Teil einer Kombination verwendet, die Spetsnaz-Korperpanzer der PSZ-Serie enthalt. Sehr beliebt in der Zone dank seiner Atemschutzmaske und seiner eingebauten Nachtsichtvorrichtung der ersten Generation sowie dem maximalen Kopfschutz. Kommt mit Elektroniksteckplatzen.</text>
+	</string>
+
+	<string id="st_helm_hardhat">
+		<text>Stahlhelm</text>
+	</string>
+
+	<string id="st_helm_hardhat_descr">
+		<text>Ein hoffnungslos veralteter Stahlarmeehelm ohne Zusatze. Bietet keinen Schutz vor Anomalien oder Strahlung, kann aber Kugeln ablenken. Dieser Helm war nie besonders beliebt in der Zone, ausser in kurzen bewaffneten Konflikten zwischen den Fraktionen.</text>
+	</string>
+
+	<string id="st_helm_protective">
+		<text>Bildschirm Helm</text>
+	</string>
+
+	<string id="st_helm_protective_descr">
+		<text>Ein leichter Helm mit einem luftdichten Visier zum Schutz vor Anomalien. Dem Design nach, wird der Helm von den gleichen Verteidigungsforschungsinstituten wie dem SEVA Schutzanzug hergestellt. Der Verwendungszweck kann sehr gut in Kombination mit Militaranzugen fur Operationen in stark anomalen Bereichen verwendet werden.</text>
+	</string>
+
+	<string id="st_helm_respirator">
+		<text>Gasmaske</text>
+	</string>
+
+	<string id="st_helm_respirator_descr">
+		<text>Eine regulare Plastik und Gummimaske, die zum Filtern von Luft fur radioaktive Partikel und giftige Substanzen verwendet wird. Von Anfanger und Veteranen aller Fraktionen wegen seiner universellen Funktionalitat weit verbreitet. Bietet keinen physischen Schutz.</text>
+	</string>
+
+	<string id="st_helm_tactic">
+		<text>Taktischer Helm</text>
+	</string>
+
+	<string id="st_helm_tactic_descr">
+		<text>Ein westliches Modell eines taktischen Helms ohne Tarnung. Es ist nicht bekannt, wie es in die Zone gelangt ist. Der Helm wurde entwickelt, um einem Truppfuhrer mit seinen vielen Scannern und Satellitenkommunikationsgeraten, die in diesem speziellen Helm nicht installiert wurden, strategische Uberlegenheit uber den Feind zu verschaffen. Kommt mit mehrschichtigem Kevlar-Schutz und gepanzerten Elementen zum Schutz elektronischer Komponenten. Beinhaltet ein Beatmungsgerat und ein Nachtsichtgerat der ersten Generation.</text>
+	</string>
+
+	<string id="st_helm_m40">
+		<text>M40 Feldschutz Maske</text>
+	</string>
+
+	<string id="st_helm_m40_descr">
+		<text>Die M40 war das Ergebnis eines Programms in den 1980er Jahren, um einen Nachfolger der Schutzmasken der M17 Serie zu entwickeln. Die M40 sollte eine Ruckkehr zur herkommlichen Gasmaskendesign mit einem externen seitlich angebrachten Filterkanister sein, anstatt die internen Wangenfilter des M17, die schwierig zu andern waren, besonders in einer kontaminierten Umgebung. Die M40 wird bevorzugt von Westlern wie den Mercenaries, die keinen starken Schutz gegen Anomalien bieten. Die M40 bietet einen moderaten Geschossschutz.</text>
+	</string>
+
+
+
+
+
+<!--			-- Multiplayer --			-->
+
+
+
+	<string id="mp_exo_outfit_description">
+		<text>Dieses Exoskelett bietet einen hervorragenden Schutz gegen Beschadigung durch Geschosse und Splitter auf Kosten der Mobilitat. Anfallig fur panzerbrechende Runden.</text>
+	</string>
+	<string id="mp_exo_outfit_name">
+		<text>Exoskelett</text>
+	</string>
+	<string id="mp_military_outfit_description">
+		<text>Ein militarischer Panzeranzug fur den Angriff. Bietet hervorragenden Schutz vor Vollmantelrunden und Fragmentierungsschaden, ohne die Beweglichkeit des Tragers zu beeintrachtigen. Anfallig fur panzerbrechende Runden.</text>
+	</string>
+	<string id="mp_military_outfit_name">
+		<text>Militar Gepanzerter Anzug</text>
+	</string>
+	<string id="mp_scientific_outfit_description">
+		<text>Dieser Schutzanzug, der fur die Forschung in der Zone gedacht ist, kombiniert ein geschlossenes Atemschutzmodul mit einer externen Isolationsbeschichtung, was zu einem ausgezeichneten Schutz vor Anomalien fuhrt. Aufgrund des schlechten Schutzes vor physischen Einwirkungen ist der Anzug keine gute Verteidigung gegen Geschoss- und Splitterschaden. Kommt mit einem eingebauten Artefakt Transportbehalter.</text>
+	</string>
+	<string id="mp_scientific_outfit_name">
+		<text>SEVA Schutzanzug</text>
+	</string>
+
+</string_table>

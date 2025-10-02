@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="st_antirad">
+		<text>Anti-Strahlen Medikamente</text>
+	</string>
+	<string id="st_antirad_descr">
+		<text>Mexaminum Strahlenschutz Medikamente sind in der Zone ublich. Wenn es verwendet wird, induziert dieses Medikament Kontraktion der peripheren Blutgefa?e und Sauerstoffmangel, die zur Behandlung und Vorbeugung der Strahlenexposition dient. Das Medikament hat keine schweren Nebenwirkungen, obwohl vereinzelt Falle von leichter Ubelkeit, Schwindel, Krampfen und Bauchschmerzen berichtet wurden.</text>
+	</string>
+	<string id="st_bandage">
+		<text>Verband</text>
+	</string>
+	<string id="st_bandage_descr">
+		<text>Eine normale elastische Bandage, um die Blutung zu stoppen und die Infektion der Wunden zu verhindern. Bei regelma?iger Blutung den Verband vorsichtig auf die Wunde auftragen. Bei arterieller Blutung das Verband sofort um die betroffene Stelle binden.</text>
+	</string>
+	<string id="st_binocular_descr">
+		<text>Serienmassige militarische Fernglaser mit einer maximalen Vergro?erung von x7,5. Nutzlich in der Zone, in der sie ihrem Besitzer erlauben, die Dinge aus der Ferne zu beobachten.</text>
+	</string>
+	<string id="st_binocular_name">
+		<text>Fernglas</text>
+	</string>
+	<string id="st_knife_descr">
+		<text>Standard Kampfmesser mit gezackter Klinge. Nutzlich fur das Aufbrechen von Boxen und das leise eliminieren von Gegnern.</text>
+	</string>
+	<string id="st_knife">
+		<text>Messer</text>
+	</string>
+	<string id="st_bread">
+		<text>Brot</text>
+	</string>
+	<string id="st_bread_descr">
+		<text>In der Zone wurden noch nie Backer identifiziert, aber dieses Brot ist weder kontaminiert noch radioaktiv. Frisch und essbar. Zumindest wurden bisher keine Beschwerden gemeldet.</text>
+	</string>
+	<string id="st_conserva">
+		<text>Touristen Fruhstuck</text>
+	</string>
+	<string id="st_conserva_descr">
+		<text>Vermutlich wurden diese Konserven von Stalkern aus einem Armeelager geplundert. Ohne irgendeine Art von Etikett auf der Dose, ist es schwer zu sagen. Sollte immer noch gut zu essen sein. Jedenfalls wenn du das Mindesthaltbarkeitsdatum glaubst.</text>
+	</string>
+	<string id="st_detector1">
+		<text>Echo Detektor</text>
+	</string>
+	<string id="st_detector1_descr">
+		<text>Dieser datierte Detektor fur anomale Aktivitat erzeugt ein Alarmsignal, wenn anomale Partikel in eine spezielle Kammer eintreten, wenn Sie sich einer Anomalie nahern. Es kann auch das Vorhandensein von Artefakten registrieren und die Entfernung zum nachsten messen. Die Entfernung wird durch die Frequenz des Schalls angezeigt, den der Detektor abgibt. Um in den Artefaktsuchmodus zu wechseln, offne die vordere Abdeckung des Gerats. Aufgrund seines einfachen Designs kann Echo nur zur Lokalisierung der haufigsten Artefakte verwendet werden.</text>
+	</string>
+	<string id="st_detector2">
+		<text>Bear Detektor</text>
+	</string>
+	<string id="st_detector3">
+		<text>Veles Detektor</text>
+	</string>
+	<string id="st_detector3_descr">
+		<text>Ein wissenschaftlicher Scanner der nachsten Generation. Dank drei moderner Detektionskammern wird die Position der Artefakte auf einem speziellen Bildschirm angezeigt. Im geschlossenen Zustand registriert das Gerat nur Strahlung und Anomalien. Um in den Artefaktsuchmodus zu wechseln, offne das vordere LED-Display. Im Suchmodus kann der Detektor alle der Wissenschaft bekannten Artefakte lokalisieren.</text>
+	</string>
+	<string id="st_detector4">
+		<text>Svarog Detektor</text>
+	</string>
+	<string id="st_detector4_descr">
+		<text>Ein Prototyp eines anomalen Frequenzscanners mit erweiterter Funktionalitat. Dieses Gerat wird mit einem Programm geliefert, das zum Identifizieren statischer Bereiche mit anomaler Aktivitat verwendet wird, die in seiner Datenbank gespeichert sind, wahrend die Fahigkeit, Artefakte zu lokalisieren, beibehalten wird. Die Position von anomalen Bereichen und Artefakten wird auf einem speziellen Bildschirm angezeigt. Der Artefakt-Suchmodus, der durch Offnen der vorderen LED-Anzeige aktiviert werden kann, wurde modifiziert, um anomale Formationen zu erkennen, die der Wissenschaft bisher unbekannt sind.</text>
+	</string>
+	<string id="st_device_torch_descr">
+		<text>Eine standard Kopf-Taschenlampe. Nutzlich fur Stalker, die nach Einbruch der Dunkelheit unterwegs sind, aber bei unsachgema?er Verwendung Arger bekommen konnen.</text>
+	</string>
+	<string id="st_device_torch_name">
+		<text>Taschenlampe</text>
+	</string>
+	<string id="st_drug_anabiotic">
+		<text>Anabiotikum</text>
+	</string>
+	<string id="st_drug_antidot">
+		<text>Antidote</text>
+	</string>
+	<string id="st_drug_antidot_descr">
+		<text>Das IP2 Antitoxin ist ein komplexes Arzneimittel, das mehrere Antidote umfasst, einschlie?lich Metoclopramidum, Pyridoxin, Thiamin, Riboxin und andere Pharmazeutika. Das Medikament wird verwendet, um eine Reihe von Antibiotika zu injizieren, um naturliche Gifte zusammen mit synthetischen Giftabsorbern in den Blutkreislauf zu neutralisieren. IP2 ist in der Zone nicht besonders beliebt, da sich die meisten Stalker auf eine Gasmaske und einen Schutzanzug verlassen, gibt es immer noch diejenigen, die eine Packung dieses Gegenmittels verstaut haben. Die Wirkungen der Droge sind lang anhaltend.</text>
+	</string>
+	<string id="st_drug_booster">
+		<text>Hercules</text>
+	</string>
+	<string id="st_drug_coagulant">
+		<text>Vinca</text>
+	</string>
+	<string id="st_drug_coagulant_descr">
+		<text>Ukrainisches Vikasolum - ein kunstliches Aquivalent von Vitamin K. Der Hauptzweck dieses Medikaments ist es, die Geschwindigkeit der Blutgerinnung zu erhohen. Sehr gefragt bei Stalkern, die langsam heilende Wunden und Schnittwunden durch Mutanten schneller schlie?en lassen wollen. Die Wirkungen der Droge sind lang anhaltend.</text>
+	</string>
+	<string id="st_drug_psy_blockade">
+		<text>Psi-Block</text>
+	</string>
+	<string id="st_drug_psy_blockade_descr">
+		<text>Ein Medikament, das lawinenartige Nervenimpulse blockiert. Konsum induziert kurzfristigen Verlust aller Emotionen. Wird ausschlie?lich in der Zone verwendet, um den Auswirkungen von anomalen Psi-Feldern entgegenzuwirken. Die Wirkungen der Droge sind lang anhaltend.</text>
+	</string>
+	<string id="st_drug_radioprotector">
+		<text>Strahlungsschutzpillen</text>
+	</string>
+	<string id="st_energy_drink">
+		<text>Energy Drink</text>
+	</string>
+	<string id="st_energy_drink_descr">
+		<text>Oft von Stalkern auf langen Reisen verwendet, wenn keine Pausen gewahrt werden konnen. Das Getrank enthalt leicht verdauliche Kohlenhydrate sowie Medikamente, die die Freisetzung von Adrenalin in den Blutkreislauf anregen.</text>
+	</string>
+	<string id="st_guitar_descr">
+		<text>Eine vertrauenswurdige Gitarre.</text>
+	</string>
+	<string id="st_guitar_name">
+		<text>Gittare</text>
+	</string>
+	<string id="st_kolbasa">
+		<text>Diat Wurst</text>
+	</string>
+	<string id="st_kolbasa_descr">
+		<text>Ob gut oder schlecht, diese Wurst - eine Mischung aus Huhn und Soja-Ersatz - ist oft Stalker Fruhstuck, Mittag- und Abendessen in einem. Kann aufgrund des hohen Konservierungsgehalts lange gelagert werden.</text>
+	</string>
+	<string id="st_medkit">
+		<text>Erste-Hilfe Kasten</text>
+	</string>
+	<string id="st_medkit_army">
+		<text>Armee Erste-Hilfe Kasten</text>
+	</string>
+	<string id="st_medkit_army_descr">
+		<text>Ein spezielles medizinisches Set fur die Erste Hilfe bei der Bekampfung von Verletzten. Das Kit enthalt Blutgerinnungshemmer auf der Basis von Menadion, Schmerzmitteln, Antibiotika und Immunstimulanzien sowie ein Kit zum Entfernen von Kugeln und Fragmenten aus dem Korper. Dieses Medkit wird standardma?ig an Armeeangehorige ausgegeben und wird manchmal von Wachter Einheiten verwendet.</text>
+	</string>
+	<string id="st_medkit_descr">
+		<text>Ein universeller Einweg-Medizin-Kit. Handlich fur die Behandlung von verschiedenen Verletzungen - Wunden, Prellungen, regelma?ige und chemische Verbrennungen und verschiedene Arten von Vergiftungen. Bei Stalkern gefragt.</text>
+	</string>
+	<string id="st_medkit_science">
+		<text>Wissenschafts Erste-Hilfe Kasten</text>
+	</string>
+	<string id="st_medkit_science_descr">
+		<text>Ein medizinisches Set speziell fur den Einsatz in der Zone. Das Kit enthalt Produkte fur den Umgang mit Wunden, verhindert die Entstehung von Strahlenvergiftungen und reduziert die akkumulierte Strahlung im Korper. Enthalt Vikasolum, Batilolum und Naphazolin, im Gegensatz zu anderen Medikits.</text>
+	</string>
+	<string id="st_pda_descr">
+		<text>Konnte nutzliche Informationen enthalten</text>
+	</string>
+	<string id="st_pda_name">
+		<text>PDA</text>
+	</string>
+	<string id="st_vodka">
+		<text>Cossacks Wodka</text>
+	</string>
+	<string id="st_vodka_descr">
+		<text>Hergestellt von GSC. Geht leicht nach unten und senkt die Strahlenwirkung erheblich. Sollte in Massen genossen werden.</text>
+	</string>
+	<string id="st_detector2_descr">
+		<text>Dieser anomale Aktivitatsdetektor der letzten Generation kann verwendet werden, um anormale Formationen zu lokalisieren, und hat ein Farbdiodenfeld, das nicht nur die Richtung von Artefakten anzeigt, sondern auch die Entfernung zu ihnen. Um in den Artefaktsuchmodus zu wechseln, offnen Sie die vordere Abdeckung des Gerats. Leider ist das Gerat mit einer etwas veralteten Liste von detektierbaren Artefakten programmiert.</text>
+	</string>
+	<string id="st_drug_anabiotic_descr">
+		<text>Eine experimentelle Droge, die von Professor Ozersky fur wissenschaftliche Forschungsteams in der Zone entwickelt wurde. Im Kern enthalt das Medikament Tetrodotoxin, das umgangssprachlich als "Zombie-Pulver" bekannt ist und eine vollstandige Abschaltung des zentralen Nervensystems des Korpers verursacht, die es Menschen ermoglichen konnte, Emissionen ausserhalb der Deckung zu uberleben. Das Medikament wurde weder klinisch noch im Feld getestet, was seine Wirksamkeit in Frage stellt und das Problem moglicher Nebenwirkungen aufwirft.</text>
+	</string>
+	<string id="st_bolt">
+		<text>Bolzen</text>
+	</string>
+	<string id="st_drug_booster_descr">
+		<text>Der Hauptbestandteil dieses Produkts ist ein anaboles Androgen, ein kunstliches Steroid, dessen chemische Zusammensetzung dem Testosteron ahnelt. Wird oft von Stalkern wahrend langer Uberfalle verwendet, um Muskelermudung zu reduzieren. Erhoht die Tragfahigkeit erheblich. Die Wirkungen der Droge sind lang anhaltend.</text>
+	</string>
+	<string id="st_drug_radioprotector_descr">
+		<text>B190 Indraline-Strahlenschutzmittel, enthalten in Medizinprodukten, die an Mitarbeiter von Kernkraftwerken ausgegeben werden. Verwendet in der Zone anstelle des uberma?ig toxischen PC1-Cystaminhydrochlorids, dessen wiederholte Anwendung oft zum Tod fuhrte. Reduziert die Auswirkungen von Gammastrahlung auf lebendes Gewebe. Am besten vor der Exposition eingenommen, da die Wirkung nicht sofort eintritt. Die Wirkungen der Droge sind lang anhaltend.</text>
+	</string>
+	<string id="st_harmonica_name">
+		<text>Mundharmonika</text>
+	</string>
+	<string id="st_harmonica_descr">
+		<text>Fur Liebhaber von Blues und Gefangnisromantik.</text>
+	</string>
+	
+	<string id="st_itm_deployable_mgun_name">
+		<text>Deployable RP-74</text>
+	</string>
+	<string id="st_itm_deployable_mgun_desc">
+		<text>Dieses Bandmaschinenpistole ist eine tragbare Modifikation mit einem komplexen zweistufigen Futterungssystem. Trotz seines Gewichts und seiner geringen Prazision hat dieser LMG Bewunderer in der Zone gefunden. Wird in erster Linie dazu verwendet, feindliche Streitkrafte wahrend Fraktionskonflikten zu uberwaltigen und mutierte Hohlen zu beseitigen.</text>
+	</string>
+	
+	<string id="st_memory_stick_name">
+		<text>Memory Stick</text>
+	</string>
+</string_table>

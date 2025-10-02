@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+
+<!--===========================================================
+<
+< TEXT  STRINGS FOR TASKS ON AGROPROM MAP
+<	CoC 1.3.11
+<
+<	Modified by: DoctorX
+<	March 18, 2016
+<
+<===========================================================-->
+
+<string_table>
+
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Kuznetsov (Military Honcho) Stop Unauthorized Incursions Task -->
+
+	<string id="agr_smart_terrain_1_6_army_trader_stalker_task_1_name">
+		<text>Зачистка</text>
+	</string>
+	<string id="agr_smart_terrain_1_6_army_trader_stalker_task_1_text">
+		<text>Вам доручено очолити операцію із зачистки місцевості.</text>
+	</string>
+	<string id="agr_smart_terrain_1_6_army_trader_stalker_task_1_about">
+		<text>Командир стурбований зростанням числа незаконних проникнень через периметр, що охороняється. Він хоче, щоби ти зачистив територію від сторонніх осіб.</text>
+	</string>
+	<string id="agr_smart_terrain_1_6_army_trader_stalker_task_1_finish">
+		<text>Хороша робота.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Kuznetsov (Military Honcho) Capture Territory Task -->
+
+	<string id="agr_smart_terrain_1_6_army_trader_stalker_task_2_name">
+		<text>Захоплення території</text>
+	</string>
+	<string id="agr_smart_terrain_1_6_army_trader_stalker_task_2_text">
+		<text>Надійшов наказ захопити територію для нового табору.</text>
+	</string>
+	<string id="agr_smart_terrain_1_6_army_trader_stalker_task_2_about">
+		<text>СБУ займається пошуком документів, свідчень та причин виникнення Зони та нашому підрозділу було доручено проникнути далі до Зони для проведення дослідницької операції. Командир шукає добровольців, щоби захопити територію для нас. Готовий до бою?</text>
+	</string>
+	<string id="agr_smart_terrain_1_6_army_trader_stalker_task_2_finish">
+		<text>Задача виконана? Чудова робота. Я повідомлю командира про твої успіхи.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Kuznetsov (Military Honcho) Capture Enemy Combatant Task -->
+
+	<string id="agr_smart_terrain_1_6_army_trader_stalker_task_3_name">
+		<text>Смерть ворогові!</text>
+	</string>
+	<string id="agr_smart_terrain_1_6_army_trader_stalker_task_3_text">
+		<text>Поставлено завдання захопити чи вбити ворога.</text>
+	</string>
+	<string id="agr_smart_terrain_1_6_army_trader_stalker_task_3_about">
+		<text>Від офіцера СБУ до нашого командира надійшов список розшукуваних осіб, які вирішили втекти від правосуддя тут, у Зоні. Якщо дістанешся будь-якого з них, отримаєш нагороду. Готовий?</text>
+	</string>
+	<string id="agr_smart_terrain_1_6_army_trader_stalker_task_3_finish">
+		<text>Видатна робота! Командир буде задоволений.</text>
+	</string>
+
+	<string id="agr_smart_terrain_1_6_army_mechanic_stalker_task_1_name">
+		<text>Знайти для Кириллова %s</text>
+	</string>
+	<string id="agr_smart_terrain_1_6_army_mechanic_stalker_task_1_text">
+		<text>Необхідно принести %s лейтенанту Кирилову – техніку на базі. Він заплатить за інструменти та, крім того, зможе проводити модернізацію зброї чи бронежилетів.</text>
+	</string>
+	<string id="agr_smart_terrain_1_6_army_mechanic_stalker_task_1_about">
+		<text>Слухай, боєць, надасть послугу? Майже кожен день до мене приходять солдати з розламаним в мотлох спорядженням, а інструментів у мене кіт наплакав. Не ізоляційною стрічкою ж мені броньовані костюми замотувати, правильно? Може, зможеш дістати мені рем набір якийсь найпростіший, а я тобі грошенят відвалю, мм?</text>
+	</string>
+	<string id="agr_smart_terrain_1_6_army_mechanic_stalker_task_1_fetch_about">
+		<text>Загалом, знайдеш набір інструментів - принось, з мене належить.</text>
+	</string>
+	<string id="agr_smart_terrain_1_6_army_mechanic_stalker_task_1_fetch_finish">
+		<text>Спасибі, солдате! Ось, тримай, як обіцяв:</text>
+	</string>
+
+
+
+	<string id="agr_smart_terrain_1_6_army_mechanic_stalker_task_2_name">
+		<text>Знайти для Кириллова %s</text>
+	</string>
+	<string id="agr_smart_terrain_1_6_army_mechanic_stalker_task_2_text">
+		<text>Необхідно принести %s лейтенанту Кирилову – техніку на базі. Він заплатить за інструменти та, крім того, зможе проводити складну модернізацію зброї чи бронежилетів.</text>
+	</string>
+	<string id="agr_smart_terrain_1_6_army_mechanic_stalker_task_2_about">
+		<text>Гаразд, загалом мені потрібні ще інструменти. Щоправда, його хрін знає, чи є вони взагалі в цих краях. Що думаєш, чи зможеш знайти?</text>
+	</string>
+	<string id="agr_smart_terrain_1_6_army_mechanic_stalker_task_2_fetch_about">
+		<text>Принеси мені інструменти тонкої роботи. Там має бути все, що мені потрібне. Якщо зможеш дістати - твою споряджу віднині буду чинити задарма... майже.</text>
+	</string>
+	<string id="agr_smart_terrain_1_6_army_mechanic_stalker_task_2_fetch_finish">
+		<text>Чудово! Якщо тобі потрібно, що буде - звертайся, допоможу чим зможу.</text>
+	</string>
+
+
+
+	<string id="agr_smart_terrain_1_6_army_mechanic_stalker_task_3_name">
+		<text>Знайти для Кириллова %s</text>
+	</string>
+	<string id="agr_smart_terrain_1_6_army_mechanic_stalker_task_3_text">
+		<text>Кардан просив знайти набір інструментів для калібрування. Технік заплатить за інструмент, та окрім цього зможе здійснювати складну модифікацію зброї чи бронежилета.</text>
+	</string>
+	<string id="agr_smart_terrain_1_6_army_mechanic_stalker_task_3_about">
+		<text>Гаразд, загалом мені потрібні ще інструменти. Щоправда, його хрін знає, чи є вони взагалі в цих краях. Що думаєш, чи зможеш знайти?</text>
+	</string>
+	<string id="agr_smart_terrain_1_6_army_mechanic_stalker_task_3_fetch_about">
+		<text>Мені потрібні інструменти для калібрування. Якщо принесеш – знижка на ремонт тобі забезпечена.</text>
+	</string>
+	<string id="agr_smart_terrain_1_6_army_mechanic_stalker_task_3_fetch_finish">
+		<text>Чудово! Ну тепер більше не доведеться морочитися, чим броню латати, та й бійців втрачати менше будемо. Дякую, загалом. Якщо тобі потрібно, що буде - звертайся, допоможу чим зможу.</text>
+	</string>		
+
+
+</string_table>

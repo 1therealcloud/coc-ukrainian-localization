@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="st_faction_stalker">
+		<text>Einzelganger</text>
+	</string>
+	<string id="st_faction_stalker_desc">
+		<text>%c[0,245,245,220]Einzelganger, oder Freie Stalker genannt, kooperieren mit keiner Fraktion in der Zone und sind unabhanging\n \nObwohl sie haufig von Mutanten und anderen Stalkern belastigt wurden, haben es kleine Gruppen geschafft, starke Handelsaussenposten in der gesamten Zone aufzubauen.</text>
+	</string>
+	<string id="st_faction_bandit">
+		<text>Banditen</text>
+	</string>
+	<string id="st_faction_bandit_desc">
+		<text>%c[0,245,245,220]Banditen sind Mitglieder der kriminellen Unterwelt, die aus verschiedenen Grunden in die Zone kamen; Geld verdienen durch den Verkauf von Artefakten, um sich vor dem Gesetz zu verstecken oder sogar mit Waffen zu handeln.</text>
+	</string>
+	<string id="st_faction_dolg">
+		<text>Wachter</text>
+	</string>
+	<string id="st_faction_dolg_desc">
+		<text>%c[0,245,245,220]Wachter sind eine paramilitarische Fraktion, die sich gegen jeden stellt, der versucht, die Zone auszubeuten und, wie die Wachter es sehen, seine Korruption zu verbreiten.\n \nSie stehen seit langem in einem Konflikt mit der Freiheit aufgrund ihrer widerstreitenden Ideale.</text>
+	</string>
+	<string id="st_faction_freedom">
+		<text>Freiheit</text>
+	</string>
+	<string id="st_faction_freedom_desc">
+		<text>%c[0,245,245,220]Freiheit sind Anarchisten und Draufganger, die sich fur den freien Zugang zur Zone aussprechen und sich somit standig in Konflikt mit den Wachtern befinden.</text>
+	</string>
+	<string id="st_faction_army">
+		<text>Militar</text>
+	</string>
+	<string id="st_faction_army_desc">
+		<text>%c[0,245,245,220]Die Ukrainische Regierung unterhalt sich durch ihr Ministerium fur innere Angelegenheiten das Gebiet der Zone mit internen Truppen des Staatssicherheitsdienstes.</text>
+	</string>
+	<string id="st_faction_ecolog">
+		<text>Okologen</text>
+	</string>
+	<string id="st_faction_ecolog_desc">
+		<text>%c[0,245,245,220]Die Okologen sind eine von der Regierung finanzierte Einrichtung, die die Zone erforscht, um ihr Potenzial fur das Wohl der Menschheit angemessen zu nutzen.</text>
+	</string>
+	<string id="st_faction_killer">
+		<text>Soldner</text>
+	</string>
+	<string id="st_faction_killer_desc">
+		<text>%c[0,245,245,220]Soldner sind erfahrene Kampfer aus allen Bereichen des Lebens, die ihre Dienste als angeheuerte Soldaten anbieten. Es ist unbekannt, wer ihre Klienten sind, oder warum sie Interessen in der Zone haben.</text>
+	</string>
+	<string id="st_faction_monolith">
+		<text>Monolithen</text>
+	</string>
+	<string id="st_faction_monolith_desc">
+		<text>%c[0,245,245,220]Monolith sind ein fanatischer religioser Kult, der allen feindlich gesinnt ist.\n \nTrotz der Zerstorung des C-Conciousness haben sie sich seitdem als wieder auflebende Kraft herausgebildet und viele ihrer ehemaligen Territorien zuruckerobert.</text>
+	</string>
+	<string id="st_faction_csky">
+		<text>Clear Sky</text>
+	</string>
+	<string id="st_faction_csky_desc">
+		<text>%c[0,245,245,220]Clear Sky ist eine unabhangige wissenschaftliche und militarische Organisation, die sich auf die Erforschung und das Verstandnis der Zone konzentriert.\n \nAngesichts eines fast vollstandigen Zusammenbruchs nach einem gescheiterten und kostspieligen Angriff auf das Kernkraftwerk von Tschernobyl, gelang es einer Handvoll der wenigen Uberlebenden, die Fraktion in ihre fruhere Gestalt zuruckzufuhren.</text>
+	</string>
+	<string id="st_faction_zombied">
+		<text>Zombie</text>
+	</string>
+	<string id="st_faction_zombied_desc">
+		<text>%c[0,245,245,220]Geeeeehiiiiirnneeeeeee!!!\n \nZombifizierte Stalker sind sinnlose Hullen ihres vorherigen Selbsts, reduziert auf ihre grundlegendsten tierahnlichen Instinkte und werden fast alles angreifen, was ihnen zu nahe kommt.</text>
+	</string>
+	<string id="st_mm_faction_back">
+		<text>Zuruck</text>
+	</string>
+	<string id="st_mm_faction_submit">
+		<text>Starten</text>
+	</string>
+	<string id="st_mm_faction_rand">
+		<text>Zufallig</text>
+	</string>
+	<string id="st_mm_faction_cap_character_name">
+		<text>Name:</text>
+	</string>
+	<string id="st_mm_faction_cap_faction">
+		<text>Gruppe:</text>
+	</string>
+	<string id="st_mm_ck_story_desc">
+		<text>%c[0,245,245,220]Der Story-Modus startet das Spiel mit der Storyline "Mysteries of the Zone" und mit den Zielen, den Brain Scorcher und die Miracle Machine zu deaktivieren.\n  \nElemente aus fruheren Handlungsstrangen sind ausgeliehen und neu erstellt worden, also ist dies nicht fur Spieler gedacht, die eine strikte Fortsetzung der Geschichte fur notwendig halten.\n \nNur verfugbar fur Einzelganger, Wachter, Freiheit, Okologen, Soldner und Clear Sky Fraktionen</text>
+	</string>
+	<string id="st_mm_ck_hardcore_desc">
+		<text>%c[0,245,245,220]Ironman-Modus ist eine Funktion, die deine Spielstande nach dem Tod entfernt. Du kannst so viele Speicherstande durchfuhren, wie du willst, aber das Sterben fuhrt dazu, dass alle mit diesem Charakter gemachten Spielstande entfernt werden.</text>
+	</string>
+	<string id="st_mm_ck_hardcore_aim_desc">
+		<text>%c[0,245,245,220]Hardcore AI Aim ist eine Funktion, die die Vorhersagbarkeit von KI-Zielen maximiert und es dem Spieler erschwert, Treffern auszuweichen, wahrend er sich bewegt.</text>
+	</string>
+	<string id="st_mm_ck_survival_desc">
+		<text>Der Uberlebensmodus ist eine Funktion, die alle Spawns durch Zombies ersetzt. Diese Horden werden sich auf deinen Weg machen - sei vorbereitet! Schau, wie lange du uberleben kannst!</text>
+	</string>
+	<string id="st_mm_ck_azazel_mode_desc">
+		<text>
+			%c[0,245,245,220]Im Azazel Modus, ist der Tot nicht das Ende.\n
+			\nWie der Damon, Azazel, wirst du einen neuen Korper besitzen, wenn du stirbst. Azazel ubernimmt danach eine Form von einem Stalker, der in der Zone wirklich existiert.\n
+			\nWenn du Begleiter hast, wirst du einer von ihnen werden. Diese Funktion erganzt den Ironman und, oder den Uberlebensmodus sehr gut.\n
+			\nNich komplitabel mit dem Story-Modus
+		</text>
+	</string>
+	<string id="st_mm_faction_random_location">
+		<text>Zufalliger Ort</text>
+	</string>
+	<string id="st_mm_faction_money">
+		<text>Geld</text>
+	</string>
+	<string id="st_mm_faction_equipment">
+		<text>Ausrustung</text>
+	</string>
+	<string id="st_mm_faction_relations">
+		<text>Beziehungen</text>
+	</string>
+</string_table>

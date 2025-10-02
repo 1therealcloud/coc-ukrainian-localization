@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+
+	<string id="ui_st_abandoned_sawmill">
+		<text>Лісопильня (Затон)</text>
+	</string>
+
+	<string id="ui_st_abandoned_school">
+		<text>Покинута школа (Прип'ять)</text>
+	</string>
+
+	<string id="ui_st_abandoned_village">
+		<text>Покинутий хутір (Армійські склади)</text>
+	</string>
+
+	<string id="ui_st_brain_scorcher">
+		<text>Випалювач Мізків (Радар)</text>
+	</string>
+
+	<string id="ui_st_cultural_center">
+		<text>ДК «Енергетик» (Прип‘ять)</text>
+	</string>
+
+	<string id="ui_st_construction_site">
+		<text>Будівництво (Дика Территорія)</text>
+	</string>
+
+	<string id="ui_st_container_warehouse">
+		<text>Склад контейнерів (Юпітер)</text>
+	</string>
+
+	<string id="ui_st_eastern_checkpoint">
+		<text>Кладовище техніки</text>
+	</string>
+
+	<string id="ui_st_eastern_factory">
+		<text>Завод (Темна долина)</text>
+	</string>
+
+	<string id="ui_st_factory_complex">
+		<text>Завод «Агропром»</text>
+	</string>
+
+	<string id="ui_st_hermanns_bunker">
+		<text>Бункер вчених (Юпітер)</text>
+	</string>
+
+	<string id="ui_st_hidden_base">
+		<text>База «Чистого Неба» (Болота)</text>
+	</string>
+
+	<string id="ui_st_kopachy_village">
+		<text>Копачі (Юпітер)</text>
+	</string>
+
+	<string id="ui_st_lodging_house">
+		<text>Бар «100 Рентген» (Росток)</text>
+	</string>
+
+	<string id="ui_st_machine_yard">
+		<text>Механізований двір (Болота)</text>
+	</string>
+
+	<string id="ui_st_makeshift_barracks">
+		<text>База «Долгу» (Росток)</text>
+	</string>
+
+	<string id="ui_st_military_base">
+		<text>База волі (Армійські склади)</text>
+	</string>
+
+	<string id="ui_st_northern_factory">
+		<text>Недобудова (Темна долина)</text>
+	</string>
+
+	<string id="ui_st_hideout">
+		<text>Околиці Прип'яті</text>
+	</string>
+
+	<string id="ui_st_power_station">
+		<text>ЧАЕС</text>
+	</string>
+
+	<string id="ui_st_processing_station">
+		<text>Станція переробки відходів (Затон)</text>
+	</string>
+
+	<string id="ui_st_pumping_station">
+		<text>Насосна станція (Болота)</text>
+	</string>
+	
+	<string id="ui_st_river_port">
+		<text>Річковий порт (Болота)</text>
+	</string>
+
+	<string id="ui_st_rookie_village">
+		<text>Село новачків (Кордон)</text>
+	</string>
+
+	<string id="ui_st_research_institute">
+		<text>НДІ «Агропром»</text>
+	</string>
+
+	<string id="ui_st_sakharovs_bunker">
+		<text>Мобільна лабораторія (Янтар)</text>
+	</string>
+
+	<string id="ui_st_skadovsk_shipwreck">
+		<text>Скадовськ (Затон)</text>
+	</string>
+
+	<string id="ui_st_southern_checkpoint">
+		<text>Південний блокпост (Кордон)</text>
+	</string>
+
+	<string id="ui_st_sports_center">
+		<text>Магазин (Мертве місто)</text>
+	</string>
+
+	<string id="ui_st_train_hangar">
+		<text>Депо (Смітник)</text>
+	</string>
+
+	<string id="ui_st_tunnel_entrance">
+		<text>Шляхопровід «Прип'ять-1»</text>
+	</string>
+
+	<string id="ui_st_tunnel_refuge">
+		<text>Підземелля «Агропрому»</text>
+	</string>
+
+	<string id="ui_st_tuzla_outpost">
+		<text>Лодочна станція (Болота)</text>
+	</string>
+
+	<string id="ui_st_village_ruins">
+		<text>Руїни села (Болота)</text>
+	</string>
+
+	<string id="ui_st_yanov_station">
+		<text>Станція «Янів» (Юпітер)</text>
+	</string>	
+
+</string_table>

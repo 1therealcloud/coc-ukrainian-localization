@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+
+<!--===========================================================
+<
+< TEXT  STRINGS FOR TASKS ON DARK VALLEY MAP
+<	CoC 1.3.11
+<
+<	Modified by: DoctorX
+<	March 17, 2016
+<
+<===========================================================-->
+
+<string_table>
+
+
+	<!-- RAID COMPANION DIALOGUES -->
+	<string id="bandit_companion_task_1_start_dialog_1">
+		<text>Fuhre den Weg und wir werden folgen. Du bekommst deinen Anteil, wenn wir fertig sind. Stelle nur sicher, dass wir diejenigen sind, die Plunderungen machen.</text>
+	</string>
+	<string id="bandit_companion_task_1_start_dialog_2">
+		<text>Wir sollten uns bewegen, mein Finger am Trigger juckt langsam. Vergiss nicht, wir bekommen die Beute!</text>
+	</string>
+	<string id="bandit_companion_task_1_complete">
+		<text>Gute Arbeit, Stalker! Hier ist dein Anteil.</text>
+	</string>
+	<string id="bandit_companion_task_1_actor_reply">
+		<text>Okay.</text>
+	</string>
+
+
+	<!-- ELIMINATE MUTANTS FOR BANDITS TASK -->
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_1_name">
+		<text>Eliminiere die Mutanten Bedrohung</text>
+	</string>
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_1_text">
+		<text>In der Nahe dieses Ortes wurden Mutanten entdeckt, die das Gebiet gefahrlich machen. Du wurdest damit beauftragt, die Mutantenbedrohung in diesem Gebiet zu eliminieren. Melde dich nach Abschluss der Arbeit bei Olivius.</text>
+	</string>
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_1_about">
+		<text>Wir haben nach jemandem gesucht, der genug Eier in der Hose hat, um Mutanten an einigen Stellen auszuraumen. Stalker kommen nicht hierher, weil sie zu angstlich sind. Wenn wir nichts unternehmen, werden wir niemanden mehr haben, von dem wir Waren "ausleihen" konnen. Dann mussen wir aus diesem Gebiet ausziehen.</text>
+	</string>
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_1_finish">
+		<text>Ausgezeichnete Arbeit! Hier ist deine Bezahlung. Ich werde dafur sorgen, dass der Chef ein gutes Wort fur dich einlegt.</text>
+	</string>
+
+
+	<!-- DEFEND TERRITORY FOR BANDITS TASK -->
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_2_name">
+		<text>Eliminiere Feindliche Bedrohung</text>
+	</string>
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_2_text">
+		<text>Du wurdest beauftragt, eine Territoriale Bedrohung innerhalb des Gebiets zu beseitigen. Melden dich nach Abschluss der Arbeit bei Olivius.</text>
+	</string>
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_2_about">
+		<text>Die Hurensohne ziehen in unser Gebiet ein! Der Chef gab mir den Befehl, Rekruten mit genugend Eier in der Hose zu rekrutieren, um einige dieser Lager zuruckzuerobern. Was sagst du? Hast du genug Haare auf deiner Brust?</text>
+	</string>
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_2_finish">
+		<text>Ausgezeichnete Arbeit! Hier ist deine Bezahlung. Ich werde dafur sorgen, dass der Chef ein gutes Wort fur dich einlegt.</text>
+	</string>
+
+
+	<!-- ESCORT RAIDERS FOR BANDITS TASK -->
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_3_name">
+		<text>Cheeki Breeki Iv Damke</text>
+	</string>
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_3_text">
+		<text>Halte die lokalen Stalker von ihrer Beute fern, indem du sie lange genug von ihren Wertsachen befreist, bis deine Bande frohlicher Manner zufrieden sind.</text>
+	</string>
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_3_about">
+		<text>Es gibt da ein paar Leute, die sich mit anderen fur eine Weile Verbunden wollen. Sie brauchen einen Spion, um ein Hauptziel ausfindig zu machen, und bezahlen dich sofort, nachdem deine Arbeit getan ist. Was halst du davon, Stalker?</text>
+	</string>
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_3_finish">
+		<text>Nette Arbeit, was? Hier ist dein Anteil.</text>
+	</string>
+
+
+	<!-- ASSASSINATION FOR OLIVIUS TASK -->
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_4_name">
+		<text>Hitman</text>
+	</string>
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_4_text">
+		<text>Olivius hat dich beauftragt, eine bestimmte Person zu eliminieren. Finde das Ziel und beseitige es, dann komme fur deine Bezahlung zuruck.</text>
+	</string>
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_4_about">
+		<text>Ich habe eine Liste von Leuten, die mich in die falsche Richtung gerieben haben. Ich mochte, dass du sie ausreibst. Was sagst du?</text>
+	</string>
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_4_finish">
+		<text>Gut, du hast dieses Arschloch umgebracht! Hier ist dein Geld.</text>
+	</string>
+
+
+	<!-- FIND LEVEL 1 TOOLKIT FOR LIMPID -->
+	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_1_name">
+		<text>Finde %s</text>
+	</string>
+	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_1_text">
+		<text>%s werden von Limpid benotigt, um grundlegende Ausrustungs-Upgrades zu installieren. Du solltest sie ihm bringen, wenn du welche findest.</text>
+	</string>
+	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_1_about">
+		<text>Ich brauche dringend neue Werkzeuge, Mann. Ich kann garnichts mit der rostigen Scheisse machen, die ich hier habe, und mir geht das Waffenol aus. Wenn du daran interessiert bist mir zu helfen, werde ich dir sagen, was ich brauche.</text>
+	</string>
+	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_1_fetch_about">
+		<text>Ich brauche eine Reihe Grundlegender Werkzeuge. Es sollte enthalten was ich brauche. Wenn du etwas fur mich hast, ware ich dir sehr dankbar! Ich werde dir von hier aus sogar einen Rabatt anbieten.</text>
+	</string>
+	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_1_fetch_finish">
+		<text>Perfekt! Das ist genau das, was ich brauche, Mann. Ich kann die Ausrustung jetzt richtig aufrusten!</text>
+	</string>
+
+
+	<!-- FIND LEVEL 2 TOOLKIT FOR LIMPID -->
+	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_2_name">
+		<text>Finde %s</text>
+	</string>
+	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_2_text">
+		<text>%s werden von Limpid benotigt, um fortgeschrittene Ausrustungs-Upgrades zu installieren. Du solltest sie ihm bringen, wenn du welche findest.</text>
+	</string>
+	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_2_about">
+		<text>Die Werkzeuge, die du mir gebracht hast sind toll, nur es hat einfach nicht alles was ich brauche. Denkst du, du kannst mir ein besseres bringen?</text>
+	</string>
+	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_2_fetch_about">
+		<text>Ich brauche ein %s. Ich habe keine verdammte Ahnung, wo du das finden kannst, aber falls du eines findest, bring es zu mir. Ich brauche es dringend, Mann.</text>
+	</string>
+	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_2_fetch_finish">
+		<text>Du hast wieder tolle Arbeit geleistet! Alter, hier ist etwas Geld. Das hast du dir verdient!</text>
+	</string>
+
+
+	<!-- FIND LEVEL 3 TOOLKIT FOR LIMPID -->
+	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_3_name">
+		<text>Finde %s</text>
+	</string>
+	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_3_text">
+		<text>%s werden von Limpid benotigt, um sachverstandige Ausrustungsverbesserungen zu installieren. Du solltest sie ihm bringen, wenn du welche findest.</text>
+	</string>
+	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_3_about">
+		<text>Die Werkzeuge, die du mir gebracht hast sind toll, nur es hat einfach nicht alles was ich brauche. Denkst du, du kannst mir ein besseres bringen?</text>
+	</string>
+	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_3_fetch_about">
+		<text>Ich brauche ein %s. Ich habe keine verdammte Ahnung, wo du das finden kannst, aber falls du eines findest, bring es zu mir. Ich brauche es dringend, Mann.</text>
+	</string>
+	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_3_fetch_finish">
+		<text>Du hast wieder tolle Arbeit geleistet! Alter, hier ist etwas Geld. Das hast du dir verdient!</text>
+	</string>
+
+
+</string_table>

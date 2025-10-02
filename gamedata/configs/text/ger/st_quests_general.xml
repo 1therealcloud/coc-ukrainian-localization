@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+
+<!--===========================================================
+<
+< GENERAL TEXT  STRINGS FOR TASKS
+<	CoC 1.3.11
+<
+<	Modified by: DoctorX
+<	March 18, 2016
+<
+<===========================================================-->
+
+<string_table>
+
+
+	<!-- FIND SUPPLIES FOR STALKER, CLEAR SKY, DUTY, OR ECOG TASK -->
+	<string id="simulation_task_1_name">
+		<text>Besorge %s</text>
+	</string>
+	<string id="simulation_task_1_text">
+		<text>Ein anderer Stalker hat mich gebeten, ihm ein %s zu holen.</text>
+	</string>
+	<string id="simulation_task_1_about">
+		<text>Ich habe ein knappes Angebot. Wenn du etwas auf der Hand haben oder bereit sind, mir etwas zu bringen, ware ich sehr dankbar.</text>
+	</string>
+	<string id="simulation_task_1_fetch_about">
+		<text>Ich hab fast keine %s mehr. Hast du etwas irgendetwas von dem? Wenn ja, dann bitte gib es mir. Ich kann dir nur ein wenig Geld dafur geben.</text>
+	</string>
+	<string id="simulation_task_1_fetch_finish">
+		<text>Grossartig Mann! Danke!</text>
+	</string>
+
+
+	<!-- FIND SUPPLIES FOR FREEDOM OR MERC TASK -->
+	<string id="simulation_task_2_name">
+		<text>Besorge %s</text>
+	</string>
+	<string id="simulation_task_2_text">
+		<text>Ein anderer Stalker hat mich gebeten, ihm ein %s zu holen.</text>
+	</string>
+	<string id="simulation_task_2_about">
+		<text>Scheisse, Mann. Kannst du mir einen grossen Gefallen tun? Ich habe meine Vorrate sehr knapp. Kannst du mir helfen?</text>
+	</string>
+	<string id="simulation_task_2_fetch_about">
+		<text>Ich hab fast keine %s mehr. Hast du etwas irgendetwas von dem? Wenn ja, dann bitte gib es mir. Ich kann dir nur ein wenig Geld dafur geben.</text>
+	</string>
+	<string id="simulation_task_2_fetch_finish">
+		<text>Grossartig Mann! Danke!</text>
+	</string>
+
+
+	<!-- FIND MUTANT MEAT FOR STALKER, CLEAR SKY, MERC, FREEDOM, OR BANDIT TASK -->
+	<string id="simulation_task_3_name">
+		<text>Tote und schlachte einen Wilden Mutanten</text>
+	</string>
+	<string id="simulation_task_3_text">
+		<text>Ein Stalker hat ein spezielles Rezept fur die Zubereitung von Mutantenfleisch und braucht %s.</text>
+	</string>
+	<string id="simulation_task_3_about">
+		<text>Mann, hast du jemals Mutantenfleisch probiert? Viele Leute werden es nicht beruhren, ausser sie verhungern. Ich personlich liebe es. Kannst du gut jagen?</text>
+	</string>
+	<string id="simulation_task_3_fetch_about">
+		<text>Wenn du mir ein paar gute Schnitte von %s besorgen kannst, werde ich dich ein klein wenig Belohnen. Mmm... Ich sabbere schon beim nachdenken daruber.</text>
+	</string>
+	<string id="simulation_task_3_fetch_finish">
+		<text>Ja! Ich werde heute Abend gut essen! Danke Stalker. Hier ist deine Zahlung. Oh, und hier habe ich ein wenig Munition, die das falsche Kaliber fur mein Gewehr ist. Du kannst es haben. Das hast du dir verdient!</text>
+	</string>
+
+
+	<!-- FIND ARTEFACT FOR STALKER TASK -->
+	<string id="simulation_task_4_name">
+		<text>Finde das %s Artefakt</text>
+	</string>
+	<string id="simulation_task_4_text">
+		<text>Ein Stalker bietet ein Gewehr gegen ein %s Artefakt.</text>
+	</string>
+	<string id="simulation_task_4_about">
+		<text>Bist du irgendwie gut im Artefakt jagen?</text>
+	</string>
+	<string id="simulation_task_4_fetch_about">
+		<text>Wenn du einen %s findest, lass es mich wissen. Ich kann dich nicht bezahlen, aber ich habe ein sehr schones Gewehr. Ich denke es wird dir gefallen.</text>
+	</string>
+	<string id="simulation_task_4_fetch_finish">
+		<text>Endlich! Du weisst nicht, wie lange ich danach gesucht habe! Hier ist das mein Feines Gewehr. Ich hasse es, mich davon zu trennen... Aber es ist es mir wert.</text>
+	</string>
+
+
+	<!-- FIND WEAPON FOR STALKER TASK -->
+	<string id="simulation_task_5_name">
+		<text>Finde %s</text>
+	</string>
+	<string id="simulation_task_5_text">
+		<text>Ein Stalker braucht einen %s in perfekten Zustand.</text>
+	</string>
+	<string id="simulation_task_5_about">
+		<text>Ja, mein Vorrat wurde geplundert und ich verlor mein Lieblingsgewehr. Kannst du mir helfen, einen neues zu finden?</text>
+	</string>
+	<string id="simulation_task_5_fetch_about">
+		<text>Ich suche ein %s. Ich habe dieses Gewehr geliebt. Wenn du mir eines in guten Zustand findest, zahle ich dir ein ganzes Premium dafur.</text>
+	</string>
+	<string id="simulation_task_5_fetch_finish">
+		<text>Danke Stalker! Hier ist was ich dir schulde. Verdammt... Ich muss jetzt los um diese verdammte Fraktur zu jagen...</text>
+	</string>
+
+
+	<!-- FIND WEAPON FOR DUTY, MERC, CLEAR SKY, OR MILITARY TASK -->
+	<string id="simulation_task_6_name">
+		<text>Finde %s</text>
+	</string>
+	<string id="simulation_task_6_text">
+		<text>Finde eine %s.</text>
+	</string>
+	<string id="simulation_task_6_about">
+		<text>Dieses Gewehr, das ich bekam, ist Scheisse. Ich brauche eines, das mich bei jedem Feuergefecht nicht behindern wird. Kannst du ein neues fur mich finden?</text>
+	</string>
+	<string id="simulation_task_6_fetch_about">
+		<text>Bring mir ein %s. Ich belohne dich dafur.</text>
+	</string>
+	<string id="simulation_task_6_fetch_finish">
+		<text>Ausgezeichnet! Das ist eine Schonheit! Hier, nimm dir das als Entschadigung.</text>
+	</string>
+
+
+	<!-- HOSTAGE RESCUE FOR STALKER TASK -->
+	<string id="simulation_task_7_name">
+		<text>Suche und Rettungsmission</text>
+	</string>
+	<string id="simulation_task_7_text">
+		<text>Ein Kumpel eines Stalkers wurde von einer Bande Banditen entfuhrt. Er hat mich gebeten, ihn zu retten.</text>
+	</string>
+	<string id="simulation_task_7_about">
+		<text>Ich konnte wirklich Hilfe gebrauchen, Mann. Mein Kumpel wurde ausgeraubt und von Banditen als Geisel genommen. Ich weiss wirklich nicht, was ich tun soll. Denkst du, du kannst mir helfen und meinen Freund retten?</text>
+	</string>
+	<string id="simulation_task_7_finish">
+		<text>Du hast es geschafft! Danke, Stalker. Das werde ich dir nie vergessen. Es ist gut meinen Kumpel hier und lebendig zu sehen. Hier, als Entschadigung:</text>
+	</string>
+
+
+	<!-- HOSTAGE RESCUE FOR DUTY TASK -->
+	<string id="simulation_task_8_name">
+		<text>Suche und Rettungsmission</text>
+	</string>
+	<string id="simulation_task_8_text">
+		<text>Ich wurde beauftragt, ein Mitglied der Wachtern, die als Geisel gehalten wird, zu retten.</text>
+	</string>
+	<string id="simulation_task_8_about">
+		<text>Stalker, Unser Kamerad wurde verwundet und als Geisel genommen! Ich brauche dringend jemanden, der in der Lage ist, eine Rettungsaktion durchzufuhren. Denkst du, du kannst uns helfen und unseren Freund retten?</text>
+	</string>
+	<string id="simulation_task_8_finish">
+		<text>Danke, Stalker. Du hast unseren alten Kameraden den Arsch gerettet. Hier ist deine Belohnung:</text>
+	</string>
+
+
+	<!-- HOSTAGE RESCUE FOR FREEDOM TASK -->
+	<string id="simulation_task_9_name">
+		<text>Suche und Rettungsmission</text>
+	</string>
+	<string id="simulation_task_9_text">
+		<text>Ich wurde beauftragt, ein Mitglied der Freiheit, die als Geisel gehalten wird, zu retten.</text>
+	</string>
+	<string id="simulation_task_9_about">
+		<text>Stalker, Unser Kamerad wurde verwundet und als Geisel genommen! Ich brauche dringend jemanden, der in der Lage ist, eine Rettungsaktion durchzufuhren. Denkst du, du kannst uns helfen und unseren Freund retten?</text>
+	</string>
+	<string id="simulation_task_9_finish">
+		<text>Danke, Stalker! Du hast was gut bei uns, das ist sicher! Hier ist deine Belohnung:</text>
+	</string>
+
+
+	<!-- HOSTAGE RESCUE FOR ECOG TASK -->
+	<string id="simulation_task_10_name">
+		<text>Suche und Rettungsmission</text>
+	</string>
+	<string id="simulation_task_10_text">
+		<text>Rette einen Okologen von einer Gruppe Banditen.</text>
+	</string>
+	<string id="simulation_task_10_about">
+		<text>Ja, bitte hilf mir! Einer meiner Kollegen wurde entfuhrt. Kannst du uns helfen, ihn zu retten?</text>
+	</string>
+	<string id="simulation_task_10_finish">
+		<text>Danke, Stalker. Ich weiss nicht was passiert ware wenn... Nun, wie auch immer. Bitte nimm das als Belohnung an.</text>
+	</string>
+
+
+	<!-- ASSASSINATION  FOR STALKER TASK -->
+	<string id="simulation_task_11_name">
+		<text>Zuruckgegebenes Kopfgeld</text>
+	</string>
+	<string id="simulation_task_11_text">
+		<text>Ein Stalker braucht ein Kopfgeld.</text>
+	</string>
+	<string id="simulation_task_11_about">
+		<text>Ja, hilf mir Bruder! Irgendein Bastard hat einen Preis auf meinen Kopf gesetzt. Kummere dich um ihn und ich werde dir das Doppelte des Kopfgeldes zahlen, das er auf mich gesetzt hat.</text>
+	</string>
+	<string id="simulation_task_11_finish">
+		<text>Danke, Mann! Hier ist deine Bezahlung. Endlich kann ich nach Tagen wieder ruhig schlafen!</text>
+	</string>
+
+
+	<!-- VENGEANCE  FOR STALKER TASK -->
+	<string id="simulation_task_12_name">
+		<text>Rache</text>
+	</string>
+	<string id="simulation_task_12_text">
+		<text>Ein Stalker will das ich mich fur den Tod seines besten Kumpels rache.</text>
+	</string>
+	<string id="simulation_task_12_about">
+		<text>Ein Bandit ist letzte Nacht in unser Lager geschlichen und hat meinen Freund kaltblutig ermordet. Diese Art von Abschaum darf einfach nicht leben... Tote ihn fur mich, Stalker. Als Gegenleistung werde ich dir das Gewehr meines verstorbenen Kameraden geben. Er ware dir sicher auch dankbar...</text>
+	</string>
+	<string id="simulation_task_12_finish">
+		<text>Danke, Stalker. Du bist ein guter Krieger, Mann. Lass uns Heute Abend einen auf meinen toten Kumpel trinken. Er war ein guter Stalker...</text>
+	</string>
+
+
+	<!-- FIND SUPPLIES FOR BANDIT TASK -->
+	<string id="simulation_task_13_name">
+		<text>Besorge %s</text>
+	</string>
+	<string id="simulation_task_13_text">
+		<text>Finde %s fur einen Banditen.</text>
+	</string>
+	<string id="simulation_task_13_about">
+		<text>Willst du die Beute tauschen?</text>
+	</string>
+	<string id="simulation_task_13_fetch_about">
+		<text>Ich habe guten Scheiss, den ich dir geben kann, wenn du mir ein %s finden kannst.</text>
+	</string>
+	<string id="simulation_task_13_fetch_finish">
+		<text>Verdammt gut, Mann! Danke!</text>
+	</string>
+
+
+	<!-- FIND SUPPLIES FOR MILITARY TASK -->
+	<string id="simulation_task_14_name">
+		<text>Besorge %s</text>
+	</string>
+	<string id="simulation_task_14_text">
+		<text>Finde %s fur einen Soldaten.</text>
+	</string>
+	<string id="simulation_task_14_about">
+		<text>Hast du irgendwelche Vorrate die du handeln willst?</text>
+	</string>
+	<string id="simulation_task_14_fetch_about">
+		<text>Ich sag dir was; Ich gebe dir ein paar zusatzliche Munition, die ich habe, wenn du mir eine %s besorgen kannst.</text>
+	</string>
+	<string id="simulation_task_14_fetch_finish">
+		<text>Garnicht ubel. Danke.</text>
+	</string>
+
+
+	<!-- FIND ARTEFACT FOR MILITARY TASK -->
+	<string id="simulation_task_15_name">
+		<text>Finde das %s Artefakt</text>
+	</string>
+	<string id="simulation_task_15_text">
+		<text>Ein Soldat bietet ein Gewehr fur ein %s Artefakt an.</text>
+	</string>
+	<string id="simulation_task_15_about">
+		<text>Hey, hor zu, Mann. Ich weiss, das ist gegen die Vorschriften aber ich muss sowieso bald zuruck nach Hause und daher mochte ich ein Souvenir mitbringen. Denkst du, du kannst ein Artefakt fur mich finden?</text>
+	</string>
+	<string id="simulation_task_15_fetch_about">
+		<text>Ich mochte ein %s. Falls eines in deine Hande fallen sollte, gebe ich dir mein Gewehr.</text>
+	</string>
+	<string id="simulation_task_15_fetch_finish">
+		<text>Unglaublich! Hier ist, was ich dir versprach. Ah und der Kommandeur darf nicht wissen, dass ich dieses Zeug habe, also bitte sag ihm nichts.</text>
+	</string>
+
+
+	<!-- FIND WEAPON FOR BANDIT TASK -->
+	<string id="simulation_task_16_name">
+		<text>Schwarz Handel</text>
+	</string>
+	<string id="simulation_task_16_text">
+		<text>Ein Bandit braucht einen nicht zuruckverfolgbaren %s. Keine Fragen.</text>
+	</string>
+	<string id="simulation_task_16_about">
+		<text>Hor zu, ich brauche ein Gewehr, das nicht zuruckverfolgt werden kann. Weisst du, was ich meine? Kannst du mir dabei behilflich sein?</text>
+	</string>
+	<string id="simulation_task_16_fetch_about">
+		<text>Ich bruache einen %s. Kauf es. Stiehl es. Plundere es, tu was immer du tun musst aber hol mir eines! Ich werde dir das Doppelte zahlen, was es wert ist.</text>
+	</string>
+	<string id="simulation_task_16_fetch_finish">
+		<text>Toll! Her mit diesem Baby! Hier ist was ich versprochen habe. Ah und... wir haben uns nie gekannt. Ist das klar?</text>
+	</string>
+
+
+	<!-- ASSASINATION  FOR MILITARY TASK -->
+	<string id="simulation_task_17_name">
+		<text>Ruhm Erledigung</text>
+	</string>
+	<string id="simulation_task_17_text">
+		<text>Ein Soldat hat sein Gewehr dafur gewettet, dass ich ein hochwertiges Ziel nicht toten kann.</text>
+	</string>
+	<string id="simulation_task_17_about">
+		<text>Was, versuchst du etwar die Range zu erklimmen oder so? Ich erzahle dir mal was Kumpel, ich weiss zufallig, wo ein bestimmtes hochwertiges Ziel liegt, dass die Brass eliminieren will. Ich wette mein Gewehr darauf, dass du ihm nicht einmal nahe kommen kannst, haha.</text>
+	</string>
+	<string id="simulation_task_17_finish">
+		<text>Wirklich? Du hast es wirklich getan? Verdammt... Wenn ich eine Chance hatte, hatte ich diese Wette nie gemacht. Nun, ein Deal ist ein Deal. Hier ist mein Gewehr. Aber im nachsten Feuergefecht wirst du wohl oder ubel meinen Arsch als Deckung benutzen. Heh.</text>
+	</string>
+
+
+	<!-- ASSASSINATION  FOR MERC OR BANDIT TASK -->
+	<string id="simulation_task_18_name">
+		<text>Subunternehmer</text>
+	</string>
+	<string id="simulation_task_18_text">
+		<text>Du hast einen Aufrag ubernommen.</text>
+	</string>
+	<string id="simulation_task_18_about">
+		<text>Das tue ich eigentlich. Ich habe ein paar zu viele Jobs ubernommen. Mochtest du einen meiner Auftrage fur mich ubernehmen? Ich werde dir das meiste Kopfgeld geben.</text>
+	</string>
+	<string id="simulation_task_18_finish">
+		<text>Tolle Leistung. Hier ist das Geld, dass ich dir schulde.</text>
+	</string>
+
+
+	<!-- HOSTAGE INTERACTION  TEXT -->
+	<string id="hostage_companion_task_1_start_dialog_1">
+		<text>W-Wer bist du? Bist du hier um mir zu helfen, Stalker?</text>
+	</string>
+	<string id="hostage_companion_task_1_actor_reply">
+		<text>Komm mit, wenn du Leben willst!</text>
+	</string>
+
+
+	<!-- NIMBLE SPECIAL ORDER TEXT -->
+	<string id="esc_2_12_nimble_items_get_order_name">
+		<text>Sonderbestellung: Sammle die Waren auf</text>
+	</string>
+	<string id="esc_2_12_nimble_items_get_order_text">
+		<text>The goods have been delivered - time to collect them from Nimble.</text>
+	</string>
+	<string id="esc_2_12_nimble_items_wait_order_name">
+		<text>Special order: wait for delivery</text>
+	</string>
+	<string id="esc_2_12_nimble_items_wait_order_text">
+		<text>The order has been made, so now you should wait for Nimble to get the goods.</text>
+	</string>
+
+
+	<!-- SURGE HIDE MESSAGES -->
+	<string id="hide_from_surge_message">
+		<text>Achtung! Emission unmittelbar bevorstehend!</text>
+	</string>
+	<string id="hide_from_surge_descr_1_a">
+		<text>Emission unmittelbar bevorstehend. Sofort Zuflucht nehmen!</text>
+	</string>
+	<string id="hide_from_surge_descr_2_a">
+		<text>Du solltest den Schutz wahrend einer Emission nicht verlassen.</text>
+	</string>
+	<string id="hide_from_surge_name_1">
+		<text>Emission: Finde Schutz!</text>
+	</string>
+	<string id="hide_from_surge_name_2">
+		<text>Emission: Bleib geschutzt!</text>
+	</string>
+
+
+	<!-- ATMOSFEAR RADIOACTIVE FALLOUT MESSAGES -->
+	<string id="hide_from_fallout_rad_message_caption">
+		<text>Achtung!</text>
+	</string>
+	<string id="hide_from_fallout_rad_message">
+		<text>Radioaktiver Fallout beginnt.</text>
+	</string>
+	<string id="hide_from_fallout_rad_descr_1_a">
+		<text>Das Strahlungsniveau ist gefahrlich. Du solltest dich vor dem Radioaktiven Fallout schutzen.</text>
+	</string>
+	<string id="hide_from_fallout_rad_descr_2_a">
+		<text>Du solltest den Schutz wahrend eines Radioaktiven Fallouts nicht verlassen.</text>
+	</string>
+	<string id="hide_from_fallout_rad_name_1">
+		<text>Radioaktiver Fallout: Finde Schutz!</text>
+	</string>
+	<string id="hide_from_fallout_rad_name_2">
+		<text>Radioaktiver Fallout: Bleib geschutzt!</text>
+	</string>
+	<string id="end_fallout_rad_message_caption">
+		<text>Achtung!</text>
+	</string>
+	<string id="end_fallout_rad_message">
+		<text>Radioaktiver Fallout ist vorbei.</text>
+	</string>
+
+
+	<!-- ATMOSFEAR CHEMICAL FALLOUT MESSAGES -->
+	<string id="hide_from_fallout_acid_message_caption">
+		<text>Achtung!</text>
+	</string>
+	<string id="hide_from_fallout_acid_message">
+		<text>Chemischer Fallout beginnt.</text>
+	</string>
+	<string id="hide_from_fallout_acid_descr_1_a">
+		<text>Das Ausmass der Kontamination ist gefahrlich. Sie sollten sich vor dem chemischen Fallout verstecken.</text>
+	</string>
+	<string id="hide_from_fallout_acid_descr_2_a">
+		<text>Du solltest den Schutzraum wahrend des Chemischen Fallouts nicht verlassen.</text>
+	</string>
+	<string id="hide_from_fallout_acid_name_1">
+		<text>Chemischer Fallout: Finde Schutz!</text>
+	</string>
+	<string id="hide_from_fallout_acid_name_2">
+		<text>Chemischer Fallout: Bleib geschutzt!</text>
+	</string>
+	<string id="end_fallout_acid_message_caption">
+		<text>Achtung!</text>
+	</string>
+	<string id="end_fallout_acid_message">
+		<text>Der Chemische Fallout ist vorbei</text>
+	</string>
+
+
+	<!-- ATMOSFEAR PSI STORM MESSAGES -->
+	<string id="hide_from_psi_storm_message_caption">
+		<text>Achtung!</text>
+	</string>
+	<string id="hide_from_psi_storm_message">
+		<text>Psi-Sturm beginnt.</text>
+	</string>
+	<string id="hide_from_psi_storm_descr_1_a">
+		<text>Du solltest dich vor dem Psi-Sturm verstecken.</text>
+	</string>
+	<string id="hide_from_psi_storm_descr_2_a">
+		<text>Du solltest deinen Schutz nicht wahrend eines Psi-Sturmes verlassen.</text>
+	</string>
+	<string id="hide_from_psi_storm_name_1">
+		<text>Psi-Sturm: Finde Schutz!</text>
+	</string>
+	<string id="hide_from_psi_storm_name_2">
+		<text>Psi-Sturm: Bleib geschutzt!</text>
+	</string>
+	<string id="end_psi_storm_caption">
+		<text>Achtung!</text>
+	</string>
+	<string id="end_psi_storm_message">
+		<text>Psi-Sturm ist vorbei</text>
+	</string>
+
+
+	<!-- YANTAR MIRACLE MACHINE MESSAGES -->
+	<string id="tips_labx16switcher_press">
+		<text>Miracle Maschine ausschalten ($$ACTION_USE$$)</text>
+	</string>
+	
+	<!-- FACTION BASE DEFENSE VS MUTANTS -->
+    <string id="faction_base_defense_name">
+		<text>Verteidige die Basis gegen Mutanten</text>
+	</string>
+	<string id="faction_base_defense_yantar_name">
+		<text>Verteidige das Wissenschaftler Camp gegen Zombie-Stalker</text>
+	</string>
+	<string id="faction_base_defense_text">
+		<text>Mutanten attackieren die Basis. Hilf es zu verteidigen.</text>
+	</string>
+	<string id="faction_base_defense_yantar_text">
+		<text>Zombie Stalker greifen das mobile Labor an! Hilf mit, um zu verteidigen. Der schwache Ausbruch, der gerade begonnen hat, betrifft dich nicht. Suche und verwende das bereitstellbare Maschinengewehr auf dem Dach des mobilen Labors.</text>
+	</string>
+
+</string_table>

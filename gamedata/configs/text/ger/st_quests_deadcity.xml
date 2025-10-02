@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+
+<!--===========================================================
+<
+< TEXT  STRINGS FOR TASKS ON DEAD CITY MAP
+<	CoC 1.3.11
+<
+<	Modified by: DoctorX
+<	March 18, 2016
+<
+<===========================================================-->
+
+<string_table>
+
+
+	<!-- ASSASSINATION FOR MERCS TASK -->
+	<string id="cit_killers_merc_trader_stalker_task_1_name">
+		<text>Auftragskiller</text>
+	</string>
+	<string id="cit_killers_merc_trader_stalker_task_1_text">
+		<text>Du wurdest beauftragt ein Ziel zu finden, und zu eliminieren. Nach dem Auftrag, komm fur deine Bezahlung zuruck.</text>
+	</string>
+	<string id="cit_killers_merc_trader_stalker_task_1_about">
+		<text>Unser Arbeitgeber hat eine Liste ausstehender Kopfgelder. Wir brauchen Freiwillige, die diese Treffer diskret ausfuhren, damit wir unsere Verpflichtungen gegenuber unserem Auftrageber erfullen konnen. Bist du interessiert?</text>
+	</string>
+	<string id="cit_killers_merc_trader_stalker_task_1_finish">
+		<text>Erledigt? Toll! Deine Belohnung:</text>
+	</string>
+
+
+	<!-- ASSAULT TERRITORY FOR MERCS TASK -->
+	<string id="cit_killers_merc_trader_stalker_task_2_name">
+		<text>Angriff</text>
+	</string>
+	<string id="cit_killers_merc_trader_stalker_task_2_text">
+		<text>Raume den Bereich aller feindlichen Bedrohungen auf.</text>
+	</string>
+	<string id="cit_killers_merc_trader_stalker_task_2_about">
+		<text>Ich brauche dich als einen Schutzen bei meinem Angriff. Eliminiere das Zielgebiet aller feindlichen Krafte.</text>
+	</string>
+	<string id="cit_killers_merc_trader_stalker_task_2_finish">
+		<text>Verdammt tolle Leistung! Du bist ein wahrer Krieger.</text>
+	</string>
+
+
+	<!-- FIND LEVEL 1 TOOLS FOR HOG TASK -->
+	<string id="cit_killers_merc_mechanic_stalker_task_1_name">
+		<text>Finde %s</text>
+	</string>
+	<string id="cit_killers_merc_mechanic_stalker_task_1_text">
+		<text>%s werden von Hog benotigt, um grundlegende Ausrustungs-Upgrades zu installieren. Du solltest sie ihm bringen, wenn du welche findest.</text>
+	</string>
+	<string id="cit_killers_merc_mechanic_stalker_task_1_about">
+		<text>Ich habe einen Vorschlag fur dich. Wenn du mir ein paar neue Werkzeuge bringen kannst, erhaltest du eine Zahlung von mir. Bist du dabei?</text>
+	</string>
+	<string id="cit_killers_merc_mechanic_stalker_task_1_fetch_about">
+		<text>Gut. Ich habe uberall nach einem %s gesucht. Es sollte etwas Ol und Werkzeuge enthalten, die ich fur die Arbeit mit Schusswaffen brauche. Ich werde dich fur eines dieser Werkzeuge bezahlen, wenn du mir ein komplettes Set bringen kannst.</text>
+	</string>
+	<string id="cit_killers_merc_mechanic_stalker_task_1_fetch_finish">
+		<text>Genau richtig! Das ist es wonach ich gesucht habe! Danke, Mann!</text>
+	</string>
+
+
+	<!-- FIND LEVEL 2 TOOLS FOR HOG TASK -->
+	<string id="cit_killers_merc_mechanic_stalker_task_2_name">
+		<text>Finde %s</text>
+	</string>
+	<string id="cit_killers_merc_mechanic_stalker_task_2_text">
+		<text>%s werden von Hog benotigt, um fortgeschrittene Ausrustungs-Upgrades zu installieren. Du solltest sie ihm bringen, wenn du welche findest.</text>
+	</string>
+	<string id="cit_killers_merc_mechanic_stalker_task_2_about">
+		<text>Ich habe einen anderen Vorschlag. Das Werkzeug, das du mir gebracht hast, funktioniert gut, aber es hat nicht alles, was ich brauche. Denkst du, du kannst mir ein besseres finden?</text>
+	</string>
+	<string id="cit_killers_merc_mechanic_stalker_task_2_fetch_about">
+		<text>Ich brauche ein %s. Ich habe keine verdammte Ahnung, wo du das finden kannst, aber falls du eines findest, bring es zu mir. Ich brauche es dringend, Mann.</text>
+	</string>
+	<string id="cit_killers_merc_mechanic_stalker_task_2_fetch_finish">
+		<text>Ich habe alles was ich brauche. Danke.</text>
+	</string>
+
+
+	<!-- FIND LEVEL 3 TOOLS FOR HOG TASK -->
+	<string id="cit_killers_merc_mechanic_stalker_task_3_name">
+		<text>Finde %s</text>
+	</string>
+	<string id="cit_killers_merc_mechanic_stalker_task_3_text">
+		<text>%s werden von Hog benotigt, um sachverstandige Ausrustungsverbesserungen zu installieren. Du solltest sie ihm bringen, wenn du welche findest.</text>
+	</string>
+	<string id="cit_killers_merc_mechanic_stalker_task_3_about">
+		<text>Ich habe einen anderen Vorschlag. Das Werkzeug, das du mir gebracht hast, funktioniert gut, aber es hat nicht alles, was ich brauche. Denkst du, du kannst mir ein besseres finden?</text>
+	</string>
+	<string id="cit_killers_merc_mechanic_stalker_task_3_fetch_about">
+		<text>Ich brauche ein %s. Ich habe keine verdammte Ahnung, wo du das finden kannst, aber falls du eines findest, bring es zu mir. Ich brauche es dringend, Mann.</text>
+	</string>
+	<string id="cit_killers_merc_mechanic_stalker_task_3_fetch_finish">
+		<text>Ich habe alles was ich brauche. Danke.</text>
+	</string>
+
+
+</string_table>

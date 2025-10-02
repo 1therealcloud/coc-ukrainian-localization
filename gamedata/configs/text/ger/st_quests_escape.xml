@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+
+<!--===========================================================
+<
+< TEXT  STRINGS FOR TASKS ON ESCAPE (CORDON) MAP
+<	CoC 1.3.11
+<
+<	Modified by: DoctorX
+<	March 18, 2016
+<
+<===========================================================-->
+
+<string_table>
+
+
+	<!-- FIND WEAPON FOR NIMBLE TASK -->
+	<string id="esc_2_12_stalker_nimble_task_1_name">
+		<text>Finde %s</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_task_1_text">
+		<text>Nimble hat dich gebeten, eine bestimmte Waffe zu finden. Es muss in einwandfreiem Zustand sein. Kehre zu ihm zuruck, wenn du findest, wonach er sucht.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_task_1_about">
+		<text>Ich habe einen Klienten, der nach einer bestimmten Feuerwaffe sucht, und ich brauche jemanden, der mir hilft, es zu finden. Wenn du interessiert bist, gebe ich dir mehr Details. Also, was sagst du?</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_task_1_fetch_about">
+		<text>%s... Das ist es, was ich brauche. Aber es muss in gutem Zustand sein. Der Kunde zahlt Top Dollar, und er will kein rostiges Stuck Schei?e, das sich in einer Leben oder Tod-Situation verklemmt. Ich gebe dir den gro?ten Teil des Gewinns, da du die ganze Arbeit machst. Komm zuruck, wenn du es findest, Mann.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_task_1_fetch_finish">
+		<text>Dies ist eine gute Waffe. Ich denke, mein Kunde wird sich freuen, wenn ich ihm das uberbringe. Hier hast du, was ich dir schulde.</text>
+	</string>
+
+
+	<!-- ASSAULT BANDIT BASE FOR SIDOROVICH TASK -->
+	<string id="esc_m_trader_task_1_name">
+		<text>Das Banditen Lager eliminieren</text>
+	</string>
+	<string id="esc_m_trader_task_1_text">
+		<text>Fьhre einen Angriff auf den Parkplatz durch, und eliminiere die Banditen, die den Standort einnehmen.</text>
+	</string>
+	<string id="esc_m_trader_task_1_about">
+		<text>Banditen haben sich auf dem alten Parkplatz niedergelassen. Diese Arschlocher uberfallen oder toten jeden, der die Strassen benutzt, die ins Camp hinein und hinaus fuhren. Es stort lokale Aktivitaten fur meine Kunden und die Stalker, die im Camp Zuflucht suchen. Es ruiniert mich! Du musst dich um sie kummern. Wenn du willst, sprich mit Fanatic. Er kann dir vielleicht helfen.</text>
+	</string>
+	<string id="esc_m_trader_task_1_finish">
+		<text>Tolle Arbeit, Stalker! Du und ich werden die besten Freunde sein, wenn du so weitermachst! Hier ist, was ich versprochen habe.</text>
+	</string>
+
+
+	<!-- ASSASSINATION FOR SIDOROVICH TASK -->
+	<string id="esc_m_trader_task_2_name">
+		<text>Auftrags Killer</text>
+	</string>
+	<string id="esc_m_trader_task_2_text">
+		<text>Sidorowitch hat dich beauftragt, einen Stalker zu toten. Finde und beseitige das Ziel und kehre dann zur Zahlung zu Sidorowitch zuruck.</text>
+	</string>
+	<string id="esc_m_trader_task_2_about">
+		<text>Ich habe eine Liste von herausragenden Kopfgelden und Stalker, die beseitigt werden mussen. Die schlimmste Art von Abschaum und Schurkerei landen normalerweise auf dieser Liste... aus verschiedenen Grunden. Die Zone muss auch ihren Mull von Zeit zu Zeit raustragen. Was sagst du, Stalker, willst du meine geliehene Waffe sein?</text>
+	</string>
+	<string id="esc_m_trader_task_2_finish">
+		<text>Gut, du bist dieses Arschloch losgeworden! Hier was ich dir versprach.</text>
+	</string>
+
+
+	<!-- ELIMINATE MUTANTS FOR WOLF TASK -->
+	<string id="esc_2_12_stalker_wolf_task_1_name">
+		<text>Eliminiere Mutanten</text>
+	</string>
+	<string id="esc_2_12_stalker_wolf_task_1_text">
+		<text>Wolf bat dich, einen Bereich aller Mutanten zu saubern, um die Sicherheit des Anfangerdorfes zu gewahrleisten; ebenso wie die Stalker, die durch den Kordon passieren. Erreiche den Ort und eliminiere alle Mutanten in der Umgebung. Kehre dannach zu Wolf zuruck.</text>
+	</string>
+	<string id="esc_2_12_stalker_wolf_task_1_about">
+		<text>Stalker, ich brauche jemanden, der ein bisschen mehr Erfahrung als die Anfanger fur diese Aufgabe hat. Kordon wird zu einem sehr gefahrlichen Ort mit all diesen wilden Mutantenzuchtungen. Ich brauche dich um einen Bereich zu jagen, den ich auf deinem PDA markieren werde. Die Aufgabe besteht darin, alle Mutanten zu toten, die du siehst. Wenn du das fur mich tust, verdienst du dir etwas Geld. Also, wirst du?</text>
+	</string>
+	<string id="esc_2_12_stalker_wolf_task_1_finish">
+		<text>Die Anfanger werden jetzt viel sicherer sein wegen dir. Hier ist deine Bezahlung</text>
+	</string>
+
+
+	<!-- FIND LEVEL 1 TOOLS FOR XENOTECH TASK -->
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_1_name">
+		<text>Finde %s</text>
+	</string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_1_text">
+		<text>%s werden von Xenotech benotigt, um grundlegende Ausrustungs-Upgrades zu installieren. Solltest du welche finden, bringe sie zu ihm.</text>
+	</string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_1_about">
+		<text>Ich brauche einen Gefallen, Mann. Eine Menge Stalker kommen hier vorbei und fragen, ob ich ihre Waffen auf eine bestimmte Art modifizieren kann. Aber genau dies kann ich nicht. Ich habe einfach nicht die richtigen Werkzeuge. Ich ware in der Lage, Upgrades fur eine gro?ere Vielfalt an Geraten durchzufuhren, wenn ich nur die richtigen Werkzeuge in die Hande bekommen wurde. Bitte, Mann, kannst du mir helfen?</text>
+	</string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_1_fetch_about">
+		<text>Ich brauche Grundlegende Werkzeuge. Es sollte enthalten, was ich brauche. Wenn du etwas fur mich derart findest und es zu mir bringst, werde ich dankbar sein und werde dir von hier aus sogar einen Rabatt anbieten.</text>
+	</string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_1_fetch_finish">
+		<text>Okay, ja, genau das brauche ich. Hier, das ist deine Bezahlung wie versprochen.</text>
+	</string>
+
+
+	<!-- FIND LEVEL 2 TOOLS FOR XENOTECH TASK -->
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_2_name">
+		<text>Finde %s</text>
+	</string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_2_text">
+		<text>%s werden von Xenotech benotigt, um sachverstandige Ausrustungsverbesserungen zu installieren. Du solltest sie ihm bringen, wenn du welche findest.</text>
+	</string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_2_about">
+		<text>Mein Geschaft boomt jetzt! Immer mehr Stalker kommen zu mir, wenn sie ihre Waffe fein modifiziert haben wollen. Aber ich konnte wirklich mehr Werkzeuge dafur gebrauchen. Du hast mir letztes Mal einen hochwertigen Werkzeugskasten mitgebracht, aber ich brauche ein noch besseres Qualitatsset. Wenn du interessiert bist, werde ich dir sagen, was ich brauche.</text>
+	</string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_2_fetch_about">
+		<text>Ich brauche %s. Wenn du mir etwas des gleichen bringst, werde ich dir sehr dankbar sein und werde dich dafur bezahlen.</text>
+	</string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_2_fetch_finish">
+		<text>Ja, ja! Hier ist etwas Kohle. Das hast du dir verdient, mein Freund!</text>
+	</string>
+
+
+	<!-- FIND LEVEL 3 TOOLS FOR XENOTECH TASK -->
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_3_name">
+		<text>Finde %s</text>
+	</string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_3_text">
+		<text>%s werden von Xenotech benotigt, um sachverstandige Ausrustungsverbesserungen zu installieren. Du solltest sie ihm bringen, wenn du welche findest.</text>
+	</string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_3_about">
+		<text>Mein Geschaft boomt jetzt! Immer mehr Stalker kommen zu mir, wenn sie ihre Waffe fein modifiziert haben wollen. Aber ich konnte wirklich mehr Werkzeuge dafur gebrauchen. Du hast mir letztes Mal einen hochwertigen Werkzeugskasten mitgebracht, aber ich brauche ein noch besseres Qualitatsset. Wenn du interessiert bist, werde ich dir sagen, was ich brauche.</text>
+	</string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_3_fetch_about">
+		<text>Ich brauche %s. Wenn du mir etwas des gleichen bringst, werde ich dir sehr dankbar sein und werde dich dafur bezahlen.</text>
+	</string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_3_fetch_finish">
+		<text>Ja, ja! Hier ist etwas Kohle. Das hast du dir verdient, mein Freund!</text>
+	</string>
+
+
+</string_table>

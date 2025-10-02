@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+
+	<string id="csky_patch">
+		<text>Clear Sky Abzeichen</text>
+	</string>
+	<string id="csky_patch_description">
+		<text>Ein Abzeichen aus einer Uniform der Clear Sky Fraktion.</text>
+	</string>
+
+	<string id="freedom_patch">
+		<text>Freiheit Abzeichen</text>
+	</string>
+	<string id="freedom_patch_description">
+		<text>Ein Abzeichen aus einer Uniform der Freiheits Fraktion.</text>
+	</string>
+
+	<string id="stalker_patch">
+		<text>Einzelganger Abzeichen</text>
+	</string>
+	<string id="stalker_patch_description">
+		<text>Ein Abzeichen aus einer Uniform der Einzelganger Fraktion.</text>
+	</string>
+
+	<string id="ecolog_patch">
+		<text>Okologen Abzeichen</text>
+	</string>
+	<string id="ecolog_patch_description">
+		<text>Ein Abzeichen aus einer Uniform der Okologen Fraktion.</text>
+	</string>
+
+	<string id="bandit_patch">
+		<text>Banditen Abzeichen</text>
+	</string>
+	<string id="bandit_patch_description">
+		<text>Ein Abzeichen aus einer Uniform der Banditen Fraktion.</text>
+	</string>
+
+	<string id="duty_patch">
+		<text>Wachter Abzeichen</text>
+	</string>
+	<string id="duty_patch_description">
+		<text>Ein Abzeichen aus einer Uniform der Wachter Fraktion.</text>
+	</string>
+
+	<string id="monolith_patch">
+		<text>Monolithen Abzeichen</text>
+	</string>
+	<string id="monolith_patch_description">
+		<text>Ein Abzeichen aus einer Uniform der Monolithen Fraktion.</text>
+	</string>
+
+	<string id="army_patch">
+		<text>Armee Abzeichen</text>
+	</string>
+	<string id="army_patch_description">
+		<text>Ein Abzeichen aus einer Uniform der Ukrainischen Armee.</text>
+	</string>
+
+	<string id="merc_patch">
+		<text>Soldner Abzeichen</text>
+	</string>
+	<string id="merc_patch_description">
+		<text>Ein Abzeichen aus einer Uniform der Soldner Fraktion.</text>
+	</string>
+	
+</string_table>

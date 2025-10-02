@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+
+<string id="st_achievement_1_name">
+    <text>Заможний клієнт</text>
+</string>
+<string id="st_achievement_1_hint">
+    <text>Торговці частіше пропонують вам найрідкісніші та дорогі товари.</text>
+</string>
+<string id="st_achievement_1_descr">
+    <text>Хоча ви добре знайомі з нестачею грошей, вас далеко не завжди можна вважати обмеженим у коштах. Навпаки, іноді вашими заощадженнями можна позаздрити. Такі клієнти - велика радість для торговця.</text>
+</string>
+<string id="st_achievement_1_unlock">
+    <text>Отримано досягнення «Заможний клієнт».</text>
+</string>
+
+<string id="st_achievement_2_name">
+    <text>Мічений Зоною</text>
+</string>
+<string id="st_achievement_2_hint">
+    <text>Навіть без прийому препаратів у вас є шанс пережити вибух поза укриттям, якщо ваше здоров'я не порушене.</text>
+</string>
+<string id="st_achievement_2_descr">
+    <text>Вам вдалося пережити вибух, не сховавшись у укритті, - вас врятували таблетки анабіотика. Це мало неоднозначний вплив на вашу психіку - у вас в голові настала дивна тиша. Здається, ви більше не чуєте постійного потоку думок.</text>
+</string>
+<string id="st_achievement_2_unlock">
+    <text>Отримано досягнення «Мічений Зоною».</text>
+</string>
+
+<string id="st_achievement_3_name">
+    <text>Торговець інформацією</text>
+</string>
+<string id="st_achievement_3_hint">
+    <text>Торговці зробили вам знижку, як найкращому інформатору та соратнику по професії.</text>
+</string>
+<string id="st_achievement_3_descr">
+    <text>Яка б інформація не потрапляла до вас у руки, ви завжди знаходили на неї покупця. Не втрачаючи можливості надати інформацію зацікавленим, ви, звичайно, не забували і про свою вигоду.</text>
+</string>
+<string id="st_achievement_3_unlock">
+    <text>Отримано досягнення «Торговець інформацією».</text>
+</string>
+
+<string id="st_achievement_4_name">
+    <text>Першопроходець</text>
+</string>
+<string id="st_achievement_4_hint">
+    <text>Шляхи через Янтар та Радар тепер відкриті.</text>
+</string>
+<string id="st_achievement_4_descr">
+    <text>Вам вдалося відключити псі-установки на Янтарі та Радарі.</text>
+</string>
+<string id="st_achievement_4_unlock">
+    <text>Отримано досягнення «Першопроходець».</text>
+</string>
+
+<string id="st_achievement_5_name">
+    <text>Мисливець на мутантів</text>
+</string>
+<string id="st_achievement_5_hint">
+    <text>Більше шансів на отримання трофеїв з трупів убитих мутантів.</text>
+</string>
+<string id="st_achievement_5_descr">
+    <text>Ви не намагаєтесь уникати небезпечних мутантів, ви ведете на них полювання і успішно це робите. Хороші мисливці - шановані люди серед сталкерів.</text>
+</string>
+<string id="st_achievement_5_unlock">
+    <text>Отримано досягнення «Мисливець на мутантів».</text>
+</string>
+
+<string id="st_achievement_6_name">
+    <text>Авторитет</text>
+</string>
+<string id="st_achievement_6_hint">
+    <text>Захоплені супротивники можуть дати підказку на схованки.</text>
+</string>
+<string id="st_achievement_6_descr">
+    <text>Ваш шлях усіяний трупами. Тому багато супротивників воліють розпрощатися з майном, сподіваючись зберегти своє життя.</text>
+</string>
+<string id="st_achievement_6_unlock">
+    <text>Отримано досягнення «Авторитет».</text>
+</string>
+
+<string id="st_achievement_7_name">
+    <text>Майстер високих технологій</text>
+</string>
+<string id="st_achievement_7_hint">
+    <text>Ви здатні повністю модернізувати спорядження не тільки у Лісника.</text>
+</string>
+<string id="st_achievement_7_descr">
+    <text>Технік отримав всі інструментальні набори, про які можна тільки мріяти в Зоні. Послуги Лісника ніколи не були дешевими, але тепер у нього є конкуренція.</text>
+</string>
+<string id="st_achievement_7_unlock">
+    <text>Отримано досягнення «Майстер високих технологій».</text>
+</string>
+
+<string id="st_achievement_8_name">
+    <text>Шукач</text>
+</string>
+<string id="st_achievement_8_hint">
+    <text>Є шанс знайти щось нове в раніше досліджених місцях.</text>
+</string>
+<string id="st_achievement_8_descr">
+    <text>У Зони майже не залишилось доступних місць, що не були перевірені вашим увагою. Ви побували практично в усіх місцевих аномаліях.</text>
+</string>
+<string id="st_achievement_8_unlock">
+    <text>Отримано досягнення «Шукач».</text>
+</string>
+
+<string id="st_achievement_9_name">
+    <text>Сищик</text>
+</string>
+<string id="st_achievement_9_hint">
+    <text>Ваші шанси на знаходження схованок інших сталкерів значно зросли.</text>
+</string>
+<string id="st_achievement_9_descr">
+    <text>У вас є талант знаходити схованки інших сталкерів. Попри деякі неприємності, ви відчуваєте, що в більшості випадків удача на вашому боці.</text>
+</string>
+<string id="st_achievement_9_unlock">
+    <text>Отримано досягнення «Сищик».</text>
+</string>
+
+<string id="st_achievement_10_name">
+    <text>Досвідчений сталкер</text>
+</string>
+<string id="st_achievement_10_hint">
+    <text>Всі досягнення вже досягнуті.</text>
+</string>
+<string id="st_achievement_10_descr">
+    <text>Ви знаєте Зону краще, ніж вона знає себе. І, незважаючи на всі труднощі та загрози, з якими ви зіткнулися - ви все ще живі.</text>
+</string>
+<string id="st_achievement_10_unlock">
+    <text>Отримано досягнення «Досвідчений сталкер».</text>
+</string>
+
+<string id="st_achievement_11_name">
+    <text>Виконавець бажань</text>
+</string>
+<string id="st_achievement_11_hint">
+    <text>Стара таємниця була розкрита. Ваш ранг і репутація значно зросли.</text>
+</string>
+<string id="st_achievement_11_descr">
+    <text>Ви чули чутки, але тепер переконалися самі - Виконавець бажань реальний. Його голос досі лунає у вашій голові. Але тепер Виконавця більше немає. І, як би хто не сумнівався, факт залишається фактом - ви його знищили.</text>
+</string>
+<string id="st_achievement_11_unlock">
+    <text>Отримано досягнення «Виконавець бажань».</text>
+</string>
+
+<string id="st_achievement_12_name">
+    <text>Чисте небо</text>
+</string>
+<string id="st_achievement_12_hint">
+    <text>Мі-2 замінять пошкоджені Мі-24.</text>
+</string>
+<string id="st_achievement_12_descr">
+    <text>Мабуть, цікаве заняття - збивати гвинтокрили. Чим вище вони летять, тим сильніше падають.</text>
+</string>
+<string id="st_achievement_12_unlock">
+    <text>Отримано досягнення «Чисте небо».</text>
+</string>
+
+<string id="st_achievement_13_name">
+    <text>Першовідкривач</text>
+</string>
+<string id="st_achievement_13_hint">
+    <text>Накоплений досвід дозволяє вам частіше знаходити рідкісні артефакти.</text>
+</string>
+<string id="st_achievement_13_descr">
+    <text>Що б нове не з'явилося в Зоні, ви готові досліджувати це першим. Знаходячи нові, ще не вивчені аномальні утворення, ви просунули науку в розумінні Зони.</text>
+</string>
+<string id="st_achievement_13_unlock">
+    <text>Отримано досягнення «Першовідкривач».</text>
+</string>
+
+<string id="st_achievement_14_name">
+    <text>Лідер</text>
+</string>
+<string id="st_achievement_14_hint">
+    <text>Можете збільшити кількість напарників у вашому загоні.</text>
+</string>
+<string id="st_achievement_14_descr">
+    <text>У питаннях знищення військових "вертушок" чи здобуття КПК, що містять цінну інформацію, вам немає рівних. Історії ваших подвигів увічнені в сталкерських оповідях біля багатьох вогнищ Зони.</text>
+</string>
+<string id="st_achievement_14_unlock">
+    <text>Отримано досягнення «Лідер».</text>
+</string>
+
+<string id="st_achievement_15_name">
+    <text>S.C.H.O.L.A.R.</text>
+</string>
+<string id="st_achievement_15_hint">
+		<text>Підказка</text>
+	</string>
+	<string id="st_achievement_15_descr">
+		<text>Опис</text>
+	</string>
+	<string id="st_achievement_15_unlock">
+		<text>Отримано досягнення «S.C.H.O.L.A.R.».</text>
+	</string>
+
+</string_table>

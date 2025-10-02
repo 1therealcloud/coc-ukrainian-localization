@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+
+	<string id="zat_a2_stalker_barmen_actor_info_0">
+		<text>Erzahl mir wie das Leben hier so ist.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_actor_info_1">
+		<text>Das ist ein weites Thema. Versuche einige spezifische Fragen zu stellen, und ich werde mein bestes tun diese zu beantworten.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_actor_info_1111">
+		<text>Was machen die Stalker hier?</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_actor_info_11111">
+		<text>Frage dich das mal selber, Kumpel. Sie gehen von Skadovsk an Land, um das Gelande zu erkunden und nach Artefakten zu suchen, um alles und jeden, der auf sie zusturmt, zu schiessen. Sie kommen auf Skadowsk zuruck, um sich zu betrinken und Mull zu reden... geniessen etwas R&R vor dem nachsten Uberfall. Wenn jedoch eine Emission eintritt, ist das eine ganz andere Szene. Dann sitzen wir alle fest und erinnern uns an diejenigen, die es nicht rechtzeitig geschafft haben...</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_actor_info_1112">
+		<text>Was trieb die Stalker in die Mitte der Zone?</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_actor_info_11121">
+		<text>Eine lustige Frage. Einige waren auf der Suche nach der nachsten Goldmine. Einige wurden hier von den Oasis Geruchten vertrieben. Andere suchten den Wunschgonner. Und dann gibt es die grundlegenden Menschlichen Wunsche - Gier und Neugier... Jeder hat seine Grunde. Ich bin sicher, du hast auch deine.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_actor_info_1113">
+		<text>Wie bist du hier gelandet?</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_actor_info_11131">
+		<text>Ich kam mit Grouse hierher, nachdem der Brain Scorcher deaktiviert war. Aber ich bin sicher, das ist nicht das, was du wirklich wissen willst. Habe ich recht? Ich beschaftige mich hauptsachlich mit Artefakten. Das Aussere ist schon voller Schmuckstucke, also wollen wertvolle Kunden die seltenen Sachen. Deshalb habe ich beschlossen, ein Stalker Camp einzurichten, in dem noch echte hochwertige Artikel zu finden sind. Ich meine, wenn ein Stalker mit seiner Beute zuruckkommt, was braucht er wirklich? Eine Waffe in der Hand und ein guter Menschlicher Kontakt. Das ist es. Und darum geht es hier in Skadovsk.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_actor_info_1114">
+		<text>Was denkst du so uber die Banditen?</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_actor_info_11141">
+		<text>Nun, es ist so. Ich habe nichts gegen sie an Bord der Skadovsk, solange sie sich anstandig verhalten. Schliesslich trifft man nicht oft auf die ganzen Vollidioten. Einige von ihnen sind tatsachlich ehemalige Stalker. Wer weiss, vielleicht entscheidet sich einer der armen Bastarde, das Gaunergeschaft aufzugeben, bevor er eine Kugel abfangt... Das Leben ist voller Uberraschungen.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_actor_info_1115">
+		<text>Nein, schon gut. Vergiss es.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_actor_info_11151">
+		<text>Wenn du sagst.</text>
+	</string>
+	
+	<string id="zat_b22_stalker_medic_start_1">
+		<text>Was bringt dich her?</text>
+	</string>
+	<string id="zat_b22_stalker_medic_need_health_care_0">
+		<text>Ich brauche Medizinische Hilfe.</text>
+	</string>
+	<string id="zat_b22_stalker_medic_need_health_care_1">
+		<text>Ich sehe was ich tun kann.</text>
+	</string>
+	<string id="zat_b22_stalker_medic_need_health_care_2">
+		<text>Ich sehe es mir mal an... Hmmm... Ich bemerke keine Wunden oder sonstiges. Weder Verstrahlung noch irgendwelche Krankheiten. Du bist Kern gesund, Kumpel.</text>
+	</string>
+	<string id="zat_b22_stalker_medic_need_health_care_11">
+		<text>[fortsetzen...]</text>
+	</string>
+	<string id="zat_b22_stalker_medic_need_health_care_111">
+		<text>Wie fuhlst du dich nun, Kumpel?</text>
+	</string>
+	
+	<string id="zat_b18_noah_start_11">
+		<text>Wer bist du?</text>
+	</string>
+	<string id="zat_b18_noah_start_111">
+		<text>Ein Stalker. Wir haben uns schon getroffen.</text>
+	</string>
+	<string id="zat_b18_noah_start_1111">
+		<text>Ich erinnere mich nicht. Das heisst du musst wohl lugen! Naja, wie auch immer, was brauchst du?</text>
+	</string>
+	<string id="zat_b18_noah_start_112">
+		<text>Ein Stalker! Einfach nur ein Stalker.</text>
+	</string>
+	<string id="zat_b18_noah_start_1121">
+		<text>Aha. Auf der Suche nach Zuflucht in der Arche? Fuhle dich wie zu Hause, Kumpel.</text>
+	</string>
+	<string id="zat_b18_noah_start_113">
+		<text>Geht dich nichts an.</text>
+	</string>
+	<string id="zat_b18_noah_start_21">
+		<text>Ah, du bist es. Was willst du?</text>
+	</string>
+	
+	
+	<string id="zat_b3_stalker_tech_start_15">
+		<text>Eine kluge Wahl, mein Freund. Ich muss deine Waffe in tadellosem Zustand halten... Und wenn du eine oder zwei Flaschen Wodka hast, kann ich sie hier aufrusten. Soll ich zufallig einen Fallschirm an deiner Schrotflinte nahen? Ich kann das, hehe.</text>
+	</string>
+	<string id="zat_b3_stalker_tech_drink_1_0">
+		<text>Hab eine Flasche. Willst du einen saufen?</text>
+	</string>
+	<string id="zat_b3_stalker_tech_drink_1_2">
+		<text>Nein, ich bin kaum darauf mehr aus, Mann. Als ich das Item 62 sah, dachte ich "Das ist es, ich habe die Sprunge"... Sieh, Schnaps bringt dich nur um. Nicht ein Teil einer gesunden Ernahrung. Und wenn ich weg bin, wer wird die Munition fur dein Gauss-Gewehr hammern?</text>
+	</string>
+	<string id="zat_b3_stalker_tech_drink_2_0">
+		<text>Hier ist noch eine Flasche fur dich.</text>
+	</string>
+	<string id="zat_b3_stalker_tech_drink_3_0">
+		<text>Ich habe noch ein drittes, wenn du mehr brauchst.</text>
+	</string>
+	
+</string_table>

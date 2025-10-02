@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+
+<!--===========================================================
+<
+< TEXT  STRINGS FOR TASKS ON DEAD CITY MAP
+<	CoC 1.4.22 - DoctorX Questlines 1.24
+<
+<	Modified by: DoctorX
+<	Translated by: av661194
+<	Last revised: February 16, 2017
+<
+<===========================================================-->
+
+<string_table>
+
+	<!-- ASSASSINATION FOR MERCS TASK -->
+	<string id="cit_killers_merc_trader_stalker_task_1_name">
+		<text>Убити сталкера</text>
+	</string>
+	<string id="cit_killers_merc_trader_stalker_task_1_text">
+		<text>Необхідно знайти та ліквідувати ціль.</text>
+	</string>
+	<string id="cit_killers_merc_trader_stalker_task_1_about">
+		<text>Наш наймач на днях надав навий список замовлень, і комусь потрібно все це розгрібати. Зараз часи складні - бійців мало, завдань багато, а роботу-то робити потрібно. Адже ми не хочемо втратити довіру наймачів, правильно? Загалом, твоє завдання - знайти та замочити одного типа, неважливо, хто він. Якщо цікавить, скину подробиці на твій КПК.</text>
+	</string>
+	<string id="cit_killers_merc_trader_stalker_task_1_finish">
+		<text>Виконано? Чудово. Ось твоя доля:</text>
+	</string>	
+
+
+	<!-- ASSAULT TERRITORY FOR MERCS TASK -->
+	<string id="cit_killers_merc_trader_stalker_task_2_name">
+		<text>Зачистка</text>
+	</string>
+	<string id="cit_killers_merc_trader_stalker_task_2_text">
+		<text>Зачистьте область від будь-яких ворожих елементів.</text>
+	</string>
+	<string id="cit_killers_merc_trader_stalker_task_2_about">
+		<text>Мені потрібно, щоб ти зіграв ключову роль у нападі. Очисть вказану область від будь-яких ворожих елементів.</text>
+	</string>
+	<string id="cit_killers_merc_trader_stalker_task_2_finish">
+		<text>Чудова робота, бійцю.</text>
+	</string>
+	<string id="cit_killers_merc_mechanic_stalker_task_1_name">
+		<text>Знайти Хогу %s</text>
+	</string>
+	<string id="cit_killers_merc_mechanic_stalker_task_1_text">
+		<text>Необхідно дістати %s та принести їх Хогу, щоб він зміг проводити модернізацію спорядження.</text>
+	</string>
+	<string id="cit_killers_merc_mechanic_stalker_task_1_about">
+		<text>Є пропозиція. Мені потрібні деякі інструменти, зможеш принести - отримаєш винагороду. Іде?</text>
+	</string>
+	<string id="cit_killers_merc_mechanic_stalker_task_1_fetch_about">
+		<text>Чудово. Я шукаю %s. Там повинні бути різні мастила та інструменти для роботи зі зброєю. Якщо дістанеш, я в боргу не залишуся.</text>
+	</string>
+	<string id="cit_killers_merc_mechanic_stalker_task_1_fetch_finish">
+		<text>Непогано, саме те, що я шукав.</text>
+	</string>
+
+
+
+	<string id="cit_killers_merc_mechanic_stalker_task_2_name">
+		<text>Знайти Хогу %s</text>
+	</string>
+	<string id="cit_killers_merc_mechanic_stalker_task_2_text">
+		<text>Необхідно дістати %s та віднести їх Хогові. Техніку потрібні кращі інструменти.</text>
+	</string>
+	<string id="cit_killers_merc_mechanic_stalker_task_2_about">
+		<text>Є ще одна пропозиція. Той ремнабір, що ти мені приніс, звичайно, непоганий, але у ньому не все необхідне. Зможеш принести мені кращий набір?</text>
+	</string>
+	<string id="cit_killers_merc_mechanic_stalker_task_2_fetch_about">
+		<text>Мені потрібні %s. Не знаю, де ти їх дістанеш, але якщо знайдеш - тягни.</text>
+	</string>
+	<string id="cit_killers_merc_mechanic_stalker_task_2_fetch_finish">
+		<text>Дякую. Порадував.</text>
+	</string>
+
+
+
+	<string id="cit_killers_merc_mechanic_stalker_task_3_name">
+		<text>Знайти Хогові %s</text>
+	</string>
+	<string id="cit_killers_merc_mechanic_stalker_task_3_text">
+		<text>Необхідно дістати %s та віднести їх Хогові. Техніку потрібні найкращі інструменти.</text>
+	</string>
+	<string id="cit_killers_merc_mechanic_stalker_task_3_about">
+		<text>Є ще одна пропозиція. Той другий ремнабір, що ти мені приніс, звичайно, непоганий, але й у ньому дечого не вистачає. Зможеш знайти мені кращий набір?</text>
+	</string>
+	<string id="cit_killers_merc_mechanic_stalker_task_3_fetch_about">
+		<text>Мені потрібні %s. Не знаю, де такі водяться, але якщо знайдеш - тягни.</text>
+	</string>
+	<string id="cit_killers_merc_mechanic_stalker_task_3_fetch_finish">
+		<text>Дякую. Тепер у мене є все, що мені потрібно.</text>
+	</string>		
+
+
+</string_table>

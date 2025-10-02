@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="st_af_baloon_descr">
+		<text>Als Verbindung mehrerer hohler organischer Formationen emittiert dieses Artefakt eine gasformige Substanz, die radioaktive Partikel im Korper neutralisieren kann, ohne sie zu schadigen. Wegen seiner Wirksamkeit ist dieses Artefakt sehr gefragt.</text>
+	</string>
+	<string id="st_af_baloon_name">
+		<text>Blase</text>
+	</string>
+	<string id="st_af_blood_descr">
+		<text>Eine rotliche Bildung von komprimierten und versteinerten Pflanzen, Boden und Tiertrummern. Kann chemische Gifte teilweise neutralisieren. Emittiert Strahlung.</text>
+	</string>
+	<string id="st_af_blood_name">
+		<text>Steinblut</text>
+	</string>
+	<string id="st_af_cristall_descr">
+		<text>Dieses Artefakt wird in anomalen Zonen mit intensiver thermischer Aktivitat gebildet. Nutzt aktiv uberma?ige Hitze und bleibt durchgehend kuhl. Emittiert Strahlung.</text>
+	</string>
+	<string id="st_af_cristall_flower_descr">
+		<text>Dieses Artefakt besteht aus einem granitahnlichen Stein, der durch eine extreme Gravitationskraft deformiert wird, was zu einer kristallisierten Formation fuhrt, die bisher von der Wissenschaft nicht erklart wurde. Kann moderaten Schutz gegen Psi-Emissionen bieten und ist radioaktiv.</text>
+	</string>
+	<string id="st_af_cristall_flower_name">
+		<text>Steinblume</text>
+	</string>
+	<string id="st_af_cristall_name">
+		<text>Krystall</text>
+	</string>
+	<string id="st_af_dummy_battery_descr">
+		<text>Die Zusammensetzung dieses Artefakts umfasst elektrostatische Elemente, aber die Wissenschaftler mussen noch die genauen physikalischen Bedingungen identifizieren, die fur ihre Bildung erforderlich sind. Das Artefakt ist in der Zone beliebt und wird von seinen Bewohnern und Besuchern wegen seiner energetisierenden Eigenschaften geschatzt, obwohl es den Korper bei langerem Gebrauch ermuden kann. Emittiert Strahlung.</text>
+	</string>
+	<string id="st_af_dummy_battery_name">
+		<text>Batterie</text>
+	</string>
+	<string id="st_af_dummy_dummy_descr">
+		<text>Dieses Artefakt galt fruher als Mull, ohne nutzliche Eigenschaften. Wissenschaftler haben jedoch kurzlich herausgefunden, dass es, wenn es in standigem Kontakt mit dem Korper gehalten wird, eine ausgezeichnete stimulierende Wirkung auf das Nervensystem hat. Emittiert Strahlung.</text>
+	</string>
+	<string id="st_af_dummy_dummy_name">
+		<text>Schale</text>
+	</string>
+	<string id="st_af_dummy_glassbeads_descr">
+		<text>Vieles uber dieses Artefakt bleibt Wissenschaftlern ein Ratsel. Gleichzeitig ist mit Sicherheit bekannt, dass Emissionen, die durch Impulse in seinen dickeren Abschnitten erzeugt werden, Blut in offenen Wunden dazu zwingen, schneller zu verklumpen und eine schutzende Kruste bilden. Eine der bemerkenswertesten Auswirkungen dieses Artefakts ist die erhohte Geschwindigkeit der Blutungskontrolle. Emittiert Strahlung.</text>
+	</string>
+	<string id="st_af_dummy_glassbeads_name">
+		<text>Mamas Brotchen</text>
+	</string>
+	<string id="st_af_electra_flash_descr">
+		<text>Dieses elektrostatische Artefakt ist ein starkes Absorptionsmittel fur Elektrizitat, die es spater entladt. Blitz ist in der Lage, seinen Trager vor Stromschlagen von bis zu 5000 Volt zu schutzen. Emittiert Strahlung.</text>
+	</string>
+	<string id="st_af_electra_flash_name">
+		<text>Blitz</text>
+	</string>
+	<string id="st_af_electra_moonlight_descr">
+		<text>Dieses einzigartige elektrostatische Artefakt kann unter dem Einfluss von Psi-Wellen in Resonanz treten. Stalker haben gelernt, das Artefakt so abzustimmen, dass es gegenphasig zur Hauptemissionsquelle resoniert und damit ihre Wirkung vollstandig oder signifikant neutralisiert. Emittiert Strahlung.</text>
+	</string>
+	<string id="st_af_electra_moonlight_name">
+		<text>Mondlicht</text>
+	</string>
+	<string id="st_af_electra_sparkler_descr">
+		<text>Ein heller Vertreter der elektrostatischen Familie von Artefakten, dieses Artefakt kann Schwankungen der elektrischen Felddichte glatten. Emittiert Strahlung.</text>
+	</string>
+	<string id="st_af_electra_sparkler_name">
+		<text>Wunderkerze</text>
+	</string>
+	<string id="st_af_eye_descr">
+		<text>Dieses dem menschlichen Auge ahnliche Artefakt steigert den Stoffwechsel des Korpers erheblich und verhilft den Wunden zu schneller Heilung. Erfahrene Stalker sagen, dass das Auge auch Gluck bringt. Emittiert Strahlung.</text>
+	</string>
+	<string id="st_af_eye_name">
+		<text>Auge</text>
+	</string>
+	<string id="st_af_fire_descr">
+		<text>Dieses Artefakt bildet sich in Bereichen mit hoher thermischer Aktivitat. Erzeugt starke Infrarot-Emissionen, die Stoffwechselvorgange intensivieren und Wunden vor den Augen des Tragers heilen. Da dieses Artefakt sehr selten ist, ist es sehr wertvoll. Emittiert Strahlung.</text>
+	</string>
+	<string id="st_af_fire_name">
+		<text>Flame</text>
+	</string>
+	<string id="st_af_fireball_descr">
+		<text>Auch wenn Feuerball ein thermisches Artefakt ist, kann es ohne Angst vor Verbrennungen gehandhabt werden. Dieses Artefakt ist fur seine Fahigkeit geschatzt, eine Temperatur von 75 Grad Fahrenheit in einem kleinen Radius praktisch unabhangig von seiner Umgebung zu halten. Emittiert Strahlung.</text>
+	</string>
+	<string id="st_af_fireball_name">
+		<text>Feuerball</text>
+	</string>
+	<string id="st_af_fuzz_kolobok_descr">
+		<text>Ein relativ seltenes Artefakt, das sich in mit Chemikalien kontaminierten Gebieten bildet, ist Kolobok sehr geschatzt fur seine Fahigkeit, Wunden jeglicher Art in wenigen Minuten zu heilen. Aus unbekannten Grunden verbreiten Wissenschaftler unter Stalkern Geruchte, dass das Artefakt mit dem genetischen Code des Tragers interagiert. Emittiert Strahlung.</text>
+	</string>
+	<string id="st_af_fuzz_kolobok_name">
+		<text>Kolobok</text>
+	</string>
+	<string id="st_af_glass_name">
+		<text>Leuchtkafer</text>
+	</string>
+	<string id="st_af_glass_descr">
+		<text>Leuchtkafer interagiert mit Feldern, die der Wissenschaft unbekannt sind, beschleunigt die Regeneration von Gewebe und Organen in Lebewesen erheblich und normalisiert Stoffwechselprozesse. Dieses Artefakt kann buchstablich einen schwer verletzten Stalker in wenigen Sekunden wieder auf die Beine bringen. Leider ist Firefly extrem selten. Emittiert Strahlung.</text>
+	</string>
+	<string id="st_af_gold_fish_descr">
+		<text>Das Ergebnis einer Wechselwirkung zwischen einer gro?en Anzahl von Gravitationsfeldern erzeugt Goldfisch sein eigenes starkes intern gerichtetes Gravitationsfeld, das Gegenstande in seinem Bereich fast schwerelos macht. Dieses Artefakt ist am effektivsten, um das getragene Gewicht zu reduzieren, weshalb es immer sehr gefragt ist. Emittiert Strahlung.</text>
+	</string>
+	<string id="st_af_gold_fish_name">
+		<text>Goldfisch</text>
+	</string>
+	<string id="st_af_gravi_descr">
+		<text>Gravi wird aus metallischen Substanzen gebildet, die einer langeren Gravitation ausgesetzt sind. Dies macht es in der Lage, ein Anti-Gravitationsfeld aufrecht zu erhalten, und viele Stalker verwenden es, um das Gewicht ihrer Rucksacke zu reduzieren. Emittiert Strahlung.</text>
+	</string>
+	<string id="st_af_gravi_name">
+		<text>Gravi</text>
+	</string>
+	<string id="st_af_ice_descr">
+		<text>Auf den ersten Blick ahnelt dieses Artefakt Kolobok. Einige behaupten, dass es tatsachlich Kolobok ist, dessen Eigenschaften durch die Einwirkung eines starken elektrischen Feldes verstarkt werden. Dank seiner einzigartigen Eigenschaften kann das Artefakt den Muskeltonus des Tragers signifikant erhohen. Emittiert Strahlung.</text>
+	</string>
+	<string id="st_af_ice_name">
+		<text>Schneeflocke</text>
+	</string>
+	<string id="st_af_medusa_descr">
+		<text>Dieses Gravitationsartefakt zieht radioaktive Partikel an und absorbiert sie, wodurch die Auswirkungen der Strahlung auf den Korper reduziert werden. Sehr haufig in der Zone und wird inoffiziell au?erhalb der Zone zur Behandlung akuter Strahlenkrankheit in Ausnahmefallen verwendet.</text>
+	</string>
+	<string id="st_af_medusa_name">
+		<text>Qualle</text>
+	</string>
+	<string id="st_af_mincer_meat_descr">
+		<text>Dieses organische Artefakt besteht aus deformiertem, mutiertem Tiergewebe. In einem chemisch kontaminierten Gebiet wandelt Fleischklumpen die in der Luft enthaltenen Chemikalien in eine Schleimflussigkeit um. Emittiert Strahlung.</text>
+	</string>
+	<string id="st_af_mincer_meat_name">
+		<text>Fleischklumpen</text>
+	</string>
+	<string id="st_af_night_star_descr">
+		<text>Dieses leuchtende Artefakt kann ein lokal gerichtetes Feld mit geringer Schwerkraft erzeugen. Weit verbreitet von Stalkern zusammen mit Gravi, einem ahnlichen Artefakt, um die maximale Belastung zu erhohen. Emittiert Strahlung.</text>
+	</string>
+	<string id="st_af_night_star_name">
+		<text>Nachtstern</text>
+	</string>
+	<string id="st_af_soul_descr">
+		<text>Ein einzigartiges organisches Artefakt mit ebenso einzigartigen Eigenschaften. Irgendwie erhoht es die Gesamtwiederherstellungsrate des Korpers von Schaden jeglicher Art, ohne die Ansammlung von Toxinen zu beschleunigen. Dank seiner Wirkung und attraktiven Erscheinung ist dieses Artefakt ein wertvolles Sammlerstuck. Emittiert Strahlung.</text>
+	</string>
+	<string id="st_af_soul_name">
+		<text>Seele</text>
+	</string>
+	<string id="st_af_vyvert_descr">
+		<text>Dieses bizarr geformte Artefakt erscheint an Orten mit erhohter Gravitationsaktivitat. Als eine Art Schwamm, der radioaktive Elemente absorbiert, schutzt dieses Artefakt sowohl vor au?eren Einflussen als auch vor radioaktiven Partikeln, die bereits in den Korper gelangt sind.</text>
+	</string>
+	<string id="st_af_vyvert_name">
+		<text>Zerrissen</text>
+	</string>
+	<string id="st_compass">
+		<text>Kompass</text>
+	</string>
+	<string id="st_compass_descr">
+		<text>Ein seltenes Artefakt - es ist mehrere Jahre her, seit man einen gefunden hat. Das Artefakt kann Lucken in Anomaliefeldern lokalisieren. Es wird angenommen, dass es helfen kann, die komplexesten Anomaliefelder vollig unbeschadet zu durchqueren. Allerdings wissen nur sehr wenige, wie man damit richtig umgeht.</text>
+	</string>
+	<string id="st_oasis_heart">
+		<text>Herz der Oase</text>
+	</string>
+	<string id="st_oasis_heart_descr">
+		<text>Dieses Artefakt wurde einst im Zentrum der legendaren Oase gefunden. Es scheint, dass es das Herz eine kristallisierte Pflanze ist, die die heilenden Eigenschaften der Oase erworben hat. Anders als die Oase selbst ist dieses Artefakt jedoch extrem radioaktiv.</text>
+	</string>
+	<string id="af_drops">
+		<text>Tropfchen</text>
+	</string>
+	<string id="st_af-drops_descr">
+		<text>An der Brenneranomalie bei hohen Temperaturen gebildet. Von au?en sieht es aus wie eine tranenahnliche Farbverbindung mit einer glanzenden Oberflache, die von Rissen bedeckt ist.</text>
+	</string>
+	<string id="af_ameba_slime">
+		<text>Schleim</text>
+	</string>
+	<string id="st_af_ameba_slime_descr">
+		<text>Es ist sicher, dass dieses Artefakt durch die Anomalie namens "Fruit Punch" entstanden ist. Wenn sie am Gurtel getragen werden, bluten die Wunden weniger, obwohl der Korper seines Besitzers anfalliger fur verschiedene Verbrennungen wird.</text>
+	</string>
+	<string id="af_ameba_slug">
+		<text>Schnecke</text>
+	</string>
+	<string id="st_af_ameba_slug_descr">
+		<text>Geformt von der "Fruit Punch" Anomalie. Die negativen Eigenschaften dieses Artefakts werden dadurch kompensiert, dass es die Gerinnungsqualitat von Blut erhoht. Es kommt nicht oft vor, dass man auf solch ein Artefakt trifft, aber sie sind einiges an Geld wert.</text>
+	</string>
+	<string id="af_ameba_mica">
+		<text>Glimmer</text>
+	</string>
+	<string id="st_af_ameba_mica_descr">
+		<text>Anomalie "Fruit Punch" ist in der Lage, ein solches Artefakt in der seltensten und extremsten Sammlung von physikalischen Bedingungen zu schaffen. Das Ergebnis ist ein halbtransparentes, hartes Objekt. Ein seltenes und teures Artefakt.</text>
+	</string>
+	<string id="af_dummy_spring">
+		<text>Fruhling</text>
+	</string>
+	<string id="st_af_dummy_spring_descr">
+		<text>Nach Meinung einiger Forscher-Theoretiker ist dieses Artefakt eine Mischung aus Batterien und einer Schale.</text>
+	</string>
+	<string id="af_dummy_pellicle">
+		<text>Pellikel</text>
+	</string>
+	<string id="st_af_dummy_pellicle_descr">
+		<text>Dieses Artefakt ist so selten, dass sich viele Forscher gar nicht vorstellen konnen, dass eine solche Substanz in einer naturlichen Umgebung existieren kann. Setzt saure chemische Komponenten frei.</text>
+	</string>
+	<string id="af_rusty_thorn">
+		<text>Dorn</text>
+	</string>
+	<string id="st_af_rusty_thorn_descr">
+		<text>Das Ergebnis der Interaktion zwischen der Anomalie Burnt Fuzz und dem Korper eines unvorsichtigen Stalker. Das Dorn-Artefakt steckt den Korper seines Besitzers an, egal was passiert. Aber es hilft auch den Korper von Radionuklid zu reinigen. Ziemlich weit verbreitet und billig.</text>
+	</string>
+	<string id="af_rusty_kristall">
+		<text>Kristalldorn</text>
+	</string>
+	<string id="st_af_rusty_kristall_descr">
+		<text>Kristallisiert in der Anomalie Burnt Fuzz. Befreit naturlich die Strahlung des Organismus. Das hei?t, durch die Ohren zusammen mit etwas Blut. Blutverlust ist auch durch Uberoffnungen moglich. Weit verbreitet und ziemlich effektiv, was die Ursache fur den stabilen Preis auf dem Artefaktmarkt ist.</text>
+	</string>
+		<string id="af_rusty_sea_urchin">
+		<text>Urchin</text>
+	</string>
+	<string id="st_af_rusty_sea_urchin_descr">
+		<text>Die Anomalie Burnt Fuzz fuhrt sehr selten zu diesem Artefakt. Erhohe den Blutdruck und so wird der Korper eine gro?e Menge an roten Blutkorperchen los. Aber mit ihnen verlasst auch die gespeicherte Strahlung den Korper. In seiner grundlegenden Arbeit mit dem Titel "Ionisierung und Polarisation der Bestandteile seltener Artefakte" stellte Sakharov fest, dass der Inhalt dieser Formation eine kritische Stabilitat hat und es nicht realistisch ist, ein derartiges Artefakt in Laborbedingungen in den nachsten zehn Jahren zu schaffen.</text>
+	</string>
+</string_table>

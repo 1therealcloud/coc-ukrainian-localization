@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+
+	<string id="ls_header">
+		<text>NIMBLES HANDBUCH</text>
+	</string>
+	
+	<string id="ls_tip_number">
+		<text>Auszug #</text>
+	</string>
+	
+	<string id="ls_tip_1">
+		<text>Es gibt acht verschiedene Range. Es fangt bei 'Anfanger' an und endet bei 'Legende'. Es kann durch fast jede Aktivitat im Spiel erhoht werden, und bestimmte Funktionen mussen moglicherweise einen hohen Rang erreichen, bevor sie verwendet werden konnen.</text>
+	</string>
+	
+	<string id="ls_tip_2">
+		<text>Errungenschaften konnen durch bestimmte Erfolge im Spiel oder durch erreichen statistischer Meilensteine freigeschaltet werden. Jede Errungenschaft wird mit einer entsprechenden Belohnung freigeschaltet, die auf dem PDA angezeigt werden kann.</text>
+	</string>
+	
+	<string id="ls_tip_3">
+		<text>Grundlegende, fortgeschrittene und Experten Tools werden von den meisten Mechanikern benotigt, um bestimmte Upgrades fur Waffen und Outfits durchzufuhren. Solche Gegenstande konnen oft in Verstecken gefunden werden, die als Belohnung fur das Erledigen von Aufgaben erhalten werden.</text>
+	</string>
+	
+	<string id="ls_tip_4">
+		<text>Schlafentzug ist eine optionale Funktion, bei dem der Zeitablauf und die Verwendung von Verbrauchsmaterialien den Spieler allmahlich erschopft machen und ihn schliesslich dazu zwingen, sich auszuruhen, wenn er dazu aufgefordert wird. Andernfalls konnte dies schlimme Folgen haben.</text>
+	</string>
+	
+	<string id="ls_tip_5">
+		<text>Kampfhubschrauber konnen an vielen Orten der Zone patrouillierend gesehen werden. Wenn sie im Kampf sind, rufen Mitglieder der Militar Fraktion sie oft zur Luftunterstutzung auf, um angreifende Truppen zu zerstoren.</text>
+	</string>
+	
+	<string id="ls_tip_6">
+		<text>Ironman Modus gibt ein echtes Gefuhl der Sterblichkeit. Wenn der Spieler getotet wird, werden alle Speicherungen fur diesen bestimmten Charakter geloscht und konnen niewieder hergestellt werden. Wahle deine Fraktion und den Startort mit Bedacht.</text>
+	</string>
+	
+	<string id="ls_tip_7">
+		<text>Reparaturkasten und Nahzeug werden verwendet, um deine Waffen und Outfits auf dem Feld zu reparieren. Jeder Kasten ermoglicht bis zu drei Anwendungen und eignet sich am besten fur die Reparatur von Gegenstanden, die einen hoheren Wert haben als die Bausatze selbst.</text>
+	</string>
+	
+	<string id="ls_tip_8">
+		<text>Rucksacke konnen gekauft oder gefunden werden und dann verwendet werden, um ein benutzerdefiniertes Versteck zu erstellen. Die vom Spieler erschaffenen Verstecke werden niemals despawnt und auch nicht von anderen Stalkern geplundert. Sie sind dauerhaft, bis alle Gegenstande vom Spieler entfernt werden.</text>
+	</string>
+	
+	<string id="ls_tip_9">
+		<text>Schlafsacke sind eine gute Moglichkeit, sich in der Zone auszuruhen, wenn du kein ordentliches Bett zum Schlafen findest. Sie konnen bei den meisten Handlern gekauft oder in einem Stalker Versteck gefunden werden.</text>
+	</string>
+	
+	<string id="ls_tip_10">
+		<text>Truck Friedhof, ist ein grosser Friedhof, bestrahlter, landwirtschaftlicher, ziviler und militarischer Fahrzeuge. Eignet sich als ein grossartiger Ort, um Verstecke zu verstecken: Ein Adleraugiger Stalker wird viele Wertsachen unter den Trummern finden konnen.</text>
+	</string>
+	
+	<string id="ls_tip_11">
+		<text>Artefakttypen sind ein Hinweis auf die Anomalien, in denen sie sich befinden. Willst du eine, die deine Verbrennungsresistenz erhohen? Suche nach einer 'Brenner' oder 'Komet' Anomalie und gehe mit deinem Detektor auf die Jagd.</text>
+	</string>
+	
+	<string id="ls_tip_12">
+		<text>Die Erfullung von Aufgaben fur jeweilige Fraktionen wird deinen Ruf verbessern. Wahrend es sich erhoht, werden Handler nach und nach grossere Rabatte auf ihre Waren und Dienstleistungen fur dich anbieten.</text>
+	</string>
+	
+	<string id="ls_tip_13">
+		<text>Je mehr du im Spiel erreichst, desto hoher wird dein Rang. Die verfugbaren Range sind: 'Anfanger', "Rekrut", 'Erfahren', 'Professionel', 'Veteran', 'Experte', 'Meister' und 'Legende'.</text>
+	</string>
+	
+	<string id="ls_tip_14">
+		<text>Die meisten Auftrage konnen abgebrochen werden, nachdem du aktzeptiert hast sie zu erledigen. Du kannst dies tun, indem du mit dem Stalker sprichst, der dir den Auftrag gegeben hat. Vergiss aber nicht, dass dein Ruf moglicherweise darunter leiden wird, wenn du Auftrage abbrichst.</text>
+	</string>
+	
+	<string id="ls_tip_15">
+		<text>Der Ruf ist eine Darstellung davon, wie ein Stalker von Fraktionen betrachtet wird. Es wird gewonnen und verloren, indem man nicht-feindlichen Stalker hilft bzw. schadet.</text>
+	</string>
+	
+	<string id="ls_tip_16">
+		<text>Der Ruf ist dynamisch und kann sich haufig andern. Die verfugbaren Rufe sind wie folgt: 'Schrecklich', 'Deprimierend', 'Grauenhaft', 'Schlecht', 'Neutral', 'Gut', 'Grossartig', 'Brillant' und 'Ausgezeichnet'.</text>
+	</string>
+	
+	<string id="ls_tip_17">
+		<text>Der Darkscape ist ein grosser Wald zwischen dem Kordon und dem Dunklen Tal. Obwohl es nur wenige Grunde gibt, sie zu besuchen, wird es oft als Versteck von Einzelgangern und Banditen mit einem Kopfgeld genutzt.</text>
+	</string>
+	
+	<string id="ls_tip_18">
+		<text>Denke daran, regelmassig Stalker zu fragen, ob sie irgendwelche Auftrage zur Verfugung haben. Nur weil sie niemandem wichtig sind, bedeutet das nicht, dass sie dich nicht fur ihre Drecksarbeit bezahlen werden.</text>
+	</string>
+	
+	<string id="ls_tip_19">
+		<text>In Rostoks Arena gibt es zwei Arten von Wettbewerben: Die traditionellen Kampfe, bei denen Stalker gegeneinander um Geldbelohnungen kampfen oder Herausforderungen bei denen sie versuchen, immer harter kommenden Mutanten zu toten.</text>
+	</string>
+	
+	<string id="ls_tip_20">
+		<text>Der Online-Ausschlussradius kann uber die Spieloptionen eingestellt werden und betragt standardmassig 25 m. Es erzeugt einen Nicht-Spawn-Bereich um den Spieler, die Mutanten und andere Stalker verhindert, dem Spieler unfair und gefahrlich nahe kommen zu konnen.</text>
+	</string>
+	
+	<string id="ls_tip_21">
+		<text>Cold, Spore und der Rest der Hauptfiguren von Clear Sky konnen nach ihrer Geschichte gefragt werden. Dies wird dir helfen, zu verstehen, wie die Fraktion nach den Ereignissen von S.T.A.L.K.E.R.: Clear Sky uberlebte.</text>
+	</string>
+	
+	<string id="ls_tip_22">
+		<text>Die Freiheit hat vollstandig die Yanov-Station in Jupiter besetzt, nachdem sie vor einigen Jahren von einem mysteriosen Stalker unterstutzt wurden. Einige ihrer bekannten Mitglieder sind seitdem dort hingezogen.</text>
+	</string>
+	
+	<string id="ls_tip_23">
+		<text>Die 'Completionist' Errungenschaft wird erhalten, wenn du alle anderen verfugbaren Erfolge freigeschaltet hast. Wie viele Erfolge dir zur Verfugung stehen, hangt von deiner Fraktion, und davon ab, ob der Story-Modus aktiviert ist oder nicht.</text>
+	</string>
+	
+	<string id="ls_tip_24">
+		<text>Es ist viel einfacher zu vermeiden entdeckt zu werden, wenn du in der Nacht oder bei starkem Regen unterwegs bist. Du riskierst jedoch auf Mutanten zu treffen.</text>
+	</string>
+	
+	<string id="ls_tip_25">
+		<text>Du kannst den Begleitern keine Befehle erteilen, wenn du sie zurucklasst. Begleiter im Warte oder Patrouillen Modus, werden dir auch nicht zu neuen Kartenstandorten folgen.</text>
+	</string>
+</string_table>

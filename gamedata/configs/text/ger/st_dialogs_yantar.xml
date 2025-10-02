@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+<!-- yan_ecolog_kruglov   -->
+	<string id="yan_ecolog_kruglov_start_dialog_1">
+		<text>Grusse dich, Stalker!</text>
+	</string>
+<!-- yan_ecolog_semenov   -->
+	<string id="yan_ecolog_semenov_start_dialog_1">
+		<text>Ah, Stalker. Was brauchst du?</text>
+	</string>
+	<string id="yan_ecolog_semenov_start_dialog_yan_ecolog_semenov_task_1">
+		<text>Ich muss immernoch mehr Daten sammeln. Lass uns mehr Mutanten suchen.</text>
+	</string>
+<!-- yan_ecolog_vasilyev   -->
+	<string id="yan_ecolog_vasilyev_start_dialog_1">
+		<text>Grusse, Stalker.</text>
+	</string>
+<!-- yan_stalker_sakharov -->
+	<string id="st_yan_saharov_message_free_upgrade">
+		<text>Stalker, du hast uns gerettet! Unser Bunker ware einem bestimmten Untergang gegluckt, wenn du nicht eingetreten warst! Um meine Dankbarkeit zu zeigen, komm zu mir fur eine Kostenlose Verbesserung, deines Psi-Helmes!</text>
+	</string>
+	<string id="yan_stalker_sakharov_start_1">
+		<text>Hallo, Stalker. Was fuhrt dich hierher?</text>
+	</string>
+	<string id="yan_stalker_sakharov_player_query_brain_scorcher">
+		<text>Was kannst du mir uber den Brain Scorcher erzahlen?</text>
+	</string>
+	<string id="yan_stalker_sakharov_npc_query_brain_scorcher">
+		<text>Hmmm, na ja, die Feldforscher sind nur am Rande der Einrichtung, so dass das Wenige, das wir wissen, grosstenteils Marchen sind. Was wir wissen, ist die Wirkung vom Scorcher. Es scheint in die Gedankenwelt derer einzudringen, die zu nahe kommen. Zu den Symptomen gehoren Migrane, Halluzinationen, Tunnelblick - und ohne unprofessionell zu klingen, Zombifizierung. Wenn ich eine wissenschaftliche Schatzung abgeben musste; Ich wurde es einen entfernten Psi-Sender nennen. Obwohl ich mehr invasive Forschung durchfuhren musste, bevor ich mich auf diese Schlussfolgerung einlasse.</text>
+	</string>
+	<string id="yan_stalker_sakharov_player_query_psi_helmet">
+		<text>Professor, ich brauche einen Psi-Schutzhelm. Ich brauche ihn, um durch den Brain Scorcher zu gelangen. Ohne ihn werde ich es nicht schaffen konnen.</text>
+	</string>
+	<string id="yan_stalker_sakharov_npc_query_psi_helmet">
+		<text>Ich nehme an, du verstehst das Risiko, durch diese psychisch volatilen Bereiche zu gehen, oder?... Oh, okay, ich denke du wirst es schon wissen. Du wurdest mich sonst nicht danach fragen... Nun, es gab dieses eine Modell, an dem wir sorgfaltig gearbeitet haben, aber es ist noch nicht fertig und es fehlen letzte Kalibrierungen. Wir konnen dir jetzt den Psi-Helm fur 10.000 RU geben, aber dann musstest du mit dem Risiko der Verwendung ungeprufter Hardware umgehen! Es gibt jedoch noch eine weitere Moglichkeit: Wir konnen den Kalibrierungsfortschritt beschleunigen, aber dazu benotigen wir mehr Geld. Es kostet ungefahr 17.500 RU. Sobald du es uns gibst, werden wir anfangen, diese Mittel sofort zu verwenden, um unsere Kalibrierungen zu beenden, die ungefahr zwei Tage dauern sollten. Geben oder nehmen.</text>
+	</string>
+	<string id="yan_stalker_sakharov_npc_query_psi_helmet_free">
+		<text>Ich nehme an, du verstehst das Risiko, durch diese psychisch volatilen Bereiche zu gehen, oder?... Oh, okay, ich denke du wirst es schon wissen. Du wurdest mich sonst nicht danach fragen... Nun, es gab dieses eine Modell, an dem wir sorgfaltig gearbeitet haben, aber es ist noch nicht fertig und es fehlen letzte Kalibrierungen.</text>
+	</string>
+	<string id="yan_stalker_sakharov_player_psi_helmet_1_1">
+		<text>Ich bin in eile - ich nehme den Prototypen.</text>
+	</string>
+	<string id="yan_stalker_sakharov_npc_psi_helmet_1_1">
+		<text>Wenn du darauf bestehst... Ich bin mir ziemlich sicher, dass deine Arbeit erforderlich ist um deine Ausrustung in perfektem Betriebszustand zu halten... Oh, ich hatte es fast vergessen - du kannst es immer zur endgultigen Kalibrierung mitnehmen. Wenn du das Gefuhl hast, dass etwas nicht in Ordnung ist, geh direkt zu uns. Wir konnen uns keine Verluste leisten!... Also, es wird ungefahr 10.000 RU sein.</text>
+	</string>
+	
+	<string id="yan_stalker_sakharov_player_psi_helmet_1_2">
+		<text>Hier ist das Geld. Danke, Professor.</text>
+	</string>
+	<string id="yan_stalker_sakharov_npc_psi_helmet_1_2">
+		<text>Sehr gut. Aber ich mochte, dass du es zuerst testest. Du kannst uns helfen, indem du den Psi-Emitter im Labor nordlich von hier deaktivierst. Hoffen wir, dass es dein Bewusstsein gut schutzt...</text>
+	</string>
+	
+	<string id="yan_stalker_sakharov_player_psi_helmet_1_3">
+		<text>Ich habe beschlossen, dich deine Arbeit beenden zu lassen. Bitte kalibriere diesen Helm grundlich.</text>
+	</string>
+	<string id="yan_stalker_sakharov_npc_psi_helmet_1_3">
+		<text>Du hast keine Ahnung, wie viel Erleichterung das fur mich und meine Kollegen bedeutet. Lass uns letzte Kalibrierungen durchfuhren, um das Risiko deines moglichen Todes zu minimieren, und wir wollen uns wirklich nicht schuldig fuhlen, weil wir dir ungeprufte Ausrustung geliefert haben... So, da du unserem Ziel bereits finanziell geholfen hast, wird die endgultige Kalibrierung 8.000 RU kosten. Du wirst dafur mindestens zwei Tage warten mussen.</text>
+	</string>
+	
+	<string id="yan_stalker_sakharov_player_psi_helmet_2_1">
+		<text>Ich hoffe meine Geduld wird die vollkalibrierte Version wert sein.</text>
+	</string>
+	<string id="yan_stalker_sakharov_npc_psi_helmet_2_1">
+		<text>In der Tat, das wird es sein. Sobald wir mit der Arbeit an diesem Helm fertig sind, kannst du frei durch die Zone wandern, ohne irgendwelche Risiken einzugehen, da sein Psi-Schutzpotential maximiert wird. Also... Es wird um die 17.500 RU sein.</text>
+	</string>
+	<string id="yan_stalker_sakharov_npc_psi_helmet_2_1_free">
+		<text>In der Tat, das wird es sein. Sobald wir mit der Arbeit an diesem Helm fertig sind, kannst du frei durch die Zone wandern, ohne irgendwelche Risiken einzugehen, da sein Psi-Schutzpotential maximiert wird. Da du uns geholfen hast, gebe ich dir das Gerat kostenlos.</text>
+	</string>
+	
+	<string id="yan_stalker_sakharov_player_psi_helmet_2_2">
+		<text>Okay, ich warte auf den komplett kalibrierten Psi-Helm. Arbeite mit deiner Magie.</text>
+	</string>
+	<string id="yan_stalker_sakharov_npc_psi_helmet_2_2">
+		<text>Danke, Stalker. Ich werde jetzt mit den letzten Kalibrierungen beginnen. Komm und besuch mich in ein paar Tagen wieder.</text>
+	</string>
+	
+	<string id="yan_stalker_sakharov_player_psi_helmet_2_3">
+		<text>Ist es schon fertig?</text>
+	</string>
+	<string id="yan_stalker_sakharov_npc_psi_helmet_2_3">
+		<text>Ja! Bitte schon. Aber ich mochte, dass du es zuerst testest. Du kannst uns helfen, indem du den Psi-Emitter im Labor nordlich von hier deaktivierest. Hoffen wir, dass es dein Bewusstsein gut schutzt...</text>
+	</string>
+	<string id="yan_stalker_sakharov_npc_psi_helmet_2_3_1">
+		<text>Nein, noch nicht. Komm bitte spater wieder.</text>
+	</string>
+	
+	<string id="yan_stalker_sakharov_player_psi_helmet_3_1">
+		<text>Ich muss daruber nachdenken.</text>
+	</string>
+	<string id="yan_stalker_sakharov_npc_psi_helmet_3_1">
+		<text>Sehr gut. Keine Sorge, wir behalten den Psi-Helm fur spater.</text>
+	</string>
+<!-- yan_merc_guards -->
+	<string id="yan_merc_guards_start_2">
+		<text>Du bist am falschen Ort, Kumpel! Und du solltest besser gehen, bevor du mich zwingst etwas zu tun, was ich nicht tun mochte!</text>
+	</string>
+	<string id="yan_merc_guards_start_3">
+		<text>Suchst du etwar Arger oder was? Verschwinde von hier, bevor du es findest!</text>
+	</string>
+	<string id="yan_merc_guards_start_4">
+		<text>Verpiss dich, Kumpel! Tu das auch, und wir konnen Friedlich sein!</text>
+	</string>
+</string_table>

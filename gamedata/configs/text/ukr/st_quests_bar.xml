@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+
+	<!-- bar_dolg_general_petrenko_stalker -->
+	<string id="bar_dolg_general_petrenko_stalker_task_1_name">
+		<text>Захопити територію</text>
+	</string>
+	<string id="bar_dolg_general_petrenko_stalker_task_1_text">
+		<text>Необхідно усунути територіальну загрозу в даній зоні.</text>
+	</string>
+	<string id="bar_dolg_general_petrenko_stalker_task_1_about">
+		<text>Мені стало відомо, що один із наших таборів знаходиться під загрозою. Ми повинні завдавати удару першими. Мені потрібні вмілі бійці для виконання цього завдання, візьмешся?</text>
+	</string>
+	<string id="bar_dolg_general_petrenko_stalker_task_1_finish">
+		<text>Завдання виконане? Чудово.</text>
+	</string>
+
+	<string id="bar_dolg_general_petrenko_stalker_task_2_name">
+		<text>Відвоювати територію</text>
+	</string>
+	<string id="bar_dolg_general_petrenko_stalker_task_2_text">
+		<text>Необхідно повернути під контроль «Долга» захоплену ворогами територію.</text>
+	</string>
+	<string id="bar_dolg_general_petrenko_stalker_task_2_about">
+		<text>Є важлива справа. «Воля» зайняла один із наших таборів, і мені потрібен гарний боєць, щоб виправити цю ситуацію.</text>
+	</string>
+	<string id="bar_dolg_general_petrenko_stalker_task_2_finish">
+		<text>Місія виконана? Чудова робота!</text>
+	</string>
+
+	<string id="bar_dolg_general_petrenko_stalker_task_3_name">
+		<text>Вбивство</text>
+	</string>
+	<string id="bar_dolg_general_petrenko_stalker_task_3_text">
+		<text>Полковник Петренко наказав знайти та усунути ціль.</text>
+	</string>
+	<string id="bar_dolg_general_petrenko_stalker_task_3_about">
+		<text>У мене є список дуже важливих облич, про яких потрібно... потурбуватися. Деякі - стукачі, або проста шпана, яка дізналася зайвого. Але є й лідери загонів, та високопоставлені обличчя «Волі». Видуй із них всю інформацію, яку зможеш, потім прикінчи.</text>
+	</string>
+	<string id="bar_dolg_general_petrenko_stalker_task_3_finish">
+		<text>Чудово! Ось обіцяна винагорода:</text>
+	</string>
+
+	<!-- bar_visitors_stalker_mechanic -->
+	<string id="bar_visitors_stalker_mechanic_task_1_name">
+		<text>Знайти для Громова %s</text>
+	</string>
+	<string id="bar_visitors_stalker_mechanic_task_1_text">
+		<text>Необхідно принести інструменти Громову, щоб він міг проводити модернізацію спорядження.</text>
+	</string>
+	<string id="bar_visitors_stalker_mechanic_task_1_about">
+		<text>Знаєш, браток, а я, адже, насправді непоганий технік. І зброю і броню ремонтувати вмію, навіть апгрейди які-не-які роблю! Вірніше, робив би, якби інструменти були нормальні. Та тільки де їх тут візьмеш? Можливо, допоможеш роздобути який-небудь простенький набір, а?</text>
+	</string>
+	<string id="bar_visitors_stalker_mechanic_task_1_fetch_about">
+		<text>Мені потрібен набір інструментів для грубої роботи. У ньому повинні бути інструменти та масла для роботи зі зброєю. Якщо зможеш його дістати, я буду вдячний, навіть заплачу тобі!.. Мабуть.</text>
+	</string>
+	<string id="bar_visitors_stalker_mechanic_task_1_fetch_finish">
+		<text>Чудово, чуваче! Ох, вибач, мені нічим заплатити. Але я можу дати тобі гарну знижку!</text>
+	</string>
+	<string id="bar_visitors_stalker_mechanic_task_2_name">
+		<text>Знайти для Громова %s</text>
+	</string>
+	<string id="bar_visitors_stalker_mechanic_task_2_text">
+		<text>Необхідно принести Громову інструменти для тонкої роботи. Йому потрібен повніший набір, щоб проводити складнішу модернізацію спорядження.</text>
+	</string>
+	<string id="bar_visitors_stalker_mechanic_task_2_about">
+		<text>Ей, чувак, якщо ти погодишся дістати мені повніший набір, отримаєш ще більшу знижку. Допоможеш, приятелю?</text>
+	</string>
+	<string id="bar_visitors_stalker_mechanic_task_2_fetch_about">
+		<text>Мені потрібні інструменти для тонкої роботи. Там повинне бути все необхідне. Ти будеш мені як брат, якщо дістанеш його!</text>
+	</string>
+	<string id="bar_visitors_stalker_mechanic_task_2_fetch_finish">
+		<text>Ух ти, дідько, дякую, брате! Тепер-то я точно розбагатію. Чорт забирай, я таки стану успішним!.. Якщо, звичайно, і цей шанс не впущу. Проте поки що не можу запропонувати тобі нічого краще, ніж знижка. Вибач, приятелю.</text>
+	</string>
+	<string id="bar_visitors_stalker_mechanic_task_3_name">
+		<text>Знайти для Громова %s</text>
+	</string>
+	<string id="bar_visitors_stalker_mechanic_task_3_text">
+		<text>Необхідно принести Громову %s. Йому потрібен унікальний набір, щоб проводити ще складнішу модернізацію зброї.</text>
+	</string>
+	<string id="bar_visitors_stalker_mechanic_task_3_about">
+		<text>Ей, хлопчино, якщо знайдеш щось варте - з мене знижка!</text>
+	</string>
+	<string id="bar_visitors_stalker_mechanic_task_3_fetch_about">
+		<text>Мені потрібні інструменти для калібрування. У них повинно бути все необхідне. Ти будеш мені як брат, якщо дістанеш їх!</text>
+	</string>
+	<string id="bar_visitors_stalker_mechanic_task_3_fetch_finish">
+		<text>Ні ху...! Дідько, дякую, брате! Тепер-то я точно розбагатію. Чорт забирай, я таки стану успішним!.. Якщо, звичайно, ще і цей шанс не впущу. Проте поки що не можу запропонувати тобі нічого краще, ніж знижка. Вибач, друже.</text>
+	</string>
+
+</string_table>

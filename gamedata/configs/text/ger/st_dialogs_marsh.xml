@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+    <string id="cit_doctor_hello_dialog_11">
+        <text>Ja? Was willst du? Strelok? Bist... Bist das du?</text>
+    </string>
+    <string id="cit_doctor_hello_dialog_21">
+        <text>Ich habe dir alles gesagt, was ich weiss.</text>
+    </string>
+    <string id="cit_doctor_main_dialog_0">
+        <text>Strelok? Ich glaube, du hast mich verwirrt, alter Mann. Ich habe gehort, dass du Informationen uber die Zone hast.</text>
+    </string>
+    <string id="cit_doctor_main_dialog_1">
+        <text>Verwirrt? Oh... Ich konnte die Informationen haben, die du suchst, aber ich mochte, dass du etwas dafur tust.</text>
+    </string>
+    <string id="cit_doctor_main_dialog_11">
+        <text>Naturlich. Was soll ich machen?</text>
+    </string>
+    <string id="cit_doctor_main_dialog_2">
+        <text>Die Zone hat mich im Laufe der Jahre schwer belastet, also verbringe ich meine letzten Tage hier, wo es ruhig ist, aber ich wurde es lieber geniessen, meine alten Freunde wiederzusehen.\nIch furchte, Strelok und Guide mogen tot sein, aber ich wurde gerne mit Fang und Ghost sprechen, solange noch Zeit ist. Wenn du sie findest und hierher bringst, wurde ich deine Bemuhungen sehr schatzen.</text>
+    </string>
+    <string id="cit_doctor_main_dialog_21">
+        <text>Wie lange hast du hier gelebt? Fang und Ghost sind Legendare Stalker, aber sie sind beide schon lange tot. Fang wurde von einem Soldner namens Narbe in den Armeelager getotet, und Ghost wurde ungefahr ein Jahr spater unter Yantar in Labor X-16 gefunden. Wusstest du es wirklich nicht?</text>
+    </string>
+    <string id="cit_doctor_main_dialog_3">
+        <text>Sie... Sie sind beide tot? Bist du dir ganz sicher? Ich... Nun... Okay... Was willst du wissen?</text>
+    </string>
+    <string id="cit_doctor_main_dialog_31">
+        <text>Wirklich? Jetzt wirst du es mir so leicht sagen? Du verschwendest meine Zeit, alter Mann.</text>
+    </string>
+    <string id="cit_doctor_main_dialog_4">
+        <text>Warte! Geh nicht... Ich habe nur nicht erwartet, dass sie so enden wurden. Als Strelok das letzte Mal zu Besuch kam, gab er mir einen Schlussel und Koordinaten zu einem Versteck in Pripyat.\nEr ist seit Jahren nicht mehr dort gewesen, also nehme ich an, dass es ihm viel besser erging. Er sagte etwas uber den Monolith, ich habe nicht viel davon verstanden und ich bin mir auch nicht sicher, ob er es uberhaupt getan hat. Hier nimm es. Noch eine Sache... Er verbrachte viel Zeit damit, in Untergrundlabors nach Hinweisen auf eine Verschworung zu suchen, eine Art geheime Vertuschung, glaube ich. Vielleicht findest du deine Antworten dort.</text>
+    </string>
+    <string id="cit_doctor_main_dialog_41">
+        <text>Ich sehe. Danke. Ich weiss deine Hilfe zu schatzen.</text>
+    </string>
+    <string id="cit_doctor_main_dialog_5">
+        <text>Geh jetzt. Lass einen alten Mann ruhen.</text>
+    </string>
+    <string id="mar_base_owl_stalker_trader_start_dialog_1">
+        <text>Benotigst du Zubehor oder Ausrustung? Information?... Oder willst du Informationen verkaufen?</text>
+    </string>
+    <string id="mar_smart_terrain_base_doctor_need_health_care_0">
+        <text>Ich brauche Medizinische Hilfe</text>
+    </string>
+    <string id="mar_smart_terrain_base_doctor_need_health_care_1">
+        <text>Okay. Ich sehe was ich tun kann.</text>
+    </string>
+    <string id="mar_smart_terrain_base_doctor_need_health_care_11">
+        <text>[fortsetzen...]</text>
+    </string>
+    <string id="mar_smart_terrain_base_doctor_need_health_care_111">
+        <text>War doch nicht so schlimm, was? Du kannst gehen.</text>
+    </string>
+    <string id="mar_smart_terrain_base_doctor_need_health_care_2">
+        <text>Okay, ich werfe mal einen Blick darauf... Nun, keine Wunden. Genauso wenig Anzeichen auf Strahlung? Du scheinst Gesund zu sein. Du kannst gehen.</text>
+    </string>
+    <string id="mar_smart_terrain_base_doctor_start_1">
+        <text>Was brauchst du, Stalker?</text>
+    </string>
+    <string id="marsh_stalker_barmen_start_dialog_1">
+        <text>Ein neues Gesicht! Leute hier nennen mich Bibliothekar. Ich bin der lokale Barkeeper. Ich werde froh sein deine Fragen zu beantworten, Kumpel! Manchmal poste ich Jobangebote oder hore ein paar interessante Geruchte, also schau ofter vorbei.</text>
+    </string>
+    <string id="marsh_stalker_barmen_start_dialog_2">
+        <text>Hey, Stalker. Was brauchst du?</text>
+    </string>
+    <string id="marsh_stalker_tech_start_1">
+        <text>Grusse, Stalker. Kann ich dir helfen? Gute Werkzeuge sind in der Zone schwer zu bekommen, aber ich kann immernoch dein Kit reparieren und kleinere Upgrades machen, wenn du willst.</text>
+    </string>
+    <string id="marsh_stalker_medic_background">
+        <text>Mich? Ich war ein Fuhrer, glaube es oder nicht. Ich hielt mich hauptsachlich an den Sumpfen fest, nahm aber oft Stalker zu weit entfernten Orten mit. Aber das war eine andere Zeit, bevor sie diesen verdammten Soldner im Schilf mit einem Mund voller Sumpfwasser fanden.
+			Jeden Tag vergass er den Weg in und aus der Basis und ich brauchte nicht mal mehr als funf Minuten Fussweg von hier zum Fischerdorf und zuruck. Und dann hatte er es innerhalb weniger Wochen geschafft, unsere Fuhrung und die meisten unserer Manner davon zu uberzeugen, das Kraftwerk in Betrieb zu nehmen.
+			Unnotig zu sagen, dass weder er, noch andere unserer Leuter aus dem Wahnsinn zuruckkamen. \nNach dem Ende hatte ich niemanden mehr, der mich fuhren konnte. Aber dafur viele Leute, die ich umlegen musste. \nNun bin ich hier. Alles wegen diesem verflixten Soldner.</text>
+    </string>
+    <string id="marsh_stalker_barman_background">
+        <text>Ich bin der Barkeeper. Ich gebe Getranke, Essen und halte das Radio am laufen. Es ist keine aufregende Arbeit, aber immerhin besser als da draussen in der Holle zu sein. Ich habe hier schon einige Jahre gearbeitet, bin bei den Emissionen in den Sumpfen hangen geblieben, also war ich ziemlich fest hier.
+			Ich bin auch nach Suden gereist, wie die meisten Leute es versuchten, aber ich war einer der wenigen, die nicht von Banditen auf dem Weg besucht wurden. Ich suchte diese Basis auf und schloss mich Clear Sky an. Entweder das oder irgendwo in einer Pfutze. Verbrachte die ersten paar Wochen als Grunzer, der die Anarchisten von unseren Aussichtsposten abstosst
+			und bekam dann den Job als neuer Barkeeper, nachdem Cold befordert wurde. Naturlich akzeptierte ich. Ich spendiere lieber Getranke als Kugeln zu schiessen. Aber genug geredet. Wie ware es mit einem schonen kalten Drink?</text>
+    </string>
+    <string id="marsh_stalker_trader_background">
+        <text>Spore ist mein Name, ich habe diesen Gig vor ungefahr einem Jahr ubernommen. Kam in die Zone auf der Suche nach Reichtum wie jeder andere und stiess auf einen Stalker namens Nimble.\nIch fanden heraus, dass wir viele die gleichen Talente teilten. Beide hatten viele Kontakte ausserhalb,
+			waren gut darin, Waren in und aus der Zone zu vertreiben und Informationen zu verkaufen.\nAls der Monolith Wiederaufstieg stattfand und das Geschaft nach Suden getrieben wurde, folgten wir dem auch. Es gelang mir, hier einen netten Job zu kriegen, nachdem Nimble mir Cold empfohlen hatte. Er war fruher ein Mitglied
+			von Clear Sky, weisst du? Gibt uns beiden hier eine nette kleine Operation. Wir haben Zugang zu einer Armee freien Schmuggelroute durch die Sumpfe und Clear Sky bekommt die erste Auswahl von allem, was wir in die Finger bekommen. Liefere Nimble einen Besuch, wenn du jemals in den
+			Kordon gehst. Ich horte zuletzt, dass er im Anfanger Dorf herumlungerte. Wenn du jemals eine schwer zu bekommende Waffe oder Ausrustung brauchst, die von aussen hineingeschmuggelt wird, ist er genau der richtige Typ, der die Waren verkauft.</text>
+    </string>
+    <string id="marsh_stalker_tech_background">
+        <text>Ich heisse Novikov. Manche nennen mich nur Grey. Ich bin ein Techniker, der alles am Laufen halt und die einzige Person, die ein guter Stalker dringend braucht, wenn deren Knarren anfangen zu klemmen. Hab fruher hier gearbeitet, ganz kurz vor Cold. Aber als alles scheisse ging, suchte ich nach etwas Grunem
+			und wurde von den Okologen in Jupiter zusammengezogen. War einige Jahre dort oben, bis ich eines Tages gehort habe, dass diese Typen irgendwie durchgefahren sind. Nachdem mein Vertrag ablief, kehrte ich zuruck. Sie haben mich ohne Frage aufgenommen. Meine Fahigkeiten mit einer Werkbank und meine Kontakte innerhalb der Okologen
+			wurden dringend benotigt. Ich brachte uns dazu, mit ihren Leuten zusammenzuarbeiten, damit wir unsere alten Forschungen fortsetzen konnten. Wenn du Lust auf die Arbeit hast, suche dir immer nach Anleitungen zu den ortlichen Anomalien. Spreche mit Spore daruber, wenn du interessiert bist.</text>
+    </string>
+    <string id="marsh_stalker_leader_background">
+        <text>Wo soll ich anfangen? Ich werde Cold genannt. Ich bin der Anfuhrer von Clear Sky. War lange Zeit der alte Getrankespender hier, bis ich dem Bibliothekar diese Ehre ubergab, als wir erfuhren, was mit Lebedew, Suslow und dem Rest unserer Kommandanten geschah.
+			Nach langen und intensiven Verhandlungen mit der letzten Lieferung von geschmuggeltem Wodka, entschied die ortliche Truppe, dass ich am besten geeignet sei, die Zugel zu ubernehmen, und ich halte sie seitdem fest.</text> 
+    </string>
+	<string id="marsh_csky_history_ask1">
+		<text>Erzahle mir etwas uber Clear Sky.</text>
+	</string>
+	<string id="marsh_csky_history_ask2">
+		<text>Was ist es, dass du wissen mochtest?</text>
+	</string>
+	<string id="marsh_csky_history_destroyed1">
+		<text>Wurde Clear Sky nicht ausgeloscht?</text>
+	</string>
+	<string id="marsh_csky_history_destroyed2">
+		<text>Fast. Aber wir schafften es. Wahrend die meisten unserer Leute im Kraftwerk ausgeloscht wurden, waren wir nicht alle. Eine gute Anzahl befand sich noch in unseren anderen Gebieten, die spater durch Anomalien infolge der Emission vom Rest der Zone abgeschnitten wurden.
+			Als es fur jene in den Sumpfen zu der Zeit offensichtlich wurde, dass sie hier fast ohne einen Ausweg gefangen waren, ging alles in die Holle. Ehrliche Stalker wurden uber Nacht zu Banditen, wahrend der Rest versuchte, zu unserer Basis zu fliehen oder von den Mutanten der Gegend zu leben.
+			Wir nahmen viele Manner auf und unsere Lebensmittelgeschafte sorgten fur ihre Loyalitat. Nach einer Weile wurde es offensichtlich, dass wir einen neuen Fuhrer brauchen wurden. Ich nahm die Last auf und bat unseren Bibliothekar, bei mir die Bar zu besetzen. Er hatte sich in der kurzen Zeit, seit er beigetreten war, einen Namen gemacht.
+			Nach ein paar Monaten, in denen wir mit den Banditen durch die Gegend zogen, haben wir es geschafft, die meisten von ihnen zu rauchern. Aber das hat die Armee nicht davon abgehalten, sich einzumischen und den Job zu beenden. Selbst jetzt haben sie immer noch diesen Vogel, der die Gebiete beobachtet, die sie ubernommen haben.
+	    </text>
+	</string>
+</string_table>

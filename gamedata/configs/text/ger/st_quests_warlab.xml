@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="sar_perception">
+		<text>Nordpassage</text>
+	</string>
+	<string id="sar_perception_1">
+		<text>Sieh, wer auch immer - oder was auch immer, hinter dem Monolith ist.</text>
+	</string>
+	<string id="sar_perception_2">
+		<text>Finde das im Manuskript erwahnte Labor und sieh, was es versteckt.</text>
+	</string>
+	<string id="sar_perception_3">
+		<text>Benutze den Dekodierer um die Tur zu offnen.</text>
+	</string>
+	<string id="sar_perception_4">
+		<text>Besiege die Wachen, um in den Raum zu kommen.</text>
+	</string>
+    <string id="sar_perception_5">
+		<text>Finde den Zugangscode aus den Dokumenten.</text>
+	</string>		
+	<string id="warlab_kill_crazy_entity_title">
+		<text>Komm mit der unbekannten Entitat klar</text>
+	</string>
+	<string id="warlab_kill_crazy_entity_1">
+		<text>Rede mit der Entitat</text>
+	</string>
+	<string id="warlab_kill_crazy_entity_2">
+		<text>Tote die drei physischen Formen der Kriegslabor Einheit, um die Tur zu offnen</text>
+	</string>
+</string_table>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+
+	<!-- UI STRINGS FOR CLOSED CAPTION MODS -->
+
+	<string id="ui_mm_cc_icc">
+		<text>Приховані субтитри</text>
+	</string>
+	<string id="ui_mm_cc_icc_chktext">
+		<text>Звукові ефекти</text>
+	</string>
+	<string id="ui_mm_cc_captioning">
+		<text>Субтитри (без української)</text>
+	</string>
+	<string id="ui_mm_cc_none">
+		<text>Без субтитрів</text>
+	</string>
+	<string id="ui_mm_cc_storyonly">
+		<text>Тільки важливі субтитри</text>
+	</string>
+	<string id="ui_mm_cc_all">
+		<text>Усі субтитри</text>
+	</string>
+
+</string_table>

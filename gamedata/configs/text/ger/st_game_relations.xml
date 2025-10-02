@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<!-- Communities -->
+	<string id="ui_st_community">
+		<text>Fraktion</text>
+	</string>
+	<!-- Actor Factions -->
+	<string id="actor">
+		<text>Einzelganger</text>
+	</string>
+	<string id="actor_bandit">
+		<text>Banditen</text>
+	</string>
+	<string id="actor_csky">
+		<text>Clear Sky</text>
+	</string>
+	<string id="actor_dolg">
+		<text>Wachter</text>
+	</string>
+	<string id="actor_ecolog">
+		<text>Okologen</text>
+	</string>
+	<string id="actor_freedom">
+		<text>Freiheit</text>
+	</string>
+	<string id="actor_killer">
+		<text>Soldner</text>
+	</string>
+	<string id="actor_stalker">
+		<text>Einzelganger</text>
+	</string>
+	<string id="actor_army">
+		<text>Militar</text>
+	</string>
+	<string id="actor_monolith">
+		<text>Monolithen</text>
+	</string>
+	<string id="actor_monster">
+		<text>Mutanten</text>
+	</string>
+	<string id="actor_monolith">
+		<text>Monolithen</text>
+	</string>
+	<string id="actor_zombied">
+		<text>Zombie</text>
+	</string>
+	<!-- NPC Factions -->
+	<string id="army">
+		<text>Militar</text>
+	</string>
+	<string id="bandit">
+		<text>Banditen</text>
+	</string>
+	<string id="csky">
+		<text>Clear Sky</text>
+	</string>
+	<string id="dolg">
+		<text>Wachter</text>
+	</string>
+	<string id="ecolog">
+		<text>Okologen</text>
+	</string>
+	<string id="freedom">
+		<text>Freiheit</text>
+	</string>
+	<string id="killer">
+		<text>Soldner</text>
+	</string>
+	<string id="monolith">
+		<text>Monolithen</text>
+	</string>
+	<string id="monster">
+		<text>Mutanten</text>
+	</string>
+	<string id="zombied">
+		<text>Zombie</text>
+	</string>
+
+	<!-- Goodwill -->
+	<string id="ui_st_relation">
+		<text>Gesinnung</text>
+	</string>
+	<string id="st_goodwill_enemy">
+		<text>Feind</text>
+	</string>
+	<string id="st_goodwill_indifferent">
+		<text>Neutral</text>
+	</string>
+	<string id="st_goodwill_friendly">
+		<text>Freund</text>
+	</string>
+
+	<!-- Ranks -->
+	<string id="ui_st_rank">
+		<text>Rang</text>
+	</string>
+	<string id="st_rank_novice">
+		<text>Anfanger</text>
+	</string>
+	<string id="st_rank_trainee">
+		<text>Rekrut</text>
+	</string>
+	<string id="st_rank_experienced">
+		<text>Erfahren</text>
+	</string>
+	<string id="st_rank_professional">
+		<text>Professionel</text>
+	</string>
+	<string id="st_rank_veteran">
+		<text>Veteran</text>
+	</string>
+	<string id="st_rank_expert">
+		<text>Experte</text>
+	</string>
+	<string id="st_rank_master">
+		<text>Meister</text>
+	</string>
+	<string id="st_rank_legend">
+		<text>Legende</text>
+	</string>
+	
+	<!-- Reputations -->
+	<string id="ui_st_reputation">
+		<text>Ruf</text>
+	</string>
+	<string id="st_reputation_terrible">
+		<text>Schrecklich</text>
+	</string>
+	<string id="st_reputation_really_bad">
+		<text>Deprimierend</text>
+	</string>
+	<string id="st_reputation_very_bad">
+		<text>Grauenhaft</text>
+	</string>
+	<string id="st_reputation_bad">
+		<text>Schlecht</text>
+	</string>
+	<string id="st_reputation_neutral">
+		<text>Neutral</text>
+	</string>
+	<string id="st_reputation_good">
+		<text>Gut</text>
+	</string>
+	<string id="st_reputation_very_good">
+		<text>Grossartig</text>
+	</string>
+	<string id="st_reputation_really_good">
+		<text>Brilliant</text>
+	</string>
+	<string id="st_reputation_excellent">
+		<text>Ausgezeichnet</text>
+	</string>
+	
+	<!-- Notifications -->
+	<string id="st_rank_increased">
+		<text>Dein Rang wurde erhoht.</text>
+	</string>
+	<string id="st_rank_decreased">
+		<text>Dein Rang wurde gesenkt.</text>
+	</string>
+	<string id="st_reputation_increased">
+		<text>Dein Ruf hat sich verbessert.</text>
+	</string>
+	<string id="st_reputation_decreased">
+		<text>Dein Rang wurde verschlechtert.</text>
+	</string>
+</string_table>

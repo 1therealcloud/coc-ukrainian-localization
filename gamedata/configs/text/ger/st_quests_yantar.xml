@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+
+<!--===========================================================
+<
+< TEXT  STRINGS FOR TASKS ON YANTAR MAP
+<	CoC 1.3.11
+<
+<	Modified by: DoctorX
+<	March 18, 2016
+<
+<===========================================================-->
+
+<string_table>
+
+
+	<!-- ESCORT ECOGS TASK -->
+	<string id="yan_ecolog_semenov_task_1_name">
+		<text>Begleite Semenov</text>
+	</string>
+	<string id="yan_ecolog_semenov_task_1_text">
+		<text>Assistent Semenov hat dich beauftragt, ihn in der Umgebung zu begleiten, um Mutanten zu toten, damit er frische Gewebeproben entnehmen und die Leichen mit seiner Scan-Ausrustung analysieren kann.</text>
+	</string>
+	<string id="yan_ecolog_semenov_task_1_about">
+		<text>Wurde es dir etwas ausmachen, mir zu helfen einige Mutanten zu toten, damit ich Lesungen und Gewebeproben machen kann? Sagen wir... Uber funf verschiedene Mutanten. Ich werde mein Leben in deine Hande legen und du musstest meine Sicherheit gewahrleisten. Ich werde dich fur deine Bemuhungen entschadigen.</text>
+	</string>
+	<string id="yan_ecolog_semenov_task_1_finish">
+		<text>Danke fur deine Hilfe, mein Freund. Ich habe alle Gewebeproben, die ich brauche. Hier ist deine Zahlung... Komm irgendwann mal wieder.</text>
+	</string>
+
+
+	<!-- FIND MUTANT PARTS FOR ECOGS TASK -->
+	<string id="yan_stalker_sakharov_task_1_name">
+		<text>Finde %s</text>
+	</string>
+	<string id="yan_stalker_sakharov_task_1_text">
+		<text>Sacharow benotigt eine Gewebeprobe von einem %s.</text>
+	</string>
+	<string id="yan_stalker_sakharov_task_1_about">
+		<text>Ich brauche einen erfahrenen Stalker oder einen Mutanten Jager. Bist du einer von den beiden?</text>
+	</string>
+	<string id="yan_stalker_sakharov_task_1_fetch_about">
+		<text>Also, ich brauche Gewebeproben von einem %s. Es ist mir egal, wie du diese Proben erhaltest. Aber stelle nur sicher, dass es frisch ist. Komme sobald wie moglich wieder her wenn du die Proben hast.</text>
+	</string>
+	<string id="yan_stalker_sakharov_task_1_fetch_finish">
+		<text>Danke. Dies wird mir bei meiner Forschung sehr weiterhelfen.</text>
+	</string>
+
+
+	<!-- WAIT FOR PSI HELMET CALIBRATION TASK -->
+	<string id="yan_stalker_sakharov_psi_helmet_upgrade_name">
+		<text>Nimm den Psi-Helm auf</text>
+	</string>
+	<string id="yan_stalker_sakharov_psi_helmet_upgrade_text">
+		<text>Professor Sakharov hat zugestimmt, den Psi-Schutzhelm neu zu kalibrieren. Er hat dich gebeten, in ein paar Tagen zuruckzukommen, um es abzuholen.</text>
+	</string>
+
+
+	<!-- TURN OFF MIRACLE MACHINE TASK -->
+	<string id="brain_machine_deactivate_name">
+		<text>Deaktiviere die Miracle Maschine</text>
+	</string>
+	<string id="brain_machine_deactivate_text">
+		<text>Die Miracle Maschine verhindert, dass Stalker zwischen Yantar und der Toten Stadt unterwegs sind. Fur die Deaktivierung ist eine erweiterte Psi-Schutzausrustung erforderlich.</text>
+	</string>
+
+
+</string_table>

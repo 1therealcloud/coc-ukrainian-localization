@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<!-- yan_ecolog_semenov -->
+	<string id="yan_ecolog_semenov_task_1_name">
+		<text>Допомогти доцентові Семенову</text>
+	</string>
+	<string id="yan_ecolog_semenov_task_1_text">
+		<text>Потрібно супроводити доцента Семенова по околицях, відшукати та вбити декілька мутантів, щоб вчений міг взяти свіжі зразки тканин та просканувати тіла.</text>
+	</string>
+	<string id="yan_ecolog_semenov_task_1_about">
+		<text>Ви не могли б допомогти мені відшукати декілька мутантів для досліджень? Скажімо... п'ять різних особин. Ну і, звичайно, забезпечити мені безпеку під час проведення замірів. Я заплачу Вам за Вашу роботу.</text>
+	</string>
+	<string id="yan_ecolog_semenov_task_1_finish">
+		<text>Дякую за допомогу, сталкере. Я зібрав усі дані, які мені потрібні. Ось Ваша винагорода... Заходьте ще в нашу лабораторію.</text>
+	</string>
+
+	<string id="yan_stalker_sakharov_task_1_name">
+		<text>%s - дістати зразок</text>
+	</string>
+	<string id="yan_stalker_sakharov_task_1_text">
+		<text>%s - дістати зразок тканини мутанта.</text>
+	</string>
+	<string id="yan_stalker_sakharov_task_1_about">
+		<text>Мені потрібен досвідчений мисливець на мутантів для однієї справи. Чи можу я на Вас розраховувати?</text>
+	</string>
+	<string id="yan_stalker_sakharov_task_1_fetch_about">
+		<text>Мені потрібні деякі зразки для досліджень, а саме... %s. Не важливо, де Ви їх дістанете, головне, щоб вони були якомога свіжіші. Після того, як зберете все, що мені потрібно - повертайтеся сюди якомога швидше.</text>
+	</string>
+	<string id="yan_stalker_sakharov_task_1_fetch_finish">
+		<text>Дякую Вам, молодий чоловіче. Я негайно приступаю до досліджень.</text>
+	</string>
+
+	<!-- yan_stalker_sakharov -->
+	<string id="yan_stalker_sakharov_psi_helmet_upgrade_name">
+		<text>Калібрування псі-шолому</text>
+	</string>
+	<string id="yan_stalker_sakharov_psi_helmet_upgrade_text">
+		<text>Професор Сахаров погодився налаштувати псі-шолом. Він попросив прийти через декілька днів.</text>
+	</string>
+
+	<string id="brain_machine_deactivate_name">
+		<text>Вимкнути псі-установку</text>
+	</string>
+	<string id="brain_machine_deactivate_text">
+		<text>Псі-установка своїм випромінюванням закриває прохід між Янтарем та Мертвим Містом. Для її вимкнення потрібні передові пристрої псі-захисту.</text>
+	</string>
+</string_table>

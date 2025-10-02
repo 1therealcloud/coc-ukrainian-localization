@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+    <string id="sar_perception">
+        <text>На північ!</text>
+    </string>
+    <string id="sar_perception_1">
+        <text>Знайти тих, хто ховається за Монолітом.</text>
+    </string>
+    <string id="sar_perception_2">
+        <text>Знайти лабораторію, згадану в рукопису, і дізнатися, що там приховано.</text>
+    </string>
+    <string id="sar_perception_3">
+        <text>Використайте декодер, щоб відкрити двері.</text>
+    </string>
+    <string id="sar_perception_4">
+        <text>Нейтралізуйте охорону, щоб потрапити в кімнату.</text>
+    </string>
+    <string id="sar_perception_5">
+        <text>Дізнайтеся з документів код доступу.</text>
+    </string>  
+    <string id="warlab_kill_crazy_entity_title">
+        <text>Угода з невідомою Сущністю</text>
+    </string>
+    <string id="warlab_kill_crazy_entity_1">
+        <text>Поговоріть з Сущністю</text>
+    </string>
+    <string id="warlab_kill_crazy_entity_2">
+        <text>Убийте три фізичні форми Сущності, щоб відкрити двері</text>
+    </string>
+</string_table>

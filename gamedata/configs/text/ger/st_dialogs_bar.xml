@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+    <string id="bar_arena_man_job_0">
+        <text>Wen hast du fur mich zu kampfen?</text>
+    </string>
+    <string id="bar_arena_man_job_11">
+        <text>Also, dein erster Kampf? Dein Gegner ist ein Stuck Fleisch, genau wie du. Er ist wegen Schulden hier, die er zu begleichen hat und er hat nur zwei Moglichkeiten: Kampfen oder in der nachsten Anomalie zu landen. Er wird kampfen wie ein in die Enge getriebenes Tier. Ausrustung fur heute... Lass mich uberlegen... Wie ware es, wenn ihr zwei grundlegende Pistolen verwendet? Zwei  Magazine werden reichen. Entweder trete ihm in seinen Arsch, oder wir futtern dich zu den Hunden. Keine grosse Wahl, was? Hehe.</text>
+    </string>
+    <string id="bar_arena_man_job_111">
+        <text>Ich bin bereit.</text>
+    </string>
+    <string id="bar_arena_man_job_112">
+        <text>Ich bin nicht bereit.</text>
+    </string>
+    <string id="bar_arena_man_job_12">
+        <text>Dein letzter Kampf bedeutete garnichts. Du bist immer noch das gleiche Stuck Fleisch, das du zuvor warst, und keine Person, die sich selbst respektiert, wird ein einziges Magazin auf dich setzen. Wenn du etwas Geld verdienen willst, musst du noch ein paar Auftritte in der Arena machen. Dein neuer Gegner hat auch die erste Runde uberstanden, und sein Kampf war viel harter als deins. Ich mag ihn nicht, um ehrlich zu sein. Er totet zu schnell und die Menge mag das nicht. Also, zeig uns was du kannst! Die Einsatze werden sich nach diesem Kampf erhohen. Alles, was du tun musst, ist am Leben zu bleiben. Na los!</text>
+    </string>
+    <string id="bar_arena_man_job_121">
+        <text>Ich bin bereit.</text>
+    </string>
+    <string id="bar_arena_man_job_122">
+        <text>Ich bin nicht bereit.</text>
+    </string>
+    <string id="bar_arena_man_job_13">
+        <text>Naja, naja... Bist wohl doch nicht so ein Weichei, wie ich zuerst dachte... Jetzt ist es Zeit, dich in einem echten Kampf zu testen. Du musst dieses mal gegen zwei Leute antreten. Der erste heisst Swede und ich erinnere mich nicht an den Namen des zweiten. Sie wurden absichtlich verbunded, da sie sich so sehr hassen, das sie sich kaum mehr in die Augen sehen konnen, also sorge dich nicht darum das sie als Team arbeiten. Sie knallen sich eher gegenseitig ab. Heute ist Gewehrtag, also lass sie nicht zu nahe kommen, sonst mussen wir dich Stuck fur Stuck abholen. Die Chancen sind 10:1, wenn du gewinnst, steigen die Einsatze. Es kann losgehen!</text>
+    </string>
+    <string id="bar_arena_man_job_131">
+        <text>Ich bin bereit.</text>
+    </string>
+    <string id="bar_arena_man_job_132">
+        <text>Ich bin nicht bereit.</text>
+    </string>
+    <string id="bar_arena_man_job_14">
+        <text>Jetzt kann ich sicher sagen, dass du ein Kampfer bist. Ein echter Kampfer! Jetzt ist es Zeit fur einen Teamkampf. Du kampfst mit zwei Anfangern. Die beiden sind Bruder. Sie sind beide auf deiner Seite. Die beiden kampften noch nicht, aber da sie Bruder sind, musste ich die beiden in einen Teamkampf bringen. Ich wurde keine wirkliche Hilfe von ihnen erwarten, wenn ich du ware. Ihr kampft gegen ein erfahrenes Team. Die beiden sind Kandidaten fur das Finale in dieser Saison. Eine gefahrliche Menge. Sie benutzen verschiedene Waffen, aber eine hat eine automatische Schrotflinte, also ist vorsicht geraten! Viel Gluck, Kumpel. Du wirst es brauchen...</text>
+    </string>
+    <string id="bar_arena_man_job_141">
+        <text>Ich bin bereit.</text>
+    </string>
+    <string id="bar_arena_man_job_142">
+        <text>Ich bin nicht bereit.</text>
+    </string>
+    <string id="bar_arena_man_job_15">
+        <text>Du hast Heute einen besonderen Kampf. Sogar die Armee hat von dir gehort! Sei nicht uberrascht, sie kampfen auch hier. Es gibt sogar einen General in der Menge. Diese Jungs kommen aus dem Spetsnaz oder OMON. Sie sind gut bewaffnet und ihre Rustung ist besser, als du es dir erwarten wirst. Mach dir keine Sorgen, ich werde dich nicht hangen lassen. Du bekommst eine Weste, die von der Freiheit benutzt wird. Sie ist leicht, um dich nicht zu verlangsamen, also erwarte dir nicht zu guten Schutz! Mach schon, zeig ihnen, dass Stalker keine Prugelknaben sind. Viel Gluck!</text>
+    </string>
+    <string id="bar_arena_man_job_151">
+        <text>Ich bin bereit.</text>
+    </string>
+    <string id="bar_arena_man_job_152">
+        <text>Ich bin nicht bereit.</text>
+    </string>
+    <string id="bar_arena_man_job_16">
+        <text>Es wird Zeit, das du zeigst, was du so alles drauf hast! Die Wachter nahmen eine Gruppe von Banditen gefangen, die Stalkern in der Nahe von Rostok Probleme bereitet hatten. Die Wachter fangten sie nachts, so dass die meisten Banditen am Leben waren. Sie wurden sowieso alle hingerichtet, also uberredete ich die Wachter, ihnen eine Chance zu geben. Wenn einige von ihnen uberleben, werden sie ausserhalb der Zone in die Dose gehen, was auch besser ist, als hier zu sterben. Sie sind nicht gut bewaffnet. Wahrscheinlich nur ein paar Pistolen und abgesagte Schrotflinten. aber es gibt sechs von ihnen, also pass auf dich auf. Jetzt geh weiter!</text>
+    </string>
+    <string id="bar_arena_man_job_161">
+        <text>Ich bin bereit.</text>
+    </string>
+    <string id="bar_arena_man_job_162">
+        <text>Ich bin nicht bereit.</text>
+    </string>
+    <string id="bar_arena_man_job_17">
+        <text>Nun, du bist fast im Finale! Jetzt kampfst du gegen einen echten Stalker. Er ist allein, aber er hat ein Sturmgewehr und er ist in einem Exoskelett. Fang einen Burst des Gewehrs, und du bist Toast. Es wird eine Uberraschung geben, von der ich dir nicht erzahlen kann... Mein Rat: Sei vorbereitet. Es wird hart werden. Der Gewinner schafft es bis ins Finale. Kampfe bis zum Tod, geh!</text>
+    </string>
+    <string id="bar_arena_man_job_171">
+        <text>Ich bin bereit.</text>
+    </string>
+    <string id="bar_arena_man_job_172">
+        <text>Ich bin nicht bereit.</text>
+    </string>
+    <string id="bar_arena_man_job_18">
+        <text>Gluckwunsch, Kumpel! Du bist im Finale! Noch eine einzige Runde, und dieses mal ist es alle gegen alle! Es wird 4 weitere Stalker in der Arena geben: Alle echten Profis in Exoskeletten, aber diesmal ist es ein fairer Deal. Du bekommst genau das, was sie haben. Der einzige Nachteil ist, dass ihr alle keine Medikits oder Bandagen bekommt. Bereit? Geh und beweise, dass du der Beste bist! LOS!</text>
+    </string>
+    <string id="bar_arena_man_job_181">
+        <text>Ich bin bereit.</text>
+    </string>
+    <string id="bar_arena_man_job_182">
+        <text>Ich bin nicht bereit.</text>
+    </string>
+    <string id="bar_arena_man_start_111112">
+        <text>Yo! Du hast mich fur einen Kampf bezahlt, aber du bist einfach weggegangen!</text>
+    </string>
+    <string id="bar_arena_man_start_11">
+        <text>Yo! Ich habe einen neuen Kampf fur dich!</text>
+    </string>
+    <string id="bar_arena_man_start_21">
+        <text>Geh was trinken oder so. Die Arena hat gerade keine Kampfer.</text>
+    </string>
+    <string id="bar_arena_man_start_31">
+        <text>Du bist schon ein Profi!!!</text>
+    </string>
+    <string id="bar_arena_man_start_41">
+        <text>Du hast gewonnen! Hier ist deine Belohnung.</text>
+    </string>
+    <string id="bar_arena_man_start_51">
+        <text>Du hast nicht die notige Erfahrung fur diesen Kampf!</text>
+    </string>
+    <string id="bar_arena_manager_game_0">
+        <text>Welche Herausforderung hast du fur mich?</text>
+    </string>
+    <string id="bar_arena_manager_game_1">
+        <text>Es gibt keinen Kampf. Komm spater wieder, wenn wir noch mehr Mutanten haben.</text>
+    </string>
+    <string id="bar_arena_manager_game_100">
+        <text>Es gibt eine Gebuhr fur die Teilnahme. 1.000 RU.</text>
+    </string>
+    <string id="bar_arena_manager_game_101">
+        <text>Fein. Hier ist dein Geld</text>
+    </string>
+    <string id="bar_arena_manager_game_105">
+        <text>Ich habe nicht genug Geld.</text>
+    </string>
+    <string id="bar_arena_manager_game_1051">
+        <text>Dann verschwinde, Stalker.</text>
+    </string>
+    <string id="bar_arena_manager_game_110">
+        <text>Du schuldest mir 2,000 RU als Gebuhr</text>
+    </string>
+    <string id="bar_arena_manager_game_111">
+        <text>Fein, hier ist dein Geld.</text>
+    </string>
+    <string id="bar_arena_manager_game_11111112">
+        <text>Ich hab dich schon bezahlt!</text>
+    </string>
+    <string id="bar_arena_manager_game_115">
+        <text>Ich habe nicht genug Geld.</text>
+    </string>
+    <string id="bar_arena_manager_game_1151">
+        <text>Dann hor auf so viele Fragen zu stellen.</text>
+    </string>
+    <string id="bar_arena_manager_game_120">
+        <text>Zahle 3.000 RU als Gebuhr, und der Blutsauger gehort dir.</text>
+    </string>
+    <string id="bar_arena_manager_game_121">
+        <text>Fein, hier ist dein Geld.</text>
+    </string>
+    <string id="bar_arena_manager_game_125">
+        <text>Ich habe nicht genug Geld.</text>
+    </string>
+    <string id="bar_arena_manager_game_1251">
+        <text>Hor auf meine Zeit zu verschwenden, Stalker.</text>
+    </string>
+    <string id="bar_arena_manager_game_130">
+        <text>Nicht so schnell! Die Gebuhren kosten 5,000 RU.</text>
+    </string>
+    <string id="bar_arena_manager_game_131">
+        <text>Fein, hier ist dein Geld.</text>
+    </string>
+    <string id="bar_arena_manager_game_135">
+        <text>Ich habe nicht genug Geld.</text>
+    </string>
+    <string id="bar_arena_manager_game_1351">
+        <text>Hor auf einen Bettler nachzumachen, Mann.</text>
+    </string>
+    <string id="bar_arena_manager_game_140">
+        <text>Die Gebuhren kosten 5,000 RU.</text>
+    </string>
+    <string id="bar_arena_manager_game_141">
+        <text>Fein, hier ist dein Geld.</text>
+    </string>
+    <string id="bar_arena_manager_game_145">
+        <text>Ich habe nicht genug Geld.</text>
+    </string>
+    <string id="bar_arena_manager_game_1451">
+        <text>Lass mich raten, jemand hat deine Rubel gestohlen?</text>
+    </string>
+    <string id="bar_arena_manager_game_2">
+        <text>There's a pseudodog. A large specimen, but quite beaten up. On the other hand it's a very fierce one, just like my mother-in-law.</text>
+    </string>
+    <string id="bar_arena_manager_game_200">
+        <text>Deal. Eine weitere Sache. Setzen einen Anteil an der Zeit, die du benotigst, um es zu toten. Wenn du es schaffst, gewinnst du. Wenn nicht... Tja, dann nicht. Dann hast du verloren. Je weniger Zeit, desto grosser die gewonnene Belohnung.</text>
+    </string>
+    <string id="bar_arena_manager_game_201">
+        <text>30 Sekunden, Dreifacher Gewinn.</text>
+    </string>
+    <string id="bar_arena_manager_game_202">
+        <text>Anderthalb Minuten, Doppelter Gewinn.</text>
+    </string>
+    <string id="bar_arena_manager_game_203">
+        <text>Ohne zeitliche Begrenzung, Ein halber Pfahl Gewinn.</text>
+    </string>
+    <string id="bar_arena_manager_game_204">
+        <text>Ich habe es mir anders uberlegt.</text>
+    </string>
+    <string id="bar_arena_manager_game_2041">
+        <text>Harte Scheisse. Du hast bereits bezahlt.</text>
+    </string>
+    <string id="bar_arena_manager_game_21">
+        <text>Ich kann das tun. Ich kampfe gegen deinen Hund.</text>
+    </string>
+    <string id="bar_arena_manager_game_22">
+        <text>Ein Hund? Ist das alles was du hast?</text>
+    </string>
+    <string id="bar_arena_manager_game_221">
+        <text>Aw, hat unser Madchen Angst vor einem kleinen Hundchen? Sei nicht sauer.</text>
+    </string>
+    <string id="bar_arena_manager_game_3">
+        <text>Da ist ein Freak in einer Gasmaske, auch bekannt als Snork. Dunn und schwach aussehend, aber ziemlich stark.</text>
+    </string>
+    <string id="bar_arena_manager_game_300">
+        <text>Grossartig! Wir bereiten alles vor. Betrete die Arena.</text>
+    </string>
+    <string id="bar_arena_manager_game_31">
+        <text>Her damit. Ich werde gegen deinen Snork kampfen.</text>
+    </string>
+    <string id="bar_arena_manager_game_32">
+        <text>Sie drehen meinen Magen um. Auf keinen Fall!</text>
+    </string>
+    <string id="bar_arena_manager_game_321">
+        <text>Angst vor einem halbverfaulten Gasmasken Freak?</text>
+    </string>
+    <string id="bar_arena_manager_game_4">
+        <text>Dieses Mal haben wir wirklich Gluck gehabt. Wir haben einen jungen Blutsauger gefangen. Immernoch dumm, aber schon mit schlechten Manieren.</text>
+    </string>
+    <string id="bar_arena_manager_game_41">
+        <text>Mach schon, mach den Blutsauger fertig.</text>
+    </string>
+    <string id="bar_arena_manager_game_42">
+        <text>Ein Blutsauger? Drauf geschissen!</text>
+    </string>
+    <string id="bar_arena_manager_game_421">
+        <text>Was? Jetzt liebst du Blutsauger? Wann bist du der Freiheit beigetreten?</text>
+    </string>
+    <string id="bar_arena_manager_game_5">
+        <text>Diesmal haben wir einen fetten kleinen Zwerg in einem schwarzen Umhang. Eie Einheimischen nennen ihn einen Burer.</text>
+    </string>
+    <string id="bar_arena_manager_game_51">
+        <text>Fett und klein? Ich mach den fertig!</text>
+    </string>
+    <string id="bar_arena_manager_game_52">
+        <text>Ich habe alles uber diese Dinge gehort. Ich verzichte darauf.</text>
+    </string>
+    <string id="bar_arena_manager_game_521">
+        <text>Er erreicht deine Taille kaum in der Hohe. Und er macht dir Angst?</text>
+    </string>
+    <string id="bar_arena_manager_game_6">
+        <text>Heute ist ein besonderer Tag. Ich weiss nicht wo sie... ihn gefunden haben... aber er ist ein echtes Biest.</text>
+    </string>
+    <string id="bar_arena_manager_game_61">
+        <text>Deal. Ich befreie ihn von seinem Leid.</text>
+    </string>
+    <string id="bar_arena_manager_game_62">
+        <text>Ich habe gerade keine Lust zu sterben. Such jemand anderen.</text>
+    </string>
+    <string id="bar_arena_manager_game_621">
+        <text>Nun, ehrlich gesagt finde ich das Biest unheimlich. Aber ich kampfe nicht in der Arena, also wen interessiert das?</text>
+    </string>
+    <string id="bar_arena_manager_info_0">
+        <text>Ich habe ein paar Fragen.</text>
+    </string>
+    <string id="bar_arena_manager_info_1">
+        <text>Schiess los.</text>
+    </string>
+    <string id="bar_arena_manager_info_10">
+        <text>Vergiss es.</text>
+    </string>
+    <string id="bar_arena_manager_info_11">
+        <text>Was ist das fur eine Einrichtung?</text>
+    </string>
+    <string id="bar_arena_manager_info_111">
+        <text>Das ist die Arena. Mein kleines Geschaft. Ein Ort, wo Stalker ihren Mut beweisen und ihren Ruhm durch den Kampf gegen die Schrecken der Zone verdienen konnen.</text>
+    </string>
+    <string id="bar_arena_manager_info_12">
+        <text>Wie bekommt ihr die Mutanten hierher?</text>
+    </string>
+    <string id="bar_arena_manager_info_121">
+        <text>Wir haben einen Deal mit den Wachtern gemacht. Anstatt alle Mutanten zu toten die sie finden, bringen sie die verwundeten oder die Schwacheren Mutanten gegen Geld her. Die Wachter werden bezahlt. Die Mutanten werden getotet und dann werde ich bezahlt. Jeder bekommt etwas.</text>
+    </string>
+    <string id="bar_arena_manager_info_13">
+        <text>Woher kommst du?</text>
+    </string>
+    <string id="bar_arena_manager_info_131">
+        <text>Ich komme von vielen Orten. Ich hatte gehort das sich in Rostok gut Geld macht, wenn man dort etwas besitzt, oder eine Leistung bringt. Bis jetzt habe ich es nicht bereut.</text>
+    </string>
+    <string id="bar_arena_manager_rules_0">
+        <text>Was sind die Regeln?</text>
+    </string>
+    <string id="bar_arena_manager_rules_1">
+        <text>Oh, die Regeln sind ziemlich einfach. Ich habe sie selbst erfunden. Fur Herausforderungen gibt es einen Kafig und ein Mutant wird in den Kafig gelassen. Du zahlst Geld und sagst mir die Zeit, die du brauchst, um das Monster zu toten. Wenn du es schaffst, gewinnst du, wenn nicht, dann gewinne ich.\nAber fur das Hauptgericht kampfen, von den Wachtern gefangen genommene Banditen und andere Truppen in der Arena fur ihre Verbrechen. Manche sind nur Stalker, die sich in einen Kampf begeben wollen, und nicht wirklich Verbrecher. Aber wer auch immer die Arena in der geringsten Anzahl von Stucken verlasst, bekommt eine betrachtliche Belohnung. Wenn sie weiterhin Kampfe gewinnen, werden mehr Stalker kommen, und die Kampfer kriegen immer grossere Belohnungen.</text>
+    </string>
+    <string id="bar_arena_manager_start_11">
+        <text>Schon dich zu sehen, Stalker. Willkommen in der Arena!</text>
+    </string>
+    <string id="bar_arena_manager_start_21">
+        <text>Also, worauf wartest du? Geh in den Kafig!</text>
+    </string>
+    <string id="bar_arena_manager_start_31">
+        <text>Tut mir leid, aber es gibt gerade keine Kampfe. Warte ein paar Tage, bis wir neue Mutanten fangen konnen.</text>
+    </string>
+    <string id="bar_arena_manager_start_41">
+        <text>Da bist du ja! Gut gemacht! Hier ist deine Belohnung. Wenn du einen anderen Kampf fur Geld haben willst, dann schau einfach vorbei.</text>
+    </string>
+    <string id="bar_arena_manager_start_51">
+        <text>Tut mir leid, Bro. Aber du verlierst. Komm nachstes mal wieder, wenn du willst.</text>
+    </string>
+    <string id="bar_visitors_barman_stalker_trader_start_dialog_11">
+        <text>Oh, Hallo. Was geht?</text>
+    </string>
+    <string id="bar_visitors_barman_stalker_trader_start_dialog_12">
+        <text>Was brauchst du, Stalker?</text>
+    </string>
+    <string id="bar_visitors_barman_stalker_trader_start_dialog_13">
+        <text>Bist du hier um Zeug zu kaufen?</text>
+    </string>
+    <string id="bar_visitors_stalker_mechanic_start_dialog_1">
+        <text>Hey Mann, wie lauft es in der Zone? Also... Ich hoffe, du hast Reparaturarbeiten, die erledigt werden mussen... Heh, ich brauche dringend etwas Bargeld.</text>
+    </string>
+</string_table>

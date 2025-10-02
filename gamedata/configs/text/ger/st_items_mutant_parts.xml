@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="mutant_flesh_meat">
+		<text>Flesh Fleisch</text>
+	</string>
+	<string id="mutant_flesh_meat_description">
+		<text>Hartes und bitteres Fleisch ist eine haufig gegessene Mahlzeit in der Zone. Preiswert, aber die meisten Stalker wurden uberteuerte Konserven angesichts der Wahl bevorzugen.</text>
+	</string>
+	
+	<string id="mutant_boar_chop">
+		<text>Wildschwein Schnitzel</text>
+	</string>
+	<string id="mutant_boar_chop_description">
+		<text>Viel schwieriger zu kauen als ihr nicht radioaktives Gegenstuck au?erhalb der Zone. Mutierte Wildschweinkoteletts erzielen einen niedrigen aber angemessenen Preis.</text>
+	</string>
+	
+	<string id="mutant_dog_meat">
+		<text>Hundefleisch</text>
+	</string>
+	<string id="mutant_dog_meat_description">
+		<text>Haufig geerntet und in der Zone gehandelt. Aufgrund seines weniger bitteren Geschmacks ist er Flesh Fleisch vorzuziehen. Trades fur einen niedrigen, aber akzeptablen Preis.</text>
+	</string>
+	
+	<string id="mutant_psevdodog_meat">
+		<text>Pseudohund Fleisch</text>
+	</string>
+	<string id="mutant_psevdodog_meat_description">
+		<text>Harter als Hundefleisch zu erhalten, schmeckt aber fast genau gleich. Die meisten Stalker zahlen deshalb nicht viel Geld.</text>
+	</string>
+	
+	<string id="mutant_krovosos_meat">
+		<text>Blutsauger Fleisch</text>
+	</string>
+	<string id="mutant_krovosos_meat_description">
+		<text>Eine sehnige Portion Blutsaugerfleisch. Trotz der Risiken, die mit dem Toten verbunden sind, wird es wegen seines fauligen Geschmacks oft billig verkauft.</text>
+	</string>
+	
+	<string id="mutant_snork_hand">
+		<text>Snork Hand</text>
+	</string>
+	<string id="mutant_snork_hand_description">
+		<text>Die abgetrennte Hand eines Snorks. Nicht drastisch verschieden von dem einer Person, aber vollig grau und mit Blasen und offenen Wunden bedeckt.</text>
+	</string>
+	
+	<string id="mutant_fracture_hand">
+		<text>Fracture Hand</text>
+	</string>
+	<string id="mutant_fracture_hand_description">
+		<text>Eine Hand, die einst zu einem Fracture gehorte. Obwohl dunn und sehr knochig, hat es auch aussergewohnlich lange und spitze Finger.</text>
+	</string>
+	
+	<string id="mutant_zombi_hand">
+		<text>Zombie Hand</text>
+	</string>
+	<string id="mutant_zombi_hand_description">
+		<text>Eine schmutzige und widerliche Hand von einem Zombie. Nachdem sie alle, ausser ihren grundlegenden Instinkten verloren haben, greifen zombifizierte Stalker auf ihre Hande als Waffen zuruck.</text>
+	</string>
+	
+	<string id="mutant_chimera_meat">
+		<text>Chimera Fleisch</text>
+	</string>
+	<string id="mutant_chimera_meat_description">
+		<text>Eine schwere Fleischplatte aus einer Chimera. Nicht viele bekommen die Chance, sich an solch einer schrecklichen Bestie zu ergotzen, so dass das Fleisch naturlich zu hohen Preisen verkauft wird.</text>
+	</string>
+	
+	<string id="mutant_tushkano_meat">
+		<text>Nagetierfleisch</text>
+	</string>
+	<string id="mutant_tushkano_meat_description">
+		<text>Wahrend es in kleinen Portionen kommt, gibt es auch ein ziemlich grosses Angebot. Stalker wurden nur ganz wenig fur sowas bezahlen.</text>
+	</string>
+	
+	<string id="mutant_flesh_eye">
+		<text>Flesh Auge</text>
+	</string>
+	<string id="mutant_flesh_eye_description">
+		<text>Ganz anders als die Schweine, von denen sie abstammten, ist der Augapfel eines Fleshes schwer, gross und vollig braun gefarbt.</text>
+	</string>
+	
+	<string id="mutant_boar_leg">
+		<text>Wildschwein Hufe</text>
+	</string>
+	<string id="mutant_boar_leg_description">
+		<text>Wildschwein Hufe werden oft von einigen Stalker um den Hals als Glucksbringer getragen. Wahrend andere glauben, dass sie mehr "exotische" Anwendungen haben, wenn sie zu einem feinen Pulver vermahlen werden.</text>
+	</string>
+	
+	<string id="mutant_dog_tail">
+		<text>Hundeschwanz</text>
+	</string>
+	<string id="mutant_dog_tail_description">
+		<text>Ein langer, haarloser Schwanz, der fruher am hinteren Ende eines Hundes befestigt war. Ohne praktischen Nutzen sind sie die billigste aller mutanten Korperteile in der Zone.</text>
+	</string>
+	
+	<string id="mutant_psevdodog_tail">
+		<text>Psuedohund Schwanz</text>
+	</string>
+	<string id="mutant_psevdodog_tail_description">
+		<text>Das Fell, das den Schwanz eines Pseudodogs bedeckt, ist ein grosser Isolator und wird oft in Kleidung und gepanzerten Anzugen genaht, wenn er sich den kalteren Jahreszeiten nahert.</text>
+	</string>
+	
+	<string id="mutant_krovosos_jaw">
+		<text>Blutsauger Tentakeln</text>
+	</string>
+	<string id="mutant_krovosos_jaw_description">
+		<text>Tentakeln aus einem Blutsauger erzeugen ein Ferment, das sich selbst durch die hartesten Mutantenhaute auflosen kann und gleichzeitig die Gerinnung von Blut verhindert. Viele Forscher, einschliesslich der Okologen, glauben, dass sie viele Geheimnisse fur grosse medizinische Fortschritte halten.</text>
+	</string>
+	
+	<string id="mutant_snork_leg">
+		<text>Snork Fuss</text>
+	</string>
+	<string id="mutant_snork_leg_description">
+		<text>Hochelastische Sehnen, die in den Fussen und Beinen von Snorken gefunden werden, geben ihnen die Fahigkeit, aussergewohnlich lange Sprunge zu machen, viel weiter als normale Menschen.</text>
+	</string>
+	
+	<string id="mutant_chimera_cogot">
+		<text>Chimera Zahn</text>
+	</string>
+	<string id="mutant_chimera_cogot_description">
+		<text>Ein Zahn aus dem Mund einer Chimera extrahiert. Ungewohnlich ist, dass die Chimare wahrend ihrer gesamten Lebenszeit Zahne abwirft und ersetzt, was bedeutet, dass die meisten Zahne gebrochen oder abgenutzt sind und nicht sehr wertvoll sind.</text>
+	</string>
+	
+	<string id="mutant_chimera_claw">
+		<text>Chimera Klaue</text>
+	</string>
+	<string id="mutant_chimera_claw_description">
+		<text>Obwohl sie in der Lage sind, mehrere Blatter Kevlar ohne Muhe zu durchtrennen, werden sie oft durch solch extremen Gebrauch abgenutzt und werden ahnlich wie ihre Zahne haufig vergossen und ersetzt, was sie zu einer billigen Sache macht.</text>
+	</string>
+	
+	<string id="mutant_tushkano_head">
+		<text>Tushkano Kopf</text>
+	</string>
+	<string id="mutant_tushkano_head_description">
+		<text>Die Augen, Ohren, Mund und Nase eines Tushkano in einem kleinen, winzigen Paket. Nicht sehr nutzlich, doch sehr wertvoll.</text>
+	</string>
+	
+	<string id="mutant_controller_brain">
+		<text>Controller Gehirn</text>
+	</string>
+	<string id="mutant_controller_brain_description">
+		<text>The brains of controllers are highly developed, able to take over the minds of other beings. For this very reason they are highly sought after by the Ecologists and can be sold for much more than most other mutant parts.</text>
+	</string>
+	
+	<string id="mutant_controller_hand">
+		<text>Controller Hand</text>
+	</string>
+	<string id="mutant_controller_hand_description">
+		<text>A controller's hands are believed to assist its brain with some of its mental abilities, such as directing psychic bolt attacks. As such, they are just as highly sought after by the Ecologists, who value them equally as important as the controller's brain.</text>
+	</string>
+	
+	<string id="mutant_cat_tail">
+		<text>Katzenschwanz</text>
+	</string>
+	<string id="mutant_cat_tail_description">
+		<text>Es wird angenommen, dass sich Katzen in der Zone aus der lokalen Population von wildem Lynx entwickelt haben. Ihre Schwanze werden von Stalker als ein Symbol der Wahrnehmung getragen. Geben ihnen zumindest einen gewissen Wert im Gegensatz zu denen ihrer Hunde Pendants.</text>
+	</string>
+	
+	<string id="mutant_pseudogigant_hand">
+		<text>Pseudogiant Hand</text>
+	</string>
+	<string id="mutant_pseudogigant_hand_description">
+		<text>Eine grosse, muskulose Hand von einem Pseudogiant, die ironischerweise einer der kleinsten Korperteile der Kreatur sind. Nicht sehr nutzlich, aber schwer zu bekommen, so dass sie immer noch einen guten Preis bekommen konnen, wenn sie an den richtigen Kaufer verkauft werden.</text>
+	</string>
+	
+	<string id="mutant_pseudogigant_eye">
+		<text>Pseudogiant Auge</text>
+	</string>
+	<string id="mutant_pseudogigant_eye_description">
+		<text>Ein grosser, grotesker Augapfel, der fruher zu einem Pseudogiganten gehorte. Es ist interessant zu bemerken, dass Augapfel eines Pseudogianten normalerweise zwei verschiedene Grossen haben. Obwohl es nicht so besonders interessant sind, kann es normalerweise fur einen guten Preis verkaufet werden.</text>
+	</string>
+	
+	<string id="mutant_burer_hand">
+		<text>Burer Hand</text>
+	</string>
+	<string id="mutant_burer_hand_description">
+		<text>Die Hande eines Burgers sind direkt mit ihren psychischen Fahigkeiten verbunden, in der Lage, Objekte zu bewegen, sich abzuschirmen und Schockwellen aus der Entfernung zu verursachen. Naturlich sind sie fur die Okologen von besonderem Interesse und sehr wertvoll.</text>
+	</string>
+</string_table>

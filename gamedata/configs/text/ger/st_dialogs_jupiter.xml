@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+
+	<string id="jup_a6_freedom_trader_ashot_start_dialog_0">
+		<text>Was soll ich dir Heute so verkaufen?</text>
+	</string>
+	<string id="jup_b19_freedom_yar_start_dialog_0">
+		<text>Hallo, Stalker. Was brauchst du?</text>
+	</string>
+	
+	<string id="jup_b220_trapper_start_11">
+		<text>Ich bin Trapper... Was dich angeht; Du brauchst dich nicht vorzustellen.</text>
+	</string>
+	<string id="jup_b220_trapper_start_12">
+		<text>Was fuhrt dich hierher?</text>
+	</string>
+	
+	<string id="jup_a6_stalker_medik_start_dialog_0">
+		<text>Suchst du medizinische Versorgung oder bist du nur hier fur ein Gesprach?</text>
+	</string>
+	<string id="jup_a6_stalker_medik_need_health_care_0">
+		<text>Ich brauche Medizinische Hilfe.</text>
+	</string>
+	<string id="jup_a6_stalker_medik_need_health_care_1">
+		<text>Lass uns mal einen Blick darauf werfen...</text>
+	</string>
+	<string id="jup_a6_stalker_medik_need_health_care_2">
+		<text>Lass uns mal einen Blick darauf werfen... Nun, deine Leber ist grosser als ich erwartet hatte. Aber das ist eine ja nur ein Berufsrisiko, oder? Abgesehen davon, bist du so gesund wie ein Apfel.</text>
+	</string>
+	<string id="jup_a6_stalker_medik_need_health_care_11">
+		<text>[fortsetzen...]</text>
+	</string>
+	<string id="jup_a6_stalker_medik_need_health_care_111">
+		<text>Das ist besser.</text>
+	</string>
+	
+	<string id="jup_a6_freedom_leader_start_dialog_11">
+		<text>Also, was hast du so zu sagen?</text>
+	</string>
+	<string id="jup_a6_freedom_leader_start_dialog_12">
+		<text>Was ist dein Ziel hier?</text>
+	</string>
+	<string id="jup_a6_freedom_leader_about_you_0">
+		<text>Erzahle mir etwas uber die Freiheit-</text>
+	</string>
+	<string id="jup_a6_freedom_leader_about_you_1">
+		<text>Es ist eine sehr lange Geschichte. Was willst du wissen?</text>
+	</string>
+	<string id="jup_a6_freedom_leader_about_you_1111">
+		<text>Was machst du hier</text>
+	</string>
+	<string id="jup_a6_freedom_leader_about_you_11111">
+		<text>Wir stellen sicher, dass verschiedene Beamte nichts vor dem gewohnlichen Volk verbergen. Du weisst, wie es ist: Sobald sie ein neues Labor oder Dokumente finden, die die Geheimnisse der Zone aufklaren, organisieren sie sofort eine Militaroperation und saubern alles besser als ein verfluchter Staubsauger. Die einzige Moglichkeit, Scheisse zu finden, ist es zuerst da zu sein.</text>
+	</string>
+	<string id="jup_a6_freedom_leader_about_you_1112">
+		<text>Was hat dich zum Zentrum der Zone gefuhrt?</text>
+	</string>
+	<string id="jup_a6_freedom_leader_about_you_11121">
+		<text>Nun, die Jungs hatten Lust, an einem neuen Ort spazieren zu gehen. Haha, nein, ich mache nur Spass. Es ist eine Gelegenheit, Sachen zu finden, die die Welt vorher nicht gesehen hat. Weder die Armee, noch die Stalker waren schon einmal hier. Also gibt es uberall etwas neues.</text>
+	</string>
+	<string id="jup_a6_freedom_leader_about_you_111211">
+		<text>Hast du irgendwas gefunden?</text>
+	</string>
+	<string id="jup_a6_freedom_leader_about_you_1112111">
+		<text>A couple of locked doors and some weird new artefacts.</text>
+	</string>
+	<string id="jup_a6_freedom_leader_about_you_1113">
+		<text>Wie bist du in der Freiheit gelandet?</text>
+	</string>
+	<string id="jup_a6_freedom_leader_about_you_11131">
+		<text>Nun, ich war mit Freiheitsfuhrern befreundet, bevor die Zone uberhaupt existierte. Wohlgemerkt, in den fruheren Tagen waren sie keine Fuhrer. Sie waren normale Hippies. Als ich also auf der Suche nach Artefakten in die Zone einstieg und bekannte Gesichter sah, dachte ich mir, ich konnte genauso gut mit dem, was ich weiss, teilen und weiter erforschen.</text>
+	</string>
+	<string id="jup_a6_freedom_leader_about_you_1114">
+		<text>Was haltest du von den Wachtern?</text>
+	</string>
+	<string id="jup_a6_freedom_leader_about_you_11141">
+		<text>Sie sind Idioten, das ist, was ich von denen halte. Ich meine, warum zur Holle wurden sie die Zone zerstoren wollen? Es verbraucht keine wertvollen Ressourcen oder wird grosser oder so. Sie konnten einfach nur da sitzen und es nach Herzenslust studieren. Denke einfach mal daruber nach, wie viele wissenschaftliche Entdeckungen gemacht werden konnten... Ich meine, in der Geschichte der Menschheit war niemand in der Lage, die Gravitation zu verstehen, richtig ? Und in der Zone hast du fertige Anti-Schwerkraft-Gerate, die uberall liegen! Es wurde nicht schaden, ihre Arsche hier rauszuschmeissen, aber es ist zu viel Arger. Ubrigens, lass dich von unseren Beziehungen hier in Yanov nicht irritieren. Wir sind noch im Krieg... Es ist nur so, dass Yanov zum neutralem Territorium gemacht wurde, wenn du verstehst, was ich meine.</text>
+	</string>
+	<string id="jup_a6_freedom_leader_about_you_1115">
+		<text>Okay, vergiss es.</text>
+	</string>
+	<string id="jup_a6_freedom_leader_about_you_11151">
+		<text>Kein Problem.</text>
+	</string>
+	
+	<string id="jup_a6_stalker_barmen_start_dialog_11">
+		<text>Willkommen in meiner bescheidenen Bleibe des Vergnugens und der Freude! Du etwar auch nach Freude, Vergnugen oder beides in gleichem Masse?</text>
+	</string>
+	<string id="jup_a6_stalker_barmen_start_dialog_12">
+		<text>Kommst du, um zu chillen? Meine Getranke sind nichts Besonderes, aber dies ist ein einladender und freundlicher Ort!</text>
+	</string>
+	<string id="jup_a6_stalker_barmen_start_dialog_13">
+		<text>Ich habe all die Scheisse, die du jemals brauchen wirst! Was willst du? Lust auf etwas Essen. Einen Drink vielleicht? Oder Lust auf ein paar Zigaretten?</text>
+	</string>
+	
+	<string id="jup_b6_scientist_nuclear_physicist_start_11">
+		<text>Was willst du mir so erzahlen?</text>
+	</string>
+	<string id="jup_b16_biochemist_oasis_start_11">
+		<text>Was fuhrt dich hierher?</text>
+	</string>
+	
+	<string id="jup_b6_scientist_medic_start_11">
+		<text>Was fuhrt dich hierher?</text>
+	</string>
+	
+</string_table>

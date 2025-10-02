@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	
+	<string id="st_achievement_1_name">
+		<text>Grosse Taschen</text>
+	</string>
+	<string id="st_achievement_1_hint">
+		<text>Handler konnen dir seltenere und teurere Waren anbieten.</text>
+	</string>
+	<string id="st_achievement_1_descr">
+		<text>Durch Handel, Plunderung und Diebstahl hast du ein kleines Vermogen angehauft. Dein personlicher Reichtum ist bekannt und Handler werden deine Schirmherrschaft bevorzugen.</text>
+	</string>
+	<string id="st_achievement_1_unlock">
+		<text>Du hast die "Grosse Taschen" Errungenschaft freigeschaltet.</text>
+	</string>
+	
+	<string id="st_achievement_2_name">
+		<text>Radiotherapie</text>
+	</string>
+	<string id="st_achievement_2_hint">
+		<text>Du hast eine Chance, eine Emission und Psi-Sturme zu uberleben.</text>
+	</string>
+	<string id="st_achievement_2_descr">
+		<text>Seltsamerweise fuhlst du dich nicht mehr vom Geachze einer nahenden Emission geplagt. Du glaubst, dass es eine Chance gibt, dass sie dir mehr verzeihen.</text>
+	</string>
+	<string id="st_achievement_2_unlock">
+		<text>Du hast die "Radiotherapie" Errungenschaft freigeschaltet.</text>
+	</string>
+	
+	<string id="st_achievement_3_name">
+		<text>Infopreneur</text>
+	</string>
+	<string id="st_achievement_3_hint">
+		<text>Handler zahlen dir nun einen kleinen zusatzlichen Bonus fur jeden an sie gelieferten PDA.</text>
+	</string>
+	<string id="st_achievement_3_descr">
+		<text>Ob Verkauf oder Kauf, fur viele Menschen sind Informationen genauso wertvoll wie Artefakte. Es hat sich herumgesprochen, dass du eine zuverlassige Quelle fur eine solche Ware sind.</text>
+	</string>
+	<string id="st_achievement_3_unlock">
+		<text>Du hast die "Infopreneur" Errungenschaft freigeschaltet.</text>
+	</string>
+	
+	<string id="st_achievement_4_name">
+		<text>Duga Free</text>
+	</string>
+	<string id="st_achievement_4_hint">
+		<text>Wege durch Yantar und Radar sind jetzt leichter zuganglich.</text>
+	</string>
+	<string id="st_achievement_4_descr">
+		<text>Nachdem du gesehen hast, was fur ein rucksichtsloses Experimentieren du in die Zone gebracht hast, hast du die Verantwortung selbst in die Hand genommen. Pfade durch Yantar und Radar sind jetzt offen, seit die Miracle Maschine und Brain Scorcher deaktiviert wurden.</text>
+	</string>
+	<string id="st_achievement_4_unlock">
+		<text>Du hast die "Duga Free" Errungenschaft freigeschaltet.</text>
+	</string>
+	
+	<string id="st_achievement_5_name">
+		<text>Gut angezogen</text>
+	</string>
+	<string id="st_achievement_5_hint">
+		<text>Es besteht eine geringe Chance, zusatzliche Korperteile von getoteten Mutanten anzulegen.</text>
+	</string>
+	<string id="st_achievement_5_descr">
+		<text>Zu Recht furchten die Wildtiere der Zone dich mehr den je. In letzter Zeit hast du bemerkt, dass deine blutige Ernte uppiger als ublich geworden ist.</text>
+	</string>
+	<string id="st_achievement_5_unlock">
+		<text>Du hast die "Gut angezogen" Errungenschaft freigeschaltet.</text>
+	</string>
+	
+	<string id="st_achievement_6_name">
+		<text>Silber oder Blei</text>
+	</string>
+	<string id="st_achievement_6_hint">
+		<text>Kapitulierende Stalker konnen gelegentlich den Standort eines zweiten Verstecks offenbaren.</text>
+	</string>
+	<string id="st_achievement_6_descr">
+		<text>Korper und Patronenhulsen verstreuen die Spuren hinter dir. Die Geschichten, die du hinterlasst, sind beruchtigt. Du fragst dich oft, warum einige Besitztumer uber ihrem Leben liegen. Vielleicht werden sich die Dinge bald andern.</text>
+	</string>
+	<string id="st_achievement_6_unlock">
+		<text>Du hast die "Silber oder Blei" Errungenschaft freigeschaltet.</text>
+	</string>
+	
+	<string id="st_achievement_7_name">
+		<text>Mechanisierte Kriegsfuhrung</text>
+	</string>
+	<string id="st_achievement_7_hint">
+		<text>Du kannst die Ausrustung bei einem Techniker namens Forester komplett aufrusten.</text>
+	</string>
+	<string id="st_achievement_7_descr">
+		<text>Foresters Dienste waren nie billig, aber zumindest hat er jetzt Konkurrenz. Dieser Mechaniker wird die Werkzeuge, die du ihm gebracht hast, gut gebrauchen konnen.</text>
+	</string>
+	<string id="st_achievement_7_unlock">
+		<text>Du hast die "Mechanisierte Kriegsfuhrung" Errungenschaft freigeschaltet.</text>
+	</string>
+	
+	<string id="st_achievement_8_name">
+		<text>Tourist</text>
+	</string>
+	<string id="st_achievement_8_hint">
+		<text>Du erinnerst dich, dass du wahrend fruherer Reisen einige seltsame Sachen gesehen hast.</text>
+	</string>
+	<string id="st_achievement_8_descr">
+		<text>Trotz der Gefahren hast du alle zuganglichen Teile der Zone erkundet. Von den dusteren Tiefen des Grossen Sumpfs bis zum Metalllabyrinth des Truck Friedhofs - du kennst die Zone wie deine Westentasche.</text>
+	</string>
+	<string id="st_achievement_8_unlock">
+		<text>Du hast die "Tourist" Errungenschaft freigeschaltet.</text>
+	</string>
+	
+	<string id="st_achievement_9_name">
+		<text>Lappen und Knochen</text>
+	</string>
+	<string id="st_achievement_9_hint">
+		<text>Dein Gluck, mit zukunftigen Einsatzen ist leicht gestiegen.</text>
+	</string>
+	<string id="st_achievement_9_descr">
+		<text>Was ihnen gehort, ist deines. Zumindest denkst du so. Du hast ein Handchen dafur, die Verstecke anderer Leute zu finden. Trotz etwas Ungluck hier und da spurst du, dass sich dein Gluck in den meisten Fallen verbessert.</text>
+	</string>
+	<string id="st_achievement_9_unlock">
+		<text>Du hast die "Lappen und Knochen" Errungenschaft freigeschaltet.</text>
+	</string>
+	
+	<string id="st_achievement_10_name">
+		<text>Completionist</text>
+	</string>
+	<string id="st_achievement_10_hint">
+		<text>Alle verfugbaren Errungenschaften wurden freigeschaltet.</text>
+	</string>
+	<string id="st_achievement_10_descr">
+		<text>Alles was zu erreichen war, wurde erreicht. Du kennst die Zone besser als die Zone sich selbst kennt. Und trotz aller Widrigkeiten, die gegen dich und jede Bedrohung, der du gewachsen bist aufgestellt sind, bist du immer noch unbesiegt.</text>
+	</string>
+	<string id="st_achievement_10_unlock">
+		<text>Du hast die "Completionist" Errungenschaft freigeschaltet.</text>
+	</string>
+	
+	<string id="st_achievement_11_name">
+		<text>Wunschdenken</text>
+	</string>
+	<string id="st_achievement_11_hint">
+		<text>Dein Rang und Ruf haben sich deutlich erhoht.</text>
+	</string>
+	<string id="st_achievement_11_descr">
+		<text>Zuerst hast du die Geruchte gehort, dann hast du es selbst gesehen und dann hast du es zerstort. Es wird immer jemanden geben, der zweifelt, was du erreicht hast, aber die Tatsache bleibt. Der Wunschgonner ist nicht mehr.</text>
+	</string>
+	<string id="st_achievement_11_unlock">
+		<text>Du hast die "Wunschdenken" Errungenschaft freigeschaltet.</text>
+	</string>
+	
+	<string id="st_achievement_12_name">
+		<text>Auf dem Boden geblieben</text>
+	</string>
+	<string id="st_achievement_12_hint">
+		<text>Mi-2-Hubschrauber werden zerstorte Mi-24 ersetzen.</text>
+	</string>
+	<string id="st_achievement_12_descr">
+		<text>Je hoher sie fliegen, desto starker fallen sie. Da du aber keine teurere Ausrustung verschwenden willst, scheinen die Helikopter der Zone jetzt viel schwacher zu sein. Aber sind nicht weniger verlockend zu zerstoren</text>
+	</string>
+	<string id="st_achievement_12_unlock">
+		<text>Du hast die "Auf dem Boden geblieben" Errungenschaft freigeschaltet.</text>
+	</string>
+	
+	<string id="st_achievement_13_name">
+		<text>Geologe</text>
+	</string>
+	<string id="st_achievement_13_hint">
+		<text>Artefakte haben eine erhohte Chance, neu aufzutauchen.</text>
+	</string>
+	<string id="st_achievement_13_descr">
+		<text>Summen, Summen und Spucken - die Anomalien der Zone erschrecken dich nicht mehr. Nach so vielen erfolgreichen Bemuhungen kannst du feststellen, dass Artefakte zahlreicher sind als je zuvor.</text>
+	</string>
+	<string id="st_achievement_13_unlock">
+		<text>Du hast die "Geologe" Errungenschaft freigeschaltet.</text>
+	</string>
+	
+	<string id="st_achievement_14_name">
+		<text>Patriarch</text>
+	</string>
+	<string id="st_achievement_14_hint">
+		<text>Du kannst grossere Trupps als Begleiter rekrutieren.</text>
+	</string>
+	<string id="st_achievement_14_descr">
+		<text>Zerstorer von Hubschraubern. Auslieferer von PDAs. Geschichten von deinen Erfahrungen und Fahigkeiten sind in der gesamten Zone bekannt. Du bist unsterblich geworden; Deine Geschichten werden fur immer uber die vielen Lagerfeuer der Zone gesprochen.</text>
+	</string>
+	<string id="st_achievement_14_unlock">
+		<text>Du hast die "Patriarch" Errungenschaft freigeschaltet.</text>
+	</string>
+	
+	<string id="st_achievement_15_name">
+		<text>S.C.H.O.L.A.R.</text>
+	</string>
+	<string id="st_achievement_15_hint">
+		<text>Hint</text>
+	</string>
+	<string id="st_achievement_15_descr">
+		<text>Description.</text>
+	</string>
+	<string id="st_achievement_15_unlock">
+		<text>Du hast die "S.C.H.O.L.A.R." Errungenschaft freigeschaltet.</text>
+	</string>
+	
+</string_table>

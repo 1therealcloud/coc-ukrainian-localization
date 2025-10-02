@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+
+<!--===========================================================
+<
+< TEXT  STRINGS FOR TASKS ON PRIPYAT MAP
+<	CoC 1.3.11
+<
+<	Modified by: DoctorX
+<	March 17, 2016
+<
+<===========================================================-->
+
+<string_table>
+
+
+	<string id="pri_monolith_monolith_trader_stalker_task_1_name">
+		<text>Знищити ворогів Моноліту</text>
+	</string>
+	<string id="pri_monolith_monolith_trader_stalker_task_1_text">
+		<text>Необхідно подавити територіальну загрозу в даній зоні.</text>
+	</string>
+	<string id="pri_monolith_monolith_trader_stalker_task_1_about">
+		<text>У мене є важлива місія для тебе, брате. Ти повинен знищити табір невірних, щоб наші брати могли закріпитися у цьому місці. Ти готовий?</text>
+	</string>
+	<string id="pri_monolith_monolith_trader_stalker_task_1_finish">
+		<text>Завдання виконане? Гаразд. Моноліт цінує гарну роботу.</text>
+	</string>
+
+
+
+	<!-- ASSASSINATION FOR MONOLITH TASK -->
+	<string id="pri_monolith_monolith_trader_stalker_task_2_name">
+		<text>Убити невірного</text>
+	</string>
+	<string id="pri_monolith_monolith_trader_stalker_task_2_text">
+		<text>Сталкер хоче вимкнути Випалювач Мізків. Убийте його.</text>
+	</string>
+	<string id="pri_monolith_monolith_trader_stalker_task_2_about">
+		<text>Брате, ти чув, що нещодавно декілька невірних підібралися до антен? Вони хотіли вимкнути Випалювач. Моноліт направив нас, і брати вчасно їх помітили. Тепер вони мертві. Моноліт мудрий та всемогутній. нещодавно я дізнався ще про одного сталкера, який прагне вимкнути Випалювач. Знайди та вбий цього невірного.</text>
+	</string>
+	<string id="pri_monolith_monolith_trader_stalker_task_2_finish">
+		<text>Ти все добре зробив. Брати пишаються тобою.</text>
+	</string>
+
+
+	<!-- FIND WEAPON FOR MONOLITH TASK -->
+	<string id="pri_monolith_monolith_trader_stalker_task_3_name">
+		<text>%s - знайти зброю</text>
+	</string>
+	<string id="pri_monolith_monolith_trader_stalker_task_3_text">
+		<text>Проповідник шукає нову зброю.</text>
+	</string>
+	<string id="pri_monolith_monolith_trader_stalker_task_3_about">
+		<text>Ми нарощуємо міць кожного дня. Але нам потрібно більше зброї для досягнення наших цілей. ти повинен знайти нову зброю для нас.</text>
+	</string>
+	<string id="pri_monolith_monolith_trader_stalker_task_3_fetch_about">
+		<text>Ми нарощуємо міць кожного дня. Але нам потрібно більше зброї для досягнення наших цілей. ти повинен знайти нову зброю для нас. %s - те, що нам зараз не вистачає. Принеси, коли знайдеш.</text>
+	</string>
+	<string id="pri_monolith_monolith_trader_stalker_task_3_fetch_finish">
+		<text>Це добре. Брати пишаються тобою.</text>
+	</string>
+
+
+	<!-- FIND MUTANT MEAT FOR MONOLITH TASK -->
+	<string id="pri_monolith_monolith_trader_stalker_task_4_name">
+		<text>М'ясо</text>
+	</string>
+	<string id="pri_monolith_monolith_trader_stalker_task_4_text">
+		<text>%s. Потрібно здобути на полюванні та віддати м'ясо Проповідникові - він зможе приготувати його.</text>
+	</string>
+	<string id="pri_monolith_monolith_trader_stalker_task_4_about">
+		<text>Наші запаси вичерпуються. Ти повинен вийти до Зони та пополювати.</text>
+	</string>
+	<string id="pri_monolith_monolith_trader_stalker_task_4_fetch_about">
+		<text>Наші запаси вичерпуються. Ти повинен вийти до Зони та пополювати. %s - те, що нам потрібно. Пам'ятай, що ці створіння - подарунок Зони. Убий їх стрімко та з вдячністю.</text>
+	</string>
+	<string id="pri_monolith_monolith_trader_stalker_task_4_fetch_finish">
+		<text>Ти досяг успіху. Чудово спрацьовано.</text>
+	</string>
+
+
+	<!-- FIND SUPPLIES FOR MONOLITH TASK -->
+	<string id="pri_monolith_monolith_trader_stalker_task_5_name">
+		<text>%s для Проповідника</text>
+	</string>
+	<string id="pri_monolith_monolith_trader_stalker_task_5_text">
+		<text>%s. Знайти та повернутися до Проповідника.</text>
+	</string>
+	<string id="pri_monolith_monolith_trader_stalker_task_5_about">
+		<text>Ти повинен забезпечити постачання запасів для нас, щоб ми могли продовжити наші великі справи.</text>
+	</string>
+	<string id="pri_monolith_monolith_trader_stalker_task_5_fetch_about">
+		<text>Ти повинен забезпечити постачання запасів для нас, щоб ми могли продовжити наші великі справи. %s - така мета твого пошуку. Здобудь та повертайся.</text>
+	</string>
+	<string id="pri_monolith_monolith_trader_stalker_task_5_fetch_finish">
+		<text>Моноліт цінує гарну роботу.</text>
+	</string>
+
+
+	<!-- FIND ARTEFACT FOR MONOLITH TASK -->
+	<string id="pri_monolith_monolith_trader_stalker_task_6_name">
+		<text>Знайти артефакт %s</text>
+	</string>
+	<string id="pri_monolith_monolith_trader_stalker_task_6_text">
+		<text>Знайти артефакт %s та принести Проповідникові, щоб він міг підготувати його як жертву.</text>
+	</string>
+	<string id="pri_monolith_monolith_trader_stalker_task_6_about">
+		<text>Нам потрібен артефакт, щоб принести в жертву. Чи готовий ти послужити Монолітові та знайти його?</text>
+	</string>
+	<string id="pri_monolith_monolith_trader_stalker_task_6_fetch_about">
+		<text>Нам потрібен артефакт, щоб принести в жертву. Чи готовий ти послужити Монолітові та знайти його? Принеси мені артефакт %s, щоб ми могли провести церемонію.</text>
+	</string>
+	<string id="pri_monolith_monolith_trader_stalker_task_6_fetch_finish">
+		<text>Ти гарно служиш Монолітові. Приєднуйся до нас сьогодні у церемоніальному приміщенні. Там буде спів.</text>
+	</string>
+	<string id="pri_monolith_monolith_mechanic_stalker_task_1_name">
+		<text>Знайти Панотцю Діодору %s</text>
+	</string>
+	<string id="pri_monolith_monolith_mechanic_stalker_task_1_text">
+		<text>Необхідно принести Панотцю Діодору %s, щоб він міг проводити модернізацію спорядження.</text>
+	</string>
+	<string id="pri_monolith_monolith_mechanic_stalker_task_1_about">
+		<text>Мені потрібна твоя допомога, брате. Мені дещо необхідно для ремонту нашої зброї.</text>
+	</string>
+	<string id="pri_monolith_monolith_mechanic_stalker_task_1_fetch_about">
+		<text>Мені потрібна твоя допомога, брате. Мені дещо необхідно для ремонту нашої зброї - %s. Іди.</text>
+	</string>
+	<string id="pri_monolith_monolith_mechanic_stalker_task_1_fetch_finish">
+		<text>Ти чудово впорався.</text>
+	</string>
+
+
+
+	<string id="pri_monolith_monolith_mechanic_stalker_task_2_name">
+		<text>Знайти Панотцю Діодору %s</text>
+	</string>
+	<string id="pri_monolith_monolith_mechanic_stalker_task_2_text">
+		<text>Необхідно принести Панотцю Діодору %s. Йому потрібні якісніші інструменти, щоб проводити складну модернізацію спорядження.</text>
+	</string>
+	<string id="pri_monolith_monolith_mechanic_stalker_task_2_about">
+		<text>Мені потрібні ще інструменти, кращі. Виконаєш моє прохання ще раз?</text>
+	</string>
+	<string id="pri_monolith_monolith_mechanic_stalker_task_2_fetch_about">
+		<text>Мені потрібні ще інструменти, кращі. Виконаєш моє прохання ще раз? Гаразд, мені потрібен набір для тонкої роботи. У ньому повинні бути найкращі інструменти, необхідні для роботи зі зброєю.</text>
+	</string>
+	<string id="pri_monolith_monolith_mechanic_stalker_task_2_fetch_finish">
+		<text>Чудово. Ти приніс їх.</text>
+	</string>
+
+
+
+	<string id="pri_monolith_monolith_mechanic_stalker_task_3_name">
+		<text>Знайти Панотцю Діодору %s</text>
+	</string>
+	<string id="pri_monolith_monolith_mechanic_stalker_task_3_text">
+		<text>Батькові Панотцю потрібні %s для проведення елітних модернізацій. Знайдіть їх.</text>
+	</string>
+	<string id="pri_monolith_monolith_mechanic_stalker_task_3_about">
+		<text>Мені потрібні ще інструменти, найкращі. Виконаєш моє прохання ще раз?</text>
+	</string>
+	<string id="pri_monolith_monolith_mechanic_stalker_task_3_fetch_about">
+		<text>Мені потрібні найкращі інструменти. Знайди їх, брате. Тоді я зможу зробити так, що твоя зброя буде бити невірних без промаху.</text>
+	</string>
+	<string id="pri_monolith_monolith_mechanic_stalker_task_3_fetch_finish">
+		<text>Чудово. Ти приніс їх. Моноліт допоміг тобі.</text>
+	</string>
+
+
+</string_table>

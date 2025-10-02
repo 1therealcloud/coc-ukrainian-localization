@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+
+<!--===========================================================
+<
+< TEXT  STRINGS FOR TASKS ON BAR (ROSTOK) MAP
+<	CoC 1.3.11
+<
+<	Modified by: DoctorX
+<	March 17, 2016
+<
+<===========================================================-->
+
+<string_table>
+
+
+	<!-- DEFEND TERRITORY FOR DUTY TASK -->
+	<string id="bar_dolg_general_petrenko_stalker_task_1_name">
+		<text>Beschutze das Wachter Territorium</text>
+	</string>
+	<string id="bar_dolg_general_petrenko_stalker_task_1_text">
+		<text>Feindliche Krafte dringen in das Wachter Territorium ein. General Petrenko hat dich gebeten, die Bedrohung zu beseitigen.</text>
+	</string>
+	<string id="bar_dolg_general_petrenko_stalker_task_1_about">
+		<text>Ich wurde informiert, dass feindliche Krafte auf eines unserer Lager vorrucken. Ich brauche dich, um sie aufzuhalten, Stalker! Sie durfen nicht zum Lager ankommen!</text>
+	</string>
+	<string id="bar_dolg_general_petrenko_stalker_task_1_finish">
+		<text>Ausgezeichnete Arbeit! Du bist ein feiner Krieger!</text>
+	</string>
+
+
+	<!-- CAPTURE TERRITORY FOR DUTY TASK -->
+	<string id="bar_dolg_general_petrenko_stalker_task_2_name">
+		<text>Erobere das Territorium fur die Wachter</text>
+	</string>
+	<string id="bar_dolg_general_petrenko_stalker_task_2_text">
+		<text>Du wurdest beauftragt, das Gebiet fur die Wachter zu erobern. Melde dich nach der Arbeit bei General Petrenko.</text>
+	</string>
+	<string id="bar_dolg_general_petrenko_stalker_task_2_about">
+		<text>Ich habe eine wichtige Mission zur Verfugung. Die Freiheit hat eines unserer Lager ubernommen! Ich brauche einen Spezialisten, um es zuruck zu erobern. Also, was halst du davon, Stalker?</text>
+	</string>
+	<string id="bar_dolg_general_petrenko_stalker_task_2_finish">
+		<text>Die Aufgabe ist erledigt? Gut gemacht!</text>
+	</string>
+
+
+	<!-- ASSASSINATION FOR DUTY TASK -->
+	<string id="bar_dolg_general_petrenko_stalker_task_3_name">
+		<text>VIP Eliminieren </text>
+	</string>
+	<string id="bar_dolg_general_petrenko_stalker_task_3_text">
+		<text>General Petrenko hat dir befohlen, ein Ziel zu finden und zu eliminieren.</text>
+	</string>
+	<string id="bar_dolg_general_petrenko_stalker_task_3_about">
+		<text>Ich habe eine Liste von VIPs, die... erledigt werden mussen. Einige sind Informanten, hochrangige Freiheits Mitglieder, Gruppenfuhrer, Taktiker oder einfach nur Abschaum. Finde Informationen uber sie, wenn du kannst. Ansonsten, auf Sicht toten!</text>
+	</string>
+	<string id="bar_dolg_general_petrenko_stalker_task_3_finish">
+		<text>Grossartig! Du machst uns stolz. Hier ist, was ich versprochen habe.</text>
+	</string>
+
+
+	<!-- FIND LEVEL 1 TOOLKIT FOR MANGUN TASK -->
+	<string id="bar_visitors_stalker_mechanic_task_1_name">
+		<text>Finde %s</text>
+	</string>
+	<string id="bar_visitors_stalker_mechanic_task_1_text">
+		<text>%s werden von Mangun benotigt, um grundlegende Ausrustungs-Upgrades zu installieren. Du solltest sie ihm bringen, wenn du welche findest.</text>
+	</string>
+	<string id="bar_visitors_stalker_mechanic_task_1_about">
+		<text>Ich kann wirklich eine gute Auswahl an Werkzeugen benotigen, Stalker... Und vielleicht etwas Geld. Wenn du daran interessiert bist, mir zu helfen, werde ich dir sagen, wonach ich suche.</text>
+	</string>
+	<string id="bar_visitors_stalker_mechanic_task_1_fetch_about">
+		<text>Ich brauche eine Reihe Grundlegender Werkzeuge. Es sollte enthalten was ich brauche. Wenn du etwas fur mich hast, ware ich dir sehr dankbar! Ich werde dir von hier aus sogar einen Rabatt anbieten.</text>
+	</string>
+	<string id="bar_visitors_stalker_mechanic_task_1_fetch_finish">
+		<text>Cool Man!... Ahm Entschuldigung, ich kann dir leider kein Geld anbieten. Dafur kriegst du aber einen Rabatt, Mann!</text>
+	</string>
+
+
+	<!-- FIND LEVEL 2 TOOLKIT FOR MANGUN TASK -->
+	<string id="bar_visitors_stalker_mechanic_task_2_name">
+		<text>Finde %s</text>
+	</string>
+	<string id="bar_visitors_stalker_mechanic_task_2_text">
+		<text>%s werden von Mangun benotigt, um fortgeschrittene Ausrustungs-Upgrades zu installieren. Du solltest sie ihm bringen, wenn du welche findest.</text>
+	</string>
+	<string id="bar_visitors_stalker_mechanic_task_2_about">
+		<text>Hey, Alter, wenn du mehrere fortgeschrittene Werkzeuge findest, werde ich dir einen Rabatt geben. Also, wirst du danach ausschau halten?</text>
+	</string>
+	<string id="bar_visitors_stalker_mechanic_task_2_fetch_about">
+		<text>Ich brauche eine Reihe von Fortgeschrittenen Werkzeugen. Es sollte enthalten was ich brauche. Wenn du etwas fur mich hast, ware ich dir sehr dankbar! Ich werde dir von hier aus sogar einen Rabatt anbieten.</text>
+	</string>
+	<string id="bar_visitors_stalker_mechanic_task_2_fetch_finish">
+		<text>Grossartig... GROSSARTIG! Jetzt kann ich vielleicht ein bisschen Geld verdienen. Ich werde SEHR viel Zeit benotigen, Stalker! Wenn ich meine Handlung nur zusammenbekommen konnte... Ich habe nicht viel anderes zu bieten als einen Rabatt. Sorry, Bro.</text>
+	</string>
+
+
+	<!-- FIND LEVEL 3 TOOLKIT FOR MANGUN TASK -->
+	<string id="bar_visitors_stalker_mechanic_task_3_name">
+		<text>Finde %s</text>
+	</string>
+	<string id="bar_visitors_stalker_mechanic_task_3_text">
+		<text>%s werden von Mangun benotigt, um sachverstandige Ausrustungsverbesserungen zu installieren. Du solltest sie ihm bringen, wenn du welche findest.</text>
+	</string>
+	<string id="bar_visitors_stalker_mechanic_task_3_about">
+		<text>Hey, Alter, wenn du mehrere fortgeschrittene Werkzeuge findest, werde ich dir einen Rabatt geben. Also, wirst du danach ausschau halten?</text>
+	</string>
+	<string id="bar_visitors_stalker_mechanic_task_3_fetch_about">
+		<text>Ich brauche eine Reihe von Experten-Tools. Es sollte enthalten was ich brauche. Wenn du etwas fur mich hast, ware ich dir sehr dankbar! Ich werde dir von hier aus sogar einen Rabatt anbieten.</text>
+	</string>
+	<string id="bar_visitors_stalker_mechanic_task_3_fetch_finish">
+		<text>Grossartig... GROSSARTIG! Jetzt kann ich vielleicht ein bisschen Geld verdienen. Ich werde SEHR viel Zeit benotigen, Stalker! Wenn ich meine Handlung nur zusammenbekommen konnte... Ich habe nicht viel anderes zu bieten als einen Rabatt. Sorry, Bro.</text>
+	</string>
+
+
+</string_table>

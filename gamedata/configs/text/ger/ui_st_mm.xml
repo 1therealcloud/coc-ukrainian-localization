@@ -1,0 +1,548 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="Clear">
+		<text>Klar</text>
+	</string>
+	<string id="Cloudy">
+		<text>Bewolkt</text>
+	</string>
+	<string id="Default">
+		<text>Mittel</text>
+	</string>
+	<string id="Extreme">
+		<text>Maximum</text>
+	</string>
+	<string id="High">
+		<text>Hoch</text>
+	</string>
+	<string id="Low">
+		<text>Niedrig</text>
+	</string>
+	<string id="Minimum">
+		<text>Minimal</text>
+	</string>
+	<string id="Night">
+		<text>Nacht</text>
+	</string>
+	<string id="Rain">
+		<text>Regen</text>
+	</string>
+	<string id="game type">
+		<text>SPIELE TYP</text>
+	</string>
+	<string id="gd_master">
+		<text>Master</text>
+	</string>
+	<string id="gd_novice">
+		<text>Anfanger</text>
+	</string>
+	<string id="gd_veteran">
+		<text>Veteran</text>
+	</string>
+	<string id="icon">
+		<text>ICONS</text>
+	</string>
+	<string id="map">
+		<text>KARTE</text>
+	</string>
+	<string id="renderer_r1">
+		<text>DirectX 8 (Grundlegend)</text>
+	</string>
+	<string id="renderer_r2a">
+		<text>DirectX 9 (Grundlegend)</text>
+	</string>
+	<string id="renderer_r2">
+		<text>DirectX 9 (Normal)</text>
+	</string>
+	<string id="renderer_r2.5">
+		<text>DirectX 9 (Fortgeschritten)</text>
+	</string>
+	<string id="renderer_r3">
+		<text>DirectX 10 (Fortgeschritten)</text>
+	</string>
+	<string id="renderer_r4">
+		<text>DirectX 11 (Fortgeschritten)</text>
+	</string>
+	<string id="st_opt_high">
+		<text>Hoch</text>
+	</string>
+	<string id="st_opt_low">
+		<text>Niedrig</text>
+	</string>
+	<string id="st_opt_medium">
+		<text>Mittel</text>
+	</string>
+	<string id="st_opt_off">
+		<text>Aus</text>
+	</string>
+	<string id="ui_mm_60_hz">
+		<text>Frequenz 60Hz</text>
+	</string>
+	<string id="ui_mm_action">
+		<text>Action</text>
+	</string>
+	<string id="ui_mm_advanced">
+		<text>Fortgeschritten</text>
+	</string>
+	<string id="ui_mm_alternative">
+		<text>Alternativ</text>
+	</string>
+	<string id="ui_mm_anisotropic">
+		<text>Anisotropic filtering</text>
+	</string>
+	<string id="ui_mm_apply">
+		<text>Anwenden</text>
+	</string>
+	<string id="ui_mm_back">
+		<text>Zuruck</text>
+	</string>
+	<string id="ui_mm_blood">
+		<text>Blut</text>
+	</string>
+	<string id="ui_mm_brightness">
+		<text>Helligkeit</text>
+	</string>
+	<string id="ui_mm_cancel">
+		<text>Abbrechen</text>
+	</string>
+	<string id="ui_mm_check_updates">
+		<text>Spiel Updates</text>
+	</string>
+	<string id="ui_mm_contrast">
+		<text>Kontrast</text>
+	</string>
+	<string id="ui_mm_controls">
+		<text>Knopfe</text>
+	</string>
+	<string id="ui_mm_credits">
+		<text>Credits</text>
+	</string>
+	<string id="ui_mm_crosshair_distance">
+		<text>Fadenkreuz Zielentfernung</text>
+	</string>
+	<string id="ui_mm_default">
+		<text>Standart</text>
+	</string>
+	<string id="ui_mm_delete">
+		<text>Loschen</text>
+	</string>
+	<string id="ui_mm_delete_existing_file_q">
+		<text>Willst du diese Datei wirklich loschen?</text>
+	</string>
+	<string id="ui_mm_detail_density">
+		<text>Grasdetail Dichte</text>
+	</string>
+    <string id="ui_mm_detail_radius">
+	    <text>Gras Rendering Radius</text>
+    </string>
+	<string id="ui_mm_difficulty">
+		<text>Schwierigkeit</text>
+	</string>
+	<string id="ui_mm_disconnect">
+		<text>Verbindung trennen</text>
+	</string>
+	<string id="ui_mm_disconnect_message">
+		<text>Willst du wirklich die Verbindung trennen?</text>
+	</string>
+	<string id="ui_mm_dof">
+		<text>Tiefenscharfe</text>
+	</string>
+	<string id="ui_mm_dyn_crosshair">
+		<text>Dynamisches Fadenkreuz</text>
+	</string>
+	<string id="ui_mm_dynamic_music">
+		<text>Dynamische Musik</text>
+	</string>
+	<string id="ui_mm_eax">
+		<text>EAX</text>
+	</string>
+	<string id="ui_mm_fullscreen">
+		<text>Vollbild</text>
+	</string>
+	<string id="ui_mm_gameplay">
+		<text>Spiel</text>
+	</string>
+	<string id="ui_mm_gamma">
+		<text>Gamma</text>
+	</string>
+	<string id="ui_mm_geometry_lod">
+		<text>Objekt detail</text>
+	</string>
+	<string id="ui_mm_invert_mouse">
+		<text>Maus umkehren</text>
+	</string>
+	<string id="ui_mm_key">
+		<text>Knopf</text>
+	</string>
+	<string id="ui_mm_keyboard_setup">
+		<text>Tastatur Setup</text>
+	</string>
+	<string id="ui_mm_last_save">
+		<text>Letzter Speicherpunkt</text>
+	</string>
+	<string id="ui_mm_light_distance">
+		<text>Beleuchtungsabstand</text>
+	</string>
+	<string id="ui_mm_load">
+		<text>Laden</text>
+	</string>
+	<string id="ui_mm_load_game">
+		<text>Spiel laden</text>
+	</string>
+	<string id="ui_mm_logout">
+		<text>Profil beenden</text>
+	</string>
+	<string id="ui_mm_master">
+		<text>Meister</text>
+	</string>
+	<string id="ui_mm_master_volume">
+		<text>SFX Lautstarke</text>
+	</string>
+	<string id="ui_mm_mouse_sense">
+		<text>Maus Empfindlichkeit</text>
+	</string>
+	<string id="ui_mm_msaa_alphatest">
+		<text>Smooth A-test objects</text>
+	</string>
+	<string id="ui_mm_msaa_opt">
+		<text>Optimize smoothing</text>
+	</string>
+	<string id="ui_mm_multiplayer">
+		<text>MEHRSPIELER</text>
+	</string>
+	<string id="ui_mm_multiplayer_n">
+		<text>Mehrspieler</text>
+	</string>
+	<string id="ui_mm_music_volume">
+		<text>Musik Lautstarke</text>
+	</string>
+	<string id="ui_mm_need_restart">
+		<text>Anderungen werden sichtbar nachdem das Spiel neugestartet wurde.</text>
+	</string>
+	<string id="ui_mm_network_game">
+		<text>Mehrspieler</text>
+	</string>
+	<string id="ui_mm_newgame">
+		<text>Neues Spiel</text>
+	</string>
+	<string id="ui_mm_novice">
+		<text>Anfanger</text>
+	</string>
+	<string id="ui_mm_npc_torch">
+		<text>NPC Taschenlampen</text>
+	</string>
+	<string id="ui_mm_options">
+		<text>OPTIONEN</text>
+	</string>
+	<string id="ui_mm_options_n">
+		<text>Optionen</text>
+	</string>
+	<string id="ui_mm_weather_options">
+		<text>Wetter Optionen</text>
+	</string>
+	<string id="ui_mm_particles_distance">
+		<text>Partikel Abstand</text>
+	</string>
+	<string id="ui_mm_quality_presets">
+		<text>Qualitats Einstellung</text>
+	</string>
+	<string id="ui_mm_quit2windows">
+		<text>Zuruck zu Windows</text>
+	</string>
+	<string id="ui_mm_quit_game">
+		<text>Spiel beenden</text>
+	</string>
+	<string id="ui_mm_quit_game_message">
+		<text>Bist du sicher das du das Spiel beenden willst?</text>
+	</string>
+	<string id="ui_mm_quit_windows_message">
+		<text>Bist du sicher das du das Spiel beenden mochtest und zuruck zu Windows gehen willst?</text>
+	</string>
+	<string id="ui_mm_r2_detail_bump">
+		<text>Detailstoss</text>
+	</string>
+	<string id="ui_mm_r2_steep_parallax">
+		<text>Steile Parallaxe</text>
+	</string>
+	<string id="ui_mm_r2_sun">
+		<text>Sonnenschatten</text>
+	</string>
+	<string id="ui_mm_r2_sun_details">
+		<text>Grasschatten</text>
+	</string>
+    <string id="ui_mm_r__actor_shadow">
+		<text>Spielerschatten</text>
+    </string>
+	<string id="ui_mm_r2_sun_quality">
+		<text>Sonnenqualitat</text>
+	</string>
+	<string id="ui_mm_r3_DX10_1">
+		<text>DX10.1 benutzen</text>
+	</string>
+	<string id="ui_mm_r3_MSAA">
+		<text>Vollbild Glattung</text>
+	</string>
+	<string id="ui_mm_r3_dynamic_wet_surfaces">
+		<text>Nasse Oberflachen</text>
+	</string>
+	<string id="ui_mm_r3_gbuffer_opt">
+		<text>Optimiere Geometriepuffer</text>
+	</string>
+	<string id="ui_mm_r3_volumetric_smoke">
+		<text>Volumetrischer Rauch</text>
+	</string>
+	<string id="ui_mm_render_2">
+		<text>Render 2</text>
+	</string>
+	<string id="ui_mm_renderer">
+		<text>Render Typ</text>
+	</string>
+	<string id="ui_mm_resolution">
+		<text>Auflosung</text>
+	</string>
+	<string id="ui_mm_return_game">
+		<text>Zuruck zum Spiel</text>
+	</string>
+	<string id="ui_mm_save">
+		<text>Speichern</text>
+	</string>
+	<string id="ui_mm_save_game">
+		<text>Spiel speichern</text>
+	</string>
+	<string id="ui_mm_show_crosshair">
+		<text>Fadenkreuz zeichnen</text>
+	</string>
+	<string id="ui_mm_show_weapon">
+		<text>Waffe zeigen</text>
+	</string>
+	<string id="ui_mm_simply">
+		<text>Allgemein</text>
+	</string>
+	<string id="ui_mm_snd_device">
+		<text>Soundkarte</text>
+	</string>
+	<string id="ui_mm_soft_particles">
+		<text>Weiche Partikel</text>
+	</string>
+	<string id="ui_mm_soft_water">
+		<text>Weiches Wasser</text>
+	</string>
+	<string id="ui_mm_sound">
+		<text>Sound</text>
+	</string>
+	<string id="ui_mm_sound_quality">
+		<text>Sound Qualitat</text>
+	</string>
+	<string id="ui_mm_stalker">
+		<text>Stalker</text>
+	</string>
+	<string id="ui_mm_sun_quality">
+		<text>Schatten Qualitat</text>
+	</string>
+	<string id="ui_mm_sun_shafts">
+		<text>Sonnenstrahlen</text>
+	</string>
+	<string id="ui_mm_supersample">
+		<text>Kantenglattung</text>
+	</string>
+	<string id="ui_mm_switch_torch">
+		<text>AI benutzen Taschenlampen</text>
+	</string>
+	<string id="ui_mm_texture_quality">
+		<text>Textur Details</text>
+	</string>
+	<string id="ui_mm_tips">
+		<text>NPC Indentifikation</text>
+	</string>
+	<string id="ui_mm_veteran">
+		<text>Veteran</text>
+	</string>
+	<string id="ui_mm_video">
+		<text>Video</text>
+	</string>
+	<string id="ui_mm_vis_distance">
+		<text>Sichtweite</text>
+	</string>
+	<string id="ui_mm_volumetric_light">
+		<text>Volumetrisches Licht</text>
+	</string>
+	<string id="ui_mm_vsync">
+		<text>Vertikale Synchronisation</text>
+	</string>
+	<string id="ui_st_reset">
+		<text>Zurucksetzen</text>
+	</string>
+	<string id="ui_st_sell_all">
+		<text>Alles zurucksetzen</text>
+	</string>
+	<string id="version">
+		<text>Version</text>
+	</string>
+	<string id="ui_mm_crouch_toggle">
+		<text>Kriechen/Stehen Modus</text>
+	</string>
+	<string id="ui_mm_important_save">
+		<text>Autospeicherung</text>
+	</string>
+	<string id="ui_mm_r1_detail_textures">
+		<text>Detaillierte Texturen</text>
+	</string>
+	<string id="ui_mm_ssao_quality">
+		<text>SSAO Qualitat</text>
+	</string>
+	<string id="ui_mm_ssao_text">
+		<text>SSAO Modus</text>
+	</string>
+	<string id="ui_mm_ssao">
+		<text>Standart</text>
+	</string>
+	<string id="ui_mm_hdao">
+		<text>HDAO</text>
+	</string>
+	<string id="ui_mm_hbao">
+		<text>HBAO</text>
+	</string>
+	<string id="ui_st_disable_hud">
+		<text>Schnittstelle anzeigen</text>
+	</string>
+	<string id="ui_mm_hud_draw">
+		<text>Schnittstelle anzeigen</text>
+	</string>
+	<string id="gd_stalker">
+		<text>Stalker</text>
+	</string>
+	<string id="st_opt_extreme">
+		<text>Extrem</text>
+	</string>
+
+	<string id="st_opt_ultra">
+		<text>Sehr hoch</text>
+	</string>
+	<string id="ui_mm_r4_enable_tessellation">
+		<text>Tessellation</text>
+	</string>
+	<string id="ui_mm_confirm_changes">
+		<text>Anderungen ubernehmen? Alle Anderungen werden zuruckgesetzt</text>
+	</string>
+	<string id="st_cap_check_story">
+		<text>Story Modus</text>
+	</string>
+	<string id="st_cap_check_survival">
+		<text>Uberlebens Modus</text>
+	</string>
+	<string id="st_cap_check_hardcore">
+		<text>Ironman Modus</text>
+	</string>
+	<string id="st_cap_check_azazel_mode">
+		<text>Azazel Modus</text>
+	</string>
+	<string id="st_cap_check_hardcore_aim">
+		<text>Hardcore AI Zielen</text>
+	</string>
+	<string id="ui_mm_debug_hud">
+		<text>Debug HUD</text>
+	</string>
+	<string id="ui_mm_radio_mod">
+		<text>Radio Musik</text>
+	</string>
+	<string id="ui_mm_mechanic_feature">
+		<text>Verspatetes reparieren</text>
+	</string>
+	<string id="ui_mm_big_head_mode">
+		<text>Gross Kopf Modus</text>
+	</string>
+	<string id="ui_mm_heli_engine_sound">
+		<text>Helikopter Gerausche</text>
+	</string>
+	<string id="ui_mm_heli_spawn">
+		<text>Helikopter Patroullien</text>
+	</string>
+	<string id="ui_mm_ai_die_in_anomaly">
+		<text>AI sterben in Anomalien</text>
+	</string>
+	<string id="ui_mm_dynamic_news">
+		<text>Dynamische Neuigkeiten</text>
+	</string>
+	<string id="ui_mm_art_degrade">
+		<text>Artefakt Degradation</text>
+	</string>
+	<string id="ui_mm_sleep_deprived">
+		<text>Schlafentzug</text>
+	</string>
+    <string id="ui_mm_excl_dist">
+        <text>Online Ausschlussradius</text>
+    </string>
+	<string id="ui_mm_char_portrait">
+		<text>Standart Bild</text>
+	</string>
+	<string id="ui_mm_outfit_portrait">
+		<text>Bild zum gegenwartigen Oufit</text>
+	</string>
+	<string id="ui_mm_show_enemy_health">
+		<text>Gesundheit von Feinden</text>
+	</string>
+	<string id="ui_mm_quicksave_cnt">
+		<text>Schnellspeichern Limit</text>
+	</string>
+	<string id="ui_mm_actor_hud">
+		<text>Masken Auflage</text>
+	</string>
+	<string id="ui_mm_alife_mutant_pop">
+		<text>Bevolkerungsfaktor (Mutanten)</text>
+	</string>
+	<string id="ui_mm_alife_stalker_pop">
+		<text>Bevolkerungsfaktor (Stalker)</text>
+	</string>
+	<string id="ui_mm_hud_fov">
+		<text>Hud FOV</text>
+	</string>
+	<string id="ui_mm_fov">
+		<text>FOV</text>
+	</string>
+	<string id="ui_mm_slot_hud">
+		<text>Gurtel Artefakt HUD</text>
+	</string>
+	<string id="ui_mm_show_tracers">
+		<text>Tracer anzeigen</text>
+	</string>
+	<string id="ui_mm_release_dropped_items">
+		<text>Entferne abgelegte Gegenstande</text>
+	</string>
+	<string id="ui_mm_hardcore_ai_aim">
+		<text>Hardcore AI Zielen</text>
+	</string>
+	<string id="ui_mm_localization">
+		<text>Lokalisierung</text>
+	</string>
+	<string id="ui_mm_mask_hud">
+		<text>Gasmasken HUD</text>
+	</string>
+	<string id="ui_mm_weapon_heat">
+		<text>Waffen Uberhitzung</text>
+	</string>
+	<string id="ui_mm_weapon_heat_ui">
+		<text>Waffen Uberhitzung HUD</text>
+	</string>
+	<string id="ui_mm_consumable_animation">
+		<text>Konservierungs Animation</text>
+	</string>
+	<string id="ui_mm_shot_effects">
+		<text>Schuss Effekte</text>
+	</string>
+
+<string id="ui_st_invalid_saved_game">
+	<text>Die gespeicherte Dateiversion stimmt nicht mit der Spielversion ?berein</text>
+</string>
+<string id="st_currency">
+	<text>UAH</text>
+</string>
+<string id="ui_inv_helicopter">
+	<text>Hubschrauber</text>
+</string>
+<string id="ui_inv_stash">
+	<text>versteck</text>
+</string>
+<string id="ui_inv_disassemble">
+	<text>zerlegen</text>
+</string>
+</string_table>

@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+
+<!--===========================================================
+<
+< TEXT  STRINGS FOR TASKS ON MARSH (SWAMPS) MAP
+<	CoC 1.3.11
+<
+<	Modified by: DoctorX
+<	March 18, 2016
+<
+<===========================================================-->
+
+<string_table>
+
+
+	<!-- DELIVER PDA FOR SPORE TASK -->
+	<string id="mar_base_owl_stalker_trader_task_1_name">
+		<text>Liefere den PDA zu Nimble</text>
+	</string>
+	<string id="mar_base_owl_stalker_trader_task_1_text">
+		<text>Spore will das du einen verschlusselten PDA zu Nimble im Kordon lieferst.</text>
+	</string>
+	<string id="mar_base_owl_stalker_trader_task_1_about">
+		<text>Okay, mein Freund. Brauchst du einen Job? Also, hor zu: Dieser PDA muss an einen Typen geliefert werden, der im Anfanger Dorf in Kordon lebt. sein Name ist Nimble. Er wird dich nach der Lieferung entschadigen. Lass es nicht in eine Pfutze oder so eine damliche Scheisse fallen, oder du bezahlst mit deinem Leben! Ist das klar? Gut. Ah und, wenn du dort angekommen bist, frag ihn ob er vielleicht was zu bieten hat. Eine Rustung oder so. Erkunde dich einfach. Aber auch dies hat seinen Preis naturlich.</text>
+	</string>
+
+
+	<!-- DESTROY HELICOPTER FOR SPORE TASK -->
+	<string id="mar_base_owl_stalker_trader_task_2_name">
+		<text>Zerstore den Militar Hubschrauber</text>
+	</string>
+	<string id="mar_base_owl_stalker_trader_task_2_text">
+		<text>Spore hat die Schnauze voll und will, dass du den Hubschrauber zerstorst. Er wird dir einen Rabatt anbieten, wenn du damit durchkommst.</text>
+	</string>
+	<string id="mar_base_owl_stalker_trader_task_2_about">
+		<text>Dieser verdammte Hubschrauber macht mich wahnsinnig! Ich habe einen beschissenen Tinnitus und jedes Mal, wenn dieses verdammte Ding an der sudlichen Grenze patrouilliert, lasst es meine Ohren schreien! Es bringt mich sogar dazu verdammtes Babyfleisch zu knuppeln! Hol dieses verdammte Ding runter und ich gebe dir einen Rabatt, bevor ich jemanden umbringe.</text>
+	</string>
+
+
+	<!-- ESCORT SCIENTISTS FOR CLEAR SKY TASK -->
+	<string id="mar_base_owl_stalker_trader_task_3_name">
+		<text>Begleite die Wissenschaftler</text>
+	</string>
+	<string id="mar_base_owl_stalker_trader_task_3_text">
+		<text>Clear Sky Wissenschaftler haben dich engagiert, um sie zu einem bestimmten Studienort zu fuhren. Sobald ihre Forschung erfolgreich durchgefuhrt wurde, bringe sie sicher zum Camp zuruck. Danach bekommst du deine Bezahlung.</text>
+	</string>
+	<string id="mar_base_owl_stalker_trader_task_3_about">
+		<text>Die Wissenschaftler hier im Lager brauchen einen erfahrenen Stalker, der sie zum Studium in das Feld fuhrt. Bist du dabei? Deine Aufgabe ist es, sie am Leben zu erhalten und sie zu ihrem Ziel zu fuhren. Das Scheitern wird dir hier einen schlechten Ruf verschaffen. Einen SEHR schlechten sogar, mein Freund!</text>
+	</string>
+	<string id="mar_base_owl_stalker_trader_task_3_finish">
+		<text>Danke Stalker. Du kannst dies als Bezahlung fur deine Dienste haben.</text>
+	</string>
+
+
+	<!-- HUNT MUTANTS FOR CLEAR SKY TASK -->
+	<string id="mar_base_stalker_barmen_task_1_name">
+		<text>Eliminiere Mutanten Bedrohungen</text>
+	</string>
+	<string id="mar_base_stalker_barmen_task_1_text">
+		<text>In der Nahe dieses Ortes wurden Mutanten entdeckt, die das Gebiet fur einige Einheimische gefahrlich machen. Du wurdest damit beauftragt, die Mutantenbedrohung in diesem Gebiet zu eliminieren. Melde dich nach Abschluss des Jobs bei Bibliothekar zuruck.</text>
+	</string>
+	<string id="mar_base_stalker_barmen_task_1_about">
+		<text>Bist du ein begeisterter Jager? Wir haben nach jemandem Ausschau gehalten, der die Sumpfe ein wenig sicherer halt, indem er die Mutanten in Gebieten beseitigt die unsere Fraktion Heim sucht. Na? Du siehst fur diesen Job wie geschaffen aus mein Freund!</text>
+	</string>
+	<string id="mar_base_stalker_barmen_task_1_finish">
+		<text>Fantastisch! Hier ist deine Zahlung. Ich werde allen erzahlen das es wieder sicher ist, und das nur wegen dir! Danke, Stalker.</text>
+	</string>
+
+
+	<!-- ASSAULT BANDIT CAMP FOR CLEAR SKY TASK -->
+	<string id="mar_base_stalker_barmen_task_2_name">
+		<text>Eliminiere das Banditen Lager</text>
+	</string>
+	<string id="mar_base_stalker_barmen_task_2_text">
+		<text>Du wurdest beauftragt, die Banditenbedrohung in der Gegend zu beseitigen. Melde dich nach Abschluss des Jobs bei Bibliothekar zuruck.</text>
+	</string>
+	<string id="mar_base_stalker_barmen_task_2_about">
+		<text>Wir haben ein grosses Problem mit Banditen in der Gegend. Diese morderischen Schlager haben unsere Lager ausserhalb der Hauptbasis uberfallen, um das Gebiet zu erobern. Es wird uns den Durchgang durch viele sichere Wege durch die Sumpfe verweigern solange sie in der Gegend sind. Wir brauchen einen erfahrenen Stalker, der keine Angst hat, sich die Hande schmutzig zu machen. Wirst du uns helfen?</text>
+	</string>
+	<string id="mar_base_stalker_barmen_task_2_finish">
+		<text>Fantastisch! Hier ist deine Zahlung. Ich werde allen erzahlen das es wieder sicher ist, und das nur wegen dir! Danke, Stalker.</text>
+	</string>
+
+
+	<!-- FIND MUTANT MEAT FOR CLEAR SKY TASK -->
+	<string id="mar_base_stalker_barmen_task_3_name">
+		<text>Wildfleisch</text>
+	</string>
+	<string id="mar_base_stalker_barmen_task_3_text">
+		<text>Haute frisch tote Mutanten, um Wildfleisch zu sammeln. Danach liefere %s zu Librarian im Clear Sky Lager.</text>
+	</string>
+	<string id="mar_base_stalker_barmen_task_3_about">
+		<text>Wenn du gut mit einem Gewehr bist und keine Angst vor ein paar Mutanten hast, dann habe ich einen Job fur dich. Bist du interessiert?</text>
+	</string>
+	<string id="mar_base_stalker_barmen_task_3_fetch_about">
+		<text>Die Rationen werden knapp und ich muss jeden im Lager voll halten. Einige der Jungs bringen mir hin und wieder ein paar Kilo zuruck. Aber es war in letzter Zeit langsam, also wenn du nicht zu beschaftigt bist und unterwegs bist, brauche ich %s. Ich tote und verarbeite das Fleisch, genau hier in meiner Kuche. Denk daran, dass das Fleisch wegen des Adrenalins zah wird, wenn man die Mutanten hautet. Je geringer die Blutung, desto besser schmeckt das Fleisch. Also sei vorsichtig mit dem Hauten, okay?</text>
+	</string>
+	<string id="mar_base_stalker_barmen_task_3_fetch_finish">
+		<text>Exzellente Arbeit! Du bist der geborene Jager! Hier ist deine Bezahlung.</text>
+	</string>
+
+
+	<!-- FIND LEVEL 1 TOOLS FOR NOVIKOV TASK -->
+	<string id="mar_base_stalker_tech_task_1_name">
+		<text>Finde %s</text>
+	</string>
+	<string id="mar_base_stalker_tech_task_1_text">
+		<text>%s werden von Novikov benotigt, um grundlegende Ausrustungs-Upgrades zu installieren. Du solltest sie ihm bringen, wenn du welche findest.</text>
+	</string>
+	<string id="mar_base_stalker_tech_task_1_about">
+		<text>Es ist wirklich schwer hier in der Zone an Werkzeuge zu kommen. Ich ware in der Lage, Upgrades fur eine grossere Vielfalt an Geraten durchzufuhren, wenn ich nur ein paar neue Werkzeuge in die Hande bekommen konnte. Wenn du interessiert bist, werde ich dir sagen, was ich brauche.</text>
+	</string>
+	<string id="mar_base_stalker_tech_task_1_fetch_about">
+		<text>Ich brauche eine Reihe Grundlegender Werkzeuge. Es sollte enthalten was ich brauche. Wenn du etwas fur mich hast, ware ich dir sehr dankbar! Ich werde dir von hier aus sogar einen Rabatt anbieten.</text>
+	</string>
+	<string id="mar_base_stalker_tech_task_1_fetch_finish">
+		<text>Gute Arbeit, Alter! Hier, lass mich ein wenig Geld auf dich schmeissen!</text>
+	</string>
+
+
+	<!-- FIND LEVEL 2 TOOLS FOR NOVIKOV TASK -->
+	<string id="mar_base_stalker_tech_task_2_name">
+		<text>Finde %s</text>
+	</string>
+	<string id="mar_base_stalker_tech_task_2_text">
+		<text>%s werden von Novikov benotigt, um fortgeschrittene Ausrustungs-Upgrades zu installieren. Du solltest sie ihm bringen, wenn du welche findest.</text>
+	</string>
+	<string id="mar_base_stalker_tech_task_2_about">
+		<text>Ich konnte wirklich mehr Werkzeuge gebrauchen. Du hast mir letztes Mal zwar sehr gute Scheisse gebracht, aber ich brauche eine hohere Qualitat. Wenn du interessiert bist, werde ich dir sagen, was ich brauche.</text>
+	</string>
+	<string id="mar_base_stalker_tech_task_2_fetch_about">
+		<text>Ich brauche eine Reihe von Fortgeschrittenen Werkzeugen. Es sollte enthalten was ich brauche. Wenn du etwas fur mich hast, ware ich dir sehr dankbar! Ich werde dir von hier aus sogar einen Rabatt anbieten.</text>
+	</string>
+	<string id="mar_base_stalker_tech_task_2_fetch_finish">
+		<text>Gute Arbeit, Alter! Du hast es wieder durchgezogen! Hier, lass mich ein wenig Geld auf dich schmeissen!</text>
+	</string>
+
+
+	<!-- FIND LEVEL 3 TOOLS FOR NOVIKOV TASK -->
+	<string id="mar_base_stalker_tech_task_3_name">
+		<text>Finde %s</text>
+	</string>
+	<string id="mar_base_stalker_tech_task_3_text">
+		<text>%s werden von Novikov benotigt, um sachverstandige Ausrustungsverbesserungen zu installieren. Du solltest sie ihm bringen, wenn du welche findest.</text>
+	</string>
+	<string id="mar_base_stalker_tech_task_3_about">
+		<text>I could really use more tools. You brought me some good shit last time but I need a higher quality set. If you are interested, I will tell you what I need.</text>
+	</string>
+	<string id="mar_base_stalker_tech_task_3_fetch_about">
+		<text>Ich brauche eine Reihe von Experten-Tools. Es sollte enthalten was ich brauche. Wenn du etwas fur mich hast, ware ich dir sehr dankbar! Ich werde dir von hier aus sogar einen Rabatt anbieten.</text>
+	</string>
+	<string id="mar_base_stalker_tech_task_3_fetch_finish">
+		<text>Gute Arbeit, Alter! Du hast es wieder durchgezogen! Hier, lass mich ein wenig Geld auf dich schmeissen!</text>
+	</string>
+
+
+	<!-- ESCORT SCIENTISTS DIALOGS -->
+	<string id="ecolog_companion_task_1_start_dialog_1">
+		<text>Du bist unser Fuhrer? Nun, dann werde ich den Standort auf deinen PDA markieren. Fuhre uns zu dem Weg und wir werden dir folgen. Nachdem wir unsere Analyse abgeschlossen haben, gehen wir wieder zuruck. Sprich wieder mit mir, wenn wir ins Lager zuruckkehren.</text>
+	</string>
+	<string id="ecolog_companion_task_1_start_dialog_2">
+		<text>Ja? Wir sollten weiter gehen. Je langer wir warten, desto gefahrlicher wird es.</text>
+	</string>
+	<string id="ecolog_companion_task_1_complete">
+		<text>Danke, Stalker. Du hast gute Arbeit geleistet. Hier ist deine Bezahlung.</text>
+	</string>
+	<string id="ecolog_companion_task_1_actor_reply">
+		<text>Okay.</text>
+	</string>
+	
+		<!-- FIND SWAMP DOCTOR -->
+	<string id="mar_doctor_task">
+		<text>Mythen der Zone</text>
+	</string>
+	<string id="mar_doctor_task_0">
+		<text>Du bist in die Zone gekommen, um seine vielen Geheimnisse zu entdecken. Ein bekanntes Gesicht mag die Antworten enthalten, die du suchst.</text>
+	</string>
+	
+	<!-- MARSH DOCTOR STASH IN PRIPYAT -->
+	<string id="cit_doctor_task">
+		<text>Das Hotel Polissya</text>
+	</string>
+	<string id="cit_doctor_task_1">
+		<text>Der Schlussel und die Koordinaten, die der Doktor dir gab, deuten darauf hin, dass Strelok in einem Zimmer im Hotel Polissya in Pripyat einen Vorrat versteckt hat.</text>
+	</string>
+	<string id="cit_doctor_task_2">
+		<text>Du hast das Hotel mit den Koordinaten gefunden, die du erhalten hast. Hier sollte irgendwo das Zimmer sein, das mit der Aufschrift auf dem Schlussel ubereinstimmt.</text>
+	</string>
+	<string id="cit_doctor_task_3">
+		<text>Ein paar verstreute Gegenstande sind in dem von Strelok verlassenen Zimmer verstreut. Sie sollten auf mogliche Hinweise untersucht werden.</text>
+	</string>
+	<!-- MARSH DOCTOR VISIT LABS -->
+	<string id="st_main_1_search_agr_ug_name">
+		<text>Agroprom Untergrund untersuchen</text>
+	</string>
+	<string id="st_main_1_search_agr_ug_text">
+		<text>Untersuche den Agroprom Untergrund und suche nach Beweisen fur eine Verschworung.</text>
+	</string>
+	<string id="st_main_2_search_labx18_name">
+		<text>Lab X-18 untersuchen</text>
+	</string>
+	<string id="st_main_2_search_labx18_text">
+		<text>Untersuche das Lab X-18 und suche nach Beweisen fur eine Verschworung.</text>
+	</string>
+	<string id="st_main_3_search_labx16_name">
+		<text>Lab X-16 untersuchen</text>
+	</string>
+	<string id="st_main_3_search_labx16_text">
+		<text>Untersuche das Lab X-16 und suche nach Beweisen fur eine Verschworung.</text>
+	</string>
+	<string id="st_main_4_search_labx10_name">
+		<text>Lab X-19 untersuchen</text>
+	</string>
+	<string id="st_main_4_search_labx10_text">
+		<text>Untersuche das Lab X-19 und suche nach Beweisen fur eine Verschworung.</text>
+	</string>
+	<string id="st_main_5_search_labx8_name">
+		<text>Lab X-8 untersuchen</text>
+	</string>
+	<string id="st_main_5_search_labx8_text">
+		<text>Untersuche das Lab X-8 und suche nach Beweisen fur eine Verschworung.</text>
+	</string>
+	<string id="st_main_6_search_jup_ug_name">
+		<text>Jupiter Untergrund untersuchen</text>
+	</string>
+	<string id="st_main_6_search_jup_ug_text">
+		<text>Untersuche den Jupiter Untergrund und suche nach Beweisen fur eine Verschworung.</text>
+	</string>
+	<string id="st_main_7_search_mon_con_name">
+		<text>Investigate Tschernobyl NPP untersuchen</text>
+	</string>
+	<string id="st_main_7_search_mon_con_text">
+		<text>Untersuche das Tschernobyl NPP und suche nach Beweisen fur eine Verschworung.</text>
+	</string>
+</string_table>

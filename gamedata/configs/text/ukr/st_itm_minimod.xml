@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+<string id="st_itm_artefact_container_name">
+	<text>Контейнер для артефактів</text>
+</string>
+<string id="st_itm_backpack_name">
+	<text>Рюкзак</text>
+</string>
+<string id="st_itm_backpack_desc">
+	<text>Рюкзак із міцного матеріалу, здатний витримати найсуворіші погодні умови.</text>
+</string>
+<string id="st_itm_sleepbag_name">
+	<text>Спальний мішок</text>
+</string>
+<string id="st_itm_sleepbag_desc">
+	<text>Похідний спальний мішок, достатньо теплий, щоб пережити ніч у Зоні.</text>
+</string>
+<string id="st_sleep">
+	<text>Спати</text>
+</string>
+<string id="st_itm_actor_backpack_name">
+	<text>Польовий рюкзак</text>
+</string>
+<string id="st_itm_actor_backpack_desc">
+	<text>Міцний рюкзак із безліччю підсумків і відділень, оснащений швидкознімними лямками, що дає змогу скинути його в будь-який момент.</text>
+</string>
+<string id="st_itm_gunsmith_toolkit">
+	<text>Ремнабір</text>
+</string>
+<string id="st_itm_gunsmith_toolkit_descr">
+	<text>Набір інструментів і мастил для базового догляду за зброєю. Досить корисна річ, утім, доволі важка.\n\n%c[255,255,1,1]Перетягніть на елемент, який хочете відновити.</text>
+</string>
+<string id="st_itm_outfit_toolkit">
+	<text>Швейний набір</text>
+</string>
+<string id="st_itm_outfit_toolkit_descr">
+	<text>Набір швейних інструментів і матеріалів для догляду за обмундируванням. Дуже корисна річ для латання дір і розривів у броні.\n\n%c[255,255,1,1]Перетягніть на елемент, який хочете відновити.</text>
+</string>
+<string id="st_itm_repairkit_tier_1_name">
+	<text>Інструменти для грубої роботи</text>
+</string>
+<string id="st_itm_repairkit_tier_1_descr">
+	<text>Набір інструментів «Юний технік». Навряд чи підійде для точної роботи, але в умовах повної нестачі інструментів у Зоні може стати в пригоді ощадливому техніку.</text>
+</string>
+<string id="st_itm_repairkit_tier_2_name">
+	<text>Інструменти для точної роботи</text>
+</string>
+<string id="st_itm_repairkit_tier_2_descr">
+	<text>Непоганий набір інструментів. Схоже, ретельно підібраний досвідченим майстром «під себе, рідного». Незважаючи на роки, увесь інструментарій добре зберігся.</text>
+</string>
+<string id="st_itm_repairkit_tier_3_name">
+	<text>Інструменти для калібрування</text>
+</string>
+<string id="st_itm_repairkit_tier_3_descr">
+	<text>Професійний набір інструментів для точної настройки обладнання. Напис на ящику свідчить, що набір виготовлений у НДР. Того, що входить до комплекту, достатньо для виконання майже будь-яких робіт із налаштування та калібрування.</text>
+</string>
+<string id="st_repair_mod_message_box_ask">
+	<text>Справді хочете відремонтувати: %s?\n\n%c[255,1,255,1]+%s%</text>
+</string>
+<string id="st_repair_mod_message_box_condition_to_low">
+	<text>Це не можна відремонтувати цим набором.</text>
+</string>
+<string id="st_repair_mod_message_box_condition_to_high">
+	<text>Ремнабору недостатньо для проведення ремонту.</text>
+</string>
+<string id="st_itm_stash">
+	<text>сховок</text>
+</string>
+<string id="st_itm_stash_of_character">
+	<text>. Його сховок</text>
+</string>
+</string_table>

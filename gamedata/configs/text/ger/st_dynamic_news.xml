@@ -1,0 +1,2284 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="st_dyn_news_boar_1">
+		<text>Ein Eber</text>
+	</string>
+	<string id="st_dyn_news_boar_2">
+		<text>Wir wurden von einem Eber attackiert</text>
+	</string>
+	<string id="st_dyn_news_boar_3">
+		<text>Wir sind in Eber reingelaufen</text>
+	</string>
+	<string id="st_dyn_news_boar_4">
+		<text>Wir wurden von einem Rudel Eber angegriffen</text>
+	</string>
+	<string id="st_dyn_news_boar_5">
+		<text>Wir sind in einige Eber reingelaufen</text>
+	</string>
+	<string id="st_dyn_news_boar_6">
+		<text>Ein Rudel von wilden Eber</text>
+	</string>
+
+	<string id="st_dyn_news_dog_1">
+		<text>Ein Hund</text>
+	</string>
+	<string id="st_dyn_news_dog_2">
+		<text>Wir wurden von einem Hund attackiert</text>
+	</string>
+	<string id="st_dyn_news_dog_3">
+		<text>Wir sind auf Hunde gestossen</text>
+	</string>
+	<string id="st_dyn_news_dog_4">
+		<text>Wir wurden von einem Rudel von Hunden angegriffen</text>
+	</string>
+	<string id="st_dyn_news_dog_5">
+		<text>Wir sind in einen Rudel Hunde reingelaufen</text>
+	</string>
+	<string id="st_dyn_news_dog_6">
+		<text>Ein Rudel von Hunden</text>
+	</string>
+
+	<string id="st_dyn_news_flesh_1">
+		<text>Ein Flesh</text>
+	</string>
+	<string id="st_dyn_news_flesh_2">
+		<text>Wir wurden von einem Flesh angegriffen</text>
+	</string>
+	<string id="st_dyn_news_flesh_3">
+		<text>Wir sind auf einem Flesh gestossen</text>
+	</string>
+	<string id="st_dyn_news_flesh_4">
+		<text>Wir wurden von einem Herd von Fleshs gehetzt</text>
+	</string>
+	<string id="st_dyn_news_flesh_5">
+		<text>Wir wurden vor Fleshs angegriffen</text>
+	</string>
+	<string id="st_dyn_news_flesh_6">
+		<text>Eine Horde von Fleshs</text>
+	</string>
+
+	<string id="st_dyn_news_pseudodog_1">
+		<text>Ein Pseudohund</text>
+	</string>
+	<string id="st_dyn_news_pseudodog_2">
+		<text>Wir wurden von einem Pseudohund angegriffen</text>
+	</string>
+	<string id="st_dyn_news_pseudodog_3">
+		<text>Ein Pseudohund ist auf uns losgesprungen</text>
+	</string>
+	<string id="st_dyn_news_pseudodog_4">
+		<text>Wir wurden von einem Rudel Pseudohunde angegriffen</text>
+	</string>
+	<string id="st_dyn_news_pseudodog_5">
+		<text>Wir sind in einen Rudel Pseudohunde reingelaufen</text>
+	</string>
+	<string id="st_dyn_news_pseudodog_6">
+		<text>Eine Horde von Pseudohunde</text>
+	</string>
+
+	<string id="st_dyn_news_snork_1">
+		<text>Ein Snork</text>
+	</string>
+	<string id="st_dyn_news_snork_2">
+		<text>Wir wurden von einem Snork angesprungen</text>
+	</string>
+	<string id="st_dyn_news_snork_3">
+		<text>Wir sind auf einem Snork gestossen</text>
+	</string>
+	<string id="st_dyn_news_snork_4">
+		<text>Wir wurden von einer Horde Snorks angegriffen</text>
+	</string>
+	<string id="st_dyn_news_snork_5">
+		<text>Wir sind in einem Rudel Snorks reingelaufen</text>
+	</string>
+	<string id="st_dyn_news_snork_6">
+		<text>Eine Gruppe von Snorks</text>
+	</string>
+
+	<string id="st_dyn_news_bloodsucker_1">
+		<text>Ein Blutsauger</text>
+	</string>
+	<string id="st_dyn_news_bloodsucker_2">
+		<text>Wir wurden von einem Blutsauger angegriffen</text>
+	</string>
+	<string id="st_dyn_news_bloodsucker_3">
+		<text>Ein Blutsauger hat uns eine Falle gestellt</text>
+	</string>
+	<string id="st_dyn_news_bloodsucker_4">
+		<text>Wir wurden von Blutsauger angegriffen</text>
+	</string>
+	<string id="st_dyn_news_bloodsucker_5">
+		<text>Uns wurde eine Falle von einer Horde Blutsauger gestellt</text>
+	</string>
+	<string id="st_dyn_news_bloodsucker_6">
+		<text>Eine Gruppe von Blutsauger</text>
+	</string>
+
+	<string id="st_dyn_news_burer_1">
+		<text>Ein Burer</text>
+	</string>
+	<string id="st_dyn_news_burer_2">
+		<text>Wir wurden von einem Burer attackiert</text>
+	</string>
+	<string id="st_dyn_news_burer_3">
+		<text>Wir sind in einem Burer reingelaufen</text>
+	</string>
+	<string id="st_dyn_news_burer_4">
+		<text>Wir wurden von Burer angegriffen</text>
+	</string>
+	<string id="st_dyn_news_burer_5">
+		<text>Wir sind in einige Burer reingelaufen</text>
+	</string>
+	<string id="st_dyn_news_burer_6">
+		<text>Eine Horde Burer</text>
+	</string>
+
+	<string id="st_dyn_news_chimera_1">
+		<text>Ein Chimera</text>
+	</string>
+	<string id="st_dyn_news_chimera_2">
+		<text>Wir wurden von Chimeras angegriffen</text>
+	</string>
+	<string id="st_dyn_news_chimera_3">
+		<text>Wir wurden von Chimeras angesprungen</text>
+	</string>
+	<string id="st_dyn_news_chimera_4">
+		<text>Wir wurden von Chimeras angegriffen</text>
+	</string>
+	<string id="st_dyn_news_chimera_5">
+		<text>Wir wurden von Chimeras reingelegt</text>
+	</string>
+	<string id="st_dyn_news_chimera_6">
+		<text>Eine Horde Chimeras</text>
+	</string>
+
+	<string id="st_dyn_news_controller_1">
+		<text>Ein Controller</text>
+	</string>
+	<string id="st_dyn_news_controller_2">
+		<text>Wir wurden von einem Controller angegriffen</text>
+	</string>
+	<string id="st_dyn_news_controller_3">
+		<text>Ein Controller hat uns eine Falle gestellt</text>
+	</string>
+	<string id="st_dyn_news_controller_4">
+		<text>Wir wurden von einigen Controllers angegriffen</text>
+	</string>
+	<string id="st_dyn_news_controller_5">
+		<text>Wir sind in eine Truppe Controllers reingelaufen</text>
+	</string>
+	<string id="st_dyn_news_controller_6">
+		<text>Eine Truppe von Controllers</text>
+	</string>
+
+	<string id="st_dyn_news_poltergeist_1">
+		<text>Ein Poltergeist</text>
+	</string>
+	<string id="st_dyn_news_poltergeist_2">
+		<text>Ein Poltergeist hat uns verletzt</text>
+	</string>
+	<string id="st_dyn_news_poltergeist_3">
+		<text>Wir sind auf einem Poltergeist gestossen</text>
+	</string>
+	<string id="st_dyn_news_poltergeist_4">
+		<text>Wir wurden von Poltergeistern angegriffen</text>
+	</string>
+	<string id="st_dyn_news_poltergeist_5">
+		<text>Wir sind auf mehrere Poltergeister gestossen</text>
+	</string>
+	<string id="st_dyn_news_poltergeist_6">
+		<text>Ein paar Poltergeister</text>
+	</string>
+
+	<string id="st_dyn_news_gigant_1">
+		<text>Ein Pseudogiant</text>
+	</string>
+	<string id="st_dyn_news_gigant_2">
+		<text>Wir wurden von einem Pseudogiant angegriffen</text>
+	</string>
+	<string id="st_dyn_news_gigant_3">
+		<text>Wir sind auf einem Pseudogiant gestossen</text>
+	</string>
+	<string id="st_dyn_news_gigant_4">
+		<text>Wir wurden von mehreren Pseudogianten angegriffen</text>
+	</string>
+	<string id="st_dyn_news_gigant_5">
+		<text>Wir wurden von mehreren Pseudogianten angegriffen</text>
+	</string>
+	<string id="st_dyn_news_gigant_6">
+		<text>Ein paar Pseudogianten</text>
+	</string>
+
+	<string id="st_dyn_news_tushkano_1">
+		<text>Ein Tushkano</text>
+	</string>
+	<string id="st_dyn_news_tushkano_2">
+		<text>Wir wurden von einem Tushkano gehetzt</text>
+	</string>
+	<string id="st_dyn_news_tushkano_3">
+		<text>Ein Tushkano hat uns attackiert</text>
+	</string>
+	<string id="st_dyn_news_tushkano_4">
+		<text>Wir wurden von einer Horde Tushkanos gehetzt</text>
+	</string>
+	<string id="st_dyn_news_tushkano_5">
+		<text>Wir wurden von einer Horde Tushkanos verletzt</text>
+	</string>
+	<string id="st_dyn_news_tushkano_6">
+		<text>Eine Horde Tushkanos</text>
+	</string>
+
+	<string id="st_dyn_news_psy_dog_1">
+		<text>Ein Psy Hund</text>
+	</string>
+	<string id="st_dyn_news_psy_dog_2">
+		<text>Wir wurden von einem Psy Hund angegriffen</text>
+	</string>
+	<string id="st_dyn_news_psy_dog_3">
+		<text>Ein Psy Hund hat uns eine Falle gestellt</text>
+	</string>
+	<string id="st_dyn_news_psy_dog_4">
+		<text>Wir sind auf eine Horde Psy Hunde gestossen</text>
+	</string>
+	<string id="st_dyn_news_psy_dog_5">
+		<text>Wir wurden von Psy Hunde angegriffen</text>
+	</string>
+	<string id="st_dyn_news_psy_dog_6">
+		<text>Eine Horde Psy Hunde</text>
+	</string>
+
+	<string id="st_dyn_news_psy_dog_phantom_1">
+		<text>Ein Phantom</text>
+	</string>
+	<string id="st_dyn_news_psy_dog_phantom_2">
+		<text>Wir wurden von Phantomen angegriffe</text>
+	</string>
+	<string id="st_dyn_news_psy_dog_phantom_3">
+		<text>Wir sind auf Phantome gestossen</text>
+	</string>
+	<string id="st_dyn_news_psy_dog_phantom_4">
+		<text>Uns wurde eine Falle von Phantomen gestellt</text>
+	</string>
+	<string id="st_dyn_news_psy_dog_phantom_5">
+		<text>Wir sind auf eine Horde Phantomen gestossen</text>
+	</string>
+	<string id="st_dyn_news_psy_dog_phantom_6">
+		<text>Eine Horde von Phantomen</text>
+	</string>
+
+	<string id="st_dyn_news_zombied_1">
+		<text>Ein Zombifizierter Stalker</text>
+	</string>
+	<string id="st_dyn_news_zombied_2">
+		<text>Wir wurden von einem Zombie angegriffen</text>
+	</string>
+	<string id="st_dyn_news_zombied_3">
+		<text>Wir sind auf Zombies gestossen</text>
+	</string>
+	<string id="st_dyn_news_zombied_4">
+		<text>Wir wurden von Zombies angegriffen</text>
+	</string>
+	<string id="st_dyn_news_zombied_5">
+		<text>Wir sind auf eine Horde Zombies gestossen</text>
+	</string>
+	<string id="st_dyn_news_zombied_6">
+		<text>Ein ganzes Team voller Zombies</text>
+	</string>
+
+	<string id="st_dyn_news_cat_1">
+		<text>Eine Katze</text>
+	</string>
+	<string id="st_dyn_news_cat_2">
+		<text>Eine Katze hat uns eine Falle gestellt</text>
+	</string>
+	<string id="st_dyn_news_cat_3">
+		<text>Wir sind auf eine Katze gestossen</text>
+	</string>
+	<string id="st_dyn_news_cat_4">
+		<text>Wir wurden von einer Gruppe Katzen attackiert</text>
+	</string>
+	<string id="st_dyn_news_cat_5">
+		<text>Wir wurden von verdammten Katzen angesprungen</text>
+	</string>
+	<string id="st_dyn_news_cat_6">
+		<text>Eine Gruppe Katzen</text>
+	</string>
+
+	<string id="st_dyn_news_fracture_1">
+		<text>Eine Fraktur</text>
+	</string>
+	<string id="st_dyn_news_fracture_2">
+		<text>Wir wurden von Frakturen angegriffen</text>
+	</string>
+	<string id="st_dyn_news_fracture_3">
+		<text>Wir sind auf Frakturen gestossen</text>
+	</string>
+	<string id="st_dyn_news_fracture_4">
+		<text>Wir wurden von einer Gruppe Fraktoren angegriffen</text>
+	</string>
+	<string id="st_dyn_news_fracture_5">
+		<text>Fraktoren haben uns angegriffen</text>
+	</string>
+	<string id="st_dyn_news_fracture_6">
+		<text>Eine Gruppe voller Fraktoren</text>
+	</string>
+
+	<string id="st_dyn_news_zombie_1">
+		<text>Zombie</text>
+	</string>
+	<string id="st_dyn_news_zombie_2">
+		<text>Wir wurden von einem Zombie angegriffen</text>
+	</string>
+	<string id="st_dyn_news_zombie_3">
+		<text>Wir sind auf Zombies gestossen</text>
+	</string>
+	<string id="st_dyn_news_zombie_4">
+		<text>Wir wurden von Zombies angegriffen</text>
+	</string>
+	<string id="st_dyn_news_zombie_5">
+		<text>Wir sind auf ein paar Zombies gestossen</text>
+	</string>
+	<string id="st_dyn_news_zombie_6">
+		<text>Eine Horde Zombies</text>
+	</string>
+
+	<string id="st_dyn_news_rat_1">
+		<text>Ratte</text>
+	</string>
+	<string id="st_dyn_news_rat_2">
+		<text>Wir wurden von Ratten attackiert</text>
+	</string>
+	<string id="st_dyn_news_rat_3">
+		<text>Verdammte Ratten haben uns attackiert</text>
+	</string>
+	<string id="st_dyn_news_rat_4">
+		<text>Wir wurden von einer Horde Ratten gehetzt</text>
+	</string>
+	<string id="st_dyn_news_rat_5">
+		<text>Wir wurden von einer Gruppe Ratten attackiert</text>
+	</string>
+	<string id="st_dyn_news_rat_6">
+		<text>Eine Gruppe Ratten</text>
+	</string>
+
+	
+	<string id="st_dyn_news_comm_actor_1">
+		<text>Ein Stalker</text>
+	</string>
+	<string id="st_dyn_news_comm_actor_2">
+		<text>Ein Einzelganger</text>
+	</string>
+	<string id="st_dyn_news_comm_actor_3">
+		<text>Irgendein Stalker</text>
+	</string>
+	<string id="st_dyn_news_comm_actor_4">
+		<text>Irgendein Einzelganger</text>
+	</string>
+	<string id="st_dyn_news_comm_actor_5">
+		<text>Stalker</text>
+	</string>
+	<string id="st_dyn_news_comm_actor_6">
+		<text>Einzelganger</text>
+	</string>
+	<string id="st_dyn_news_comm_actor_7">
+		<text>Stalker</text>
+	</string>
+	<string id="st_dyn_news_comm_actor_8">
+		<text>Einzelganger</text>
+	</string>
+	<string id="st_dyn_news_comm_actor_9">
+		<text>Stalker</text>
+	</string>
+	<string id="st_dyn_news_comm_actor_10">
+		<text>Einzelganger</text>
+	</string>
+	<string id="st_dyn_news_comm_actor_11">
+		<text>Wir brauchen Hilfe!</text>
+	</string>
+	<string id="st_dyn_news_comm_actor_12">
+		<text>Hilf uns!</text>
+	</string>
+	<string id="st_dyn_news_comm_actor_13">
+		<text>Wir brauchen Hilfe! Bitte.</text>
+	</string>
+	<string id="st_dyn_news_comm_actor_14">
+		<text>Hilfe!</text>
+	</string>
+	<string id="st_dyn_news_comm_monolith_1">
+		<text>Ein Monolith</text>
+	</string>
+	<string id="st_dyn_news_comm_monolith_2">
+		<text>Einer der Monolithen</text>
+	</string>
+	<string id="st_dyn_news_comm_monolith_3">
+		<text>Irgendein Monolith Trup</text>
+	</string>
+	<string id="st_dyn_news_comm_monolith_4">
+		<text>Ein Monolith</text>
+	</string>
+	<string id="st_dyn_news_comm_monolith_5">
+		<text>Standard</text>
+	</string>
+	<string id="st_dyn_news_comm_monolith_6">
+		<text>Monolith</text>
+	</string>
+	<string id="st_dyn_news_comm_monolith_7">
+		<text>Monolith</text>
+	</string>
+	<string id="st_dyn_news_comm_monolith_8">
+		<text>Monolith Truppen</text>
+	</string>
+	<string id="st_dyn_news_comm_monolith_9">
+		<text>Monolith</text>
+	</string>
+	<string id="st_dyn_news_comm_monolith_10">
+		<text>Monolith Einsatzkrafte</text>
+	</string>
+	<string id="st_dyn_news_comm_monolith_11">
+		<text>Bruder, helft uns!</text>
+	</string>
+	<string id="st_dyn_news_comm_monolith_12">
+		<text>Bruder, hilfe!</text>
+	</string>
+	<string id="st_dyn_news_comm_monolith_13">
+		<text>Wir brauchen Hilfe, Bruder!</text>
+	</string>
+	<string id="st_dyn_news_comm_monolith_14">
+		<text>Hilfe!</text>
+	</string>
+	<string id="st_dyn_news_comm_bandit_1">
+		<text>Ein Bandit</text>
+	</string>
+	<string id="st_dyn_news_comm_bandit_2">
+		<text>Ein Bandit</text>
+	</string>
+	<string id="st_dyn_news_comm_bandit_3">
+		<text>Ein Bandit</text>
+	</string>
+	<string id="st_dyn_news_comm_bandit_4">
+		<text>Irgendwelche Banditen</text>
+	</string>
+	<string id="st_dyn_news_comm_bandit_5">
+		<text>Bandit</text>
+	</string>
+	<string id="st_dyn_news_comm_bandit_6">
+		<text>Bandit</text>
+	</string>
+	<string id="st_dyn_news_comm_bandit_7">
+		<text>Banditen</text>
+	</string>
+	<string id="st_dyn_news_comm_bandit_8">
+		<text>Schlager</text>
+	</string>
+	<string id="st_dyn_news_comm_bandit_9">
+		<text>Irgendwelche Banditen</text>
+	</string>
+	<string id="st_dyn_news_comm_bandit_10">
+		<text>Schlager</text>
+	</string>
+	<string id="st_dyn_news_comm_bandit_11">
+		<text>Hey, hilf uns!</text>
+	</string>
+	<string id="st_dyn_news_comm_bandit_12">
+		<text>Wir brauchen verdammte Hilfe!</text>
+	</string>
+	<string id="st_dyn_news_comm_bandit_13">
+		<text>Wir sitzen in der tiefen Scheisse, jungs!</text>
+	</string>
+	<string id="st_dyn_news_comm_bandit_14">
+		<text>Hey hey hey, wir brauchen Hilfe!</text>
+	</string>
+	<string id="st_dyn_news_comm_dolg_1">
+		<text>Ein Wachter</text>
+	</string>
+	<string id="st_dyn_news_comm_dolg_2">
+		<text>Ein Mann von den Wachtern</text>
+	</string>
+	<string id="st_dyn_news_comm_dolg_3">
+		<text>Irgendein Mann der Wachte</text>
+	</string>
+	<string id="st_dyn_news_comm_dolg_4">
+		<text>Irgendeiner der Wachter</text>
+	</string>
+	<string id="st_dyn_news_comm_dolg_5">
+		<text>Wachter</text>
+	</string>
+	<string id="st_dyn_news_comm_dolg_6">
+		<text>Wachter</text>
+	</string>
+	<string id="st_dyn_news_comm_dolg_7">
+		<text>Wachter</text>
+	</string>
+	<string id="st_dyn_news_comm_dolg_8">
+		<text>Wachter Soldaten</text>
+	</string>
+	<string id="st_dyn_news_comm_dolg_9">
+		<text>Wachter</text>
+	</string>
+	<string id="st_dyn_news_comm_dolg_10">
+		<text>Wachter Einsatzkrafte</text>
+	</string>
+	<string id="st_dyn_news_comm_dolg_11">
+		<text>Wir brauchen Verstarkung!</text>
+	</string>
+	<string id="st_dyn_news_comm_dolg_12">
+		<text>Ich fordere Verstarkung an!</text>
+	</string>
+	<string id="st_dyn_news_comm_dolg_13">
+		<text>Ich fordere Unterstutzung an!</text>
+	</string>
+	<string id="st_dyn_news_comm_dolg_14">
+		<text>Wir brauchen Verstarkung!</text>
+	</string>
+	<string id="st_dyn_news_comm_ecolog_1">
+		<text>Ein Wissenschaftler</text>
+	</string>
+	<string id="st_dyn_news_comm_ecolog_2">
+		<text>Ein Eierkopf</text>
+	</string>
+	<string id="st_dyn_news_comm_ecolog_3">
+		<text>Irgendein Wissenschaftler</text>
+	</string>
+	<string id="st_dyn_news_comm_ecolog_4">
+		<text>Irgendein Eierkopf</text>
+	</string>
+	<string id="st_dyn_news_comm_ecolog_5">
+		<text>Standard</text>
+	</string>
+	<string id="st_dyn_news_comm_ecolog_6">
+		<text>Okologe</text>
+	</string>
+	<string id="st_dyn_news_comm_ecolog_7">
+		<text>Wissenschaftler</text>
+	</string>
+	<string id="st_dyn_news_comm_ecolog_8">
+		<text>Okologen</text>
+	</string>
+	<string id="st_dyn_news_comm_ecolog_9">
+		<text>Irgendwelche Wissenschaftler</text>
+	</string>
+	<string id="st_dyn_news_comm_ecolog_10">
+		<text>Eierkopfe</text>
+	</string>
+	<string id="st_dyn_news_comm_ecolog_11">
+		<text>Hilfe! Bitte! Hilft uns denn jemand?!</text>
+	</string>
+	<string id="st_dyn_news_comm_ecolog_12">
+		<text>Hilfe! Bitte! Irgendjemand!</text>
+	</string>
+	<string id="st_dyn_news_comm_ecolog_13">
+		<text>Hier spricht ein Remote-Wissenschaftsteam, das um Hilfe bittet!</text>
+	</string>
+	<string id="st_dyn_news_comm_ecolog_14">
+		<text>Irgendjemand, Hilfe!</text>
+	</string>
+	<string id="st_dyn_news_comm_csky_1">
+		<text>Ein Clear Sky Stalker</text>
+	</string>
+	<string id="st_dyn_news_comm_csky_2">
+		<text>Ein Mann der Clear Sky</text>
+	</string>
+	<string id="st_dyn_news_comm_csky_3">
+		<text>Einer von Clear Sky</text>
+	</string>
+	<string id="st_dyn_news_comm_csky_4">
+		<text>Irgendein Typ von Clear Sky</text>
+	</string>
+	<string id="st_dyn_news_comm_csky_5">
+		<text>Clear Sky</text>
+	</string>
+	<string id="st_dyn_news_comm_csky_6">
+		<text>Clear Sky</text>
+	</string>
+	<string id="st_dyn_news_comm_csky_7">
+		<text>Clear Sky</text>
+	</string>
+	<string id="st_dyn_news_comm_csky_8">
+		<text>Clear Sky</text>
+	</string>
+	<string id="st_dyn_news_comm_csky_9">
+		<text>Clear Sky</text>
+	</string>
+	<string id="st_dyn_news_comm_csky_10">
+		<text>Clear Sky Stalker</text>
+	</string>
+	<string id="st_dyn_news_comm_csky_11">
+		<text>Hilf uns!</text>
+	</string>
+	<string id="st_dyn_news_comm_csky_12">
+		<text>Hier spricht Clear Sky. Wir brauchen dringend Hilfe!</text>
+	</string>
+	<string id="st_dyn_news_comm_csky_13">
+		<text>Stalker, helft uns!</text>
+	</string>
+	<string id="st_dyn_news_comm_csky_14">
+		<text>Hilfe!</text>
+	</string>
+	<string id="st_dyn_news_comm_army_1">
+		<text>Ein Soldat</text>
+	</string>
+	<string id="st_dyn_news_comm_army_2">
+		<text>Ein Typ der Armee</text>
+	</string>
+	<string id="st_dyn_news_comm_army_3">
+		<text>Irgendein Soldat</text>
+	</string>
+	<string id="st_dyn_news_comm_army_4">
+		<text>Irgendein Armeetyp</text>
+	</string>
+	<string id="st_dyn_news_comm_army_5">
+		<text>Armee</text>
+	</string>
+	<string id="st_dyn_news_comm_army_6">
+		<text>Militar</text>
+	</string>
+	<string id="st_dyn_news_comm_army_7">
+		<text>Soldaten</text>
+	</string>
+	<string id="st_dyn_news_comm_army_8">
+		<text>Spetsnaz</text>
+	</string>
+	<string id="st_dyn_news_comm_army_9">
+		<text>Irgendwelche Soldaten</text>
+	</string>
+	<string id="st_dyn_news_comm_army_10">
+		<text>Das Militar</text>
+	</string>
+	<string id="st_dyn_news_comm_army_11">
+		<text>Fordere Unterstutzung an!</text>
+	</string>
+	<string id="st_dyn_news_comm_army_12">
+		<text>Wir brauchen Verstarkung!</text>
+	</string>
+	<string id="st_dyn_news_comm_army_13">
+		<text>Fordere Verstarkung an!</text>
+	</string>
+	<string id="st_dyn_news_comm_army_14">
+		<text>Truppe zur Basis! Sofort Verstarkung anfordern!</text>
+	</string>
+	<string id="st_dyn_news_comm_killer_1">
+		<text>Ein Soldner</text>
+	</string>
+	<string id="st_dyn_news_comm_killer_2">
+		<text>Jemand der Soldner</text>
+	</string>
+	<string id="st_dyn_news_comm_killer_3">
+		<text>Irgendein Soldner</text>
+	</string>
+	<string id="st_dyn_news_comm_killer_4">
+		<text>Einer der Soldner</text>
+	</string>
+	<string id="st_dyn_news_comm_killer_5">
+		<text>Soldner</text>
+	</string>
+	<string id="st_dyn_news_comm_killer_6">
+		<text>Soldner</text>
+	</string>
+	<string id="st_dyn_news_comm_killer_7">
+		<text>Soldner</text>
+	</string>
+	<string id="st_dyn_news_comm_killer_8">
+		<text>Soldner</text>
+	</string>
+	<string id="st_dyn_news_comm_killer_9">
+		<text>Irgendwelche Soldner</text>
+	</string>
+	<string id="st_dyn_news_comm_killer_10">
+		<text>Soldner</text>
+	</string>
+	<string id="st_dyn_news_comm_killer_11">
+		<text>Fordere Unterstutzung an!</text>
+	</string>
+	<string id="st_dyn_news_comm_killer_12">
+		<text>Wir brauchen Verstarkung!</text>
+	</string>
+	<string id="st_dyn_news_comm_killer_13">
+		<text>Fordere Unterstutzung an!</text>
+	</string>
+	<string id="st_dyn_news_comm_killer_14">
+		<text>Schickt Verstarkung!</text>
+	</string>
+	<string id="st_dyn_news_comm_stalker_1">
+		<text>Ein Stalker</text>
+	</string>
+	<string id="st_dyn_news_comm_stalker_2">
+		<text>Ein Einzelganger</text>
+	</string>
+	<string id="st_dyn_news_comm_stalker_3">
+		<text>Irgendein Stalker</text>
+	</string>
+	<string id="st_dyn_news_comm_stalker_4">
+		<text>Irgendein Einzelganger</text>
+	</string>
+	<string id="st_dyn_news_comm_stalker_5">
+		<text>Stalker</text>
+	</string>
+	<string id="st_dyn_news_comm_stalker_6">
+		<text>Einzelganger</text>
+	</string>
+	<string id="st_dyn_news_comm_stalker_7">
+		<text>Stalker</text>
+	</string>
+	<string id="st_dyn_news_comm_stalker_8">
+		<text>Einzelganger</text>
+	</string>
+	<string id="st_dyn_news_comm_stalker_9">
+		<text>Irgendwelche Stalker</text>
+	</string>
+	<string id="st_dyn_news_comm_stalker_10">
+		<text>Einzelganger</text>
+	</string>
+	<string id="st_dyn_news_comm_stalker_11">
+		<text>Leute, wir brauchen Hilfe!</text>
+	</string>
+	<string id="st_dyn_news_comm_stalker_12">
+		<text>Hilf uns!</text>
+	</string>
+	<string id="st_dyn_news_comm_stalker_13">
+		<text>Hilf uns!</text>
+	</string>
+	<string id="st_dyn_news_comm_stalker_14">
+		<text>Bruder, Hilfe!</text>
+	</string>
+	<string id="st_dyn_news_comm_zombied_1">
+		<text>Ein Zombie</text>
+	</string>
+	<string id="st_dyn_news_comm_zombied_2">
+		<text>Irgendein Zombie</text>
+	</string>
+	<string id="st_dyn_news_comm_zombied_3">
+		<text>Irgendein Zombie</text>
+	</string>
+	<string id="st_dyn_news_comm_zombied_4">
+		<text>Ein Zombie</text>
+	</string>
+	<string id="st_dyn_news_comm_zombied_5">
+		<text>Zombie</text>
+	</string>
+	<string id="st_dyn_news_comm_zombied_6">
+		<text>Zombie</text>
+	</string>
+	<string id="st_dyn_news_comm_zombied_7">
+		<text>Zombies</text>
+	</string>
+	<string id="st_dyn_news_comm_zombied_8">
+		<text>Zombies</text>
+	</string>
+	<string id="st_dyn_news_comm_zombied_9">
+		<text>Irgendwelche Zombie</text>
+	</string>
+	<string id="st_dyn_news_comm_zombied_10">
+		<text>Zombie</text>
+	</string>
+	<string id="st_dyn_news_comm_zombied_11">
+		<text>Uuuuhh!</text>
+	</string>
+	<string id="st_dyn_news_comm_zombied_12">
+		<text>Urrr!</text>
+	</string>
+	<string id="st_dyn_news_comm_zombied_13">
+		<text>Hrrrr!</text>
+	</string>
+	<string id="st_dyn_news_comm_zombied_14">
+		<text>Uuurrh...</text>
+	</string>
+	<string id="st_dyn_news_comm_freedom_1">
+		<text>Ein Freiheitler</text>
+	</string>
+	<string id="st_dyn_news_comm_freedom_2">
+		<text>Ein Typ der Freiheit</text>
+	</string>
+	<string id="st_dyn_news_comm_freedom_3">
+		<text>Irgendein Mann der Freiheit</text>
+	</string>
+	<string id="st_dyn_news_comm_freedom_4">
+		<text>Jemand der Freiheit</text>
+	</string>
+	<string id="st_dyn_news_comm_freedom_5">
+		<text>Freiheit</text>
+	</string>
+	<string id="st_dyn_news_comm_freedom_6">
+		<text>Freiheit</text>
+	</string>
+	<string id="st_dyn_news_comm_freedom_7">
+		<text>Freiheit</text>
+	</string>
+	<string id="st_dyn_news_comm_freedom_8">
+		<text>Freiheit Stalker</text>
+	</string>
+	<string id="st_dyn_news_comm_freedom_9">
+		<text>Freiheit</text>
+	</string>
+	<string id="st_dyn_news_comm_freedom_10">
+		<text>Freiheit Einsatzkrafte</text>
+	</string>
+	<string id="st_dyn_news_comm_freedom_11">
+		<text>Leute, Hilfe!</text>
+	</string>
+	<string id="st_dyn_news_comm_freedom_12">
+		<text>Wir konnten hier druben ein bisschen Hilfe benotigen!</text>
+	</string>
+	<string id="st_dyn_news_comm_freedom_13">
+		<text>Hey, Hilf uns!</text>
+	</string>
+	<string id="st_dyn_news_comm_freedom_14">
+		<text>Scheisse, Hilfe!</text>
+	</string>
+	<!-- weapon class description -->
+	<string id="st_dyn_news_wpn_cls_1_1">
+		<text>Unbekannt</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_1_2">
+		<text>Schusse</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_1_3">
+		<text>Vollautomatisch</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_1_4">
+		<text>Schiessen</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_1_5">
+		<text>Schiessen auf</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_1_6">
+		<text>Toten</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_1_7">
+		<text>Treffer</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_1_8">
+		<text>Zugeschlagen</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_2_1">
+		<text>Waffenschuss Wunden</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_2_2">
+		<text>Irgendein Gewehr Schuss</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_2_3">
+		<text>Vollautomatisch</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_2_4">
+		<text>Schiessen</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_2_5">
+		<text>Schiessen auf</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_2_6">
+		<text>Toten</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_2_7">
+		<text>Treffer</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_2_8">
+		<text>Zugeschlagen</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_3_1">
+		<text>Waffenschuss Wunden</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_3_2">
+		<text>Einige Kleinwaffen Schusse</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_3_3">
+		<text>Pistole</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_3_4">
+		<text>Schiessen</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_3_5">
+		<text>Schiessen auf</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_3_6">
+		<text>Toten</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_3_7">
+		<text>Treffer</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_3_8">
+		<text>Zugeschlagen</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_4_1">
+		<text>Waffenschuss Wunden</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_4_2">
+		<text>Scharfschutzen Schuss</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_4_3">
+		<text>Lang-Gewehr</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_4_4">
+		<text>Schiessen</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_4_5">
+		<text>Schiessen auf</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_4_6">
+		<text>Toten</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_4_7">
+		<text>Treffer</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_4_8">
+		<text>Zugeschlagen</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_5_1">
+		<text>Waffenschuss Wunden</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_5_2">
+		<text>Eine Schrotflinte</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_5_3">
+		<text>Schrotflinte</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_5_4">
+		<text>Schiessen</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_5_5">
+		<text>Schiessen auf</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_5_6">
+		<text>Toten</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_5_7">
+		<text>Treffer</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_5_8">
+		<text>Zugeschlagen</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_6_1">
+		<text>Messerstiche Wunden</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_6_2">
+		<text>Irgendein Nahkampf</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_6_3">
+		<text>Messer</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_6_4">
+		<text>Stich</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_6_5">
+		<text>Stich</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_6_6">
+		<text>Stich</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_6_7">
+		<text>Treffer</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_6_8">
+		<text>Zugeschlagen</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_7_1">
+		<text>Explosives Trauma</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_7_2">
+		<text>Eine Explosion</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_7_3">
+		<text>Granate</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_7_4">
+		<text>Die scheisse rausblasen aus</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_7_5">
+		<text>Versauen</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_7_6">
+		<text>Sprengen</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_7_7">
+		<text>Treffer</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_7_8">
+		<text>Zugeschlagen</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_8_1">
+		<text>Schrapnell Wunde</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_8_2">
+		<text>Eine Explosion</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_8_3">
+		<text>Granate</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_8_4">
+		<text>Granate schleudern auf</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_8_5">
+		<text>Sprengen</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_8_6">
+		<text>Versauen</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_8_7">
+		<text>Treffer</text>
+	</string>
+	<string id="st_dyn_news_wpn_cls_8_8">
+		<text>Zuschlagen</text>
+	</string>
+	<!-- direction -->
+	<string id="st_dyn_news_near">
+		<text>Nahe</text>
+	</string>
+	<string id="st_dyn_news_close">
+		<text>Von</text>
+	</string>
+	<string id="st_dyn_news_east">
+		<text>Osten von</text>
+	</string>
+	<string id="st_dyn_news_north_east">
+		<text>Nord-Osten von</text>
+	</string>
+	<string id="st_dyn_news_north">
+		<text>Norden von</text>
+	</string>
+	<string id="st_dyn_news_north_west">
+		<text>Nord-Westen von</text>
+	</string>
+	<string id="st_dyn_news_west">
+		<text>Westen von</text>
+	</string>
+	<string id="st_dyn_news_south_west">
+		<text>Sud-Westen von</text>
+	</string>
+	<string id="st_dyn_news_south">
+		<text>Suden von</text>
+	</string>
+	<string id="st_dyn_news_south_east">
+		<text>Sud-Osten von</text>
+	</string>
+	<!-- level description -->
+	<string id="st_dyn_news_jupiter">
+		<text>in Jupiter,</text>
+	</string>
+	<string id="st_dyn_news_jupiter_underground">
+		<text>im Pripyat Untergrund,</text>
+	</string>
+	<string id="st_dyn_news_k00_marsh">
+		<text>in den Sumpfen,</text>
+	</string>
+	<string id="st_dyn_news_k01_darkscape">
+		<text>im Darkscape,</text>
+	</string>
+	<string id="st_dyn_news_k02_trucks_cemetery">
+		<text>im Truck Friedhof,</text>
+	</string>
+	<string id="st_dyn_news_l01_escape">
+		<text>im Kordon,</text>
+	</string>
+	<string id="st_dyn_news_l02_garbage">
+		<text>in der Mullhalde,</text>
+	</string>
+	<string id="st_dyn_news_l03_agroprom">
+		<text>im Agroprom,</text>
+	</string>
+	<string id="st_dyn_news_l04_darkvalley">
+		<text>im Dunklen Tal,</text>
+	</string>
+	<string id="st_dyn_news_l05_bar">
+		<text>in Rostok,</text>
+	</string>
+	<string id="st_dyn_news_l06_rostok">
+		<text>im Wilden Territorium,</text>
+	</string>
+	<string id="st_dyn_news_l07_military">
+		<text>in den Armeelager,</text>
+	</string>
+	<string id="st_dyn_news_l08_yantar">
+		<text>in Yantar,</text>
+	</string>
+	<string id="st_dyn_news_l09_deadcity">
+		<text>in der Toten Stadt,</text>
+	</string>
+	<string id="st_dyn_news_l10_limansk">
+		<text>in Limansk,</text>
+	</string>
+	<string id="st_dyn_news_l10_radar">
+		<text>in Radar,</text>
+	</string>
+	<string id="st_dyn_news_l10_red_forest">
+		<text>im Roten Wald,</text>
+	</string>
+	<string id="st_dyn_news_l11_pripyat">
+		<text>in Pripyat,</text>
+	</string>
+	<string id="st_dyn_news_labx8">
+		<text>im Lab X-8,</text>
+	</string>
+	<string id="st_dyn_news_pripyat">
+		<text>am Stadtrand,</text>
+	</string>
+	<string id="st_dyn_news_zaton">
+		<text>in Zaton,</text>
+	</string>
+	<string id="st_dyn_news_l12_stancia">
+		<text>im Tschernobyl NPP (Suden),</text>
+	</string>
+	<string id="st_dyn_news_l12_stancia_2">
+		<text>im Tschernobyl NPP (Norden),</text>
+	</string>
+	<!-- Daleko -->
+	<string id="st_dyn_l09_deadcity_daleko_1">
+		<text>der Tunnel zu den Armeelager</text>
+	</string>
+	<string id="st_dyn_l09_deadcity_daleko_2">
+		<text>die Strassen nach Yantar</text>
+	</string>
+	<string id="st_dyn_l09_deadcity_daleko_3">
+		<text>die Soldner Basis</text>
+	</string>
+	<string id="st_dyn_l09_deadcity_daleko_4">
+		<text>die Strasse nach Limansk</text>
+	</string>
+	<string id="st_dyn_jupiter_underground_daleko_1">
+		<text>die Tunnel</text>
+	</string>
+	<string id="st_dyn_zaton_daleko_1">
+		<text>die Claw Anomalie</text>
+	</string>
+	<string id="st_dyn_zaton_daleko_2">
+		<text>die Iron Forest Anomalie</text>
+	</string>
+	<string id="st_dyn_zaton_daleko_3">
+		<text>die Sagemuhle</text>
+	</string>
+	<string id="st_dyn_zaton_daleko_4">
+		<text>der Antennenkomplex</text>
+	</string>
+	<string id="st_dyn_zaton_daleko_5">
+		<text>die Abfallverarbeitungsanlage</text>
+	</string>
+	<string id="st_dyn_zaton_daleko_6">
+		<text>die Circus Anomalie</text>
+	</string>
+	<string id="st_dyn_zaton_daleko_7">
+		<text>die Ranger Station</text>
+	</string>
+	<string id="st_dyn_zaton_daleko_8">
+		<text>Skadovsk</text>
+	</string>
+	<string id="st_dyn_zaton_daleko_9">
+		<text>das verbrannte Dorf</text>
+	</string>
+	<string id="st_dyn_zaton_daleko_10">
+		<text>die Boiler Anomalie</text>
+	</string>
+	<string id="st_dyn_zaton_daleko_11">
+		<text>die Sumpfe</text>
+	</string>
+	<string id="st_dyn_zaton_daleko_12">
+		<text>Izumrudnoye</text>
+	</string>
+	<string id="st_dyn_zaton_daleko_13">
+		<text>Shevchenko</text>
+	</string>
+	<string id="st_dyn_zaton_daleko_14">
+		<text>die Baggerstation</text>
+	</string>
+	<string id="st_dyn_zaton_daleko_15">
+		<text>die Hafenkrane</text>
+	</string>
+	<string id="st_dyn_zaton_daleko_16">
+		<text>die Oakpine Anomalie</text>
+	</string>
+	<string id="st_dyn_zaton_daleko_17">
+		<text>die Tankstelle</text>
+	</string>
+	<string id="st_dyn_zaton_daleko_18">
+		<text>der alte Lastkahn</text>
+	</string>
+	<string id="st_dyn_zaton_daleko_19">
+		<text>die Scar Anomalie</text>
+	</string>
+	<string id="st_dyn_zaton_daleko_20">
+		<text>Preobrazhensky Brucke</text>
+	</string>
+	<string id="st_dyn_zaton_daleko_21">
+		<text>the southern plateau</text>
+	</string>
+	<string id="st_dyn_zaton_daleko_22">
+		<text>die Werkstattstation</text>
+	</string>
+	<string id="st_dyn_jupiter_daleko_1">
+		<text>die Ash Heap Anomalie</text>
+	</string>
+	<string id="st_dyn_jupiter_daleko_2">
+		<text>der Turm</text>
+	</string>
+	<string id="st_dyn_jupiter_daleko_3">
+		<text>die Umspannstation</text>
+	</string>
+	<string id="st_dyn_jupiter_daleko_4">
+		<text>the Plavni anomaly</text>
+	</string>
+	<string id="st_dyn_jupiter_daleko_5">
+		<text>die Zementfabrik</text>
+	</string>
+	<string id="st_dyn_jupiter_daleko_6">
+		<text>Kopachi</text>
+	</string>
+	<string id="st_dyn_jupiter_daleko_7">
+		<text>Yanov</text>
+	</string>
+	<string id="st_dyn_jupiter_daleko_8">
+		<text>der Steinbruch</text>
+	</string>
+	<string id="st_dyn_jupiter_daleko_9">
+		<text>der mobile Lab</text>
+	</string>
+	<string id="st_dyn_jupiter_daleko_10">
+		<text>der Wolchow Komplex</text>
+	</string>
+	<string id="st_dyn_jupiter_daleko_11">
+		<text>der anomale Hain</text>
+	</string>
+	<string id="st_dyn_jupiter_daleko_12">
+		<text>der Parkplatz</text>
+	</string>
+	<string id="st_dyn_jupiter_daleko_13">
+		<text>der Kontrollpunkt</text>
+	</string>
+	<string id="st_dyn_jupiter_daleko_14">
+		<text>die Bitumen Anomalie</text>
+	</string>
+	<string id="st_dyn_jupiter_daleko_15">
+		<text>der ostliche Tunnel</text>
+	</string>
+	<string id="st_dyn_jupiter_daleko_16">
+		<text>die Lagerbehalter</text>
+	</string>
+	<string id="st_dyn_jupiter_daleko_17">
+		<text>der Beluftungskomplex</text>
+	</string>
+	<string id="st_dyn_jupiter_daleko_18">
+		<text>der Hubschrauberlandeplatz</text>
+	</string>
+	<string id="st_dyn_jupiter_daleko_19">
+		<text>die Concrete Bath Anomalie</text>
+	</string>
+	<string id="st_dyn_jupiter_daleko_20">
+		<text>die Jupiter Fabrik</text>
+	</string>
+	<string id="st_dyn_l05_bar_daleko_1">
+		<text>der westliche Kontrollpunkt</text>
+	</string>
+	<string id="st_dyn_l05_bar_daleko_2">
+		<text>der Eingang zur Bar</text>
+	</string>
+	<string id="st_dyn_l05_bar_daleko_3">
+		<text>die Wachter Basis</text>
+	</string>
+	<string id="st_dyn_l05_bar_daleko_4">
+		<text>die Strasse zu den Armeelagern</text>
+	</string>
+	<string id="st_dyn_l07_military_daleko_1">
+		<text>der alte Bauernhof</text>
+	</string>
+	<string id="st_dyn_l07_military_daleko_2">
+		<text>die Anomalie auf dem sudlichen Hugel</text>
+	</string>
+	<string id="st_dyn_l07_military_daleko_3">
+		<text>die Freiheit Basis</text>
+	</string>
+	<string id="st_dyn_l07_military_daleko_4">
+		<text>die alte Hutte</text>
+	</string>
+	<string id="st_dyn_l07_military_daleko_5">
+		<text>das verlassene Dorf</text>
+	</string>
+	<string id="st_dyn_l07_military_daleko_6">
+		<text>die Strasse zur Toten Stadt</text>
+	</string>
+	<string id="st_dyn_l07_military_daleko_7">
+		<text>die Strasse nach Radar</text>
+	</string>
+	<string id="st_dyn_l01_escape_daleko_1">
+		<text>der sudliche Kontrollpunkt</text>
+	</string>
+	<string id="st_dyn_l01_escape_daleko_2">
+		<text>das Anfanger Dorf</text>
+	</string>
+	<string id="st_dyn_l01_escape_daleko_3">
+		<text>die Mullgrube</text>
+	</string>
+	<string id="st_dyn_l01_escape_daleko_4">
+		<text>der Autoparkplatz</text>
+	</string>
+	<string id="st_dyn_l01_escape_daleko_5">
+		<text>der Bahndamm</text>
+	</string>
+	<string id="st_dyn_l01_escape_daleko_6">
+		<text>die Farm</text>
+	</string>
+	<string id="st_dyn_l01_escape_daleko_7">
+		<text>die Anomalie in den Waldern</text>
+	</string>
+	<string id="st_dyn_l01_escape_daleko_8">
+		<text>der Eisenbahntunnel</text>
+	</string>
+	<string id="st_dyn_l01_escape_daleko_9">
+		<text>der nordliche Kontrollpunkt</text>
+	</string>
+	<string id="st_dyn_k00_marsh_daleko_1">
+		<text>die Clear Sky Basis</text>
+	</string>
+	<string id="st_dyn_k00_marsh_daleko_2">
+		<text>die Fischerei</text>
+	</string>
+	<string id="st_dyn_k00_marsh_daleko_3">
+		<text>die Pumpstation</text>
+	</string>
+	<string id="st_dyn_k00_marsh_daleko_4">
+		<text>die Anomalie Cluster</text>
+	</string>
+	<string id="st_dyn_k00_marsh_daleko_5">
+		<text>die Strasse zum Agroprom</text>
+	</string>
+	<string id="st_dyn_k00_marsh_daleko_6">
+		<text>der Maschinenhof</text>
+	</string>
+	<string id="st_dyn_k00_marsh_daleko_7">
+		<text>das verbrannte Haus</text>
+	</string>
+	<string id="st_dyn_k00_marsh_daleko_8">
+		<text>der sudliche Kontrollpunkt</text>
+	</string>
+	<string id="st_dyn_k00_marsh_daleko_9">
+		<text>die alte Kirche</text>
+	</string>
+	<string id="st_dyn_l10_limansk_daleko_1">
+		<text>die Strasse zur Toten Stadt</text>
+	</string>
+	<string id="st_dyn_l10_limansk_daleko_2">
+		<text>der Tunnel zum Roten Wald</text>
+	</string>
+	<string id="st_dyn_l04_darkvalley_daleko_1">
+		<text>die verlassene Farm</text>
+	</string>
+	<string id="st_dyn_l04_darkvalley_daleko_2">
+		<text>die Glowing Pit Anomalie</text>
+	</string>
+	<string id="st_dyn_l04_darkvalley_daleko_3">
+		<text>der sich bewegende Feuerball</text>
+	</string>
+	<string id="st_dyn_l04_darkvalley_daleko_4">
+		<text>die Fabrik</text>
+	</string>
+	<string id="st_dyn_l04_darkvalley_daleko_5">
+		<text>die Tankstelle</text>
+	</string>
+	<string id="st_dyn_l04_darkvalley_daleko_6">
+		<text>die Banditen Basis</text>
+	</string>
+	<string id="st_dyn_l04_darkvalley_daleko_7">
+		<text>der Ausgang aus der Mullhalde</text>
+	</string>
+	<string id="st_dyn_k02_trucks_cemetery_daleko_1">
+		<text>der Weg nach Rostok</text>
+	</string>
+	<string id="st_dyn_k02_trucks_cemetery_daleko_2">
+		<text>die Hubschrauber</text>
+	</string>
+	<string id="st_dyn_k02_trucks_cemetery_daleko_3">
+		<text>die Feuerwehrautos</text>
+	</string>
+	<string id="st_dyn_k02_trucks_cemetery_daleko_4">
+		<text>die radioaktiven Hugel</text>
+	</string>
+	<string id="st_dyn_k02_trucks_cemetery_daleko_5">
+		<text>der nordostliche Kontrollpunkt</text>
+	</string>
+	<string id="st_dyn_k02_trucks_cemetery_daleko_6">
+		<text>der Hugel im Wald</text>
+	</string>
+	<string id="st_dyn_k02_trucks_cemetery_daleko_7">
+		<text>das Tal</text>
+	</string>
+	<string id="st_dyn_k02_trucks_cemetery_daleko_8">
+		<text>die Container</text>
+	</string>
+	<string id="st_dyn_k02_trucks_cemetery_daleko_9">
+		<text>der sudliche Parkplatz</text>
+	</string>
+	<string id="st_dyn_l11_pripyat_daleko_1">
+		<text>die Strasse nach Radar</text>
+	</string>
+	<string id="st_dyn_l11_pripyat_daleko_2">
+		<text>die Monolithen Basis</text>
+	</string>
+	<string id="st_dyn_l10_radar_daleko_1">
+		<text>die Antennen</text>
+	</string>
+	<string id="st_dyn_l10_radar_daleko_2">
+		<text>die Strasse nach Pripyat</text>
+	</string>
+	<string id="st_dyn_l10_red_forest_daleko_1">
+		<text>die Brucke</text>
+	</string>
+	<string id="st_dyn_l10_red_forest_daleko_2">
+		<text>die Superconductor Anomalie</text>
+	</string>
+	<string id="st_dyn_l10_red_forest_daleko_3">
+		<text>das Tunnellager</text>
+	</string>
+	<string id="st_dyn_l10_red_forest_daleko_4">
+		<text>die Strasse nach Radar</text>
+	</string>
+	<string id="st_dyn_l10_red_forest_daleko_5">
+		<text>das offene Feld</text>
+	</string>
+	<string id="st_dyn_l10_red_forest_daleko_6">
+		<text>die Strasse nach Jupiter</text>
+	</string>
+	<string id="st_dyn_k01_darkscape_daleko_1">
+		<text>die Strasse zum Kordon</text>
+	</string>
+	<string id="st_dyn_k01_darkscape_daleko_2">
+		<text>die Tankstelle</text>
+	</string>
+	<string id="st_dyn_k01_darkscape_daleko_3">
+		<text>die Sagemuhle</text>
+	</string>
+	<string id="st_dyn_k01_darkscape_daleko_4">
+		<text>die Brucke</text>
+	</string>
+	<string id="st_dyn_k01_darkscape_daleko_5">
+		<text>die Strasse zum Dunklen Tal</text>
+	</string>
+	<string id="st_dyn_l08_yantar_daleko_1">
+		<text>die Anomalie hinter der Pflanze</text>
+	</string>
+	<string id="st_dyn_l08_yantar_daleko_2">
+		<text>der mobile Lab</text>
+	</string>
+	<string id="st_dyn_l08_yantar_daleko_3">
+		<text>die Pflanze</text>
+	</string>
+	<string id="st_dyn_l08_yantar_daleko_4">
+		<text>der Eingang zur Anlage</text>
+	</string>
+	<string id="st_dyn_l08_yantar_daleko_5">
+		<text>die Strasse zur toten Stadt</text>
+	</string>
+	<string id="st_dyn_labx8_daleko_1">
+		<text>das Labor</text>
+	</string>
+	<string id="st_dyn_l06_rostok_daleko_1">
+		<text>die Strasse nach Yanta</text>
+	</string>
+	<string id="st_dyn_l06_rostok_daleko_2">
+		<text>der brennende Tunnel</text>
+	</string>
+	<string id="st_dyn_l06_rostok_daleko_3">
+		<text>die Baustelle</text>
+	</string>
+	<string id="st_dyn_l06_rostok_daleko_4">
+		<text>der Parkplatz</text>
+	</string>
+	<string id="st_dyn_l06_rostok_daleko_5">
+		<text>die Strasse nach Rostok</text>
+	</string>
+	<string id="st_dyn_l03_agroprom_daleko_1">
+		<text>die Anomalie auf dem Hugel</text>
+	</string>
+	<string id="st_dyn_l03_agroprom_daleko_2">
+		<text>der nordliche Komplex</text>
+	</string>
+	<string id="st_dyn_l03_agroprom_daleko_3">
+		<text>die Anomalie im Suden</text>
+	</string>
+	<string id="st_dyn_l03_agroprom_daleko_4">
+		<text>der sudliche Komplex</text>
+	</string>
+	<string id="st_dyn_l03_agroprom_daleko_5">
+		<text>die Bedrock Claws Anomalie</text>
+	</string>
+	<string id="st_dyn_l03_agroprom_daleko_6">
+		<text>die Sumpfe</text>
+	</string>
+	<string id="st_dyn_pripyat_daleko_1">
+		<text>das Prometheus Theater</text>
+	</string>
+	<string id="st_dyn_pripyat_daleko_2">
+		<text>der Flusshafen</text>
+	</string>
+	<string id="st_dyn_pripyat_daleko_3">
+		<text>das alte KBO</text>
+	</string>
+	<string id="st_dyn_pripyat_daleko_4">
+		<text>die Schule</text>
+	</string>
+	<string id="st_dyn_pripyat_daleko_5">
+		<text>das Krankenhaus</text>
+	</string>
+	<string id="st_dyn_pripyat_daleko_6">
+		<text>KBO Jubilaum</text>
+	</string>
+	<string id="st_dyn_pripyat_daleko_7">
+		<text>der Waschsalon</text>
+	</string>
+	<string id="st_dyn_pripyat_daleko_8">
+		<text>der Spielplatz</text>
+	</string>
+	<string id="st_dyn_pripyat_daleko_9">
+		<text>der Schlafsaal</text>
+	</string>
+	<string id="st_dyn_pripyat_daleko_10">
+		<text>das Lebensmittelgeschaft</text>
+	</string>
+	<string id="st_dyn_pripyat_daleko_11">
+		<text>das Kaufhaus</text>
+	</string>
+	<string id="st_dyn_pripyat_daleko_12">
+		<text>der Bucherladen</text>
+	</string>
+	<string id="st_dyn_pripyat_daleko_13">
+		<text>die Volcano Anomalie</text>
+	</string>
+	<string id="st_dyn_pripyat_daleko_14">
+		<text>die Vine Anomalie</text>
+	</string>
+	<string id="st_dyn_l02_garbage_daleko_1">
+		<text>der Rostok Kontrollpunkt</text>
+	</string>
+	<string id="st_dyn_l02_garbage_daleko_2">
+		<text>die Synapse Anomalie</text>
+	</string>
+	<string id="st_dyn_l02_garbage_daleko_3">
+		<text>das Depot</text>
+	</string>
+	<string id="st_dyn_l02_garbage_daleko_4">
+		<text>der Fahrzeugfriedhof</text>
+	</string>
+	<string id="st_dyn_l02_garbage_daleko_5">
+		<text>die Sumpfe</text>
+	</string>
+	<string id="st_dyn_l02_garbage_daleko_6">
+		<text>die Anomalie an der Strasse</text>
+	</string>
+	<string id="st_dyn_l02_garbage_daleko_7">
+		<text>die Strasse zum Kordon</text>
+	</string>
+	
+	<!-- blizko -->
+	<string id="st_dyn_l09_deadcity_blizko_1">
+		<text>in der Nahe des Tunnels zu den Areelagern</text>
+	</string>
+	<string id="st_dyn_l09_deadcity_blizko_2">
+		<text>auf der Strasse nach Yantar</text>
+	</string>
+	<string id="st_dyn_l09_deadcity_blizko_3">
+		<text>in der Soldner Basis</text>
+	</string>
+	<string id="st_dyn_l09_deadcity_blizko_4">
+		<text>an der Ausfahrt nach Limansk</text>
+	</string>
+	<string id="st_dyn_jupiter_underground_blizko_1">
+		<text>in den Tunneln</text>
+	</string>
+	<string id="st_dyn_zaton_blizko_1">
+		<text>an der Claw Anomalie</text>
+	</string>
+	<string id="st_dyn_zaton_blizko_2">
+		<text>an der Iron Forest Anomalie</text>
+	</string>
+	<string id="st_dyn_zaton_blizko_3">
+		<text>an der Sagemuhle</text>
+	</string>
+	<string id="st_dyn_zaton_blizko_4">
+		<text>am Antennenkomplex</text>
+	</string>
+	<string id="st_dyn_zaton_blizko_5">
+		<text>in der Abfallverarbeitungsanlage</text>
+	</string>
+	<string id="st_dyn_zaton_blizko_6">
+		<text>an der Circus Anomalie</text>
+	</string>
+	<string id="st_dyn_zaton_blizko_7">
+		<text>an der Ranger Station</text>
+	</string>
+	<string id="st_dyn_zaton_blizko_8">
+		<text>an der Skadovsk</text>
+	</string>
+	<string id="st_dyn_zaton_blizko_9">
+		<text>an dem verbrannten Dorf</text>
+	</string>
+	<string id="st_dyn_zaton_blizko_10">
+		<text>an der Boiler Anomalie</text>
+	</string>
+	<string id="st_dyn_zaton_blizko_11">
+		<text>in den Sumpfen</text>
+	</string>
+	<string id="st_dyn_zaton_blizko_12">
+		<text>an Izumrudnoye</text>
+	</string>
+	<string id="st_dyn_zaton_blizko_13">
+		<text>an der Shevchenko</text>
+	</string>
+	<string id="st_dyn_zaton_blizko_14">
+		<text>an der Baggerstation</text>
+	</string>
+	<string id="st_dyn_zaton_blizko_15">
+		<text>an den Hafenkranen</text>
+	</string>
+	<string id="st_dyn_zaton_blizko_16">
+		<text>an der Oakpine Anomalie</text>
+	</string>
+	<string id="st_dyn_zaton_blizko_17">
+		<text>an der Tankstelle</text>
+	</string>
+	<string id="st_dyn_zaton_blizko_18">
+		<text>am alten Lastkahn</text>
+	</string>
+	<string id="st_dyn_zaton_blizko_19">
+		<text>an der Scar Anomalie</text>
+	</string>
+	<string id="st_dyn_zaton_blizko_20">
+		<text>an der Preobrazhensky Brucke</text>
+	</string>
+	<string id="st_dyn_zaton_blizko_21">
+		<text>auf dem sudlichen Plateau</text>
+	</string>
+	<string id="st_dyn_zaton_blizko_22">
+		<text>in der Werkstattstation</text>
+	</string>
+	<string id="st_dyn_jupiter_blizko_1">
+		<text>in der Ash Heap Anomalie</text>
+	</string>
+	<string id="st_dyn_jupiter_blizko_2">
+		<text>am Turm</text>
+	</string>
+	<string id="st_dyn_jupiter_blizko_3">
+		<text>in der Umspannstation</text>
+	</string>
+	<string id="st_dyn_jupiter_blizko_4">
+		<text>an der Plavni Anomalie</text>
+	</string>
+	<string id="st_dyn_jupiter_blizko_5">
+		<text>in der Zementfabrik</text>
+	</string>
+	<string id="st_dyn_jupiter_blizko_6">
+		<text>bei Kopachi</text>
+	</string>
+	<string id="st_dyn_jupiter_blizko_7">
+		<text>in Yanov</text>
+	</string>
+	<string id="st_dyn_jupiter_blizko_8">
+		<text>im Steinbruch</text>
+	</string>
+	<string id="st_dyn_jupiter_blizko_9">
+		<text>im mobilen Labor</text>
+	</string>
+	<string id="st_dyn_jupiter_blizko_10">
+		<text>im Wolchow Komplex</text>
+	</string>
+	<string id="st_dyn_jupiter_blizko_11">
+		<text>im anomalen Hain</text>
+	</string>
+	<string id="st_dyn_jupiter_blizko_12">
+		<text>auf dem Parkplatz</text>
+	</string>
+	<string id="st_dyn_jupiter_blizko_13">
+		<text>am Kontrollpunkt</text>
+	</string>
+	<string id="st_dyn_jupiter_blizko_14">
+		<text>auf der Bitumen Anomalie</text>
+	</string>
+	<string id="st_dyn_jupiter_blizko_15">
+		<text>am Ostlichen Tunnel</text>
+	</string>
+	<string id="st_dyn_jupiter_blizko_16">
+		<text>an den Lagerbehaltern</text>
+	</string>
+	<string id="st_dyn_jupiter_blizko_17">
+		<text>im Luftungskomplex</text>
+	</string>
+	<string id="st_dyn_jupiter_blizko_18">
+		<text>auf dem Hubschrauberlandeplatz</text>
+	</string>
+	<string id="st_dyn_jupiter_blizko_19">
+		<text>an der Concrete Bath Anomalie</text>
+	</string>
+	<string id="st_dyn_jupiter_blizko_20">
+		<text>in der Jupiterfabrik</text>
+	</string>
+	<string id="st_dyn_l05_bar_blizko_1">
+		<text>am Westlichen Kontrollpunkt</text>
+	</string>
+	<string id="st_dyn_l05_bar_blizko_2">
+		<text>am Eingang der Bar</text>
+	</string>
+	<string id="st_dyn_l05_bar_blizko_3">
+		<text>an der Wachter Basis</text>
+	</string>
+	<string id="st_dyn_l05_bar_blizko_4">
+		<text>auf dem Weg zu den Armeelagern</text>
+	</string>
+	<string id="st_dyn_l07_military_blizko_1">
+		<text>auf dem alten Bauernhof</text>
+	</string>
+	<string id="st_dyn_l07_military_blizko_2">
+		<text>auf dem sudlichen Hugel</text>
+	</string>
+	<string id="st_dyn_l07_military_blizko_3">
+		<text>auf der Freiheit Basis</text>
+	</string>
+	<string id="st_dyn_l07_military_blizko_4">
+		<text>in der alten Hutte</text>
+	</string>
+	<string id="st_dyn_l07_military_blizko_5">
+		<text>im alten Dorf</text>
+	</string>
+	<string id="st_dyn_l07_military_blizko_6">
+		<text>an der Ausfahrt zur Toten Stadt</text>
+	</string>
+	<string id="st_dyn_l07_military_blizko_7">
+		<text>auf der Strasse nach Radar</text>
+	</string>
+	<string id="st_dyn_l01_escape_blizko_1">
+		<text>am sudlichen Kontrollpunkt</text>
+	</string>
+	<string id="st_dyn_l01_escape_blizko_2">
+		<text>im Anfanger Dorf</text>
+	</string>
+	<string id="st_dyn_l01_escape_blizko_3">
+		<text>bei der Mullhalde</text>
+	</string>
+	<string id="st_dyn_l01_escape_blizko_4">
+		<text>auf dem Parkplatz</text>
+	</string>
+	<string id="st_dyn_l01_escape_blizko_5">
+		<text>am Bahndamm</text>
+	</string>
+	<string id="st_dyn_l01_escape_blizko_6">
+		<text>auf dem Bauernhof</text>
+	</string>
+	<string id="st_dyn_l01_escape_blizko_7">
+		<text>an der Anomalie im Wald</text>
+	</string>
+	<string id="st_dyn_l01_escape_blizko_8">
+		<text>am Bahntunnel</text>
+	</string>
+	<string id="st_dyn_l01_escape_blizko_9">
+		<text>am nordlichen Kontrollpunkt</text>
+	</string>
+	<string id="st_dyn_k00_marsh_blizko_1">
+		<text>an der Clear Sky Basis</text>
+	</string>
+	<string id="st_dyn_k00_marsh_blizko_2">
+		<text>bei der Fischerei</text>
+	</string>
+	<string id="st_dyn_k00_marsh_blizko_3">
+		<text>an der Pumpstation</text>
+	</string>
+	<string id="st_dyn_k00_marsh_blizko_4">
+		<text>an den Anomalie Cluster</text>
+	</string>
+	<string id="st_dyn_k00_marsh_blizko_5">
+		<text>am Ausgang zum Agroprom</text>
+	</string>
+	<string id="st_dyn_k00_marsh_blizko_6">
+		<text>auf dem Maschinenhof</text>
+	</string>
+	<string id="st_dyn_k00_marsh_blizko_7">
+		<text>bei dem verbrannten Haus</text>
+	</string>
+	<string id="st_dyn_k00_marsh_blizko_8">
+		<text>am sudlichen Kontrollpunkt</text>
+	</string>
+	<string id="st_dyn_k00_marsh_blizko_9">
+		<text>bei der alten Kirche</text>
+	</string>
+	<string id="st_dyn_l10_limansk_blizko_1">
+		<text>an der Ausfahrt zur Toten Stadr</text>
+	</string>
+	<string id="st_dyn_l10_limansk_blizko_2">
+		<text>durch den Tunnel zum Roten Wald</text>
+	</string>
+	<string id="st_dyn_l04_darkvalley_blizko_1">
+		<text>auf dem verlassenen Bauernhof</text>
+	</string>
+	<string id="st_dyn_l04_darkvalley_blizko_2">
+		<text>auf der Glowing Pit Anomalie</text>
+	</string>
+	<string id="st_dyn_l04_darkvalley_blizko_3">
+		<text>bei dem Feuerball</text>
+	</string>
+	<string id="st_dyn_l04_darkvalley_blizko_4">
+		<text>bei der Fabrik</text>
+	</string>
+	<string id="st_dyn_l04_darkvalley_blizko_5">
+		<text>an der Tankstelle</text>
+	</string>
+	<string id="st_dyn_l04_darkvalley_blizko_6">
+		<text>auf der Banditen Basis</text>
+	</string>
+	<string id="st_dyn_l04_darkvalley_blizko_7">
+		<text>am Ausgang zur Mullhalde</text>
+	</string>
+	<string id="st_dyn_k02_trucks_cemetery_blizko_1">
+		<text>am Ausgang zu Rostok</text>
+	</string>
+	<string id="st_dyn_k02_trucks_cemetery_blizko_2">
+		<text>bei den Helikoptern</text>
+	</string>
+	<string id="st_dyn_k02_trucks_cemetery_blizko_3">
+		<text>bei den Feuerwehrautos</text>
+	</string>
+	<string id="st_dyn_k02_trucks_cemetery_blizko_4">
+		<text>auf den radioaktiven Hugeln</text>
+	</string>
+	<string id="st_dyn_k02_trucks_cemetery_blizko_5">
+		<text>am nordostlichen Kontrollpunkt</text>
+	</string>
+	<string id="st_dyn_k02_trucks_cemetery_blizko_6">
+		<text>am Hugel im Wald</text>
+	</string>
+	<string id="st_dyn_k02_trucks_cemetery_blizko_7">
+		<text>beim Tal</text>
+	</string>
+	<string id="st_dyn_k02_trucks_cemetery_blizko_8">
+		<text>bei den Containern</text>
+	</string>
+	<string id="st_dyn_k02_trucks_cemetery_blizko_9">
+		<text>auf dem sudlichen Parkplatz</text>
+	</string>
+	<string id="st_dyn_l11_pripyat_blizko_1">
+		<text>auf der Strasse nach Radar</text>
+	</string>
+	<string id="st_dyn_l11_pripyat_blizko_2">
+		<text>bei der Monolithen Basis</text>
+	</string>
+	<string id="st_dyn_l10_radar_blizko_1">
+		<text>bei den Antennen</text>
+	</string>
+	<string id="st_dyn_l10_radar_blizko_2">
+		<text>auf der Strasse nach Pripyat</text>
+	</string>
+	<string id="st_dyn_l10_red_forest_blizko_1">
+		<text>bei der Brucke</text>
+	</string>
+	<string id="st_dyn_l10_red_forest_blizko_2">
+		<text>bei der Superconductor Anomalie</text>
+	</string>
+	<string id="st_dyn_l10_red_forest_blizko_3">
+		<text>beim Tunnelcamp</text>
+	</string>
+	<string id="st_dyn_l10_red_forest_blizko_4">
+		<text>in der Nahe der Ausfahrt nach Radar</text>
+	</string>
+	<string id="st_dyn_l10_red_forest_blizko_5">
+		<text>beim Feld</text>
+	</string>
+	<string id="st_dyn_l10_red_forest_blizko_6">
+		<text>auf der Strasse nach Jupiter</text>
+	</string>
+	<string id="st_dyn_k01_darkscape_blizko_1">
+		<text>beim Ausgang nach Kordon</text>
+	</string>
+	<string id="st_dyn_k01_darkscape_blizko_2">
+		<text>an der Tankstelle</text>
+	</string>
+	<string id="st_dyn_k01_darkscape_blizko_3">
+		<text>bei der Sagemuhle</text>
+	</string>
+	<string id="st_dyn_k01_darkscape_blizko_4">
+		<text>auf der Brucke</text>
+	</string>
+	<string id="st_dyn_k01_darkscape_blizko_5">
+		<text>beim Ausgang zum Dunklen Tal</text>
+	</string>
+	<string id="st_dyn_l08_yantar_blizko_1">
+		<text>bei der Anomalie hinter der Pflanze</text>
+	</string>
+	<string id="st_dyn_l08_yantar_blizko_2">
+		<text>beim mobilen Lab</text>
+	</string>
+	<string id="st_dyn_l08_yantar_blizko_3">
+		<text>bei der Pflanze</text>
+	</string>
+	<string id="st_dyn_l08_yantar_blizko_4">
+		<text>beim Werkseingang</text>
+	</string>
+	<string id="st_dyn_l08_yantar_blizko_5">
+		<text>an der Ausfahrt zur Toten Stadt</text>
+	</string>
+	<string id="st_dyn_labx8_blizko_1">
+		<text>beim lab</text>
+	</string>
+	<string id="st_dyn_l06_rostok_blizko_1">
+		<text>auf der Strasse nach Yantar</text>
+	</string>
+	<string id="st_dyn_l06_rostok_blizko_2">
+		<text>im brennenden Tunnel</text>
+	</string>
+	<string id="st_dyn_l06_rostok_blizko_3">
+		<text>auf der Baustelle</text>
+	</string>
+	<string id="st_dyn_l06_rostok_blizko_4">
+		<text>am Parkplatz</text>
+	</string>
+	<string id="st_dyn_l06_rostok_blizko_5">
+		<text>an der Ausfahrt nach Rostok</text>
+	</string>
+	<string id="st_dyn_l03_agroprom_blizko_1">
+		<text>bei die Anomalien auf dem Hugel</text>
+	</string>
+	<string id="st_dyn_l03_agroprom_blizko_2">
+		<text>bei den nordlichen Komplex</text>
+	</string>
+	<string id="st_dyn_l03_agroprom_blizko_3">
+		<text>bei den Anomalien im Suden</text>
+	</string>
+	<string id="st_dyn_l03_agroprom_blizko_4">
+		<text>im sudlichen Komplex</text>
+	</string>
+	<string id="st_dyn_l03_agroprom_blizko_5">
+		<text>bei der Bedrock Claws Anomalie</text>
+	</string>
+	<string id="st_dyn_l03_agroprom_blizko_6">
+		<text>bei den Sumpfen</text>
+	</string>
+	<string id="st_dyn_pripyat_blizko_1">
+		<text>beim Prometheus Theater</text>
+	</string>
+	<string id="st_dyn_pripyat_blizko_2">
+		<text>am Flusshafen</text>
+	</string>
+	<string id="st_dyn_pripyat_blizko_3">
+		<text>im alten KBO</text>
+	</string>
+	<string id="st_dyn_pripyat_blizko_4">
+		<text>bei der Schule</text>
+	</string>
+	<string id="st_dyn_pripyat_blizko_5">
+		<text>beim Krankenhaus</text>
+	</string>
+	<string id="st_dyn_pripyat_blizko_6">
+		<text>beim KBO Jubilee</text>
+	</string>
+	<string id="st_dyn_pripyat_blizko_7">
+		<text>beim Waschsalon</text>
+	</string>
+	<string id="st_dyn_pripyat_blizko_8">
+		<text>beim Spielplatz</text>
+	</string>
+	<string id="st_dyn_pripyat_blizko_9">
+		<text>beim Schlafsaal</text>
+	</string>
+	<string id="st_dyn_pripyat_blizko_10">
+		<text>beim Lebensmittelladen</text>
+	</string>
+	<string id="st_dyn_pripyat_blizko_11">
+		<text>beim Kaufhaus</text>
+	</string>
+	<string id="st_dyn_pripyat_blizko_12">
+		<text>beim Bucherladen</text>
+	</string>
+	<string id="st_dyn_pripyat_blizko_13">
+		<text>bei der Volcano Anomalie</text>
+	</string>
+	<string id="st_dyn_pripyat_blizko_14">
+		<text>bei der Vine Anomalie</text>
+	</string>
+	<string id="st_dyn_l02_garbage_blizko_1">
+		<text>am Rostok Kontrollpunkt</text>
+	</string>
+	<string id="st_dyn_l02_garbage_blizko_2">
+		<text>bei der Synapse Anomalie</text>
+	</string>
+	<string id="st_dyn_l02_garbage_blizko_3">
+		<text>beim Depot</text>
+	</string>
+	<string id="st_dyn_l02_garbage_blizko_4">
+		<text>am Fahrzeugfriedhof</text>
+	</string>
+	<string id="st_dyn_l02_garbage_blizko_5">
+		<text>bei den Sumpfen</text>
+	</string>
+	<string id="st_dyn_l02_garbage_blizko_6">
+		<text>bei der Anomalie auf der Strasse</text>
+	</string>
+	<string id="st_dyn_l02_garbage_blizko_7">
+		<text>beim Ausgang zum Kordon</text>
+	</string>	
+	<!-- Bounty gossip -->
+	<string id="st_dyn_news_gossip_bounty_1">
+		<text>Ich habe gerade %s, %s gesehen. Ich horte, dass jemand ein Kopfgeld auf ihn gesetzt hat.</text>
+	</string>
+	<string id="st_dyn_news_gossip_bounty_2">
+		<text>Ich habe gehord, dass jemand einen Kopfgeld auf %s's gesetzt hat</text>
+	</string>
+	<string id="st_dyn_news_gossip_bounty_3">
+		<text>Weiss irgendjemand was in letzter Zeit mit %s los ist? Er hangt schon seit Tagen %s rum. Es ist fast schon so, als wurde er sich vor jemandem oder etwas verstecken.</text>
+	</string>
+	<string id="st_dyn_news_gossip_bounty_4">
+		<text>Ich horte, dass Sidorowitch nach %s sucht. Ich habe %s gerade gesehen.</text>
+	</string>
+	<!-- Arte gossip -->
+	<string id="st_dyn_news_gossip_arte_1">
+		<text>Ha, ein Tag voller Gluck! Ich habe gerade einen %s gefunden.</text>
+	</string>
+	<string id="st_dyn_news_gossip_arte_2">
+		<text>Weiss irgendwer die Gehgeschwindigkeit von einem %s?</text>
+	</string>
+	<string id="st_dyn_news_gossip_arte_3">
+		<text>Ein %s! Vielleicht kann ich endlich in den Ruhestand!</text>
+	</string>
+	<string id="st_dyn_news_gossip_arte_4">
+		<text>Sakharov wird dieses %s in seine Hande bekommen wollen!</text>
+	</string>
+	<!-- Heli gossip -->
+	<string id="st_dyn_news_gossip_heli_1">
+		<text>Fordere Helikopter Unterstutzung an. Standort %s lokalisiert.</text>
+	</string>
+	<string id="st_dyn_news_gossip_heli_2">
+		<text>Luftunterstutzung fur unseren Standort anfordern. Wir brauchen dringend Verstarkung.</text>
+	</string>
+	<string id="st_dyn_news_gossip_heli_3">
+		<text>Feind wurde %s gesichtet. Luft Unterstutzung, Out.</text>
+	</string>
+	<string id="st_dyn_news_gossip_heli_4">
+		<text>Wir haben einen Code "Airhog", wir brauchen so schnell wie moglich Verstarkung!</text>
+	</string>
+	<string id="st_dyn_news_gossip_heli_5">
+		<text>Helikopter Unterstutzung %s anfordern. Wir werden von %s angegriffen.</text>
+	</string>
+	<string id="st_dyn_news_gossip_heli_6">
+		<text>Feinde %s gesichtet. Unsere Truppe wird von %s angegriffen.</text>
+	</string>	
+	<string id="st_dyn_news_gossip_heli_7">
+		<text>Bodeneinheit zur Lufteinheit, bitte um %s Hilfe. Wir werden von %s angegriffen!</text>
+	</string>
+	<!-- buy gossip -->
+	<string id="st_dyn_news_gossip_buy_1_1">
+		<text>%s hat richtig beschissene Preise. Ich denke, er hat mich einen %s abgezockt.</text>
+	</string>
+	<string id="st_dyn_news_gossip_buy_1_2">
+		<text>Weiss jemand wann %s mehr %s aufstockt?</text>
+	</string>
+	<string id="st_dyn_news_gossip_buy_1_3">
+		<text>%s hat Heute tolle Preisangebote fur %s.</text>
+	</string>
+	<string id="st_dyn_news_gossip_buy_1_4">
+		<text>Ich bin bald komplett pleite, wenn %s seine Preise steigt.</text>
+	</string>
+	<string id="st_dyn_news_gossip_buy_2_1">
+		<text>%s kostet verdammt viel. Verdammt...</text>
+	</string>
+	<string id="st_dyn_news_gossip_buy_2_2">
+		<text>Weiss jemand, wo ich %s kaufen kann? %s hat keine mehr.</text>
+	</string>	
+	<string id="st_dyn_news_gossip_buy_2_3">
+		<text>Scheisse... Gute Preise Heute fur %s.</text>
+	</string>
+	<string id="st_dyn_news_gossip_buy_2_4">
+		<text>Ich habe gerade einen %s gekauft. Wehe irgendein Arschloch kommt auf die Idee es mir von meinem Versteck zu klauen...</text>
+	</string>
+	<!-- kill wounded -->
+	<string id="st_dyn_news_gossip_kill_wounded_1">
+		<text>Einer lebt noch. Beende ihn von seinem Elend!</text>
+	</string>
+	<string id="st_dyn_news_gossip_kill_wounded_2">
+		<text>Schnell! Hier druben. Er lebt noch.</text>
+	</string>
+	<string id="st_dyn_news_gossip_kill_wounded_3">
+		<text>Der hier dachte wohl, er konnte entkommen wenn er den Toten spielt. Heh.</text>
+	</string>
+	<string id="st_dyn_news_gossip_kill_wounded_4">
+		<text>Es wird Zeit ihn ein fur allemal zu eliminieren!</text>
+	</string>
+	<string id="st_dyn_news_gossip_kill_wounded_5">
+		<text>Lass schlafende Hunde immer liegen...</text>
+	</string>
+	<string id="st_dyn_news_gossip_kill_wounded_6">
+		<text>Da ist noch einer am Leben. Vielleicht kann er uns nutzliche Informationen verschaffen.</text>
+	</string>	
+	<string id="st_dyn_news_gossip_kill_wounded_7">
+		<text>Erledige diesen Hund!</text>
+	</string>
+	<string id="st_dyn_news_gossip_kill_wounded_8">
+		<text>Ergebe dich, Arschloch! Wir wissen, dass du verletzt bist! Du hast keine Chance!</text>
+	</string>	
+	<string id="st_dyn_news_gossip_kill_wounded_9">
+		<text>Er ist verletzt... Totet ihn!</text>
+	</string>
+	<!-- hostage -->
+	<string id="st_dyn_news_gossip_hostage_1">
+		<text>Sieht so aus, als hatten wir uns eine Geisel genommen, Jungs.</text>
+	</string>
+	<string id="st_dyn_news_gossip_hostage_2">
+		<text>Dieser Wichser dachte, er konnte entkommen. Behaltet einer von euch diesen Bastard in Auge.</text>
+	</string>
+	<string id="st_dyn_news_gossip_hostage_3">
+		<text>Glaubst du, dass diese Stalker das Losegeld fur ihn bezahlen werden?</text>
+	</string>
+	<string id="st_dyn_news_gossip_hostage_4">
+		<text>Ich glaube deine Freunde haben dich vergessen, Kumpel!</text>
+	</string>
+	<string id="st_dyn_news_gossip_hostage_5">
+		<text>Wir suchen Kaufer fur diesen Schwanzlutscher. Wenn keiner Losegeld zahlt, knallen wir ihn ab!</text>
+	</string>
+	<string id="st_dyn_news_gossip_hostage_6">
+		<text>Mal sehen ob uns dieser Hurensohn ein paar Informationen geben kann.</text>
+	</string>
+	<!-- Task -->
+	<string id="st_dyn_news_gossip_task_1">
+		<text>Sieht so aus, als wurde der alte %s nach Stalkern suchen, die Arbeit erledigen konnen.</text>
+	</string>
+	<string id="st_dyn_news_gossip_task_2">
+		<text>Leute, %s hat neue Auftrage zur Verfugung. Alle armen Bastarde werden sich glucklich schatzen.</text>
+	</string>
+	<string id="st_dyn_news_gossip_task_3">
+		<text>Sucht jemand nach Arbeit? Ich horte gerade, dass %s Stalker sucht, die seine Drecksarbeit erledigen konnen.</text>
+	</string>
+	<string id="st_dyn_news_gossip_task_4">
+		<text>%s hat neue Arbeit, falls jemand interessiert ist...</text>
+	</string>
+	<!-- Sentence Builders -->
+	<string id="st_dyn_news_builder_attacked_1">
+		<text>Wir sind unter Beschuss von</text>
+	</string>
+	<string id="st_dyn_news_builder_attacked_2">
+		<text>Wir nehmen das Feuer auf von</text>
+	</string>
+	<string id="st_dyn_news_builder_attacked_3">
+		<text>Wir werden angegriffen von</text>
+	</string>
+	<string id="st_dyn_news_builder_attacked_4">
+		<text>Wir werden angeschossen von</text>
+	</string>
+	
+	<string id="st_dyn_news_builder_hear_1">
+		<text>Ich habe gehort</text>
+	</string>
+	<string id="st_dyn_news_builder_hear_2">
+		<text>Ich habe gerade gehort</text>
+	</string>
+	<string id="st_dyn_news_builder_hear_3">
+		<text>Vor einer Weile habe ich gehort</text>
+	</string>
+	<string id="st_dyn_news_builder_hear_4">
+		<text>Vor ein paar Minuten habe ich gehort</text>
+	</string>
+	<string id="st_dyn_news_builder_hear_5">
+		<text>Vor ein paar Minuten habe ich gehort</text>
+	</string>
+	<string id="st_dyn_news_builder_hear_6">
+		<text>Ich hore</text>
+	</string>
+	<string id="st_dyn_news_builder_hear_7">
+		<text>Ich kann horen</text>
+	</string>
+	<string id="st_dyn_news_builder_hear_8">
+		<text>Ich hore</text>
+	</string>
+	<string id="st_dyn_news_builder_hear_9">
+		<text>Leute, ich hore</text>
+	</string>
+	
+	<string id="st_dyn_news_builder_sight_1">
+		<text>Ich sehe</text>
+	</string>
+	<string id="st_dyn_news_builder_sight_2">
+		<text>Ich habe gerade gesehen</text>
+	</string>
+	<string id="st_dyn_news_builder_sight_3">
+		<text>Vor einer Weile habe ich gesehen</text>
+	</string>
+	<string id="st_dyn_news_builder_sight_4">
+		<text>Vor ein paar Minuten habe ich gesehen</text>
+	</string>
+	<string id="st_dyn_news_builder_sight_5">
+		<text>Vor ein paar Minuten habe ich gesehen</text>
+	</string>
+	<string id="st_dyn_news_builder_sight_6">
+		<text>Ich sehe</text>
+	</string>
+	<string id="st_dyn_news_builder_sight_7">
+		<text>Ich kann sehen</text>
+	</string>
+	<string id="st_dyn_news_builder_sight_8">
+		<text>Ich sehe</text>
+	</string>
+	<string id="st_dyn_news_builder_sight_9">
+		<text>Leute, ich sehe</text>
+	</string>
+	
+	<string id="st_dyn_news_builder_middle_1">
+		<text>jemand schreit</text>
+	</string>
+	<string id="st_dyn_news_builder_middle_2">
+		<text>schreien</text>
+	</string>
+	<string id="st_dyn_news_builder_middle_3">
+		<text>schreit um Hilfe</text>
+	</string>
+	<string id="st_dyn_news_builder_middle_4">
+		<text>schreien und kampfen</text>
+	</string>
+	<string id="st_dyn_news_builder_middle_5">
+		<text>einige abgefuckte Gerausche</text>
+	</string>
+	<string id="st_dyn_news_builder_middle_6">
+		<text>kreischen und knurren</text>
+	</string>
+	
+	<string id="st_dyn_news_builder_ending_1">
+		<text>Bleib wachsam.</text>
+	</string>
+	<string id="st_dyn_news_builder_ending_2">
+		<text>Pass auf deine Schusse auf.</text>
+	</string>
+	<string id="st_dyn_news_builder_ending_3">
+		<text>Ich frage mich, was los ist.</text>
+	</string>
+	<string id="st_dyn_news_builder_ending_4">
+		<text>Hort sich hart an.</text>
+	</string>
+	<string id="st_dyn_news_builder_ending_5">
+		<text>Sieht irgendjemand, was passiert?</text>
+	</string>
+	<string id="st_dyn_news_builder_ending_6">
+		<text>Ist jemand in der Nahe?</text>
+	</string>
+	<string id="st_dyn_news_builder_ending_7">
+		<text>Haltet Ausschau.</text>
+	</string>
+	<string id="st_dyn_news_builder_ending_8">
+		<text>Bleib vorsichtig.</text>
+	</string>
+	<string id="st_dyn_news_builder_ending_9">
+		<text>Haltet eure Augen offen.</text>
+	</string>
+	<string id="st_dyn_news_builder_ending_10">
+		<text>Bleib auf der sicheren Seite.</text>
+	</string>
+	<string id="st_dyn_news_builder_ending_11">
+		<text>Pass auf dich auf.</text>
+	</string>
+	<string id="st_dyn_news_builder_ending_12">
+		<text>Ich wurde wegbleiben, wenn ich du ware.</text>
+	</string>
+	<string id="st_dyn_news_builder_ending_13">
+		<text>Will jemand nachsehen, was das war?</text>
+	</string>
+	<string id="st_dyn_news_builder_ending_14">
+		<text>Scheisse, wir sollten von diesem Ort verschwinden.</text>
+	</string>
+	<string id="st_dyn_news_builder_ending_15">
+		<text>Ich bin mir nicht sicher, was zur Holle dort druben vor sich geht.</text>
+	</string>
+	
+	<!-- misc -->
+	<string id="st_dyn_news_ch_died">
+		<text>Gestorben:</text>
+	</string>
+	<string id="st_dyn_news_ch_found">
+		<text>Gefunden</text>
+	</string>
+	<string id="st_dyn_news_ch_blowout">
+		<text>Blow Out</text>
+	</string>
+</string_table>

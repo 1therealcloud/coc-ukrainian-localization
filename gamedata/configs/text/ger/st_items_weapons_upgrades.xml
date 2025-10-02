@@ -1,0 +1,2040 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="st_prop_bullet_speed">
+		<text>Flachheit</text>
+	</string>
+	<string id="st_prop_calibre">
+		<text>Kaliber</text>
+	</string>
+	<string id="st_prop_recoil">
+		<text>Ruckstoss</text>
+	</string>
+	<string id="st_prop_reliability">
+		<text>Zuverlassigkeit</text>
+	</string>
+	<string id="st_prop_scope_1.6x">
+		<text>1,6-fach Reflexvisier</text>
+	</string>
+	<string id="st_prop_scope_4x">
+		<text>Optisches 4-fach Zielfernrohr</text>
+	</string>
+	<string id="st_prop_silencer">
+		<text>Schalldampfer</text>
+	</string>
+	<string id="st_prop_underbarrel_slot">
+		<text>Unterlaufschiene</text>
+	</string>
+	<string id="st_prop_weight">
+		<text>Gewicht</text>
+	</string>
+	<string id="st_up_add_a1_descr">
+		<text>Dank des ausseren Gewindes kann ein Schalldampfer verwendet werden.</text>
+	</string>
+	<string id="st_up_add_a1_name">
+		<text>Ausseres Gewinde am Lauf</text>
+	</string>
+	<string id="st_up_add_a2_descr">
+		<text>Anbringung einer Schiene, damit ein optisches Zielfernrohr angebracht werden kann.</text>
+	</string>
+	<string id="st_up_add_a2_name">
+		<text>Optische Schiene</text>
+	</string>
+	<string id="st_up_add_a3_descr">
+		<text>Anbringung einer Schiene, damit ein Unterlaufgranatwerfer angebracht werden kann.</text>
+	</string>
+	<string id="st_up_add_a3_name">
+		<text>Schiene fur Unterlaufgranatwerfer</text>
+	</string>
+	<string id="st_up_add_a4_descr">
+		<text>Das Standardmagazin wird durch ein grosseres ersetzt.</text>
+	</string>
+	<string id="st_up_add_a4_name">
+		<text>Erhohte Magazingrosse</text>
+	</string>
+	<string id="st_up_add_b1_descr">
+		<text>Ein komplizierter, integrierter Umbau der mechanischen und automatischen Teile der Waffe, damit ihr Kaliber geandert werden kann. Dies geht auf Kosten der Zuverlassigkeit.</text>
+	</string>
+	<string id="st_up_add_b1_name">
+		<text>Kaliberwechsel auf 5x45</text>
+	</string>
+	<string id="st_up_add_b2_descr">
+		<text>Ein komplizierter, integrierter Umbau der mechanischen und automatischen Teile der Waffe, damit ihr Kaliber geandert werden kann. Dies geht auf Kosten der Zuverlassigkeit.</text>
+	</string>
+	<string id="st_up_add_b2_name">
+		<text>Kaliberwechsel auf 5x56</text>
+	</string>
+	<string id="st_up_add_b3_descr">
+		<text>Ein komplizierter, integrierter Umbau der mechanischen und automatischen Teile der Waffe, damit ihr Kaliber geandert werden kann. Dies geht auf Kosten der Zuverlassigkeit.</text>
+	</string>
+	<string id="st_up_add_b3_name">
+		<text>Kaliberwechsel auf 9x18</text>
+	</string>
+	<string id="st_up_add_b4_descr">
+		<text>Ein komplizierter, integrierter Umbau der mechanischen und automatischen Teile der Waffe, damit ihr Kaliber geandert werden kann. Dies geht auf Kosten der Zuverlassigkeit.</text>
+	</string>
+	<string id="st_up_add_b4_name">
+		<text>Kaliberwechsel auf 9x19</text>
+	</string>
+	<string id="st_up_addd_a1_descr">
+		<text>Das Fassungsvermogen des Magazins wird erhoht, ohne dass der Waffenteil vergrossert wird.</text>
+	</string>
+	<string id="st_up_addd_a1_name">
+		<text>Erhohtes Magazinfassungsvermogen</text>
+	</string>
+	<string id="st_up_addh_a1_descr">
+		<text>Ein leichteres Polykarbonat-Kastenmagazin mit hoherer Kapazitat, das einen Teil des zusatzlichen Gewichts ausgleicht.</text>
+	</string>
+	<string id="st_up_addh_a1_name">
+		<text>Erhohtes Fassungsvermogen des Kastenmagazins</text>
+	</string>
+	<string id="st_up_arm_a1_descr">
+		<text>Eine erhohte Anzahl von Titanplatten verbessert die Haltbarkeit der Korperpanzerung enorm.</text>
+	</string>
+	<string id="st_up_arm_a1_name">
+		<text>Zusatzliche Aluminium-/Titanplatten</text>
+	</string>
+	<string id="st_up_arm_a2_descr">
+		<text>Verstarkte Platten, die mehr Schutz bieten, aber nicht mehr so haltbar sind.</text>
+	</string>
+	<string id="st_up_arm_a2_name">
+		<text>Kevlarplatten</text>
+	</string>
+	<string id="st_up_arm_a3_descr">
+		<text>Eine Aluminium-Titan-Legierung senkt das Gewicht von Titan, das in Schutzausrustung eingesetzt wird.</text>
+	</string>
+	<string id="st_up_arm_a3_name">
+		<text>Aluminium- und Titanplatten</text>
+	</string>
+	<string id="st_up_arm_a4_descr">
+		<text>Normalerweise hat Titan ein zu hohes Gewicht, um in Schutzausrustung verwendet zu werden, aber manchmal wird es in Exoskeletten eingesetzt.</text>
+	</string>
+	<string id="st_up_arm_a4_name">
+		<text>Massive Titanteile</text>
+	</string>
+	<string id="st_up_arm_a5_descr">
+		<text>Indem Metall durch Kohlefaser ersetzt wird, sinkt das Gewicht von Korperpanzerung, ohne dass die Zuverlassigkeit darunter leidet.</text>
+	</string>
+	<string id="st_up_arm_a5_name">
+		<text>Austausch von Metallteilen in Korperpanzerung durch Kohlefaser</text>
+	</string>
+	<string id="st_up_arm_a6_descr">
+		<text>Kevlar gehort zu den gebrauchlichsten Materialien, die bei der Herstellung von Korperpanzerung eingesetzt werden.</text>
+	</string>
+	<string id="st_up_arm_a6_name">
+		<text>Kevlarplatten</text>
+	</string>
+	<string id="st_up_arm_a7_descr">
+		<text>Polykarbonat kann eine Kugel aufhalten, ist aber so leicht wie Kunststoff.</text>
+	</string>
+	<string id="st_up_arm_a7_name">
+		<text>Polykarbonatplatten</text>
+	</string>
+	<string id="st_up_arm_a8_descr">
+		<text>Keramikplatten halten nicht lange, aber sie sind zuverlassiger als Kevlar, weil sie die Energie auftreffender Projektile besser kompensieren.</text>
+	</string>
+	<string id="st_up_arm_a8_name">
+		<text>Einbau von Keramikplatten</text>
+	</string>
+	<string id="st_up_arm_a9_descr">
+		<text>Einfache Stahlplatten, die in einen Mantel eingenaht werden.</text>
+	</string>
+	<string id="st_up_arm_a9_name">
+		<text>Stahlplatten</text>
+	</string>
+	<string id="st_up_arm_b1_descr">
+		<text>An einer Keramikaussenschicht prallen panzerbrechende Geschosse ab, die in einem Winkel auftreffen. Direkt auftreffende Geschosse losen sich in Staub auf, wenn sie auf die Aussenschicht treffen.</text>
+	</string>
+	<string id="st_up_arm_b1_name">
+		<text>Keramikaussenschicht fur Korperpanzerung</text>
+	</string>
+	<string id="st_up_arm_b2_descr">
+		<text>Eine zusatzliche innere Panzerungsschicht fur den Fall, dass die aussere Schicht beschadigt wird.</text>
+	</string>
+	<string id="st_up_arm_b2_name">
+		<text>Doppelte Schutzplatte</text>
+	</string>
+	<string id="st_up_arm_b3_descr">
+		<text>Panzerung mit einer Innenschicht, die die auftreffende Energie uber einen grosseren Bereich verteilt und damit besser kompensiert.</text>
+	</string>
+	<string id="st_up_arm_b3_name">
+		<text>Zusatzliches Kompensationselement</text>
+	</string>
+	<string id="st_up_arm_b4_descr">
+		<text>Dieser Rahmen kann eine Kugel aufhalten, wenn die Hauptkorperpanzerung bereits beschadigt ist.</text>
+	</string>
+	<string id="st_up_arm_b4_name">
+		<text>Zusatzlicher gepanzerter Rahmen</text>
+	</string>
+	<string id="st_up_arm_b5_descr">
+		<text>Dunnere Schutzschichten sind ubereinander angebracht, um die Verschleissfestigkeit der Korperpanzerung zu erhohen.</text>
+	</string>
+	<string id="st_up_arm_b5_name">
+		<text>Segmentpanzerung</text>
+	</string>
+	<string id="st_up_arm_b6_descr">
+		<text>Mehr Platten bedeuten zwar nicht automatisch einen besseren Schutz, garantieren aber eine hohere Haltbarkeit.</text>
+	</string>
+	<string id="st_up_arm_b6_name">
+		<text>Zweite Schutzschicht</text>
+	</string>
+	<string id="st_up_arm_b7_descr">
+		<text>Mobile Schutzplatten schutzen die Gelenke vor Schussverletzungen.</text>
+	</string>
+	<string id="st_up_arm_b7_name">
+		<text>Anbringung von mobilen Schutzplatten fur Gelenke</text>
+	</string>
+	<string id="st_up_arm_b8_descr">
+		<text>Ein leichterer Aluminiumrahmen fur Platten ersetzt den Stahlrahmen.</text>
+	</string>
+	<string id="st_up_arm_b8_name">
+		<text>Leichterer Aluminiumrahmen</text>
+	</string>
+	<string id="st_up_arm_b9_descr">
+		<text>Verstarkte Ledereinlagen verringern die Wucht, die der Trager durch die Korperpanzerung spurt, wenn er von einer Kugel getroffen wird.</text>
+	</string>
+	<string id="st_up_arm_b9_name">
+		<text>Verstarkte Ledereinlagen</text>
+	</string>
+	<string id="st_up_arm_c10_descr">
+		<text>Eine zusatzliche Keramikschicht mit Silikonverstarkung.</text>
+	</string>
+	<string id="st_up_arm_c10_name">
+		<text>Verstarkte Keramikplatten</text>
+	</string>
+	<string id="st_up_arm_c11_descr">
+		<text>Durch die Verwendung von leichteren Materialien wird das Gewicht der Korperpanzerung gesenkt.</text>
+	</string>
+	<string id="st_up_arm_c11_name">
+		<text>Anbringung leichterer Kunststoff- und synthetischer Teile</text>
+	</string>
+	<string id="st_up_arm_c12_descr">
+		<text>Wahrend massive Titanplatten viel zu schwer sind, um von einem Infanteristen getragen zu werden, kann ein Exoskelett das Gewicht mit seinen starken Servomotoren aushalten.</text>
+	</string>
+	<string id="st_up_arm_c12_name">
+		<text>Titanpanzerung "Kurass"</text>
+	</string>
+	<string id="st_up_arm_c13_descr">
+		<text>SBK-RKhZ.m.II - ein spezieller Kampfanzug zum Schutz vor Strahlung und Chemikalien (Version II).</text>
+	</string>
+	<string id="st_up_arm_c13_name">
+		<text>SBK-RKhZ.m.II Strahlenschutzanzug (luftdicht)</text>
+	</string>
+	<string id="st_up_arm_c1_descr">
+		<text>Diese anstrengende und zeitraubende Verbesserung ist nicht sehr beliebt, hat jedoch schon so manches Leben gerettet.</text>
+	</string>
+	<string id="st_up_arm_c1_name">
+		<text>Eingenahtes Kettenhemd</text>
+	</string>
+	<string id="st_up_arm_c2_descr">
+		<text>Die "Schuppe" besteht aus uberstehenden Keramikplatten, die den Trager davor schutzen, an derselben Stelle getroffen zu werden.</text>
+	</string>
+	<string id="st_up_arm_c2_name">
+		<text>Keramik-Schutzmodifikation "Schuppe"</text>
+	</string>
+	<string id="st_up_arm_c3_descr">
+		<text>Nach der Behandlung mit "Souveran" ist der Schutzanzug nahezu immun gegenuber mechanischem Schaden und Faserrissen.</text>
+	</string>
+	<string id="st_up_arm_c3_name">
+		<text>Behandlung mit dem Schutzmittel "Souveran"</text>
+	</string>
+	<string id="st_up_arm_c4_descr">
+		<text>Keramik absorbiert einen grossen Teil der auftreffenden Energie, indem sie auf Fragmente abgeleitet wird, welche dann abfallen.</text>
+	</string>
+	<string id="st_up_arm_c4_name">
+		<text>Anbringung einer Keramikschicht auf Platten</text>
+	</string>
+	<string id="st_up_arm_c5_descr">
+		<text>Ein verstarktes Gerust, in dem Beryllium statt Aluminium eingesetzt wird. Damit bietet es Infanteristen mit den besten Schutz.</text>
+	</string>
+	<string id="st_up_arm_c6_descr">
+		<text>Keramik absorbiert einen grossen Teil der auftreffenden Energie, indem sie auf Fragmente abgeleitet wird, welche dann abfallen.</text>
+	</string>
+	<string id="st_up_arm_c6_name">
+		<text>Keramikschicht auf Platten</text>
+	</string>
+	<string id="st_up_arm_c7_descr">
+		<text>Die Kohlefaser gehort zu den widerstandsfahigsten und verschleissfestesten Materialien uberhaupt und wird sogar in der Luft- und Raumfahrtkonstruktion eingesetzt.</text>
+	</string>
+	<string id="st_up_arm_c8_descr">
+		<text>Eine mehrschichtige Polymer- und Keramikbeschichtung.</text>
+	</string>
+	<string id="st_up_arm_c8_name">
+		<text>Mehrschichtige Plattenbeschichtung "Schutzschicht"</text>
+	</string>
+	<string id="st_up_arm_c9_descr">
+		<text>Eine heimische Technologie und eine der neuesten Entwicklungen im Bereich der Korperpanzerung - die Herstellung von kunstlichen Saphiren.</text>
+	</string>
+	<string id="st_up_autd_a1_descr">
+		<text>Die Feineinstellung von Komponenten sorgt dafur, dass die Waffe seltener klemmt.</text>
+	</string>
+	<string id="st_up_autd_a1_name">
+		<text>Komponentenfeineinstellung</text>
+	</string>
+	<string id="st_up_autd_a2_descr">
+		<text>Der Trend nach Kunststoffkomponenten hat sich nicht nur ausgezahlt, sie sind mittlerweile auch recht beliebte Ausrustungsverbesserungen.</text>
+	</string>
+	<string id="st_up_autd_a2_name">
+		<text>Polymaterialkomponenten</text>
+	</string>
+	<string id="st_up_autd_b1_descr">
+		<text>Ein Feuermechanismus mit niedrigem Impuls sorgt fur einen geringeren Ruckstoss.</text>
+	</string>
+	<string id="st_up_autd_b1_name">
+		<text>Feuermechanismus mit niedrigem Impuls</text>
+	</string>
+	<string id="st_up_autd_b2_descr">
+		<text>Dank der festen Positionierung der Munition wahrend des Feuerns, fliegt das jeweilige Projektil auf einer geraden Bahn und trifft sein Ziel.</text>
+	</string>
+	<string id="st_up_autd_b2_name">
+		<text>Einbau einer Positionierungseinheit fur die Munition</text>
+	</string>
+	<string id="st_up_autd_b3_descr">
+		<text>Ein Rollenverschlusssystem, das den Ruckstoss und die Streuung reduziert.</text>
+	</string>
+	<string id="st_up_autd_b3_name">
+		<text>Halboffenes Rollenverschlusssystem</text>
+	</string>
+	<string id="st_up_autd_b4_descr">
+		<text>Der Einbau eines zusatzlichen Gaszylinders reduziert die Waffenbelastung und erhoht damit die Feuerrate enorm.</text>
+	</string>
+	<string id="st_up_autd_b4_name">
+		<text>Einbau eines zusatzlichen Gaszylinders</text>
+	</string>
+	<string id="st_up_autd_b5_descr">
+		<text>Ein Gasantrieb wird in selbstspannenden Schrotflinten fur halbautomatisches Feuer eingesetzt.</text>
+	</string>
+	<string id="st_up_autd_b5_name">
+		<text>Einbau eines Gasantriebs</text>
+	</string>
+	<string id="st_up_autd_c1_descr">
+		<text>Eine Schutzbeschichtung schliesst Fehlzundungen aufgrund einer mechanischen Fehlfunktion ganzlich aus.</text>
+	</string>
+	<string id="st_up_autd_c1_name">
+		<text>Komponentenschutzbeschichtung</text>
+	</string>
+	<string id="st_up_autd_c2_descr">
+		<text>Wenn ein Schuss abgegeben wird, offnet ein Bauteil mittels einer Schiebebewegung des Vorderschaftgriffs einen Durchgang in den Lauf und kehrt danach wieder in den geschlossenen Zustand zuruck.</text>
+	</string>
+	<string id="st_up_autd_c2_name">
+		<text>Laufverschlusssystem</text>
+	</string>
+	<string id="st_up_autd_c3_descr">
+		<text>Mit einem Tragheitsautomatiksystem kann der Pump-Action-Mechanismus einer gewohnlichen Schrotflinte in einen selbstspannenden Mechanismus umgewandelt werden. </text>
+	</string>
+	<string id="st_up_autd_c3_name">
+		<text>Einbau eines Tragheitsautomatiksystems</text>
+	</string>
+	<string id="st_up_autd_c4_descr">
+		<text>Das einheitliche Ruckstossmodul ist eine der besten technischen Moglichkeiten, den Ruckstoss zu reduzieren.</text>
+	</string>
+	<string id="st_up_autd_c4_name">
+		<text>Einheitliches Ruckstossmodul</text>
+	</string>
+	<string id="st_up_autd_c5_descr">
+		<text>Eine automatische Antriebsstange verbessert die Prazision der Waffe</text>
+	</string>
+	<string id="st_up_autd_c5_name">
+		<text>Einbau einer automatischen Antriebsstange</text>
+	</string>
+	<string id="st_up_auth_a1_descr">
+		<text>Ein aktives Gegengewicht bewegt sich vom Verschlussrahmen weg und kompensiert damit zum Teil den Ruckstoss.</text>
+	</string>
+	<string id="st_up_auth_a1_name">
+		<text>Einbau eines aktiven Gegengewichts</text>
+	</string>
+	<string id="st_up_auth_b1_descr">
+		<text>Die Verwendung von zusatzlichen Rollenteilen fuhrt zu einer Reduzierung des Ruckstosses.</text>
+	</string>
+	<string id="st_up_auth_b1_name">
+		<text>Einbau eines Rollenruckstosskompensators</text>
+	</string>
+	<string id="st_up_auth_c1_descr">
+		<text>Das Verschlusssystem der Waffe wird durch eine bessere Variante ersetzt, wodurch die Feuerrate erhoht wird.</text>
+	</string>
+	<string id="st_up_auth_c1_name">
+		<text>Offenes Verschlusssystem</text>
+	</string>
+	<string id="st_up_auth_c2_descr">
+		<text>Wenn die Waffe abgefeuert wird, bewegt sich das Verschlussrahmengegengewicht vom Verschluss weg, wodurch eine einfachere Handhabung der Waffe beim Schiessen erreicht wird.</text>
+	</string>
+	<string id="st_up_auth_c2_name">
+		<text>Einbau eines selbstregulierenden Gegengewichts</text>
+	</string>
+	<string id="st_up_auto_a1_descr">
+		<text>Als zusatzliches Bauteil wird ein Gegengewicht im Gehause angebracht, um mittels einer entsprechenden Gegenkraft den Ruckstoss zu reduzieren.</text>
+	</string>
+	<string id="st_up_auto_a1_name">
+		<text>Einbau eines beweglichen Gegengewichts</text>
+	</string>
+	<string id="st_up_auto_a2_descr">
+		<text>Der Trend nach Polymerkomponenten hat sich nicht nur ausgezahlt, sie sind mittlerweile auch recht beliebte Ausrustungsverbesserungen.</text>
+	</string>
+	<string id="st_up_auto_a2_name">
+		<text>Stossresistente Polymerkomponenten fur Automatikelemente</text>
+	</string>
+	<string id="st_up_auto_b1_descr">
+		<text>Eine spezielle Vorrichtung wird verbaut, um die Waffe vor Verschmutzungen zu schutzen.</text>
+	</string>
+	<string id="st_up_auto_b1_name">
+		<text>Automatischer Doppelstellung-Gasregler</text>
+	</string>
+	<string id="st_up_auto_b2_descr">
+		<text>Eine spezielle Vorrichtung verschliesst den Lauf luftdicht, um den Druck beim Feuern zu erhohen.</text>
+	</string>
+	<string id="st_up_auto_b2_name">
+		<text>Einbau einer Laufverschlussvorrichtung</text>
+	</string>
+	<string id="st_up_auto_b3_descr">
+		<text>Ein Zahnrad sorgt fur die Synchronisation, was die Flachheit der Waffe verbessert.</text>
+	</string>
+	<string id="st_up_auto_b3_name">
+		<text>Synchronisation der Stangenbewegung</text>
+	</string>
+	<string id="st_up_auto_b4_descr">
+		<text>Eine Komponente, die am hinteren Gehause angebracht wird und die Verschlussgeschwindigkeit reduziert. Dies fuhrt dazu, dass einfacher gezielt gefeuert werden kann.</text>
+	</string>
+	<string id="st_up_auto_b4_name">
+		<text>Tragheitsverzogerungsmechanismus</text>
+	</string>
+	<string id="st_up_auto_c1_descr">
+		<text>Eine spezielle Komponente, die in das Verschlusssystem eingebaut wird, um die Verschlussbewegung abzufedern und den Ruckstoss zu reduzieren.</text>
+	</string>
+	<string id="st_up_auto_c1_name">
+		<text>Einbau einer Geschwindigkeitsreduzierung fur das Ruckstossladesystem</text>
+	</string>
+	<string id="st_up_auto_c2_descr">
+		<text>Eine integrierte Verbesserung, die aufgrund des erheblich steigenden Gewichts der Waffe normalerweise meist bei Scharfschutzengewehren durchgefuhrt wird.</text>
+	</string>
+	<string id="st_up_auto_c2_name">
+		<text>Integrierte Ruckstossdampfung</text>
+	</string>
+	<string id="st_up_auto_c3_descr">
+		<text>Einbau eines Mechanismus mit beweglichen Komponenten, der die Geschwindigkeit der Munitionszufuhrung beim Schiessen erhoht.</text>
+	</string>
+	<string id="st_up_auto_c3_name">
+		<text>Automatische Munitionszufuhrung</text>
+	</string>
+	<string id="st_up_auto_c4_descr">
+		<text>Verbesserung der Automatikkomponenten der Waffe, bei der mehrere Bauteile ersetzt werden. Dadurch wird die Schussgenauigkeit erhoht.</text>
+	</string>
+	<string id="st_up_auto_c4_name">
+		<text>Ausgeglichenes stossfreies System</text>
+	</string>
+	<string id="st_up_auto_c5_descr">
+		<text>Eine synthetische Komponente unmittelbar vor dem Bewegungsbereich des Verschlusses. Durch die erfolgende hohe Kompression wird die Schussgenauigkeit erhoht.</text>
+	</string>
+	<string id="st_up_auto_c5_name">
+		<text>Einbau einer Abstoppvorrichtung</text>
+	</string>
+	<string id="st_up_auto_c6_descr">
+		<text>Eine Verbindung fixiert die Position des Laufs und wenn der Lauf sich bewegt, offnen sich zusatzliche Kompensationslocher.</text>
+	</string>
+	<string id="st_up_auto_c6_name">
+		<text>Einbau einer "intelligenten Kompensation"</text>
+	</string>
+	<string id="st_up_auts_a1_descr">
+		<text>Eine Modernisierung, mit der das Abzugssystem weicher eingestellt wird, was fur Scharfschutzen wichtig ist.</text>
+	</string>
+	<string id="st_up_auts_a1_name">
+		<text>Einbau einer Abzugsregulierung</text>
+	</string>
+	<string id="st_up_auts_a2_descr">
+		<text>Mit dieser Komponente wird dem Schutzen der Moment besser vermittelt, in dem sich der Schuss lost. Dadurch wird die Schussgenauigkeit erhoht.</text>
+	</string>
+	<string id="st_up_auts_a2_name">
+		<text>Einbau eines Abzugs mit besserer Ruckmeldung</text>
+	</string>
+	<string id="st_up_auts_b1_descr">
+		<text>Ein Rollenverschlusssystem, das in westlichen Landern haufig eingesetzt wird, reduziert den Ruckstoss und die Streuung.</text>
+	</string>
+	<string id="st_up_auts_b1_name">
+		<text>Halboffenes Rollenverschlusssystem</text>
+	</string>
+	<string id="st_up_auts_b2_descr">
+		<text>Ein spezieller Mechanismus kompensiert einen Teil der Energie, die beim Feuern freigesetzt wird, wodurch das Schiessen mit der Waffe angenehmer von der Hand geht.</text>
+	</string>
+	<string id="st_up_auts_b2_name">
+		<text>Dampfung des Feuermechanismus</text>
+	</string>
+	<string id="st_up_auts_b3_descr">
+		<text>Weil Scharfschutzengewehre mehr Wartungsarbeit als normale Waffen erfordern, konnen sie mit einem Dreistellung-Gasregler ausgestattet werden.</text>
+	</string>
+	<string id="st_up_auts_b3_name">
+		<text>Einbau eines automatischen Dreistellung-Gasreglers</text>
+	</string>
+	<string id="st_up_auts_c1_descr">
+		<text>Die Beschichtung sorgt dafur, dass keine Energie entweicht. Damit wird der Projektilimpuls erhoht.</text>
+	</string>
+	<string id="st_up_auts_c1_name">
+		<text>Verbesserung der Automatikteile mit einer Spezialbeschichtung</text>
+	</string>
+	<string id="st_up_auts_c2_descr">
+		<text>Durch den Einbau einer langen Feuermechanismusstange kann ein Scharfschutzengewehr im Automatikmodus abgefeuert werden.</text>
+	</string>
+	<string id="st_up_auts_c2_name">
+		<text>Lange Feuermechanismusstange</text>
+	</string>
+	<string id="st_up_auts_c3_descr">
+		<text>Eine Abstoppvorrichtung wirkt sich auf den Ruckstossmechanismus aus und verbessert damit die Schussgenauigkeit.</text>
+	</string>
+	<string id="st_up_auts_c3_name">
+		<text>Installation einer Abstoppvorrichtung</text>
+	</string>
+	<string id="st_up_bar_a1_descr">
+		<text>Den herkommlichen Lauf durch einen langeren Lauf zu ersetzen, verbessert die Schussgenauigkeit und die Flachheit.</text>
+	</string>
+	<string id="st_up_bar_a1_name">
+		<text>Langerer Lauf</text>
+	</string>
+	<string id="st_up_bar_a2_descr">
+		<text>Das Fehlen von grossen Gaskammern und die Laufmontierung am Vorderschaftgriff wirken sich positiv auf die Schussgenauigkeit aus.</text>
+	</string>
+	<string id="st_up_bar_a2_name">
+		<text>"Schwebender" Lauf</text>
+	</string>
+	<string id="st_up_bar_a3_descr">
+		<text>Diese Modifikation verringert den Schaden, der durch Modifikationen entsteht, die ihrerseits die Feuerrate erhohen.</text>
+	</string>
+	<string id="st_up_bar_a3_name">
+		<text>Einbau eines Laufs mit Kuhllamellen</text>
+	</string>
+	<string id="st_up_bar_b1_descr">
+		<text>Eine veraltete Komponente wird durch eine modernere ersetzt, wodurch der Ruckstoss reduziert wird.</text>
+	</string>
+	<string id="st_up_bar_b1_name">
+		<text>Optimierte Mundungsbremse</text>
+	</string>
+	<string id="st_up_bar_b2_descr">
+		<text>Einbau eines Laufs mit zusatzlichen gezogenen Kanalen, die die Projektilgeschwindigkeit und die Schussgenauigkeit der Waffe erhohen. Der Nachteil ist, dass der Ruckstoss betrachtlich steigt.</text>
+	</string>
+	<string id="st_up_bar_b2_name">
+		<text>Zusatzliche gezogene Kanale im Lauf</text>
+	</string>
+	<string id="st_up_bar_b3_descr">
+		<text>Dieser Lauf soll den effektiven Wirkungsbereich bei sehr kurzen Distanzen vergrossern und ist daher fur zielgenaues Schiessen nicht geeignet. Die Feuerrate wird durch den einfacher gezogenen Lauf erhoht.</text>
+	</string>
+	<string id="st_up_bar_b3_name">
+		<text>Einbau eines einfacher gezogenen Laufs</text>
+	</string>
+	<string id="st_up_bar_c1_descr">
+		<text>Laufe mit Polygonzug werden normalerweise verwendet, um die Schussgenauigkeit zu erhohen.</text>
+	</string>
+	<string id="st_up_bar_c1_name">
+		<text>Einbau eines Laufs mit Polygonzug</text>
+	</string>
+	<string id="st_up_bar_c2_descr">
+		<text>Durch den Sinuszug wird die Lauftemperatur gesenkt und die Feuerrate erhoht.</text>
+	</string>
+	<string id="st_up_bar_c2_name">
+		<text>Laufkammer mit Sinuszug</text>
+	</string>
+	<string id="st_up_bar_c3_descr">
+		<text>Ein besonderer Lauf fur Waffen mit guten Flachheitswerten, der die Schussgenauigkeit erhoht.</text>
+	</string>
+	<string id="st_up_bar_c3_name">
+		<text>Gezogene Scharfschutzengewehrkanale</text>
+	</string>
+	<string id="st_up_bard_a1_descr">
+		<text>Extrem widerstandsfahige Materialien sorgen fur einen langsameren Verschleiss des Laufs.</text>
+	</string>
+	<string id="st_up_bard_a1_name">
+		<text>Lauf aus extrem widerstandsfahiger Legierung</text>
+	</string>
+	<string id="st_up_bard_b1_descr">
+		<text>Die Behandlung der Laufinnenflache schutzt den Lauf vor mechanischen Schaden.</text>
+	</string>
+	<string id="st_up_bard_b1_name">
+		<text>Behandlung des Laufs</text>
+	</string>
+	<string id="st_up_bard_b2_descr">
+		<text>Die synthetische Verstarkung des Laufs sorgt fur eine betrachtliche Reduzierung der Streuung.</text>
+	</string>
+	<string id="st_up_bard_b2_name">
+		<text>Synthetische Laufverstarkung</text>
+	</string>
+	<string id="st_up_bard_b3_descr">
+		<text>Den herkommlichen Lauf durch einen langeren Lauf zu ersetzen, verbessert die Flachheit.</text>
+	</string>
+	<string id="st_up_bard_b3_name">
+		<text>Langere Laufteile</text>
+	</string>
+	<string id="st_up_bard_b4_descr">
+		<text>Gasablasskanale im Lauf schutzen diesen nicht nur vor Verschmutzungen, sondern leiten einen Teil des Ruckstosses auch auf den Lauf selbst um.</text>
+	</string>
+	<string id="st_up_bard_b4_name">
+		<text>Gasablasskanale</text>
+	</string>
+	<string id="st_up_bard_b5_descr">
+		<text>Den herkommlichen Lauf durch einen langeren Lauf zu ersetzen, verbessert die Flachheit.</text>
+	</string>
+	<string id="st_up_bard_b5_name">
+		<text>Langerer Laufteil</text>
+	</string>
+	<string id="st_up_bard_b6_descr">
+		<text>Diese Schutzbeschichtung der Laufinnenflache verhindert die uberhitzung, merzt Produktionsfehler aus und erhoht die Haltbarkeit enorm.</text>
+	</string>
+	<string id="st_up_bard_b6_name">
+		<text>Schutzbeschichtung der Laufinnenflache</text>
+	</string>
+	<string id="st_up_bard_c1_descr">
+		<text>Die Ausbalancierung des Laufs wird durch mehrere bewegliche Kolben erreicht, die dafur sorgen, dass die Waffe beim Halten stabiler in der Hand liegt.</text>
+	</string>
+	<string id="st_up_bard_c1_name">
+		<text>Ausbalancierung des Laufs</text>
+	</string>
+	<string id="st_up_bard_c2_descr">
+		<text>Aufgrund des gezogenen Laufs ist es unmoglich, Schrotmunition zu verschiessen, aber die erhohte Schussgenauigkeit macht diesen Nachteil mehr als wett.</text>
+	</string>
+	<string id="st_up_bard_c2_name">
+		<text>Gezogener Lauf</text>
+	</string>
+	<string id="st_up_bard_c3_descr">
+		<text>Durch die Verstarkung mit Polymaterialien kann der Laufdruck erhoht werden, was sich in einer hoheren Projektilgeschwindigkeit niederschlagt.</text>
+	</string>
+	<string id="st_up_bard_c3_name">
+		<text>Dynamische Laufverstarkung</text>
+	</string>
+	<string id="st_up_bard_c4_descr">
+		<text>Eine zylindrische Laufbohrung erhoht die Feuerrate der Waffe, ohne ihre Schussgenauigkeit zu beeintrachtigen.</text>
+	</string>
+	<string id="st_up_bard_c4_name">
+		<text>Zylindrische Laufbohrung</text>
+	</string>
+	<string id="st_up_bard_c5_descr">
+		<text>Wenn die Waffe abgefeuert wird, bewegt sich ein Gegengewicht zum Mundungsbereich des Laufs und kompensiert damit einen Teil des Ruckstosses.</text>
+	</string>
+	<string id="st_up_bard_c5_name">
+		<text>Einbau eines aktiven Gegengewichts am Laufmantel</text>
+	</string>
+	<string id="st_up_barp_a1_descr">
+		<text>Den herkommlichen Lauf durch einen langeren Lauf zu ersetzen, verbessert die Schussgenauigkeit und Flachheit, verringert aber die Feuerrate.</text>
+	</string>
+	<string id="st_up_barp_a1_name">
+		<text>Langerer Laufteil</text>
+	</string>
+	<string id="st_up_barp_a2_descr">
+		<text>Die Laufperforation fuhrt zu einer Reduzierung des Ruckstosses, weil das Gas durch spezielle Offnungen entweichen kann.</text>
+	</string>
+	<string id="st_up_barp_a2_name">
+		<text>Perforierter Lauf</text>
+	</string>
+	<string id="st_up_barp_a3_descr">
+		<text>Ein professionell verkurzter Lauf erhoht die Feuerrate der Waffe, ohne die Flachheit und Schussgenauigkeit zu beeintrachtigen.</text>
+	</string>
+	<string id="st_up_barp_a3_name">
+		<text>Verkurzter Lauf</text>
+	</string>
+	<string id="st_up_barp_b1_descr">
+		<text>Eine Chrombeschichtung der Laufinnenflache erhoht die Haltbarkeit der Waffe.</text>
+	</string>
+	<string id="st_up_barp_b1_name">
+		<text>Chrombeschichtung der Laufinnenflache</text>
+	</string>
+	<string id="st_up_barp_b2_descr">
+		<text>Diese Kunststoffelemente kompensieren einen Teil des Ruckstosses.</text>
+	</string>
+	<string id="st_up_barp_b2_name">
+		<text>Einbau von Kunststofftrennelementen</text>
+	</string>
+	<string id="st_up_barp_b3_descr">
+		<text>Ein einfacher gezogener Lauf ist bei sehr kurzen Distanzen sinnvoll, wenn es mehr auf die Feuerrate und weniger auf die Schussgenauigkeit ankommt.</text>
+	</string>
+	<string id="st_up_barp_b3_name">
+		<text>Einbau eines einfacher gezogenen Laufs</text>
+	</string>
+	<string id="st_up_barp_b4_descr">
+		<text>Einbau eines Laufs mit zusatzlichen gezogenen Kanalen, die die Projektilgeschwindigkeit und die Schussgenauigkeit der Waffe erhohen. Der Nachteil ist, dass der Ruckstoss betrachtlich steigt.</text>
+	</string>
+	<string id="st_up_barp_b4_name">
+		<text>Zusatzliche gezogene Kanale im Lauf</text>
+	</string>
+	<string id="st_up_barp_b5_descr">
+		<text>Die Entlastung des Laufs fuhrt zu einer enormen Reduzierung des Ruckstosses.</text>
+	</string>
+	<string id="st_up_barp_b5_name">
+		<text>Ubertragung des Laufkompensators/Mundungsfeuerreglers auf den Rahmen</text>
+	</string>
+	<string id="st_up_barp_c1_descr">
+		<text>Durch den Sinuszug wird die Lauftemperatur gesenkt und die Feuerrate erhoht, ohne die Flachheit zu beeintrachtigen.</text>
+	</string>
+	<string id="st_up_barp_c1_name">
+		<text>Lauf mit Sinuszug</text>
+	</string>
+	<string id="st_up_barp_c2_descr">
+		<text>Laufe mit Polygonzug werden normalerweise verwendet, um die Schussgenauigkeit von Scharfschutzengewehren zu erhohen.</text>
+	</string>
+	<string id="st_up_barp_c2_name">
+		<text>Einbau eines Laufs mit Polygonzug</text>
+	</string>
+	<string id="st_up_barp_c3_descr">
+		<text>Der pneumatische Antrieb setzt einen Teil der Ruckstossenergie in einen hoheren Laufdruck um, wodurch die Mundungsgeschwindigkeit erhoht wird.</text>
+	</string>
+	<string id="st_up_barp_c3_name">
+		<text>Pneumatischer Antrieb</text>
+	</string>
+	<string id="st_up_exo_a1_descr">
+		<text>Zusatzliche Bewegungskomponenten erhohen das Maximalgewicht, das getragen werden kann.</text>
+	</string>
+	<string id="st_up_exo_a1_name">
+		<text>Zusatzliche Servomotoren</text>
+	</string>
+	<string id="st_up_exo_b1_descr">
+		<text>Eine Entwicklung der Freiheit-Techniker, die als Erste uberhaupt Metallteile von Exoskeletten durch Kohlefaser austauschten, um das hohe Gewicht zu senken.</text>
+	</string>
+	<string id="st_up_exo_b1_name">
+		<text>Austausch von Metallteilen durch Kohlefaser</text>
+	</string>
+	<string id="st_up_exo_b2_descr">
+		<text>Eine Panzerung schutzt die kritischen Komponenten des Exoskeletts vor Schaden durch Beschuss.</text>
+	</string>
+	<string id="st_up_exo_b2_name">
+		<text>Antriebspanzerung</text>
+	</string>
+	<string id="st_up_exo_c1_descr">
+		<text>Das System fur einfache Fortbewegung setzt verstarkte Federn und Gelenke ein, mit denen das Gewicht des Exoskeletts selbst genutzt wird, um die Motorfunktionen zu unterstutzen.</text>
+	</string>
+	<string id="st_up_exo_c1_name">
+		<text>"Schagohod"-System fur einfache Fortbewegung</text>
+	</string>
+	<string id="st_up_exo_c2_descr">
+		<text>Die hydraulische Antriebshilfe ist eine Modifikation, die die vierte Generation der Exoskelette von der dritten Generation unterscheidet. Die Antriebshilfe ermoglicht es, mit einem Exoskelett zu sprinten.</text>
+	</string>
+	<string id="st_up_exo_c2_name">
+		<text>Hydraulische Antriebshilfe</text>
+	</string>
+	<string id="st_up_kom_a1_descr">
+		<text>Eine Stoffeinlage verhindert Gewebeschaden im Falle eines Treffers.</text>
+	</string>
+	<string id="st_up_kom_a1_name">
+		<text>Stoffeinlage zur Dampfung</text>
+	</string>
+	<string id="st_up_kom_a2_descr">
+		<text>Die Silikonverstarkung ist wirkungsvoller als ihr Pendant aus Gummi und absorbiert Treffer so, dass der Trager weniger Schaden einstecken muss.</text>
+	</string>
+	<string id="st_up_kom_a2_name">
+		<text>Silikonverstarkung zur Dampfung</text>
+	</string>
+	<string id="st_up_kom_a3_descr">
+		<text>Stoff, Klammern und Verstarkungen werden durch leichtere synthetische Materialien ersetzt, um das Gewicht der Panzerung zu senken.</text>
+	</string>
+	<string id="st_up_kom_a3_name">
+		<text>Leichtere synthetische Polymermaterialien</text>
+	</string>
+	<string id="st_up_kom_a4_descr">
+		<text>Die Gummierung verhindert Gewebeschaden im Falle eines Treffers.</text>
+	</string>
+	<string id="st_up_kom_a4_name">
+		<text>Gummierte Schicht zur Dampfung</text>
+	</string>
+	<string id="st_up_kom_a5_descr">
+		<text>Die Unterschicht kommt ins Spiel, wenn der Hauptstoff beschadigt wird.</text>
+	</string>
+	<string id="st_up_kom_a6_descr">
+		<text>Eine mehrschichtige Einlage aus Polykarbonat, Silikon und Kohlefaser fur den Fall, dass die Hauptpanzerung durchbrochen wird.</text>
+	</string>
+	<string id="st_up_kom_a6_name">
+		<text>Polymerschutzeinlagen</text>
+	</string>
+	<string id="st_up_kom_a7_descr">
+		<text>Der luftdichte Schutzanzug "Expanse" der Freiheit wird bei der Suche nach Artefakten in Anomaliegebieten eingesetzt.</text>
+	</string>
+	<string id="st_up_kom_a7_name">
+		<text>Anomalieschutzanzug "Expanse"</text>
+	</string>
+	<string id="st_up_kom_a8_descr">
+		<text>Eine luftdichte Schicht aus synthetischem Material fur den Fall, dass die aussere Hauptschicht beschadigt wird.</text>
+	</string>
+	<string id="st_up_kom_a8_name">
+		<text>Synthetische Schicht</text>
+	</string>
+	<string id="st_up_kom_b10_descr">
+		<text>Eine Vielzahl von ergonomischen Anpassungen mithilfe einer Gummikonstruktion. Dabei bleibt die Mobilitat erhalten, selbst wenn schwere Panzerung getragen wird.</text>
+	</string>
+	<string id="st_up_kom_b10_name">
+		<text>Mobilitatsgummischutzanzug</text>
+	</string>
+	<string id="st_up_kom_b11_descr">
+		<text>Konstantan wird als Isolationsstoff gegen Elektrizitat eingesetzt und hat eine sehr hohe Schmelztemperatur.</text>
+	</string>
+	<string id="st_up_kom_b11_name">
+		<text>Warmeisolationseinlagen aus Konstantan</text>
+	</string>
+	<string id="st_up_kom_b12_descr">
+		<text>Blei ist ein verlasslicher Schutz gegen Radioaktivitat, weil es alle drei Arten von radioaktiver Strahlung absorbiert.</text>
+	</string>
+	<string id="st_up_kom_b12_name">
+		<text>Bleizusatze fur Schutzanzug</text>
+	</string>
+	<string id="st_up_kom_b1_descr">
+		<text>Allgemeiner Schutz vor Regen und atzenden Substanzen, die ansonsten in direkten Kontakt mit der Haut kommen wurden.</text>
+	</string>
+	<string id="st_up_kom_b1_name">
+		<text>Olzeugschutzanzug</text>
+	</string>
+	<string id="st_up_kom_b2_descr">
+		<text>Der mit einer feuerfesten Substanz behandelte Stoff ist besonders bei Stalkern beliebt, die nach Feuerartefakten suchen.</text>
+	</string>
+	<string id="st_up_kom_b2_name">
+		<text>Mit einer feuerfesten Substanz behandelter Stoff</text>
+	</string>
+	<string id="st_up_kom_b3_descr">
+		<text>Magnesiumeinlagen schutzen den Trager vor Hitzegefahren.</text>
+	</string>
+	<string id="st_up_kom_b3_name">
+		<text>Magnesiumeinlagen</text>
+	</string>
+	<string id="st_up_kom_b4_descr">
+		<text>Eine einfache Plastikinnenschicht kann den Trager vor chemischen und elektrischen Gefahren schutzen.</text>
+	</string>
+	<string id="st_up_kom_b4_name">
+		<text>Luftdichte Plastikinnenschicht</text>
+	</string>
+	<string id="st_up_kom_b5_descr">
+		<text>Stoff, Klammern und Verstarkungen werden durch leichtere synthetische Materialien ersetzt, um das Gewicht der Panzerung zu senken.</text>
+	</string>
+	<string id="st_up_kom_b5_name">
+		<text>Austausch von Stoff durch synthetische Materialien</text>
+	</string>
+	<string id="st_up_kom_b6_descr">
+		<text>Plexiglas absorbiert zwei Arten von radioaktiver Strahlung und ist zugleich leichter als Blei.</text>
+	</string>
+	<string id="st_up_kom_b6_name">
+		<text>Plexiglasinnenschicht fur Strahlenschutz</text>
+	</string>
+	<string id="st_up_kom_b7_descr">
+		<text>Zuverlassiger Schutz vor chemischen und elektrischen Gefahren.</text>
+	</string>
+	<string id="st_up_kom_b7_name">
+		<text>Elastische, luftdichte Plastikinnenschicht</text>
+	</string>
+	<string id="st_up_kom_b8_descr">
+		<text>Eine dunne Schicht aus Konstantan dient als Isolation gegen Elektrizitat.</text>
+	</string>
+	<string id="st_up_kom_b8_name">
+		<text>Isolationsinnenschicht aus Konstantan</text>
+	</string>
+	<string id="st_up_kom_b9_descr">
+		<text>Glasfaser wird in Schutzanzugen eingesetzt, die von Einsatztruppen bei Naturkatastrophen getragen werden.</text>
+	</string>
+	<string id="st_up_kom_b9_name">
+		<text>Glasfaserwarmeschutz</text>
+	</string>
+	<string id="st_up_kom_c1_descr">
+		<text>Impragnierter Stoff beugt chemischen Vergiftungen vor.</text>
+	</string>
+	<string id="st_up_kom_c1_name">
+		<text>Impragnierter Schutzanzugsstoff</text>
+	</string>
+	<string id="st_up_kom_c2_descr">
+		<text>Gummi bietet einfachen Schutz bei kurzem Strahlenkontakt.</text>
+	</string>
+	<string id="st_up_kom_c2_name">
+		<text>Gummierter Schutzanzugsstoff</text>
+	</string>
+	<string id="st_up_kom_c3_descr">
+		<text>Wird in Stalkerschutzanzugen eingesetzt, um die Haltbarkeit zu verbessern.</text>
+	</string>
+	<string id="st_up_kom_c3_name">
+		<text>Widerstandsfahiger Schutzrahmen</text>
+	</string>
+	<string id="st_up_kom_c4_descr">
+		<text>Nickel ist feuerfest genug, um fur Einlagen in Korperpanzerungen verwendet zu werden.</text>
+	</string>
+	<string id="st_up_kom_c4_name">
+		<text>Feuerfester Schutzanzug mit Nickeleinlagen</text>
+	</string>
+	<string id="st_up_kom_c5_descr">
+		<text>Diese Legierung aus Nickel und Magnesium wird in Korperpanzerungen zum Schutz vor Stromschlagen eingesetzt.</text>
+	</string>
+	<string id="st_up_kom_c5_name">
+		<text>Isolationsschutzanzug mit Manganineinlagen</text>
+	</string>
+	<string id="st_up_kom_c6_descr">
+		<text>Luftdichter Schutzanzug mit einer Antikorrosionsbeschichtung und Kevlarpanzerung.</text>
+	</string>
+	<string id="st_up_kom_c6_name">
+		<text>Schutzanzug "Zweite Haut" mit integrierter Panzerung</text>
+	</string>
+	<string id="st_up_kom_c7_descr">
+		<text>Ein Schutzanzug aus neuen, nicht naher angegebenen Polymeren, die zuvor im Kiewer Forschungsinstitut bei der Entwicklung des Anzugs "Okologe" mit Bismuteinlagen verwendet wurden.</text>
+	</string>
+	<string id="st_up_kom_c7_name">
+		<text>Polymerschutzanzug "Okologe" mit Bismuteinlagen</text>
+	</string>
+	<string id="st_up_kom_c8_descr">
+		<text>Die Bleimasche erzeugt einen undurchdringlichen Schutz vor Strahlung und Chemikalien, ohne die Beweglichkeit zu beeintrachtigen.</text>
+	</string>
+	<string id="st_up_kom_c8_name">
+		<text>Plexiglasschutzanzug "Lebensretter" mit flexibler Bleimasche</text>
+	</string>
+	<string id="st_up_kom_c9_descr">
+		<text>Eine einheimische Entwicklung nach der Katastrophe von Tschernobyl. Wird in Exoskeletten eingesetzt, um elektrische Fehlfunktionen zu verhindern.</text>
+	</string>
+	<string id="st_up_kom_c9_name">
+		<text>Schutzanzug "Evakuator" mit Bleieinlagen</text>
+	</string>
+	<string id="st_up_opt_a1_descr">
+		<text>Montage eines Sturmvisiers fur den Einsatz bei kurzen Distanzen.</text>
+	</string>
+	<string id="st_up_opt_a1_name">
+		<text>1,6-fach Reflexvisier</text>
+	</string>
+	<string id="st_up_opt_a2_descr">
+		<text>Montage eines optischen Zielfernrohrs fur mittlere und lange Distanzen.</text>
+	</string>
+	<string id="st_up_opt_a2_name">
+		<text>Optisches 4-fach Zielfernrohr</text>
+	</string>
+	<string id="st_up_opt_a3_descr">
+		<text>Montage eines optischen Zielfernrohrs fur lange Distanzen.</text>
+	</string>
+	<string id="st_up_opt_a3_name">
+		<text>Optisches 5-fach Zielfernrohr</text>
+	</string>
+	<string id="st_up_opt_a4_descr">
+		<text>Montage eines optischen Zielfernrohrs fur lange Distanzen.</text>
+	</string>
+	<string id="st_up_opt_a4_name">
+		<text>Optisches 6-fach Zielfernrohr</text>
+	</string>
+	<string id="st_up_opt_a4_descr">
+		<text>Montage eines optischen Zielfernrohrs fur lange Distanzen.</text>
+	</string>
+	<string id="st_up_opt_a4_name">
+		<text>Optisches 6-fach Zielfernrohr</text>
+	</string>
+	<string id="st_up_opt_a4_nimble_descr">
+		<text>Montage eines optischen Zielfernrohrs fur lange Distanzen.</text>
+	</string>
+	<string id="st_up_opt_a4_nimble_name">
+		<text>Optisches 12-fach Zielfernrohr</text>
+	</string>
+	<string id="st_up_opt_b1_descr">
+		<text>Eine Modifikation an Sturmwaffen mit Reflexvisieren, die den Visierkontrast im gelben Spektrum erhoht. Dies ist besonders fur Einsatze in Dammerlicht und in schlecht beleuchteten Gebauden von Vorteil.</text>
+	</string>
+	<string id="st_up_opt_b1_name">
+		<text>Verbesserung des Visierkontrasts</text>
+	</string>
+	<string id="st_up_opt_c1_descr">
+		<text>Ein Warmesucher macht es moglich, die fur den menschlichen Korper typischen Warmequellen zu entdecken und zu identifizieren.</text>
+	</string>
+	<string id="st_up_opt_c1_name">
+		<text>Automatisches optisches Zielerfassungssystem</text>
+	</string>
+	<string id="st_up_opt_c2_descr">
+		<text>Nachtsichtgerate haben schon sehr vielen Scharfschutzen mehr als nur gute Dienste erwiesen.</text>
+	</string>
+	<string id="st_up_opt_c2_name">
+		<text>Einbau eines Nachtsichtgerats</text>
+	</string>
+	<string id="st_up_opt_c3_descr">
+		<text>Mit dieser Modifikation kann das Visier recht einfach auf die Zielentfernung eingestellt werden.</text>
+	</string>
+	<string id="st_up_opt_c3_name">
+		<text>Visier mit einstellbarer Distanzkontrolle</text>
+	</string>
+	<string id="st_up_pri_a1_descr">
+		<text>Ein pneumatischer Kolben reduziert den Ruckstoss bei Salvenfeuer.</text>
+	</string>
+	<string id="st_up_pri_a1_name">
+		<text>Pneumatischer Kolben</text>
+	</string>
+	<string id="st_up_pri_b1_descr">
+		<text>Ein bewegliches Schulterstuck verringert die Wirkung des Ruckstosses auf den Korper betrachtlich.</text>
+	</string>
+	<string id="st_up_pri_b1_name">
+		<text>Einbau einer Schulterstuckdampfung</text>
+	</string>
+	<string id="st_up_pri_b2_descr">
+		<text>Ein moderner Kolben, der der besonderen Form des menschlichen Korpers angepasst wurde.</text>
+	</string>
+	<string id="st_up_pri_b2_name">
+		<text>Ergonomischer Kolben</text>
+	</string>
+	<string id="st_up_pri_c1_descr">
+		<text>Beim Abfeuern der Waffe wird ein Teil der Pulvergase aus dem Lauf in die Offnung hinter dem Verschluss ubertragen, wodurch dieser sanfter gestoppt wird, wenn er sich wieder zuruckbewegt.</text>
+	</string>
+	<string id="st_up_pri_c1_name">
+		<text>Einbau eines Gaspuffers fur das Verschlusssystem</text>
+	</string>
+	<string id="st_up_pri_c2_descr">
+		<text>Der Verschlussrahmen wird verlangert und ragt zum Teil in den Kolben hinein. Dadurch wird die Flachheit erhoht, allerdings wachst auch der Ruckstoss an.</text>
+	</string>
+	<string id="st_up_pri_c2_name">
+		<text>Verlangerung des Verschlussrahmens</text>
+	</string>
+	<string id="st_up_pri_c3_descr">
+		<text>In den Kolben wird ein bewegliches Gegengewicht eingebaut, das beim Schiessen dem Ruckstoss entgegenwirkt.</text>
+	</string>
+	<string id="st_up_pri_c3_name">
+		<text>Bewegliches Gegengewicht</text>
+	</string>
+	<string id="st_up_prih_a1_descr">
+		<text>Mit einer grosseren Ablage kann zielgenauer geschossen werden.</text>
+	</string>
+	<string id="st_up_prih_a1_name">
+		<text>Vergrosserte Ablage</text>
+	</string>
+	<string id="st_up_prih_b1_descr">
+		<text>Eine Feder-Ruckstossdampfung verbessert die Handhabung eines tragbaren Maschinengewehrs beim Schiessen.</text>
+	</string>
+	<string id="st_up_prih_b1_name">
+		<text>Integrierte Feder-Ruckstossdampfung</text>
+	</string>
+	<string id="st_up_prih_c1_descr">
+		<text>Ein Puffer fur das Verschlusssystem, der im Kolben eingebaut wird und den grossten Teil des Ruckstosses absorbiert.</text>
+	</string>
+	<string id="st_up_prih_c1_name">
+		<text>Zusatzlicher Gaspuffer fur das Verschlusssystem</text>
+	</string>
+	<string id="st_up_pris_a1_descr">
+		<text>Bei grosskalibrigen Scharfschutzengewehren wird am Standardkolben haufig eine gummierte Komponente zur Dampfung des Ruckstosses angebracht.</text>
+	</string>
+	<string id="st_up_pris_a1_name">
+		<text>Dampfungskomponente am Kolben</text>
+	</string>
+	<string id="st_up_pris_b1_descr">
+		<text>Ein einstellbarer Kolben mit einer Wangenauflage ist nutzlich, um aus komfortablen und weniger komfortablen Positionen schiessen zu konnen.</text>
+	</string>
+	<string id="st_up_pris_b1_name">
+		<text>Einstellbarer Kolben mit Wangenauflage</text>
+	</string>
+	<string id="st_up_pris_c1_descr">
+		<text>Eine im Kolben eingebaute Komponente fur grosskalibrige Waffen mit starkem Ruckstoss.</text>
+	</string>
+	<string id="st_up_pris_c1_name">
+		<text>Hydraulische Ruckstossdampfung am Kolben</text>
+	</string>
+	<string id="st_up_res_a1_descr">
+		<text>Aktivfilter konnen selbst mit korrosiven Chemikalien fertigwerden.</text>
+	</string>
+	<string id="st_up_res_a1_name">
+		<text>Aktivfilter</text>
+	</string>
+	<string id="st_up_res_a2_descr">
+		<text>Der geschlossene Ring hat sich als Teilschutz gegen Psi-Emissionen bewahrt.</text>
+	</string>
+	<string id="st_up_res_a2_name">
+		<text>Psi-Schutzring aus Stahlgitterpaaren</text>
+	</string>
+	<string id="st_up_res_a3_descr">
+		<text>Eine Maske, die bei kontaminierter Luft oder bei Temperaturen, die entweder zu hoch oder zu niedrig zum Atmen sind, eingesetzt wird.</text>
+	</string>
+	<string id="st_up_res_b1_descr">
+		<text>Auftragung einer Abschirmungsbeschichtung</text>
+	</string>
+	<string id="st_up_res_b1_name">
+		<text>Auftragung einer Abschirmungsbeschichtung</text>
+	</string>
+	<string id="st_up_res_b2_descr">
+		<text>Ein Filter mit einer verstarkten Antikorrosionsbeschichtung und einer zusatzlichen Schutzschicht gegen giftige Substanzen.</text>
+	</string>
+	<string id="st_up_res_b2_name">
+		<text>Filter fur den Einsatz in kontaminierter Umgebung</text>
+	</string>
+	<string id="st_up_res_b3_descr">
+		<text>Eine Plexiglasmaske schutzt teilweise vor radioaktiver Strahlung.</text>
+	</string>
+	<string id="st_up_res_b3_name">
+		<text>Plexiglasbeschichtung</text>
+	</string>
+	<string id="st_up_res_b4_descr">
+		<text>Eine Plexiglasmaske schutzt teilweise vor radioaktiver Strahlung.</text>
+	</string>
+	<string id="st_up_res_b4_name">
+		<text>Plexiglasatemmaske</text>
+	</string>
+	<string id="st_up_res_b5_descr">
+		<text>Eine Atemmaske, die giftige Substanzen komplett herausfiltert.</text>
+	</string>
+	<string id="st_up_res_b5_name">
+		<text>Impragnierte Atemmaske</text>
+	</string>
+	<string id="st_up_res_c1_descr">
+		<text>Diese Beryllium- und Aluminiumplatten bieten einen hervorragenden Schutz, ohne das Gewicht des Helms nennenswert zu vergrossern.</text>
+	</string>
+	<string id="st_up_res_c1_name">
+		<text>Beryllium- und Aluminiumplatten</text>
+	</string>
+	<string id="st_up_res_c2_descr">
+		<text>Beryllium- und Aluminiumplatten bieten einen besseren Schutz, ohne das Gewicht nennenswert zu vergrossern.</text>
+	</string>
+	<string id="st_up_res_c2_name">
+		<text>Beryllium- und Aluminiumplatten</text>
+	</string>
+	<string id="st_up_res_c3_descr">
+		<text>Verbesserte Filter gewahrleisten ein konstantes Sauerstoffniveau unabhangig davon, wie kontaminiert die Umgebung ist.</text>
+	</string>
+	<string id="st_up_res_c3_name">
+		<text>Einbau von verbesserten Filtern fur wissenschaftliche Arbeiten</text>
+	</string>
+	<string id="st_up_res_c4_descr">
+		<text>Hochentwickelte Psi-Schutzvorrichtung, von der behauptet wird, dass sie von einem Wissenschaftler namens Sacharow erfunden wurde.</text>
+	</string>
+	<string id="st_up_res_c4_name">
+		<text>Einbau des Psi-Kuppelschutzes</text>
+	</string>
+	<string id="st_up_res_c5_descr">
+		<text>Schutzrahmen aus einer Legierung gegen thermischen und elektrischen Schaden.</text>
+	</string>
+	<string id="st_up_res_c5_name">
+		<text>Gesichtsschutz "Thunderbird" aus Konstantan</text>
+	</string>
+	<string id="st_up_res_c6_descr">
+		<text>Zusatzliche Panzerung, die die Haltbarkeit des Helms erhoht.</text>
+	</string>
+	<string id="st_up_res_c6_name">
+		<text>Verstarkte Helmpanzerung</text>
+	</string>
+	<string id="st_up_res_c7_descr">
+		<text>Ein Filter mit einer zusatzlichen Reinigungsschicht und einem System zur Neutralisierung von giftigen Substanzen.</text>
+	</string>
+	<string id="st_up_res_c7_name">
+		<text>Verstarktes Atemgerat fur extreme Bedingungen</text>
+	</string>
+	<string id="st_up_resp_a1_descr">
+		<text>Einbau eines Nachtsichtgerats fur Einsatze bei Nacht oder unter schlechten Lichtbedingungen.</text>
+	</string>
+	<string id="st_up_resp_a1_name">
+		<text>Nachtsichtgerat der ersten Generation</text>
+	</string>
+	<string id="st_up_resp_a2_descr">
+		<text>Im Falle einer kritischen Kontaminierung der Luft mit radioaktiven oder chemischen Partikeln wird mit diesem System in den geschlossenen Atemkreislauf gewechselt.</text>
+	</string>
+	<string id="st_up_resp_a2_name">
+		<text>Schutzsystem gegen radioaktive und chemische Gefahren</text>
+	</string>
+	<string id="st_up_resp_a3_name">
+		<text>Reinigungs- und Atemmaske "Dampf"</text>
+	</string>
+	<string id="st_up_resp_b1_descr">
+		<text>Einbau eines verbesserten Nachtsichtgerats fur den Einsatz in vollstandiger Dunkelheit.</text>
+	</string>
+	<string id="st_up_resp_b1_name">
+		<text>Nachtsichtgerat der zweiten Generation</text>
+	</string>
+	<string id="st_up_resp_b2_descr">
+		<text>Ein Warmesucher macht es moglich, die fur den menschlichen Korper typischen Warmequellen zu entdecken und zu identifizieren.</text>
+	</string>
+	<string id="st_up_resp_b2_name">
+		<text>Automatisches Zielerfassungssystem</text>
+	</string>
+	<string id="st_up_resp_b3_descr">
+		<text>Ein wissenschaftliches Gerat auf Wellenbasis, das fur den Einsatz in Anomaliegebieten mit Psi-Emissionen entwickelt wurde.</text>
+	</string>
+	<string id="st_up_resp_b3_name">
+		<text>Psi-Stimulator "Orakel"</text>
+	</string>
+	<string id="st_up_resp_c1_descr">
+		<text>Einbau eines verbesserten Nachtsichtgerats fur den Einsatz in vollstandiger Dunkelheit.</text>
+	</string>
+	<string id="st_up_resp_c1_name">
+		<text>Nachtsichtgerat der dritten Generation</text>
+	</string>
+	<string id="st_up_resp_c2_descr">
+		<text>Ionisierte Luftpartikel bewegen sich zwischen den Elektroden des Systems entgegen der Bewegungsrichtung der Elektronen, wodurch ein Ionenwind erzeugt wird.</text>
+	</string>
+	<string id="st_up_resp_c2_name">
+		<text>Kuhlsystem "Ionenwind"</text>
+	</string>
+	<string id="st_up_resp_c3_descr">
+		<text>Mit einem Infrarotscanner konnen Menschen in der Nahe entdeckt werden.</text>
+	</string>
+	<string id="st_up_resp_c3_name">
+		<text>Infrarotscanner</text>
+	</string>
+	<string id="st_up_resp_c4_descr">
+		<text>SPB - VPZ.m.IV Psi-Schutzsystem mit psychologischen Sicherheitswellen (Version 4).</text>
+	</string>
+	<string id="st_up_resp_c4_name">
+		<text>SPB - VPZ.m.IV Kampfsystem</text>
+	</string>
+	<string id="st_up_ret_a1_descr">
+		<text>Mit dieser verstarkten Rucklauffeder wird die Projektilgeschwindigkeit erhoht.</text>
+	</string>
+	<string id="st_up_ret_a1_name">
+		<text>Verstarkte Rucklauffeder</text>
+	</string>
+	<string id="st_up_ret_a2_descr">
+		<text>Die beweglichen Teile des Rucklaufmechanismus werden verstarkt und gedampft, damit der Lauf sich beim Schiessen ruhiger verhalt und so das Zielen vereinfacht.</text>
+	</string>
+	<string id="st_up_ret_a2_name">
+		<text>Dampfung des Rucklaufmechanismus</text>
+	</string>
+	<string id="st_up_ret_a3_descr">
+		<text>Einbau einer zusatzlichen Rucklauffeder mit einer entgegengesetzten Windung, um den Ruckstoss zu reduzieren, ohne die Flachheit zu beeintrachtigen.</text>
+	</string>
+	<string id="st_up_ret_a3_name">
+		<text>Zusatzliche Rucklauffeder</text>
+	</string>
+	<string id="st_up_ret_b1_descr">
+		<text>Die Schutzbeschichtung erhoht die Zuverlassigkeit und, was noch wichtiger ist, schliesst den Mechanismus luftdicht ab, wodurch keine Energie entweichen kann.</text>
+	</string>
+	<string id="st_up_ret_b1_name">
+		<text>Schutzbeschichtung fur Komponenten des Rucklaufmechanismus</text>
+	</string>
+	<string id="st_up_ret_b2_descr">
+		<text>Titanstangen konnen viel hohere Feuerraten aushalten als gewohnliche Stangen.</text>
+	</string>
+	<string id="st_up_ret_b2_name">
+		<text>Rucklaufstangen aus Titan</text>
+	</string>
+	<string id="st_up_ret_b3_descr">
+		<text>Ein synthetisches Element wird an den Stangen angebracht, damit sie sich exakt so bewegen wie gewunscht. Dies verbessert die Schussgenauigkeit.</text>
+	</string>
+	<string id="st_up_ret_b3_name">
+		<text>Einbau eines Ausgleichselements</text>
+	</string>
+	<string id="st_up_ret_c1_descr">
+		<text>Durch die Verstarkung der Rohrfuhrungshulse kann im Lauf ein grosserer Druck erreicht werden. Damit wird die Projektilgeschwindigkeit erhoht.</text>
+	</string>
+	<string id="st_up_ret_c1_name">
+		<text>Verstarkung der Rohrfuhrungshulse</text>
+	</string>
+	<string id="st_up_ret_c2_descr">
+		<text>Es wird eine Verteilerkomponente eingebaut, die durch die entstehenden Gase geoffnet und durch das Rucklaufsystem selbst wieder geschlossen wird. Damit kann ein Teil der freigesetzten Gasenergie im Rucklaufsystem genutzt werden.</text>
+	</string>
+	<string id="st_up_ret_c2_name">
+		<text>Einbau eines Verteilers</text>
+	</string>
+	<string id="st_up_ret_c3_descr">
+		<text>Der Rucklaufmechanismus wird durch eine starkere Version ersetzt, die aus je zwei Fuhrungsstangen und Rucklauffedern besteht. Dies erhoht die Feuerrate der Waffe.</text>
+	</string>
+	<string id="st_up_ret_c3_name">
+		<text>Umwandlung in ein Zweistangensystem</text>
+	</string>
+	<string id="st_up_roun_a1_descr">
+		<text>Spezielle Auslassoffnungen um den Trommelbereich der Waffe reduzieren den Ruckstoss.</text>
+	</string>
+	<string id="st_up_roun_a1_name">
+		<text>Verwendung der Gasenergie</text>
+	</string>
+	<string id="st_up_roun_a2_descr">
+		<text>Auf der Trommel werden diagonale Nutenfelder hinzugefugt. Dies erhoht die Drehgeschwindigkeit des Mechanismus, der die Gasenergie nutzt.</text>
+	</string>
+	<string id="st_up_roun_a2_name">
+		<text>Diagonale Nutenfelder auf der Trommel</text>
+	</string>
+	<string id="st_up_stk_a1_descr">
+		<text>Der Vorteil dieser europaischen Standardmodifikation liegt im reduzierten Gewicht, ohne die Zuverlassigkeit zu beeintrachtigen.</text>
+	</string>
+	<string id="st_up_stk_a1_name">
+		<text>Stossresistenter Polymerkolben</text>
+	</string>
+	<string id="st_up_stk_a2_descr">
+		<text>Ein Gehause aus einer extrem widerstandsfahigen Legierung sorgt dafur, dass das Sturmgewehr tagliche Kampfhandlungen gut ubersteht.</text>
+	</string>
+	<string id="st_up_stk_a2_name">
+		<text>Gehause aus extrem widerstandsfahiger Legierung</text>
+	</string>
+	<string id="st_up_stk_a3_descr">
+		<text>Ein einfaches Gegengewicht am vorderen Gehause, um den Ruckstoss zu reduzieren.</text>
+	</string>
+	<string id="st_up_stk_a3_name">
+		<text>Einbau eines Gegengewichts am Stahlbehalter</text>
+	</string>
+	<string id="st_up_stk_b1_descr">
+		<text>Eine Ummantelung ist hilfreich bei erhohten Feuerraten, weil dabei zusatzliche Hitze erzeugt wird, die kompensiert werden muss.</text>
+	</string>
+	<string id="st_up_stk_b1_name">
+		<text>Zusatzliche Kuhlummantelung</text>
+	</string>
+	<string id="st_up_stk_b2_descr">
+		<text>Eine angenehmere Griffform, die das Feuern der Waffe in Bewegung einfacher macht.</text>
+	</string>
+	<string id="st_up_stk_b2_name">
+		<text>Ergonomische Gehauseform</text>
+	</string>
+	<string id="st_up_stk_c1_descr">
+		<text>Eine Modifikation, die ausschliesslich an Waffen mit festem Bullpup-Gehause vorgenommen wird und die Wartung der Waffe vereinfacht.</text>
+	</string>
+	<string id="st_up_stk_c1_name">
+		<text>Modulares Gehause</text>
+	</string>
+	<string id="st_up_stk_c2_descr">
+		<text>Diese Beschichtung verhindert das uberhitzen des Laufs, beseitigt Produktionsmangel und verlangert die Haltbarkeit betrachtlich.</text>
+	</string>
+	<string id="st_up_stk_c2_name">
+		<text>Glattbeschichtung des Gehauses und Laufs</text>
+	</string>
+	<string id="st_up_stk_c3_descr">
+		<text>Eine leichte, bewegliche Komponente wird im abgeschragten Griff eingebaut, um dem Ruckstoss der Waffe entgegenzuwirken, wenn sie abgefeuert wird.</text>
+	</string>
+	<string id="st_up_stk_c3_name">
+		<text>Abgeschragter Griff</text>
+	</string>
+	<string id="st_up_stvd_a1_descr">
+		<text>Durch die Aussparung im Griff sinkt das Gewicht der Waffe.</text>
+	</string>
+	<string id="st_up_stvd_a1_name">
+		<text>Abgeschragter Griff</text>
+	</string>
+	<string id="st_up_stvd_a2_descr">
+		<text>Eine leichtere Version des Standardkolbens.</text>
+	</string>
+	<string id="st_up_stvd_a2_name">
+		<text>Leichterer Kolben</text>
+	</string>
+	<string id="st_up_stvd_a3_descr">
+		<text>Durch die Verwendung eines leichteren Polymaterials sinkt das Gewicht der Waffe.</text>
+	</string>
+	<string id="st_up_stvd_a3_name">
+		<text>Stossresistenter Polymerkolben</text>
+	</string>
+	<string id="st_up_stvd_b1_descr">
+		<text>Der Waffe wird ein zusatzliches Gegengewicht hinzugefugt, um den Ruckstoss zu reduzieren.</text>
+	</string>
+	<string id="st_up_stvd_b1_name">
+		<text>Einbau eines Gegengewichts</text>
+	</string>
+	<string id="st_up_stvd_b2_descr">
+		<text>Eine modernere und angenehmere Griffform erleichtert die Handhabung der Waffe.</text>
+	</string>
+	<string id="st_up_stvd_b2_name">
+		<text>Ergonomischer Griff</text>
+	</string>
+	<string id="st_up_stvd_b3_descr">
+		<text>Ein Dampfungsgriff reduziert den Ruckstoss.</text>
+	</string>
+	<string id="st_up_stvd_b3_name">
+		<text>Dampfungsgriff</text>
+	</string>
+	<string id="st_up_stvd_b4_descr">
+		<text>Eine modernere und angenehmere Kolbenform erleichtert die Handhabung der Waffe.</text>
+	</string>
+	<string id="st_up_stvd_b4_name">
+		<text>Ergonomischer Kolben</text>
+	</string>
+	<string id="st_up_stvd_b5_descr">
+		<text>Eine spezielle Beschichtung schutzt die Waffe vor ausseren Einwirkungen.</text>
+	</string>
+	<string id="st_up_stvd_b5_name">
+		<text>Antikorrosionsbeschichtung</text>
+	</string>
+	<string id="st_up_stvd_c1_descr">
+		<text>Eine Quecksilber-Ruckstossdampfung wird im Waffenkolben eingebaut und absorbiert einen Teil des Ruckstosses, wenn die Waffe abgefeuert wird.</text>
+	</string>
+	<string id="st_up_stvd_c1_name">
+		<text>Quecksilber-Ruckstossdampfung</text>
+	</string>
+	<string id="st_up_stvd_c2_descr">
+		<text>Ein frei bewegliches Impulsgegengewicht, das sich vom Verschluss wegbewegt, wenn die Waffe abgefeuert wird, und damit einen Teil des Ruckstosses absorbiert.</text>
+	</string>
+	<string id="st_up_stvd_c2_name">
+		<text>Einbau eines Impulsgegengewichts</text>
+	</string>
+	<string id="st_up_stvh_a1_descr">
+		<text>Der Austausch des Materials reduziert den Schaden, den der Lauf durch unregelmassige Temperaturanstiege beim Schiessen nehmen kann. Daher kann die Feuerrate der Waffe erhoht werden.</text>
+	</string>
+	<string id="st_up_stvh_a1_name">
+		<text>Extrem widerstandsfahige, hitzebestandige Legierungen</text>
+	</string>
+	<string id="st_up_stvh_b1_descr">
+		<text>Eine wichtige Modifikation, die die Waffe vor den Auswirkungen der Umgebungstemperatur beim Schiessen schutzt.</text>
+	</string>
+	<string id="st_up_stvh_b1_name">
+		<text>Einbau einer temperaturregelnden Ummantelung</text>
+	</string>
+	<string id="st_up_stvh_b2_descr">
+		<text>Diese technologische Entwicklung der ausseren Lamellierung erfordert hochste Prazision, damit sich keine Punkte uberdurchschnittlicher Erhitzung auf dem Lauf bilden.</text>
+	</string>
+	<string id="st_up_stvh_b2_name">
+		<text>Externe Lauflamellen</text>
+	</string>
+	<string id="st_up_stvh_c1_descr">
+		<text>Der Lauf wird durch eine modernere Variante ersetzt. Dies verbessert die Schussgenauigkeit enorm.</text>
+	</string>
+	<string id="st_up_stvh_c1_name">
+		<text>Anderung der Laufgeometrie</text>
+	</string>
+	<string id="st_up_stvp_a1_descr">
+		<text>Ein teurer Rahmen fur eine Waffe, der lange haltbar ist.</text>
+	</string>
+	<string id="st_up_stvp_a1_name">
+		<text>Titanrahmen</text>
+	</string>
+	<string id="st_up_stvp_a2_descr">
+		<text>Mit diesem Material ist der Rahmen zuverlassiger als mit Verbundwerkstoff.</text>
+	</string>
+	<string id="st_up_stvp_a2_name">
+		<text>Massivstahlrahmen</text>
+	</string>
+	<string id="st_up_stvp_b1_descr">
+		<text>Der Pistolenrahmen wird durch eine leichtere Variante ersetzt, ohne die Zuverlassigkeit der Waffe zu beeintrachtigen.</text>
+	</string>
+	<string id="st_up_stvp_b1_name">
+		<text>Polymerpistolenrahmen</text>
+	</string>
+	<string id="st_up_stvp_b2_descr">
+		<text>Eine modernere und angenehmere Griffform erleichtert die Handhabung der Waffe.</text>
+	</string>
+	<string id="st_up_stvp_b2_name">
+		<text>Ergonomischer Griff</text>
+	</string>
+	<string id="st_up_stvp_b3_descr">
+		<text>Ein Dampfungsgriff reduziert den Ruckstoss.</text>
+	</string>
+	<string id="st_up_stvp_b3_name">
+		<text>Dampfungsgriff</text>
+	</string>
+	<string id="st_up_stvp_b4_descr">
+		<text>Verstarkte Schutzklappen, die die Waffen vor Schmutz und Stossen schutzen sollen.</text>
+	</string>
+	<string id="st_up_stvp_b4_name">
+		<text>Schutzverstarkung</text>
+	</string>
+	<string id="st_up_stvp_b5_descr">
+		<text>Eine Anderung im hinteren Teil sorgt fur eine ergonomischere Griffform.</text>
+	</string>
+	<string id="st_up_stvp_b5_name">
+		<text>Anderung der Griffform mit geradem hinteren Teil</text>
+	</string>
+	<string id="st_up_stvp_b6_descr">
+		<text>Die Moglichkeit, die passende Grifflange selbst einzustellen, sorgt fur eine ergonomischere Griffform.</text>
+	</string>
+	<string id="st_up_stvp_b6_name">
+		<text>Einstellbarer Griff</text>
+	</string>
+	<string id="st_up_stvp_c1_descr">
+		<text>Diese Modifikation ist nur dann moglich, wenn bereits eine Rucklauffeder in den Griff integriert wurde.</text>
+	</string>
+	<string id="st_up_stvp_c1_name">
+		<text>Einbau einer Rucklauffederdampfung</text>
+	</string>
+	<string id="st_up_stvp_c2_descr">
+		<text>Die Moglichkeit, die passenden Platten auszuwahlen, sorgt fur eine ergonomischere Griffform.</text>
+	</string>
+	<string id="st_up_stvp_c2_name">
+		<text>Griff mit geanderter Form und austauschbaren Platten</text>
+	</string>
+	<string id="st_up_stvs_a1_descr">
+		<text>Die Ummantelung ist fur Waffen gedacht, die haufig eingesetzt werden, und schutzt sie vor allzu fruhem Verschleiss.</text>
+	</string>
+	<string id="st_up_stvs_a1_name">
+		<text>Einbau einer perforierten Stahlummantelung</text>
+	</string>
+	<string id="st_up_stvs_b1_descr">
+		<text>Eine technologischere und modernere Ruckstossdampfung als diejenigen, die in herkommlichen automatischen Waffen Verwendung finden.</text>
+	</string>
+	<string id="st_up_stvs_b1_name">
+		<text>Effektive Mundungsbremse</text>
+	</string>
+	<string id="st_up_stvs_b2_descr">
+		<text>Ein modernerer und besser geeigneter Lauf fur Scharfschutzeneinsatze bei extrem grossen Distanzen.</text>
+	</string>
+	<string id="st_up_stvs_b2_name">
+		<text>Einbau eines schweren Laufs mit Polygonzug</text>
+	</string>
+	<string id="st_up_stvs_b3_descr">
+		<text>Langsrillen verhindern, dass der Lauf uberhitzt und verschmutzt.</text>
+	</string>
+	<string id="st_up_stvs_b3_name">
+		<text>Langsrillen am Lauf</text>
+	</string>
+	<string id="st_up_stvs_c1_descr">
+		<text>Integrierter Schalldampfer und Mundungsfeuerunterdrucker. Unverzichtbar fur heimliches Schiessen.</text>
+	</string>
+	<string id="st_up_stvs_c1_name">
+		<text>Einbau eines integrierten Schalldampfers</text>
+	</string>
+	<string id="st_up_stvs_c2_descr">
+		<text>Normalerweise wird der Sinuszug bei Sturmwaffen verwendet, um ihre Feuerrate zu erhohen.</text>
+	</string>
+	<string id="st_up_stvs_c2_name">
+		<text>Laufkammer mit Sinuszug</text>
+	</string>
+	<string id="st_up_tch_a1_descr">
+		<text>Ein Injektor der Generation A, der in einem der Kiewer Forschungsinstitute entwickelt wurde. Er injiziert regelmassig kleine Adrenalindosen in das Blut. Das mag zwar gefahrlich sein, aber es kann Ihnen im Notfall auch das Leben retten.</text>
+	</string>
+	<string id="st_up_tch_a1_name">
+		<text>Adrenalininjektor "Rage"</text>
+	</string>
+	<string id="st_up_tch_a2_descr">
+		<text>Ein System zur Entsorgung von Kondensat mit giftigen Substanzen aus dem Reinigungsfilter.</text>
+	</string>
+	<string id="st_up_tch_a2_name">
+		<text>Entgiftungssystem</text>
+	</string>
+	<string id="st_up_tch_a3_descr">
+		<text>Dieser kleine, von Clear Sky entwickelte Wellensender wird auf dem Rucken angebracht und erhoht, falls er standig genutzt wird, die Gerinnungsgeschwindigkeit des Blutes.</text>
+	</string>
+	<string id="st_up_tch_a3_name">
+		<text>Hamostimulator "Ray"</text>
+	</string>
+	<string id="st_up_tch_a4_descr">
+		<text>Mit diesem System wird das Aussere des Schutzanzugs unter Strom gesetzt, wodurch radioaktive und chemische Partikel vom Anzug abgewiesen werden.</text>
+	</string>
+	<string id="st_up_tch_a4_name">
+		<text>Integrierter Partikelabweiser</text>
+	</string>
+	<string id="st_up_tch_b1_descr">
+		<text>Ein Injektor der Generation B, der regelmasssig ein Gerinnungsmittel in den Blutkreislauf pumpt, wenn der Blutdruck stark fallen sollte.</text>
+	</string>
+	<string id="st_up_tch_b1_name">
+		<text>Hamoglobininjektor "Hydra"</text>
+	</string>
+	<string id="st_up_tch_b2_descr">
+		<text>Dieses System behalt stets die optimale Korpertemperatur bei und verhindert damit eine etwaige Erschopfung.</text>
+	</string>
+	<string id="st_up_tch_b2_name">
+		<text>Einbau eines Temperaturreglers</text>
+	</string>
+	<string id="st_up_tch_b3_descr">
+		<text>Dieser Wellensender wird auf der Brust angebracht und erhoht, falls er standig genutzt wird, die Geschwindigkeit der Wundheilung, die Starke des Immunsystems und die Schmerzschwelle des Tragers erheblich.</text>
+	</string>
+	<string id="st_up_tch_b3_name">
+		<text>Biostimulator "Sonne"</text>
+	</string>
+	<string id="st_up_tch_b4_descr">
+		<text>Ein wissenschaftliches Gerat auf Wellenbasis, das fur den Einsatz in Anomaliegebieten mit Psi-Emissionen entwickelt wurde.</text>
+	</string>
+	<string id="st_up_tch_b4_name">
+		<text>Psi-Stimulator "Orakel"</text>
+	</string>
+	<string id="st_up_tch_c1_descr">
+		<text>Ein Injektor der Generation C, der im Kampf eine Mischung aus nicht naher bekannten Mitteln in den Blutkreislauf pumpt, die die Geweberegeneration beschleunigen und das Schmerzempfinden dampfen.</text>
+	</string>
+	<string id="st_up_tch_c1_name">
+		<text>Bioregenerator "Phonix"</text>
+	</string>
+	<string id="st_up_tch_c2_descr">
+		<text>Ein integriertes System, das die Gesundheit des Tragers uberwacht und bei Bedarf Vitamine, Adrenalin oder Anabolika verabreicht.</text>
+	</string>
+	<string id="st_up_tch_c2_name">
+		<text>Einbau eines Lebenserhaltungssystems</text>
+	</string>
+	<string id="st_up_tch_c3_descr">
+		<text>Dieser Wellensender wird am Hals angebracht. Sein Aufbau und seine Wirkungsweise sind zwar noch nicht ganz klar, aber der Sender hat nachweislich eine beruhigende Wirkung.</text>
+	</string>
+	<string id="st_up_tch_c3_name">
+		<text>Neurostimulator "Reflex"</text>
+	</string>
+	<string id="st_up_usm_a1_descr">
+		<text>Der Zweck der Verschlussbolzendampfung liegt darin, einen Teil des Ruckstosses zu kompensieren, wodurch die Streuung bei Salvenfeuer verringert wird.</text>
+	</string>
+	<string id="st_up_usm_a1_name">
+		<text>Verschlussbolzendampfung</text>
+	</string>
+	<string id="st_up_usm_a2_descr">
+		<text>Eine der einfachsten und beliebtesten Modifikationen, mit denen der Abzugswiderstand reduziert wird. Einfach und nutzlich.</text>
+	</string>
+	<string id="st_up_usm_a2_name">
+		<text>Weicher Abzug</text>
+	</string>
+	<string id="st_up_usm_b1_descr">
+		<text>Eine spezielle Auswahl an Komponenten aus verschiedenen Materialien, die an die jeweilige Waffe angepasst werden. Diese Modifikation ist zwar nicht ganz billig, aber sie verbessert die Haltbarkeit Ihrer Waffe.</text>
+	</string>
+	<string id="st_up_usm_b1_name">
+		<text>Feuermechanismuskomponenten aus Verbundwerkstoff</text>
+	</string>
+	<string id="st_up_usm_b2_descr">
+		<text>Damit wird die Feuerrate der Waffe erhoht, was allerdings auf Lasten der Schussgenauigkeit und Zuverlassigkeit geht.</text>
+	</string>
+	<string id="st_up_usm_b2_name">
+		<text>Erzwungene Abzugsverzogerung</text>
+	</string>
+	<string id="st_up_usm_b3_descr">
+		<text>Die Entfernung der Abzugsfeder sorgt dafur, dass der erste Schuss eine halbe Sekunde fruher abgegeben werden kann. Das mag nicht viel sein, kann aber im Notfall Ihr Leben retten.</text>
+	</string>
+	<string id="st_up_usm_b3_name">
+		<text>Federloser Abzug</text>
+	</string>
+	<string id="st_up_usm_c1_descr">
+		<text>Eine Schutzbeschichtung schliesst Fehlzundungen aufgrund von Fehlfunktionen des Feuermechanismus ganzlich aus.</text>
+	</string>
+	<string id="st_up_usm_c1_name">
+		<text>Schutzbeschichtung fur Komponenten des Feuermechanismus</text>
+	</string>
+	<string id="st_up_usm_c2_descr">
+		<text>Durch den verschlusslosen Feuermechanismus wird das automatische Laden beschleunigt, was die Feuerrate der Waffe erheblich erhoht.</text>
+	</string>
+	<string id="st_up_usm_c2_name">
+		<text>Verschlussloser Feuermechanismus</text>
+	</string>
+	<string id="st_up_usm_c3_descr">
+		<text>Der stossfreie Feuermechanismus durchbohrt die Munition, statt sie mit einem Bolzen zu treffen. Dadurch geht das Schiessen betrachtlich sanfter von statten.</text>
+	</string>
+	<string id="st_up_usm_c3_name">
+		<text>Einbau eines stossfreien Feuermechanismus</text>
+	</string>
+	<string id="st_up_usmp_a1_descr">
+		<text>Der Abzug wird mit dem ersten Schuss entsichert. Alle nachfolgenden Schusse erfolgen danach mit dem entsicherten Abzug und damit schneller.</text>
+	</string>
+	<string id="st_up_usmp_a1_name">
+		<text>Feuermechanismus mit Doppelabzug</text>
+	</string>
+	<string id="st_up_usmp_b1_descr">
+		<text>Eine der einfachsten und beliebtesten Modifikationen, mit denen der Abzugswiderstand reduziert wird. Einfach und nutzlich.</text>
+	</string>
+	<string id="st_up_usmp_b1_name">
+		<text>Weicher Abzug</text>
+	</string>
+	<string id="st_up_usmp_b2_descr">
+		<text>Das Vorspannen erhoht die Schussgenauigkeit.</text>
+	</string>
+	<string id="st_up_usmp_b2_name">
+		<text>Feuermechanismus mit Vorspannvorrichtung</text>
+	</string>
+	<string id="st_up_usmp_b3_descr">
+		<text>Sorgt dafur, dass vom ersten bis zum letzten Schuss der Abzug mit demselben Druck betatigt werden muss. Dies wirkt sich positiv auf die Handhabung aus.</text>
+	</string>
+	<string id="st_up_usmp_b3_name">
+		<text>Sicherer Abzug</text>
+	</string>
+	<string id="st_up_usmp_b4_descr">
+		<text>Eine moderne Modifikation, die verhindert, dass der Verschlussbereich der Waffe Schaden nimmt.</text>
+	</string>
+	<string id="st_up_usmp_b4_name">
+		<text>Vergrosserter Verschlusskopf</text>
+	</string>
+	<string id="st_up_usmp_b5_descr">
+		<text>Mit einem modularen Feuermechanismus gestalten sich die Wartung und das Austauschen von Teilen einfacher. Daruber hinaus wird auch die Handhabung verbessert.</text>
+	</string>
+	<string id="st_up_usmp_b5_name">
+		<text>Modularer Feuermechanismus</text>
+	</string>
+	<string id="st_up_usmp_c1_descr">
+		<text>Die Spannkomponente reduziert betrachtlich den Druck, der notwendig ist, um den Abzug zu betatigen. Dadurch wird die Schussgenauigkeit verbessert.</text>
+	</string>
+	<string id="st_up_usmp_c1_name">
+		<text>Einbau einer Spannkomponente</text>
+	</string>
+	<string id="st_up_usmp_c2_descr">
+		<text>Hierbei handelt es sich um eine neue technologische Entwicklung, die es ermoglicht, den Feuermodus sehr einfach zu wechseln. Dies ist ein weiterer Schritt auf dem Weg zu ergonomischeren Waffen.</text>
+	</string>
+	<string id="st_up_usmp_c2_name">
+		<text>Doppelfeuermodus</text>
+	</string>
+	<string id="st_up_usmp_c3_descr">
+		<text>Nachdem der erste Schuss abgegeben wurde, ist nur noch eine halbe Abzugsbewegung notig, um nachfolgende Schusse abzugeben.</text>
+	</string>
+	<string id="st_up_usmp_c3_name">
+		<text>Feuermechanismus mit kurzer Bewegung</text>
+	</string>
+	<string id="st_up_uti_a1_descr">
+		<text>Zusatzliche Bewegungskomponenten erhohen das Maximalgewicht, das getragen werden kann.</text>
+	</string>
+	<string id="st_up_uti_a1_name">
+		<text>Zusatzliche Servomotoren</text>
+	</string>
+	<string id="st_up_uti_a2_descr">
+		<text>Dieses System verabreicht antitetanische, entzundungshemmende und Sulfanilamid-Substanzen.</text>
+	</string>
+	<string id="st_up_uti_a2_name">
+		<text>Integriertes System "Feldarzt"</text>
+	</string>
+	<string id="st_up_uti_a3_descr">
+		<text>Ein Beluftungssystem fur den Schutzanzug mit einem Vorsorgefilter fur den Einsatz in kontaminierter Umgebung.</text>
+	</string>
+	<string id="st_up_uti_a3_name">
+		<text>Interne Temperaturregelung</text>
+	</string>
+	<string id="st_up_uti_a4_descr">
+		<text>Eine ergonomische Verbesserung: Spezielle Stutzen am Schutzanzug sorgen dafur, dass das getragene Gewicht besser kompensiert wird und dadurch geringer wirkt.</text>
+	</string>
+	<string id="st_up_uti_a4_name">
+		<text>Gewichtsverteilungsweste</text>
+	</string>
+	<string id="st_up_uti_a5_descr">
+		<text>Ein Sauerstoffbehalter ist notig bei Einsatzen in chemisch oder radioaktiv verseuchter Umgebung.</text>
+	</string>
+	<string id="st_up_uti_a5_name">
+		<text>Einbau eines Sauerstoffbehalters</text>
+	</string>
+	<string id="st_up_uti_b1_descr">
+		<text>Einbau eines zusatzlichen Artefaktbehalters.</text>
+	</string>
+	<string id="st_up_uti_b1_name">
+		<text>Zusatzlicher Artefaktbehalter</text>
+	</string>
+	<string id="st_up_uti_b2_descr">
+		<text>Ein System aus Stutzelementen, mit denen das getragene Gewicht ausgeglichener auf den gesamten Korper verteilt wird.</text>
+	</string>
+	<string id="st_up_uti_b2_name">
+		<text>Stutzsystem fur Gewichtsverteilung</text>
+	</string>
+	<string id="st_up_uti_b3_descr">
+		<text>Ein Rahmen fur den Rucken entlastet die Schulter, indem er das getragene Gewicht auf den gesamten Korper verteilt. Dadurch wird das maximale Tragegewicht erhoht.</text>
+	</string>
+	<string id="st_up_uti_b3_name">
+		<text>Gewichtsverteilungsrahmen fur den Rucken</text>
+	</string>
+	<string id="st_up_uti_b4_descr">
+		<text>Dieses System verabreicht antiseptische, antitetanische und stimulierende Mittel. Es ist zwar selbst gemacht, aber schadet dem Korper offensichtlich nicht.</text>
+	</string>
+	<string id="st_up_uti_b4_name">
+		<text>Integriertes System "Pflege"</text>
+	</string>
+	<string id="st_up_uti_b5_descr">
+		<text>Dieses System ladt ein spezielles Gitter mit derselben Ladung wie die einer entsprechenden Anomalie auf, um die Gefahr zu reduzieren.</text>
+	</string>
+	<string id="st_up_uti_b5_name">
+		<text>Elektrostatisches Schutzsystem "Stingray"</text>
+	</string>
+	<string id="st_up_uti_b6_descr">
+		<text>Impragnierte Innenschicht, die vor chemischer Vergiftung schutzen soll.</text>
+	</string>
+	<string id="st_up_uti_b6_name">
+		<text>Impragnierte Innenschicht fur chemischen Schutz</text>
+	</string>
+	<string id="st_up_uti_b7_descr">
+		<text>Ein experimentelles System fur Langstreckenlaufe, das wegen seines hohen Preises und der zweifelhaften Umsetzung ausserhalb der Zone nicht zum Einsatz kommt.</text>
+	</string>
+	<string id="st_up_uti_b7_name">
+		<text>Integriertes System "Athlet"</text>
+	</string>
+	<string id="st_up_uti_b8_descr">
+		<text>Ein System zur Entsorgung von Kondensat mit giftigen Substanzen aus dem Reinigungsfilter.</text>
+	</string>
+	<string id="st_up_uti_b8_name">
+		<text>Entgiftungssystem "Gegengift"</text>
+	</string>
+	<string id="st_up_uti_c1_descr">
+		<text>Einbau eines zusatzlichen Artefaktbehalters mit zwei Fachern.</text>
+	</string>
+	<string id="st_up_uti_c1_name">
+		<text>Zusatzlicher Artefaktbehalter mit zwei Fachern</text>
+	</string>
+	<string id="st_up_uti_c2_descr">
+		<text>Ein Kampfunterstutzungssystem, das in den Schutzanzug integriert wird. Es wird selten verwendet, hauptsachlich von den Spetsnaz. Das System bietet bereits eingebaute Adrenalin- und Gerinnungsmittelspender.</text>
+	</string>
+	<string id="st_up_uti_c2_name">
+		<text>Feldunterstutzungssystem "Warjag"</text>
+	</string>
+	<string id="st_up_uti_c3_descr">
+		<text>Bei diesem Prototypen eines Kampfunterstutzungssystems haben die Entwickler auf schadliche Adrenalinspender verzichtet. Stattdessen werden zusammen mit den Gerinnungsmitteln heilende Substanzen verabreicht.</text>
+	</string>
+	<string id="st_up_uti_c3_name">
+		<text>Feldunterstutzungssystem "Skif"</text>
+	</string>
+	<string id="st_up_zat_a1_descr">
+		<text>Diese ziemlich teure Modifikation ist relativ ublich fur Waffen der neueren Generationen.</text>
+	</string>
+	<string id="st_up_zat_a1_name">
+		<text>Einbau eines massiven Verschlusses</text>
+	</string>
+	<string id="st_up_zat_a2_descr">
+		<text>Die Verstarkung des Verschlussbereichs verhindert das Entweichen von Energie, wodurch die Flachheit der Waffe verbessert wird.</text>
+	</string>
+	<string id="st_up_zat_a2_name">
+		<text>Verschlussverstarkung mit synthetischen Einlagen</text>
+	</string>
+	<string id="st_up_zat_a3_descr">
+		<text>Anders als die Bezeichnung vermuten lasst, wird hierbei der Verschluss ausgewechselt, weil er die Auswirkungen der erhohten Feuerrate wegstecken muss.</text>
+	</string>
+	<string id="st_up_zat_a3_name">
+		<text>Schneller Automatikabzug</text>
+	</string>
+	<string id="st_up_zat_b1_descr">
+		<text>Das Gasventil weist ein bewegliches Teilstuck auf, das sich mit derselben Geschwindigkeit bewegt und damit einen Teil des Ruckstosses kompensiert.</text>
+	</string>
+	<string id="st_up_zat_b1_name">
+		<text>Einbau eines Gasventils mit einem beweglichen Teilstuck</text>
+	</string>
+	<string id="st_up_zat_b2_descr">
+		<text>Ein zweiter Kolben bewegt das Gegengewicht, das der Bewegung des Verschlusssystems entgegenwirkt.</text>
+	</string>
+	<string id="st_up_zat_b2_name">
+		<text>Einbau eines zusatzlichen Gaskolbens</text>
+	</string>
+	<string id="st_up_zat_b3_descr">
+		<text>Die Schutzbeschichtung erhoht die Zuverlassigkeit und, was noch wichtiger ist, schliesst den Mechanismus luftdicht ab, wodurch keine Energie entweichen kann.</text>
+	</string>
+	<string id="st_up_zat_b3_name">
+		<text>Schutzbeschichtung fur den Verschluss</text>
+	</string>
+	<string id="st_up_zat_b4_descr">
+		<text>Mit diesen Langsrillen im Gehause werden die Reibung verringert und kleine Schmutzpartikel eingefangen, wodurch die Verschmutzung des Verschlusssystems verhindert wird.</text>
+	</string>
+	<string id="st_up_zat_b4_name">
+		<text>Langsrillen im Gehause</text>
+	</string>
+	<string id="st_up_zat_b5_descr">
+		<text>Der Durchmesser der Gaskammer wird durch synthetische Verstarkungen verringert. Dadurch steigt die Projektilgeschwindigkeit betrachtlich an.</text>
+	</string>
+	<string id="st_up_zat_b5_name">
+		<text>Gerichtete Gasenergie</text>
+	</string>
+	<string id="st_up_zat_b6_descr">
+		<text>Der Verschluss leitet auf dem Weg in seine Startposition die Luft durch die Laufkammer und kuhlt sie damit.</text>
+	</string>
+	<string id="st_up_zat_b6_name">
+		<text>Kuhlsystem</text>
+	</string>
+	<string id="st_up_zat_c1_descr">
+		<text>Der Verschluss der Waffe gleitet entlang des Laufs. Damit wird verhindert, dass sich der Mundungsbereich nach oben bewegt.</text>
+	</string>
+	<string id="st_up_zat_c1_name">
+		<text>Einbau eines gleitenden Verschlusses</text>
+	</string>
+	<string id="st_up_zat_c2_descr">
+		<text>Der Einbau eines Gaskolbens verhindert das Eindringen von Gasen in den Verschlussrahmen. Dies sorgt dafur, dass die Waffe deutlich weniger schmutzanfallig ist.</text>
+	</string>
+	<string id="st_up_zat_c2_name">
+		<text>Einbau eines Gaskolbens</text>
+	</string>
+	<string id="st_up_zat_c3_descr">
+		<text>Dieses System fangt einen Teil der anfallenden Gase ab, wodurch die Bewegung des Verschlusssystems verbessert wird.</text>
+	</string>
+	<string id="st_up_zat_c3_name">
+		<text>Gasauffangsystem</text>
+	</string>
+	<string id="st_up_zat_c4_descr">
+		<text>Der Austausch der Automatikteile ist mehr eine Optimierung als eine Verbesserung des Gaskolbens. Dies resultiert in einer betrachtlichen Steigerung der Feuerrate.</text>
+	</string>
+	<string id="st_up_zat_c4_name">
+		<text>Gaskolben fur kurze Bewegungen</text>
+	</string>
+	<string id="st_up_zat_c5_descr">
+		<text>Ein Rollenverschlusssystem, das in modernen Waffen haufig eingesetzt wird, reduziert den Ruckstoss und die Streuung.</text>
+	</string>
+	<string id="st_up_zat_c5_name">
+		<text>Wechsel auf ein halboffenes Verschlusssystem</text>
+	</string>
+	<string id="st_up_zath_a1_descr">
+		<text>Indem ein Teil der entstehenden Warme absorbiert wird, werden die Temperaturschwankungen der Waffe beim Feuern reduziert.</text>
+	</string>
+	<string id="st_up_zath_a1_name">
+		<text>Hitzeabsorbierende Komponenten</text>
+	</string>
+	<string id="st_up_zath_b1_descr">
+		<text>Eine langere Bewegung des Gaskolbens erhoht leicht die Lange der Waffe, sorgt aber auch fur eine betrachtliche Verbesserung der Flachheit.</text>
+	</string>
+	<string id="st_up_zath_b1_name">
+		<text>Gaskolben fur lange Bewegungen</text>
+	</string>
+	<string id="st_up_zath_b2_descr">
+		<text>Ein Puffer fur bewegliche Teile verteilt den Ruckstoss gleichmassig auf die gesamte Waffe, sodass die Wirkung abgeschwacht wird.</text>
+	</string>
+	<string id="st_up_zath_b2_name">
+		<text>Einbau eines Spezialpuffers fur bewegliche Teile</text>
+	</string>
+	<string id="st_up_zath_c1_descr">
+		<text>Die symmetrische Kuhlung eines Laufteils durch den Auswerfer sorgt dafur, dass die Waffe nicht uberhitzt.</text>
+	</string>
+	<string id="st_up_zath_c1_name">
+		<text>Gleichmassiges Kuhlsystem</text>
+	</string>
+	<string id="st_up_zatp_a1_descr">
+		<text>Sorgt fur eine erhohte Feuerrate, ohne andere Teile durch erhohten Ruckstoss zu beeintrachtigen.</text>
+	</string>
+	<string id="st_up_zatp_a1_name">
+		<text>Beweglicher Verschlussbereich</text>
+	</string>
+	<string id="st_up_zatp_b1_descr">
+		<text>Verbessert die Flachheit der Waffe, indem der Impuls besser auf die Munition ubertragen wird.</text>
+	</string>
+	<string id="st_up_zatp_b1_name">
+		<text>Laufschliesssystem des Verschlussbereichs</text>
+	</string>
+	<string id="st_up_zatp_b2_descr">
+		<text>Reduziert den Ruckstoss dadurch, dass die Verschlussbewegung verlangsamt wird.</text>
+	</string>
+	<string id="st_up_zatp_b2_name">
+		<text>Langsame Ruckwartsbewegung des Verschlusssystems</text>
+	</string>
+	<string id="st_up_zatp_b3_descr">
+		<text>Die Schutzbeschichtung schutzt die Waffe vor vorzeitigem Verschleiss.</text>
+	</string>
+	<string id="st_up_zatp_b3_name">
+		<text>Schutzbeschichtung fur den Verschluss</text>
+	</string>
+	<string id="st_up_zatp_b4_descr">
+		<text>Verbessert die Flachheit der Waffe, indem der Impuls besser auf die Munition ubertragen wird.</text>
+	</string>
+	<string id="st_up_zatp_b4_name">
+		<text>Schiefer Laufabschluss</text>
+	</string>
+	<string id="st_up_zatp_b5_descr">
+		<text>Ein schwererer und geschlossener Verschluss verhindert Fehlfunktionen im Verschlussbereich der Waffe.</text>
+	</string>
+	<string id="st_up_zatp_b5_name">
+		<text>Verstarktes und komplett geschlossenes Verschlusssystem</text>
+	</string>
+	<string id="st_up_zatp_b6_descr">
+		<text>Ein kleiner Puffer kompensiert einen Teil des Ruckstosses.</text>
+	</string>
+	<string id="st_up_zatp_b6_name">
+		<text>Polymerruckstosspuffer</text>
+	</string>
+	<string id="st_up_zatp_b7_descr">
+		<text>Der Einbau einer Stahleinlage reduziert den Ruckstoss.</text>
+	</string>
+	<string id="st_up_zatp_b7_name">
+		<text>Einbau einer abschliessenden Einlage</text>
+	</string>
+	<string id="st_up_zatp_b8_descr">
+		<text>Durch eine schnellere Verschlussbewegung und die entsprechende Verstarkung des Rucklaufmechanismus kann die Flachheit der Waffe verbessert werden.</text>
+	</string>
+	<string id="st_up_zatp_b8_name">
+		<text>Verbesserte Verschlussbewegung</text>
+	</string>
+	<string id="st_up_zatp_c1_descr">
+		<text>Eine kurze Verschlussbewegung erhoht die Feuerrate der Waffe betrachtlich, ohne die Flachheit zu beeintrachtigen.</text>
+	</string>
+	<string id="st_up_zatp_c1_name">
+		<text>Einbau eines Verschlusssystems mit kurzer Bewegung</text>
+	</string>
+	<string id="st_up_zatp_c2_descr">
+		<text>Eine lange Verschlussbewegung sorgt dafur, dass mehr Energie auf die Munition ubertragen wird.</text>
+	</string>
+	<string id="st_up_zatp_c2_name">
+		<text>Einbau eines Verschlusssystems mit langer Bewegung</text>
+	</string>
+	<string id="st_up_zatp_c3_descr">
+		<text>Der Austausch der Automatikteile ist mehr eine Optimierung als eine Verbesserung des Gaskolbens. Dies resultiert in einer betrachtlichen Steigerung der Feuerrate.</text>
+	</string>
+	<string id="st_up_zatp_c3_name">
+		<text>Einbau eines Ruckstossenergienutzungssystems mit kurzer Bewegung</text>
+	</string>
+	<string id="st_up_zatp_c4_descr">
+		<text>Der Einbau dieses Moduls verringert erheblich die Streuung, ohne die Feuerrate zu beeintrachtigen.</text>
+	</string>
+	<string id="st_up_zatp_c4_name">
+		<text>Rucklaufmodul mit Doppelfeder</text>
+	</string>
+	<string id="st_up_zatp_c5_descr">
+		<text>Der Einbau zusatzlicher Kompensationsoffnungen sorgt fur eine betrachtliche Reduzierung des Ruckstosses.</text>
+	</string>
+	<string id="st_up_zatp_c5_name">
+		<text>Integrierter Vertikalkompensator fur den Lauf</text>
+	</string>
+	<string id="st_up_zatp_c6_descr">
+		<text>Modernisierung von Automatikteilen der Pistole, sodass Automatikfeuer moglich wird.</text>
+	</string>
+	<string id="st_up_zatp_c6_name">
+		<text>Vollautomatischer Feuermodus</text>
+	</string>
+	<string id="st_up_zatp_c7_descr">
+		<text>Verbesserung von Automatikteilen der Pistole, sodass Dreifach-Salvenfeuer moglich wird.</text>
+	</string>
+	<string id="st_up_zatp_c7_name">
+		<text>Dreifach-Salvenfeuermodus</text>
+	</string>
+	<string id="st_upgr_cost">
+		<text>Preis</text>
+	</string>
+	<string id="st_upgr_disable">
+		<text>Kann nicht eingebaut werden</text>
+	</string>
+	<string id="st_upgr_installed">
+		<text>Installiert</text>
+	</string>
+	<string id="st_upgrade_install">
+		<text>Wollen Sie wirklich den folgenden Einbau vornehmen:</text>
+	</string>
+	<string id="st_prop_autolock">
+		<text>Automatisches Zielerfassungssystem</text>
+	</string>
+	<string id="st_prop_autolockscope">
+		<text>Automatisches Zielerfassungssystem</text>
+	</string>
+	<string id="st_prop_scope_5x">
+		<text>Optisches 5-fach Zielfernrohr</text>
+	</string>
+	<string id="st_prop_scope_6x">
+		<text>Optisches 6-fach Zielfernrohr</text>
+	</string>
+	<string id="st_prop_scanner">
+		<text>Infrarotscanner</text>
+	</string>
+	<string id="st_prop_weightoutfit">
+		<text>Gewicht der Korperpanzerung</text>
+	</string>
+	<string id="st_prop_night_vision_2">
+		<text>Nachtsichtgerot der zweiten Generation</text>
+	</string>
+	<string id="st_prop_night_vision_3">
+		<text>Nachtsichtgerat der dritten Generation</text>
+	</string>
+	<string id="st_prop_scope_attach">
+		<text>Schiene fur optisches Zielfernrohr</text>
+	</string>
+	<string id="st_int_silencer">
+		<text>Integrierter Schalldampfer</text>
+	</string>
+	<string id="st_prop_grenade_launcher">
+		<text>Unterlaufgranatwerfer</text>
+	</string>
+	<string id="st_prop_restore_bleeding">
+		<text>Wundheilung</text>
+	</string>
+	<string id="st_prop_restore_health">
+		<text>Lebensregeneration</text>
+	</string>
+	<string id="st_prop_night_vision">
+		<text>Nachtsichtgerat der ersten Generation</text>
+	</string>
+	<string id="st_prop_scope">
+		<text>Justierbares Visier</text>
+	</string>
+	<string id="st_prop_contrast">
+		<text>Hochkontrastvisier</text>
+	</string>
+	<string id="st_prop_sprint">
+		<text>Servomotorverstarker</text>
+	</string>
+	<string id="st_prop_durability">
+		<text>Schutzanzughaltbarkeit</text>
+	</string>
+	<string id="st_gauss_cannot_be_repaired">
+		<text>Es ist nicht klar, wie die Waffe funktioniert. Ohne weitere Informationen uber ihren Aufbau, kann sie nicht repariert werden.</text>
+	</string>
+	<string id="st_upgr_cant_do">
+		<text>Der Techniker kann diese Modifikation nicht durchfuhren</text>
+	</string>
+	<string id="st_upgr_group">
+		<text>Dieses Teil wurde bereits modifiziert</text>
+	</string>
+	<string id="st_upgr_enough_money">
+		<text>Nicht genug Geld</text>
+	</string>
+	<string id="st_no_buck">
+		<text>Verwendet keinen Schrot</text>
+	</string>
+	<string id="st_auto_fire">
+		<text>Automatikfeuermodus</text>
+	</string>
+	<string id="st_semi_auto_fire">
+		<text>Dreifach-Salvenfeuermodus</text>
+	</string>
+	<string id="st_auto_fire">
+		<text>Automatischer Feuermodus</text>
+	</string>
+	<string id="st_semi_auto_fire">
+		<text>3 Runden Burst-Modus</text>
+	</string>
+	<string id="st_prop_artefact">
+		<text>Anzahl der Kisten</text>
+	</string>
+	<string id="st_upgr_vodka">
+		<text>der Techniker braucht Wodka</text>
+	</string>
+	<string id="st_upgr_toolkit_1">
+		<text>der Techniker benotigt Werkzeug fur einfache Arbeiten</text>
+	</string>
+	<string id="st_upgr_toolkit_2">
+		<text>der Techniker benotigt Werkzeug fur feine Arbeiten</text>
+	</string>
+	<string id="st_upgr_toolkit_3">
+		<text>der Techniker benotigt Werkzeug fur Kalibrierungsarbeiten</text>
+	</string>
+	<string id="st_upgr_condlist">
+		<text>der Techniker benotigt zusatzliche Informationen</text>
+	</string>
+	<string id="st_upgr_parents">
+		<text>vorangehende Modifikationen erforderlich</text>
+	</string>
+	<string id="st_up_arm_c9_name">
+		<text>Schutzschicht "Armadillo" auf Basis von Saphirkristallen</text>
+	</string>
+	<string id="st_up_arm_c5_name">
+		<text>Verstarktes Titan- und Berylliumgerust</text>
+	</string>
+	<string id="st_up_arm_c7_name">
+		<text>Zusatzliche Kohlefaserbeschichtung</text>
+	</string>
+	<string id="st_up_kom_a5_name">
+		<text>Gummierte Stoffunterschicht</text>
+	</string>
+</string_table>
