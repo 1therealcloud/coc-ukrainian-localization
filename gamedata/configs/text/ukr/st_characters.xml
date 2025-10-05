@@ -336,10 +336,8 @@
 	<string id="zat_b100_army_3">
 		<text>Ст. сержант Швейко</text>
 	</string>
-
-	
 	<string id="cit_doctor_name">
-		<text>Іван Тропник</text>
+		<text>Іван Стежкар</text>
  	</string>
  	<string id="marsh_doctor_name">
 		<text>Доктор</text>
@@ -608,8 +606,8 @@
 	</string>
 	<string id="sar2_wolf_name">
 		<text>Вовк</text>
-  </string>
-  <string id="dar_kalugin_name">
+   </string>
+   <string id="dar_kalugin_name">
 	<text>Петро Калугін</text> 
     </string>
 	<string id="dar_rockatansky_name">
