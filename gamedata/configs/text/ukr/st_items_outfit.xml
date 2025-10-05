@@ -286,25 +286,4 @@
 	<text>Цей протигаз — результат програми розробки наступника масок серії М-17, що повертається до стандартної конструкції з бічним розташуванням фільтрів. Основне нововведення — можливість встановлення фільтра з лівого або правого боку. Оснащений питною системою. Не ефективний при нестачі кисню і в присутності аміаку. Не захищає від аномальної активності, але має непогану кулестійкість. Часто постачається в комплекті з комбінезонами найманців.</text>
 </string>
 
-<!--			-- Multiplayer --			-->
-
-	<string id="mp_exo_outfit_description">
-		<text>This exoskeleton provides outstanding protection against bullet and fragmentation damage at the cost of mobility.  Vulnerable to armour-piercing rounds.</text>
-	</string>
-	<string id="mp_exo_outfit_name">
-		<text>Exoskeleton</text>
-	</string>
-	<string id="mp_military_outfit_description">
-		<text>A military armoured suit made for assault operations. Provides outstanding protection against full metal jacket rounds and fragmentation damage without reducing the wearer's mobility. Vulnerable to armour-piercing rounds.</text>
-	</string>
-	<string id="mp_military_outfit_name">
-		<text>Military armoured suit</text>
-	</string>
-	<string id="mp_scientific_outfit_description">
-		<text>This bodysuit, intended for conducting research in the Zone, combines a closed-cycle respiratory module and an external isolation coating, resulting in excellent protection from anomalies. Due to poor protection from physical impact, the suit is not a good defense against bullet and fragmentation damage. Comes with a built-in artefact transportation container.</text>
-	</string>
-	<string id="mp_scientific_outfit_name">
-		<text>SEVA bodysuit</text>
-	</string>
-
 </string_table>
